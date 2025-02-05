@@ -13,6 +13,18 @@
 
 </div>
 
+## 🔥 Weekly Highlights
+
+> Last Updated: February 5, 2024
+
+1. **Technical Breakthroughs**
+   - Sora Release: OpenAI's Text-to-Video Innovation
+   - Claude 3 Launch: Anthropic's Latest Model Series
+
+2. **Research Progress**
+   - MambaByte: Byte-level State Space Model
+   - Mixtral 8x7B: New Benchmark in Open-source MoE
+
 ## 🎯 Overview
 
 A comprehensive navigation hub for artificial intelligence technology, covering mainstream directions, cutting-edge progress, and practical applications. We are dedicated to providing high-quality learning resources and technical references for AI developers and researchers.
@@ -60,18 +72,6 @@ A comprehensive navigation hub for artificial intelligence technology, covering 
 - Latest Papers
 - Breakthrough Technologies
 - Industry Trends
-
-## 🔥 Weekly Highlights
-
-> Last Updated: February 5, 2024
-
-1. **Technical Breakthroughs**
-   - Sora Release: OpenAI's Text-to-Video Innovation
-   - Claude 3 Launch: Anthropic's Latest Model Series
-
-2. **Research Progress**
-   - MambaByte: Byte-level State Space Model
-   - Mixtral 8x7B: New Benchmark in Open-source MoE
 
 ## 🤝 How to Contribute
 
