@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Awesome AI Landscape
+# <img src="./assets/codescience.png" width="25" height="25" alt="AI Icon">  Awesome AI Landscape
 
 *Navigate the AI Universe, Master the Future*
 
