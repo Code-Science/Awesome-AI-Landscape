@@ -13,6 +13,17 @@
 
 </div>
 
+## 📰 Daily Top Papers
+> 🔄 Auto-updated daily from Hugging Face Papers
+
+| Paper | Votes | Category |
+|-------|--------|-----------|
+| 🏆 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://huggingface.co/papers/2312.00752) | ⭐ 789 | Architecture |
+| 🥈 [LLaMA: Open and Efficient Foundation Language Models](https://huggingface.co/papers/2302.13971) | ⭐ 654 | LLM |
+| 🥉 [QLoRA: Efficient Finetuning of Quantized LLMs](https://huggingface.co/papers/2305.14314) | ⭐ 543 | Training |
+
+<sub>Last updated: 2024-02-06 12:07 UTC</sub>
+
 ## 🔥 Weekly Highlights
 
 > Last Updated: February 5, 2024
