@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://huggingface.co/papers/2312.00752) | ⭐ 789 | Architecture |
-| 🥈 [LLaMA: Open and Efficient Foundation Language Models](https://huggingface.co/papers/2302.13971) | ⭐ 654 | LLM |
-| 🥉 [QLoRA: Efficient Finetuning of Quantized LLMs](https://huggingface.co/papers/2305.14314) | ⭐ 543 | Training |
+| 🏆 [TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://huggingface.co/papers/2502.01506) | ⭐ 18 | AI |
+| 🥈 [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://huggingface.co/papers/2502.03373) | ⭐ 8 | AI |
+| 🥉 [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://huggingface.co/papers/2502.02339) | ⭐ 5 | AI |
 
-<sub>Last updated: 2024-02-06 12:07 UTC</sub>
+<sub>Last updated: 2025-02-06 05:52 UTC</sub><sub>Last updated: 2025-02-06 05:49 UTC</sub><sub>Last updated: 2024-02-06 12:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
