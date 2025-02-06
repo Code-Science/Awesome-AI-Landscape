@@ -22,7 +22,7 @@
 | 🥈 [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://huggingface.co/papers/2502.03373) | ⭐ 8 | AI |
 | 🥉 [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://huggingface.co/papers/2502.02339) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-02-06 05:52 UTC</sub><sub>Last updated: 2025-02-06 05:49 UTC</sub><sub>Last updated: 2024-02-06 12:07 UTC</sub>
+<sub>Last updated: 2025-02-06 06:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 

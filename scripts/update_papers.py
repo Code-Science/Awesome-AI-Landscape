@@ -122,13 +122,19 @@ class PaperUpdater:
                 
             end_idx = content.find(end_marker)
             if end_idx == -1:
+                # 只有在找不到 Last updated 标记时才查找下一个 section
                 end_idx = content.find("\n## ", start_idx + 1)
                 
             if end_idx == -1:
                 end_idx = len(content)
+            else:
+                # 如果找到了 Last updated 标记，确保包含整行
+                if end_marker in content[end_idx:]:
+                    end_idx = content.find("\n", end_idx)
+                    if end_idx == -1:
+                        end_idx = len(content)
                 
             return content[:start_idx] + new_section + content[end_idx:]
-            
         except Exception as e:
             logger.error(f"Error replacing section: {e}")
             raise
