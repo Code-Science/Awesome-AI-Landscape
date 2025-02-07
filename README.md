@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://huggingface.co/papers/2502.01506) | ⭐ 18 | AI |
-| 🥈 [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://huggingface.co/papers/2502.03373) | ⭐ 11 | AI |
-| 🥉 [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://huggingface.co/papers/2502.02339) | ⭐ 7 | AI |
+| 🏆 [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://huggingface.co/papers/2502.02737) | ⭐ 92 | AI |
+| 🥈 [TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://huggingface.co/papers/2502.01506) | ⭐ 27 | AI |
+| 🥉 [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://huggingface.co/papers/2502.03373) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-02-06 07:07 UTC</sub>
+<sub>Last updated: 2025-02-07 02:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
