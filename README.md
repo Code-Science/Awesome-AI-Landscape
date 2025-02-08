@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://huggingface.co/papers/2502.02737) | ⭐ 92 | AI |
-| 🥈 [TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://huggingface.co/papers/2502.01506) | ⭐ 27 | AI |
-| 🥉 [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://huggingface.co/papers/2502.03373) | ⭐ 26 | AI |
+| 🏆 [Analyze Feature Flow to Enhance Interpretation and Steering in Language Models](https://huggingface.co/papers/2502.03032) | ⭐ 41 | AI |
+| 🥈 [DynVFX: Augmenting Real Videos with Dynamic Content](https://huggingface.co/papers/2502.03621) | ⭐ 18 | AI |
+| 🥉 [UltraIF: Advancing Instruction Following from the Wild](https://huggingface.co/papers/2502.04153) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-02-07 02:51 UTC</sub>
+<sub>Last updated: 2025-02-08 02:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
