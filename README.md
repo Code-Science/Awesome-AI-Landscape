@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Analyze Feature Flow to Enhance Interpretation and Steering in Language Models](https://huggingface.co/papers/2502.03032) | ⭐ 49 | AI |
-| 🥈 [Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2](https://huggingface.co/papers/2502.03544) | ⭐ 28 | AI |
-| 🥉 [DynVFX: Augmenting Real Videos with Dynamic Content](https://huggingface.co/papers/2502.03621) | ⭐ 23 | AI |
+| 🏆 [Analyze Feature Flow to Enhance Interpretation and Steering in Language Models](https://huggingface.co/papers/2502.03032) | ⭐ 52 | AI |
+| 🥈 [Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2](https://huggingface.co/papers/2502.03544) | ⭐ 32 | AI |
+| 🥉 [DynVFX: Augmenting Real Videos with Dynamic Content](https://huggingface.co/papers/2502.03621) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-02-09 12:37 UTC</sub>
+<sub>Last updated: 2025-02-09 18:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
