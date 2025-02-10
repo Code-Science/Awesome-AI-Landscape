@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](https://huggingface.co/papers/2502.05173) | ⭐ 43 | AI |
-| 🥈 [Fast Video Generation with Sliding Tile Attention](https://huggingface.co/papers/2502.04507) | ⭐ 32 | AI |
-| 🥉 [AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](https://huggingface.co/papers/2502.05176) | ⭐ 20 | AI |
+| 🏆 [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](https://huggingface.co/papers/2502.05173) | ⭐ 45 | AI |
+| 🥈 [Fast Video Generation with Sliding Tile Attention](https://huggingface.co/papers/2502.04507) | ⭐ 34 | AI |
+| 🥉 [QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://huggingface.co/papers/2502.05003) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-02-10 12:42 UTC</sub>
+<sub>Last updated: 2025-02-10 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
