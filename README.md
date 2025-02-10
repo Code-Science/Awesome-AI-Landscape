@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Analyze Feature Flow to Enhance Interpretation and Steering in Language Models](https://huggingface.co/papers/2502.03032) | ⭐ 53 | AI |
-| 🥈 [Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2](https://huggingface.co/papers/2502.03544) | ⭐ 33 | AI |
-| 🥉 [ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features](https://huggingface.co/papers/2502.04320) | ⭐ 25 | AI |
+| 🏆 [Fast Video Generation with Sliding Tile Attention](https://huggingface.co/papers/2502.04507) | ⭐ 20 | AI |
+| 🥈 [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](https://huggingface.co/papers/2502.05173) | ⭐ 19 | AI |
+| 🥉 [AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](https://huggingface.co/papers/2502.05176) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-02-10 01:43 UTC</sub>
+<sub>Last updated: 2025-02-10 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
