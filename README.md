@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](https://huggingface.co/papers/2502.05173) | ⭐ 50 | AI |
-| 🥈 [Fast Video Generation with Sliding Tile Attention](https://huggingface.co/papers/2502.04507) | ⭐ 39 | AI |
-| 🥉 [Goku: Flow Based Video Generative Foundation Models](https://huggingface.co/papers/2502.04896) | ⭐ 34 | AI |
+| 🏆 [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://huggingface.co/papers/2502.06781) | ⭐ 19 | AI |
+| 🥈 [Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding](https://huggingface.co/papers/2502.05609) | ⭐ 10 | AI |
+| 🥉 [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering](https://huggingface.co/papers/2502.03628) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-02-11 01:42 UTC</sub>
+<sub>Last updated: 2025-02-11 06:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
