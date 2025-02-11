@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](https://huggingface.co/papers/2502.05173) | ⭐ 45 | AI |
-| 🥈 [Fast Video Generation with Sliding Tile Attention](https://huggingface.co/papers/2502.04507) | ⭐ 34 | AI |
-| 🥉 [QuEST: Stable Training of LLMs with 1-Bit Weights and Activations](https://huggingface.co/papers/2502.05003) | ⭐ 24 | AI |
+| 🏆 [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](https://huggingface.co/papers/2502.05173) | ⭐ 50 | AI |
+| 🥈 [Fast Video Generation with Sliding Tile Attention](https://huggingface.co/papers/2502.04507) | ⭐ 39 | AI |
+| 🥉 [Goku: Flow Based Video Generative Foundation Models](https://huggingface.co/papers/2502.04896) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-02-10 18:29 UTC</sub>
+<sub>Last updated: 2025-02-11 01:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
