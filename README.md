@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://huggingface.co/papers/2502.06781) | ⭐ 19 | AI |
-| 🥈 [Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding](https://huggingface.co/papers/2502.05609) | ⭐ 10 | AI |
-| 🥉 [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering](https://huggingface.co/papers/2502.03628) | ⭐ 7 | AI |
+| 🏆 [SynthDetoxM: Modern LLMs are Few-Shot Parallel Detoxification Data Annotators](https://huggingface.co/papers/2502.06394) | ⭐ 63 | AI |
+| 🥈 [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://huggingface.co/papers/2502.06781) | ⭐ 31 | AI |
+| 🥉 [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://huggingface.co/papers/2502.06703) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-02-11 06:29 UTC</sub>
+<sub>Last updated: 2025-02-11 12:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
