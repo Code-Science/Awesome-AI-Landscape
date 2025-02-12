@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SynthDetoxM: Modern LLMs are Few-Shot Parallel Detoxification Data Annotators](https://huggingface.co/papers/2502.06394) | ⭐ 70 | AI |
-| 🥈 [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://huggingface.co/papers/2502.06703) | ⭐ 66 | AI |
-| 🥉 [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://huggingface.co/papers/2502.06781) | ⭐ 36 | AI |
+| 🏆 [Competitive Programming with Large Reasoning Models](https://huggingface.co/papers/2502.06807) | ⭐ 18 | AI |
+| 🥈 [CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction](https://huggingface.co/papers/2502.07316) | ⭐ 9 | AI |
+| 🥉 [Magic 1-For-1: Generating One Minute Video Clips within One Minute](https://huggingface.co/papers/2502.07701) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-02-12 01:42 UTC</sub>
+<sub>Last updated: 2025-02-12 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
