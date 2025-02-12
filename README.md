@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Competitive Programming with Large Reasoning Models](https://huggingface.co/papers/2502.06807) | ⭐ 18 | AI |
-| 🥈 [CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction](https://huggingface.co/papers/2502.07316) | ⭐ 9 | AI |
-| 🥉 [Magic 1-For-1: Generating One Minute Video Clips within One Minute](https://huggingface.co/papers/2502.07701) | ⭐ 5 | AI |
+| 🏆 [Competitive Programming with Large Reasoning Models](https://huggingface.co/papers/2502.06807) | ⭐ 33 | AI |
+| 🥈 [CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction](https://huggingface.co/papers/2502.07316) | ⭐ 18 | AI |
+| 🥉 [Magic 1-For-1: Generating One Minute Video Clips within One Minute](https://huggingface.co/papers/2502.07701) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-02-12 06:30 UTC</sub>
+<sub>Last updated: 2025-02-12 12:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
