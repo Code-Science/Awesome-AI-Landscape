@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SynthDetoxM: Modern LLMs are Few-Shot Parallel Detoxification Data Annotators](https://huggingface.co/papers/2502.06394) | ⭐ 69 | AI |
-| 🥈 [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://huggingface.co/papers/2502.06703) | ⭐ 53 | AI |
-| 🥉 [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://huggingface.co/papers/2502.06781) | ⭐ 34 | AI |
+| 🏆 [SynthDetoxM: Modern LLMs are Few-Shot Parallel Detoxification Data Annotators](https://huggingface.co/papers/2502.06394) | ⭐ 70 | AI |
+| 🥈 [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://huggingface.co/papers/2502.06703) | ⭐ 66 | AI |
+| 🥉 [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://huggingface.co/papers/2502.06781) | ⭐ 36 | AI |
 
-<sub>Last updated: 2025-02-11 18:28 UTC</sub>
+<sub>Last updated: 2025-02-12 01:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
