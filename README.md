@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Expect the Unexpected: FailSafe Long Context QA for Finance](https://huggingface.co/papers/2502.06329) | ⭐ 104 | AI |
-| 🥈 [Competitive Programming with Large Reasoning Models](https://huggingface.co/papers/2502.06807) | ⭐ 41 | AI |
-| 🥉 [Retrieval-augmented Large Language Models for Financial Time Series Forecasting](https://huggingface.co/papers/2502.05878) | ⭐ 25 | AI |
+| 🏆 [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://huggingface.co/papers/2502.08590) | ⭐ 19 | AI |
+| 🥈 [TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](https://huggingface.co/papers/2502.07870) | ⭐ 17 | AI |
+| 🥉 [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://huggingface.co/papers/2502.08639) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-02-13 01:42 UTC</sub>
+<sub>Last updated: 2025-02-13 06:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
