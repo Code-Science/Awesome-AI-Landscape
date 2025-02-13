@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Expect the Unexpected: FailSafe Long Context QA for Finance](https://huggingface.co/papers/2502.06329) | ⭐ 95 | AI |
-| 🥈 [Competitive Programming with Large Reasoning Models](https://huggingface.co/papers/2502.06807) | ⭐ 38 | AI |
-| 🥉 [CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction](https://huggingface.co/papers/2502.07316) | ⭐ 21 | AI |
+| 🏆 [Expect the Unexpected: FailSafe Long Context QA for Finance](https://huggingface.co/papers/2502.06329) | ⭐ 104 | AI |
+| 🥈 [Competitive Programming with Large Reasoning Models](https://huggingface.co/papers/2502.06807) | ⭐ 41 | AI |
+| 🥉 [Retrieval-augmented Large Language Models for Financial Time Series Forecasting](https://huggingface.co/papers/2502.05878) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-02-12 18:30 UTC</sub>
+<sub>Last updated: 2025-02-13 01:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
