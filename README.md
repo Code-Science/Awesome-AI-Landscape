@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](https://huggingface.co/papers/2502.07870) | ⭐ 27 | AI |
-| 🥈 [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://huggingface.co/papers/2502.08590) | ⭐ 27 | AI |
-| 🥉 [BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models](https://huggingface.co/papers/2502.07346) | ⭐ 26 | AI |
+| 🏆 [BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models](https://huggingface.co/papers/2502.07346) | ⭐ 31 | AI |
+| 🥈 [TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](https://huggingface.co/papers/2502.07870) | ⭐ 30 | AI |
+| 🥉 [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](https://huggingface.co/papers/2502.08590) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-02-13 12:42 UTC</sub>
+<sub>Last updated: 2025-02-13 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
