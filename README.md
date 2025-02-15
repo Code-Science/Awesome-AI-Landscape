@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU](https://huggingface.co/papers/2502.08910) | ⭐ 54 | AI |
+| 🏆 [InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU](https://huggingface.co/papers/2502.08910) | ⭐ 61 | AI |
 | 🥈 [Skrr: Skip and Re-use Text Encoder Layers for Memory Efficient Text-to-Image Generation](https://huggingface.co/papers/2502.08690) | ⭐ 28 | AI |
 | 🥉 [SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models](https://huggingface.co/papers/2502.09604) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-02-14 18:29 UTC</sub>
+<sub>Last updated: 2025-02-15 01:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
