@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding](https://huggingface.co/papers/2502.08946) | ⭐ 130 | AI |
-| 🥈 [InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU](https://huggingface.co/papers/2502.08910) | ⭐ 119 | AI |
+| 🏆 [The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding](https://huggingface.co/papers/2502.08946) | ⭐ 157 | AI |
+| 🥈 [InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU](https://huggingface.co/papers/2502.08910) | ⭐ 117 | AI |
 | 🥉 [Skrr: Skip and Re-use Text Encoder Layers for Memory Efficient Text-to-Image Generation](https://huggingface.co/papers/2502.08690) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-02-16 18:26 UTC</sub>
+<sub>Last updated: 2025-02-17 01:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
