@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Region-Adaptive Sampling for Diffusion Transformers](https://huggingface.co/papers/2502.10389) | ⭐ 38 | AI |
-| 🥈 [Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model](https://huggingface.co/papers/2502.10248) | ⭐ 25 | AI |
-| 🥉 [Large Language Diffusion Models](https://huggingface.co/papers/2502.09992) | ⭐ 19 | AI |
+| 🏆 [Region-Adaptive Sampling for Diffusion Transformers](https://huggingface.co/papers/2502.10389) | ⭐ 43 | AI |
+| 🥈 [Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model](https://huggingface.co/papers/2502.10248) | ⭐ 32 | AI |
+| 🥉 [Large Language Diffusion Models](https://huggingface.co/papers/2502.09992) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-02-17 12:43 UTC</sub>
+<sub>Last updated: 2025-02-17 18:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
