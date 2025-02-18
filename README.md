@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Learning Getting-Up Policies for Real-World Humanoid Robots](https://huggingface.co/papers/2502.12152) | ⭐ 18 | AI |
-| 🥈 [HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation](https://huggingface.co/papers/2502.12148) | ⭐ 6 | AI |
-| 🥉 [Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](https://huggingface.co/papers/2502.12146) | ⭐ 5 | AI |
+| 🏆 [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://huggingface.co/papers/2502.11089) | ⭐ 29 | AI |
+| 🥈 [Learning Getting-Up Policies for Real-World Humanoid Robots](https://huggingface.co/papers/2502.12152) | ⭐ 26 | AI |
+| 🥉 [ReLearn: Unlearning via Learning for Large Language Models](https://huggingface.co/papers/2502.11190) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-02-18 06:30 UTC</sub>
+<sub>Last updated: 2025-02-18 12:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
