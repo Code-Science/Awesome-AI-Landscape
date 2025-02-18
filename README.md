@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Region-Adaptive Sampling for Diffusion Transformers](https://huggingface.co/papers/2502.10389) | ⭐ 45 | AI |
-| 🥈 [Large Language Diffusion Models](https://huggingface.co/papers/2502.09992) | ⭐ 40 | AI |
-| 🥉 [Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model](https://huggingface.co/papers/2502.10248) | ⭐ 36 | AI |
+| 🏆 [Learning Getting-Up Policies for Real-World Humanoid Robots](https://huggingface.co/papers/2502.12152) | ⭐ 18 | AI |
+| 🥈 [HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation](https://huggingface.co/papers/2502.12148) | ⭐ 6 | AI |
+| 🥉 [Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](https://huggingface.co/papers/2502.12146) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-02-18 01:42 UTC</sub>
+<sub>Last updated: 2025-02-18 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
