@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Soundwave: Less is More for Speech-Text Alignment in LLMs](https://huggingface.co/papers/2502.12900) | ⭐ 33 | AI |
-| 🥈 [Continuous Diffusion Model for Language Modeling](https://huggingface.co/papers/2502.11564) | ⭐ 24 | AI |
-| 🥉 [Phantom: Subject-consistent video generation via cross-modal alignment](https://huggingface.co/papers/2502.11079) | ⭐ 23 | AI |
+| 🏆 [Soundwave: Less is More for Speech-Text Alignment in LLMs](https://huggingface.co/papers/2502.12900) | ⭐ 53 | AI |
+| 🥈 [Phantom: Subject-consistent video generation via cross-modal alignment](https://huggingface.co/papers/2502.11079) | ⭐ 34 | AI |
+| 🥉 [Continuous Diffusion Model for Language Modeling](https://huggingface.co/papers/2502.11564) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-02-19 06:30 UTC</sub>
+<sub>Last updated: 2025-02-19 12:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
