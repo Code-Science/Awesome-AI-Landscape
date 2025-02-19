@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://huggingface.co/papers/2502.11089) | ⭐ 51 | AI |
-| 🥈 [Learning Getting-Up Policies for Real-World Humanoid Robots](https://huggingface.co/papers/2502.12152) | ⭐ 28 | AI |
-| 🥉 [SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://huggingface.co/papers/2502.12115) | ⭐ 18 | AI |
+| 🏆 [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://huggingface.co/papers/2502.11089) | ⭐ 62 | AI |
+| 🥈 [Learning Getting-Up Policies for Real-World Humanoid Robots](https://huggingface.co/papers/2502.12152) | ⭐ 32 | AI |
+| 🥉 [SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://huggingface.co/papers/2502.12115) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-02-18 18:30 UTC</sub>
+<sub>Last updated: 2025-02-19 01:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
