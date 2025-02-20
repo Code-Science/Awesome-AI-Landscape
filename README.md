@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen2.5-VL Technical Report](https://huggingface.co/papers/2502.13923) | ⭐ 24 | AI |
-| 🥈 [RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](https://huggingface.co/papers/2502.13144) | ⭐ 21 | AI |
-| 🥉 [Craw4LLM: Efficient Web Crawling for LLM Pretraining](https://huggingface.co/papers/2502.13347) | ⭐ 13 | AI |
+| 🏆 [Qwen2.5-VL Technical Report](https://huggingface.co/papers/2502.13923) | ⭐ 58 | AI |
+| 🥈 [RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](https://huggingface.co/papers/2502.13144) | ⭐ 26 | AI |
+| 🥉 [SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation](https://huggingface.co/papers/2502.13128) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-02-20 06:30 UTC</sub>
+<sub>Last updated: 2025-02-20 12:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
