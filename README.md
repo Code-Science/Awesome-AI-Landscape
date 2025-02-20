@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Soundwave: Less is More for Speech-Text Alignment in LLMs](https://huggingface.co/papers/2502.12900) | ⭐ 58 | AI |
-| 🥈 [Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity](https://huggingface.co/papers/2502.13063) | ⭐ 43 | AI |
-| 🥉 [Continuous Diffusion Model for Language Modeling](https://huggingface.co/papers/2502.11564) | ⭐ 39 | AI |
+| 🏆 [Soundwave: Less is More for Speech-Text Alignment in LLMs](https://huggingface.co/papers/2502.12900) | ⭐ 63 | AI |
+| 🥈 [Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity](https://huggingface.co/papers/2502.13063) | ⭐ 51 | AI |
+| 🥉 [Continuous Diffusion Model for Language Modeling](https://huggingface.co/papers/2502.11564) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-02-19 18:28 UTC</sub>
+<sub>Last updated: 2025-02-20 01:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
