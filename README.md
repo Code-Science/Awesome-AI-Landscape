@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Soundwave: Less is More for Speech-Text Alignment in LLMs](https://huggingface.co/papers/2502.12900) | ⭐ 63 | AI |
-| 🥈 [Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity](https://huggingface.co/papers/2502.13063) | ⭐ 51 | AI |
-| 🥉 [Continuous Diffusion Model for Language Modeling](https://huggingface.co/papers/2502.11564) | ⭐ 42 | AI |
+| 🏆 [Qwen2.5-VL Technical Report](https://huggingface.co/papers/2502.13923) | ⭐ 24 | AI |
+| 🥈 [RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](https://huggingface.co/papers/2502.13144) | ⭐ 21 | AI |
+| 🥉 [Craw4LLM: Efficient Web Crawling for LLM Pretraining](https://huggingface.co/papers/2502.13347) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-02-20 01:43 UTC</sub>
+<sub>Last updated: 2025-02-20 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
