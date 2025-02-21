@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://huggingface.co/papers/2502.14739) | ⭐ 44 | AI |
-| 🥈 [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://huggingface.co/papers/2502.14786) | ⭐ 20 | AI |
-| 🥉 [S*: Test Time Scaling for Code Generation](https://huggingface.co/papers/2502.14382) | ⭐ 15 | AI |
+| 🏆 [MLGym: A New Framework and Benchmark for Advancing AI Research Agents](https://huggingface.co/papers/2502.14499) | ⭐ 69 | AI |
+| 🥈 [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://huggingface.co/papers/2502.14739) | ⭐ 68 | AI |
+| 🥉 [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://huggingface.co/papers/2502.14786) | ⭐ 58 | AI |
 
-<sub>Last updated: 2025-02-21 06:30 UTC</sub>
+<sub>Last updated: 2025-02-21 12:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
