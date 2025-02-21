@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen2.5-VL Technical Report](https://huggingface.co/papers/2502.13923) | ⭐ 91 | AI |
-| 🥈 [RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](https://huggingface.co/papers/2502.13144) | ⭐ 31 | AI |
-| 🥉 [SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation](https://huggingface.co/papers/2502.13128) | ⭐ 27 | AI |
+| 🏆 [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://huggingface.co/papers/2502.14739) | ⭐ 44 | AI |
+| 🥈 [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://huggingface.co/papers/2502.14786) | ⭐ 20 | AI |
+| 🥉 [S*: Test Time Scaling for Code Generation](https://huggingface.co/papers/2502.14382) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-02-21 01:43 UTC</sub>
+<sub>Last updated: 2025-02-21 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
