@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MLGym: A New Framework and Benchmark for Advancing AI Research Agents](https://huggingface.co/papers/2502.14499) | ⭐ 122 | AI |
-| 🥈 [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://huggingface.co/papers/2502.14786) | ⭐ 79 | AI |
-| 🥉 [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://huggingface.co/papers/2502.14739) | ⭐ 78 | AI |
+| 🏆 [MLGym: A New Framework and Benchmark for Advancing AI Research Agents](https://huggingface.co/papers/2502.14499) | ⭐ 127 | AI |
+| 🥈 [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://huggingface.co/papers/2502.14786) | ⭐ 84 | AI |
+| 🥉 [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://huggingface.co/papers/2502.14739) | ⭐ 83 | AI |
 
-<sub>Last updated: 2025-02-22 01:40 UTC</sub>
+<sub>Last updated: 2025-02-22 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
