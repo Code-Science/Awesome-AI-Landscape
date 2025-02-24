@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MLGym: A New Framework and Benchmark for Advancing AI Research Agents](https://huggingface.co/papers/2502.14499) | ⭐ 153 | AI |
-| 🥈 [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://huggingface.co/papers/2502.14786) | ⭐ 101 | AI |
-| 🥉 [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](https://huggingface.co/papers/2502.14739) | ⭐ 88 | AI |
+| 🏆 [SurveyX: Academic Survey Automation via Large Language Models](https://huggingface.co/papers/2502.14776) | ⭐ 47 | AI |
+| 🥈 [Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](https://huggingface.co/papers/2502.13449) | ⭐ 24 | AI |
+| 🥉 [SIFT: Grounding LLM Reasoning in Contexts via Stickers](https://huggingface.co/papers/2502.14922) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-02-24 01:46 UTC</sub>
+<sub>Last updated: 2025-02-24 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
