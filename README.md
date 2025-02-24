@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SurveyX: Academic Survey Automation via Large Language Models](https://huggingface.co/papers/2502.14776) | ⭐ 47 | AI |
-| 🥈 [Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](https://huggingface.co/papers/2502.13449) | ⭐ 24 | AI |
-| 🥉 [SIFT: Grounding LLM Reasoning in Contexts via Stickers](https://huggingface.co/papers/2502.14922) | ⭐ 10 | AI |
+| 🏆 [SurveyX: Academic Survey Automation via Large Language Models](https://huggingface.co/papers/2502.14776) | ⭐ 66 | AI |
+| 🥈 [MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction](https://huggingface.co/papers/2502.11663) | ⭐ 34 | AI |
+| 🥉 [Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](https://huggingface.co/papers/2502.13449) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-02-24 06:32 UTC</sub>
+<sub>Last updated: 2025-02-24 12:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
