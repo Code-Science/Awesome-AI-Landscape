@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers](https://huggingface.co/papers/2502.15007) | ⭐ 104 | AI |
-| 🥈 [SurveyX: Academic Survey Automation via Large Language Models](https://huggingface.co/papers/2502.14776) | ⭐ 75 | AI |
-| 🥉 [MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction](https://huggingface.co/papers/2502.11663) | ⭐ 36 | AI |
+| 🏆 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 25 | AI |
+| 🥈 [Audio-FLAN: A Preliminary Release](https://huggingface.co/papers/2502.16584) | ⭐ 13 | AI |
+| 🥉 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-02-25 01:45 UTC</sub>
+<sub>Last updated: 2025-02-25 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
