@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 25 | AI |
-| 🥈 [Audio-FLAN: A Preliminary Release](https://huggingface.co/papers/2502.16584) | ⭐ 13 | AI |
-| 🥉 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 13 | AI |
+| 🏆 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 36 | AI |
+| 🥈 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 31 | AI |
+| 🥉 [Slamming: Training a Speech Language Model on One GPU in a Day](https://huggingface.co/papers/2502.15814) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-02-25 06:30 UTC</sub>
+<sub>Last updated: 2025-02-25 12:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
