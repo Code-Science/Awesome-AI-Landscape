@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 36 | AI |
-| 🥈 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 31 | AI |
-| 🥉 [Slamming: Training a Speech Language Model on One GPU in a Day](https://huggingface.co/papers/2502.15814) | ⭐ 27 | AI |
+| 🏆 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 50 | AI |
+| 🥈 [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://huggingface.co/papers/2502.17258) | ⭐ 42 | AI |
+| 🥉 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-02-25 12:43 UTC</sub>
+<sub>Last updated: 2025-02-25 18:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
