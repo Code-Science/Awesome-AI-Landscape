@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 53 | AI |
-| 🥈 [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://huggingface.co/papers/2502.17258) | ⭐ 46 | AI |
-| 🥉 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 41 | AI |
+| 🏆 [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://huggingface.co/papers/2502.18411) | ⭐ 36 | AI |
+| 🥈 [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://huggingface.co/papers/2502.18137) | ⭐ 27 | AI |
+| 🥉 [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://huggingface.co/papers/2502.17363) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-02-26 01:45 UTC</sub>
+<sub>Last updated: 2025-02-26 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
