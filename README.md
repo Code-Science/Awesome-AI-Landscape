@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://huggingface.co/papers/2502.18411) | ⭐ 51 | AI |
-| 🥈 [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://huggingface.co/papers/2502.18137) | ⭐ 36 | AI |
-| 🥉 [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://huggingface.co/papers/2502.17363) | ⭐ 24 | AI |
+| 🏆 [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://huggingface.co/papers/2502.18411) | ⭐ 52 | AI |
+| 🥈 [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://huggingface.co/papers/2502.18137) | ⭐ 38 | AI |
+| 🥉 [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://huggingface.co/papers/2502.17363) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-02-26 12:43 UTC</sub>
+<sub>Last updated: 2025-02-26 18:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
