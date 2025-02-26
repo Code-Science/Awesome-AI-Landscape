@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 50 | AI |
-| 🥈 [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://huggingface.co/papers/2502.17258) | ⭐ 42 | AI |
-| 🥉 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 38 | AI |
+| 🏆 [Thus Spake Long-Context Large Language Model](https://huggingface.co/papers/2502.17129) | ⭐ 53 | AI |
+| 🥈 [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://huggingface.co/papers/2502.17258) | ⭐ 46 | AI |
+| 🥉 [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](https://huggingface.co/papers/2502.17157) | ⭐ 41 | AI |
 
-<sub>Last updated: 2025-02-25 18:30 UTC</sub>
+<sub>Last updated: 2025-02-26 01:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
