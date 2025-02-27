@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kanana: Compute-efficient Bilingual Language Models](https://huggingface.co/papers/2502.18934) | ⭐ 29 | AI |
-| 🥈 [TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](https://huggingface.co/papers/2502.19400) | ⭐ 14 | AI |
-| 🥉 [Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?](https://huggingface.co/papers/2502.19361) | ⭐ 8 | AI |
+| 🏆 [Kanana: Compute-efficient Bilingual Language Models](https://huggingface.co/papers/2502.18934) | ⭐ 42 | AI |
+| 🥈 [GHOST 2.0: generative high-fidelity one shot transfer of heads](https://huggingface.co/papers/2502.18417) | ⭐ 27 | AI |
+| 🥉 [TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](https://huggingface.co/papers/2502.19400) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-02-27 06:31 UTC</sub>
+<sub>Last updated: 2025-02-27 12:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
