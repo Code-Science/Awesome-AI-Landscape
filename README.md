@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](https://huggingface.co/papers/2502.18411) | ⭐ 54 | AI |
-| 🥈 [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://huggingface.co/papers/2502.18137) | ⭐ 41 | AI |
-| 🥉 [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://huggingface.co/papers/2502.18449) | ⭐ 37 | AI |
+| 🏆 [Kanana: Compute-efficient Bilingual Language Models](https://huggingface.co/papers/2502.18934) | ⭐ 29 | AI |
+| 🥈 [TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](https://huggingface.co/papers/2502.19400) | ⭐ 14 | AI |
+| 🥉 [Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?](https://huggingface.co/papers/2502.19361) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-02-27 01:45 UTC</sub>
+<sub>Last updated: 2025-02-27 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
