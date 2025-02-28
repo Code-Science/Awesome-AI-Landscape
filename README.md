@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kanana: Compute-efficient Bilingual Language Models](https://huggingface.co/papers/2502.18934) | ⭐ 44 | AI |
-| 🥈 [GHOST 2.0: generative high-fidelity one shot transfer of heads](https://huggingface.co/papers/2502.18417) | ⭐ 43 | AI |
-| 🥉 [TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](https://huggingface.co/papers/2502.19400) | ⭐ 27 | AI |
+| 🏆 [GHOST 2.0: generative high-fidelity one shot transfer of heads](https://huggingface.co/papers/2502.18417) | ⭐ 49 | AI |
+| 🥈 [Kanana: Compute-efficient Bilingual Language Models](https://huggingface.co/papers/2502.18934) | ⭐ 46 | AI |
+| 🥉 [TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](https://huggingface.co/papers/2502.19400) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-02-27 18:31 UTC</sub>
+<sub>Last updated: 2025-02-28 01:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
