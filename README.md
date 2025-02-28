@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GHOST 2.0: generative high-fidelity one shot transfer of heads](https://huggingface.co/papers/2502.18417) | ⭐ 49 | AI |
-| 🥈 [Kanana: Compute-efficient Bilingual Language Models](https://huggingface.co/papers/2502.18934) | ⭐ 46 | AI |
-| 🥉 [TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](https://huggingface.co/papers/2502.19400) | ⭐ 30 | AI |
+| 🏆 [Self-rewarding correction for mathematical reasoning](https://huggingface.co/papers/2502.19613) | ⭐ 38 | AI |
+| 🥈 [LongRoPE2: Near-Lossless LLM Context Window Scaling](https://huggingface.co/papers/2502.20082) | ⭐ 15 | AI |
+| 🥉 [CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale](https://huggingface.co/papers/2502.16645) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-02-28 01:45 UTC</sub>
+<sub>Last updated: 2025-02-28 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
