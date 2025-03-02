@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Self-rewarding correction for mathematical reasoning](https://huggingface.co/papers/2502.19613) | ⭐ 57 | AI |
-| 🥈 [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://huggingface.co/papers/2502.19634) | ⭐ 46 | AI |
-| 🥉 [R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://huggingface.co/papers/2502.20395) | ⭐ 36 | AI |
+| 🏆 [Self-rewarding correction for mathematical reasoning](https://huggingface.co/papers/2502.19613) | ⭐ 58 | AI |
+| 🥈 [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://huggingface.co/papers/2502.19634) | ⭐ 48 | AI |
+| 🥉 [R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://huggingface.co/papers/2502.20395) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-03-02 12:38 UTC</sub>
+<sub>Last updated: 2025-03-02 18:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
