@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Self-rewarding correction for mathematical reasoning](https://huggingface.co/papers/2502.19613) | ⭐ 61 | AI |
-| 🥈 [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://huggingface.co/papers/2502.19634) | ⭐ 49 | AI |
-| 🥉 [R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://huggingface.co/papers/2502.20395) | ⭐ 38 | AI |
+| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 7 | AI |
+| 🥈 [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](https://huggingface.co/papers/2502.18017) | ⭐ 3 | AI |
+| 🥉 [SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers](https://huggingface.co/papers/2502.20545) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-03-03 01:48 UTC</sub>
+<sub>Last updated: 2025-03-03 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
