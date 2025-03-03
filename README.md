@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 14 | AI |
-| 🥈 [Chain of Draft: Thinking Faster by Writing Less](https://huggingface.co/papers/2502.18600) | ⭐ 8 | AI |
-| 🥉 [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](https://huggingface.co/papers/2502.18017) | ⭐ 4 | AI |
+| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 19 | AI |
+| 🥈 [Chain of Draft: Thinking Faster by Writing Less](https://huggingface.co/papers/2502.18600) | ⭐ 17 | AI |
+| 🥉 [How far can we go with ImageNet for Text-to-Image generation?](https://huggingface.co/papers/2502.21318) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-03-03 12:44 UTC</sub>
+<sub>Last updated: 2025-03-03 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
