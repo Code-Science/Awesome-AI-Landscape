@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 7 | AI |
-| 🥈 [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](https://huggingface.co/papers/2502.18017) | ⭐ 3 | AI |
-| 🥉 [SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers](https://huggingface.co/papers/2502.20545) | ⭐ 2 | AI |
+| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 14 | AI |
+| 🥈 [Chain of Draft: Thinking Faster by Writing Less](https://huggingface.co/papers/2502.18600) | ⭐ 8 | AI |
+| 🥉 [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](https://huggingface.co/papers/2502.18017) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-03-03 06:32 UTC</sub>
+<sub>Last updated: 2025-03-03 12:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
