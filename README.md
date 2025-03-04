@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 26 | AI |
-| 🥈 [Chain of Draft: Thinking Faster by Writing Less](https://huggingface.co/papers/2502.18600) | ⭐ 25 | AI |
-| 🥉 [Multi-Turn Code Generation Through Single-Step Rewards](https://huggingface.co/papers/2502.20380) | ⭐ 21 | AI |
+| 🏆 [Visual-RFT: Visual Reinforcement Fine-Tuning](https://huggingface.co/papers/2503.01785) | ⭐ 19 | AI |
+| 🥈 [Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](https://huggingface.co/papers/2503.01774) | ⭐ 18 | AI |
+| 🥉 [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](https://huggingface.co/papers/2503.01743) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-03-04 01:47 UTC</sub>
+<sub>Last updated: 2025-03-04 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
