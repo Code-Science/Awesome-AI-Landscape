@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Visual-RFT: Visual Reinforcement Fine-Tuning](https://huggingface.co/papers/2503.01785) | ⭐ 33 | AI |
-| 🥈 [Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](https://huggingface.co/papers/2503.01774) | ⭐ 26 | AI |
-| 🥉 [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](https://huggingface.co/papers/2503.01743) | ⭐ 23 | AI |
+| 🏆 [Visual-RFT: Visual Reinforcement Fine-Tuning](https://huggingface.co/papers/2503.01785) | ⭐ 40 | AI |
+| 🥈 [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](https://huggingface.co/papers/2503.01743) | ⭐ 32 | AI |
+| 🥉 [Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](https://huggingface.co/papers/2503.01774) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-03-04 12:44 UTC</sub>
+<sub>Last updated: 2025-03-04 18:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
