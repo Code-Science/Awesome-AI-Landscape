@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 19 | AI |
-| 🥈 [Chain of Draft: Thinking Faster by Writing Less](https://huggingface.co/papers/2502.18600) | ⭐ 17 | AI |
-| 🥉 [How far can we go with ImageNet for Text-to-Image generation?](https://huggingface.co/papers/2502.21318) | ⭐ 10 | AI |
+| 🏆 [DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking](https://huggingface.co/papers/2502.20730) | ⭐ 26 | AI |
+| 🥈 [Chain of Draft: Thinking Faster by Writing Less](https://huggingface.co/papers/2502.18600) | ⭐ 25 | AI |
+| 🥉 [Multi-Turn Code Generation Through Single-Step Rewards](https://huggingface.co/papers/2502.20380) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-03-03 18:29 UTC</sub>
+<sub>Last updated: 2025-03-04 01:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
