@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Visual-RFT: Visual Reinforcement Fine-Tuning](https://huggingface.co/papers/2503.01785) | ⭐ 43 | AI |
-| 🥈 [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](https://huggingface.co/papers/2503.01743) | ⭐ 42 | AI |
-| 🥉 [Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](https://huggingface.co/papers/2503.01774) | ⭐ 29 | AI |
+| 🏆 [MPO: Boosting LLM Agents with Meta Plan Optimization](https://huggingface.co/papers/2503.02682) | ⭐ 10 | AI |
+| 🥈 [Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs](https://huggingface.co/papers/2503.02846) | ⭐ 9 | AI |
+| 🥉 [Wikipedia in the Era of LLMs: Evolution and Risks](https://huggingface.co/papers/2503.02879) | ⭐ 6 | AI |
 
-<sub>Last updated: 2025-03-05 01:47 UTC</sub>
+<sub>Last updated: 2025-03-05 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
