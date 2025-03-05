@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MPO: Boosting LLM Agents with Meta Plan Optimization](https://huggingface.co/papers/2503.02682) | ⭐ 10 | AI |
-| 🥈 [Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs](https://huggingface.co/papers/2503.02846) | ⭐ 9 | AI |
-| 🥉 [Wikipedia in the Era of LLMs: Evolution and Risks](https://huggingface.co/papers/2503.02879) | ⭐ 6 | AI |
+| 🏆 [MPO: Boosting LLM Agents with Meta Plan Optimization](https://huggingface.co/papers/2503.02682) | ⭐ 12 | AI |
+| 🥈 [Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs](https://huggingface.co/papers/2503.02846) | ⭐ 11 | AI |
+| 🥉 [Wikipedia in the Era of LLMs: Evolution and Risks](https://huggingface.co/papers/2503.02879) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-03-05 06:31 UTC</sub>
+<sub>Last updated: 2025-03-05 12:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
