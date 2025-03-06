@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MPO: Boosting LLM Agents with Meta Plan Optimization](https://huggingface.co/papers/2503.02682) | ⭐ 16 | AI |
-| 🥈 [Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs](https://huggingface.co/papers/2503.02846) | ⭐ 14 | AI |
-| 🥉 [Wikipedia in the Era of LLMs: Evolution and Risks](https://huggingface.co/papers/2503.02879) | ⭐ 13 | AI |
+| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 24 | AI |
+| 🥈 [ABC: Achieving Better Control of Multimodal Embeddings using VLMs](https://huggingface.co/papers/2503.00329) | ⭐ 7 | AI |
+| 🥉 [KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding](https://huggingface.co/papers/2503.02951) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-03-06 01:47 UTC</sub>
+<sub>Last updated: 2025-03-06 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
