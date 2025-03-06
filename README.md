@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 37 | AI |
-| 🥈 [ABC: Achieving Better Control of Multimodal Embeddings using VLMs](https://huggingface.co/papers/2503.00329) | ⭐ 12 | AI |
-| 🥉 [Enhancing Abnormality Grounding for Vision Language Models with Knowledge Descriptions](https://huggingface.co/papers/2503.03278) | ⭐ 9 | AI |
+| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 39 | AI |
+| 🥈 [Process-based Self-Rewarding Language Models](https://huggingface.co/papers/2503.03746) | ⭐ 20 | AI |
+| 🥉 [ABC: Achieving Better Control of Multimodal Embeddings using VLMs](https://huggingface.co/papers/2503.00329) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-03-06 12:44 UTC</sub>
+<sub>Last updated: 2025-03-06 18:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
