@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 24 | AI |
-| 🥈 [ABC: Achieving Better Control of Multimodal Embeddings using VLMs](https://huggingface.co/papers/2503.00329) | ⭐ 7 | AI |
-| 🥉 [KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding](https://huggingface.co/papers/2503.02951) | ⭐ 5 | AI |
+| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 37 | AI |
+| 🥈 [ABC: Achieving Better Control of Multimodal Embeddings using VLMs](https://huggingface.co/papers/2503.00329) | ⭐ 12 | AI |
+| 🥉 [Enhancing Abnormality Grounding for Vision Language Models with Knowledge Descriptions](https://huggingface.co/papers/2503.03278) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-03-06 06:31 UTC</sub>
+<sub>Last updated: 2025-03-06 12:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
