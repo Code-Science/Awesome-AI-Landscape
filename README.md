@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 38 | AI |
-| 🥈 [LLM as a Broken Telephone: Iterative Generation Distorts Information](https://huggingface.co/papers/2502.20258) | ⭐ 11 | AI |
-| 🥉 [LINGOLY-TOO: Disentangling Memorisation from Reasoning with Linguistic Templatisation and Orthographic Obfuscation](https://huggingface.co/papers/2503.02972) | ⭐ 10 | AI |
+| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 47 | AI |
+| 🥈 [LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM](https://huggingface.co/papers/2503.04724) | ⭐ 32 | AI |
+| 🥉 [Token-Efficient Long Video Understanding for Multimodal LLMs](https://huggingface.co/papers/2503.04130) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-03-07 12:43 UTC</sub>
+<sub>Last updated: 2025-03-07 18:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
