@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 39 | AI |
-| 🥈 [Process-based Self-Rewarding Language Models](https://huggingface.co/papers/2503.03746) | ⭐ 20 | AI |
-| 🥉 [ABC: Achieving Better Control of Multimodal Embeddings using VLMs](https://huggingface.co/papers/2503.00329) | ⭐ 14 | AI |
+| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 42 | AI |
+| 🥈 [HoT: Highlighted Chain of Thought for Referencing Supporting Facts from Inputs](https://huggingface.co/papers/2503.02003) | ⭐ 25 | AI |
+| 🥉 [Process-based Self-Rewarding Language Models](https://huggingface.co/papers/2503.03746) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-03-06 18:30 UTC</sub>
+<sub>Last updated: 2025-03-07 01:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
