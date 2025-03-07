@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://huggingface.co/papers/2503.00865) | ⭐ 42 | AI |
-| 🥈 [HoT: Highlighted Chain of Thought for Referencing Supporting Facts from Inputs](https://huggingface.co/papers/2503.02003) | ⭐ 25 | AI |
-| 🥉 [Process-based Self-Rewarding Language Models](https://huggingface.co/papers/2503.03746) | ⭐ 23 | AI |
+| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 25 | AI |
+| 🥈 [HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization](https://huggingface.co/papers/2503.04598) | ⭐ 5 | AI |
+| 🥉 [FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion](https://huggingface.co/papers/2503.04222) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-03-07 01:47 UTC</sub>
+<sub>Last updated: 2025-03-07 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
