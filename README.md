@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 25 | AI |
-| 🥈 [HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization](https://huggingface.co/papers/2503.04598) | ⭐ 5 | AI |
-| 🥉 [FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion](https://huggingface.co/papers/2503.04222) | ⭐ 5 | AI |
+| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 38 | AI |
+| 🥈 [LLM as a Broken Telephone: Iterative Generation Distorts Information](https://huggingface.co/papers/2502.20258) | ⭐ 11 | AI |
+| 🥉 [LINGOLY-TOO: Disentangling Memorisation from Reasoning with Linguistic Templatisation and Orthographic Obfuscation](https://huggingface.co/papers/2503.02972) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-03-07 06:31 UTC</sub>
+<sub>Last updated: 2025-03-07 12:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
