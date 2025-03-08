@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 57 | AI |
-| 🥈 [Token-Efficient Long Video Understanding for Multimodal LLMs](https://huggingface.co/papers/2503.04130) | ⭐ 46 | AI |
-| 🥉 [LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM](https://huggingface.co/papers/2503.04724) | ⭐ 35 | AI |
+| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 58 | AI |
+| 🥈 [Token-Efficient Long Video Understanding for Multimodal LLMs](https://huggingface.co/papers/2503.04130) | ⭐ 49 | AI |
+| 🥉 [LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM](https://huggingface.co/papers/2503.04724) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-03-08 12:32 UTC</sub>
+<sub>Last updated: 2025-03-08 18:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
