@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [START: Self-taught Reasoner with Tools](https://huggingface.co/papers/2503.04625) | ⭐ 76 | AI |
-| 🥈 [Token-Efficient Long Video Understanding for Multimodal LLMs](https://huggingface.co/papers/2503.04130) | ⭐ 64 | AI |
-| 🥉 [LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM](https://huggingface.co/papers/2503.04724) | ⭐ 50 | AI |
+| 🏆 [Unified Reward Model for Multimodal Understanding and Generation](https://huggingface.co/papers/2503.05236) | ⭐ 63 | AI |
+| 🥈 [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://huggingface.co/papers/2503.05179) | ⭐ 23 | AI |
+| 🥉 [Forgetting Transformer: Softmax Attention with a Forget Gate](https://huggingface.co/papers/2503.02130) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-03-10 01:23 UTC</sub>
+<sub>Last updated: 2025-03-10 06:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
