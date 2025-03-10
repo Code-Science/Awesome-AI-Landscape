@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unified Reward Model for Multimodal Understanding and Generation](https://huggingface.co/papers/2503.05236) | ⭐ 76 | AI |
-| 🥈 [EuroBERT: Scaling Multilingual Encoders for European Languages](https://huggingface.co/papers/2503.05500) | ⭐ 35 | AI |
-| 🥉 [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://huggingface.co/papers/2503.05179) | ⭐ 27 | AI |
+| 🏆 [RuCCoD: Towards Automated ICD Coding in Russian](https://huggingface.co/papers/2502.21263) | ⭐ 107 | AI |
+| 🥈 [Unified Reward Model for Multimodal Understanding and Generation](https://huggingface.co/papers/2503.05236) | ⭐ 85 | AI |
+| 🥉 [EuroBERT: Scaling Multilingual Encoders for European Languages](https://huggingface.co/papers/2503.05500) | ⭐ 54 | AI |
 
-<sub>Last updated: 2025-03-10 12:46 UTC</sub>
+<sub>Last updated: 2025-03-10 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
