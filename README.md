@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unified Reward Model for Multimodal Understanding and Generation](https://huggingface.co/papers/2503.05236) | ⭐ 63 | AI |
-| 🥈 [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://huggingface.co/papers/2503.05179) | ⭐ 23 | AI |
-| 🥉 [Forgetting Transformer: Softmax Attention with a Forget Gate](https://huggingface.co/papers/2503.02130) | ⭐ 8 | AI |
+| 🏆 [Unified Reward Model for Multimodal Understanding and Generation](https://huggingface.co/papers/2503.05236) | ⭐ 76 | AI |
+| 🥈 [EuroBERT: Scaling Multilingual Encoders for European Languages](https://huggingface.co/papers/2503.05500) | ⭐ 35 | AI |
+| 🥉 [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://huggingface.co/papers/2503.05179) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-03-10 06:26 UTC</sub>
+<sub>Last updated: 2025-03-10 12:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
