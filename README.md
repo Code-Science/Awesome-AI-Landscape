@@ -18,11 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RuCCoD: Towards Automated ICD Coding in Russian](https://huggingface.co/papers/2502.21263) | ⭐ 107 | AI |
-| 🥈 [Unified Reward Model for Multimodal Understanding and Generation](https://huggingface.co/papers/2503.05236) | ⭐ 85 | AI |
-| 🥉 [EuroBERT: Scaling Multilingual Encoders for European Languages](https://huggingface.co/papers/2503.05500) | ⭐ 54 | AI |
+| 🏆 [FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation
+  for Feature Implementation](https://huggingface.co/papers/2503.06680) | ⭐ 2 | AI |
+| 🥈 [State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for
+  State Space Models](https://huggingface.co/papers/2503.03499) | ⭐ 1 | AI |
+| 🥉 [NeuGrasp: Generalizable Neural Surface Reconstruction with Background
+  Priors for Material-Agnostic Object Grasp Detection](https://huggingface.co/papers/2503.03511) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-03-10 18:29 UTC</sub>
+<sub>Last updated: 2025-03-11 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
