@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale
-  Reinforcement Learning](https://huggingface.co/papers/2503.07365) | ⭐ 30 | AI |
-| 🥈 [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue
-  Learning](https://huggingface.co/papers/2503.07002) | ⭐ 22 | AI |
-| 🥉 [Automated Movie Generation via Multi-Agent CoT Planning](https://huggingface.co/papers/2503.07314) | ⭐ 21 | AI |
+| 🏆 [Feature-Level Insights into Artificial Text Detection with Sparse
+  Autoencoders](https://huggingface.co/papers/2503.03601) | ⭐ 109 | AI |
+| 🥈 [SEAP: Training-free Sparse Expert Activation Pruning Unlock the
+  Brainpower of Large Language Models](https://huggingface.co/papers/2503.07605) | ⭐ 53 | AI |
+| 🥉 [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale
+  Reinforcement Learning](https://huggingface.co/papers/2503.07365) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-03-11 06:31 UTC</sub>
+<sub>Last updated: 2025-03-11 12:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
