@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation
-  for Feature Implementation](https://huggingface.co/papers/2503.06680) | ⭐ 2 | AI |
-| 🥈 [State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for
-  State Space Models](https://huggingface.co/papers/2503.03499) | ⭐ 1 | AI |
-| 🥉 [NeuGrasp: Generalizable Neural Surface Reconstruction with Background
-  Priors for Material-Agnostic Object Grasp Detection](https://huggingface.co/papers/2503.03511) | ⭐ 0 | AI |
+| 🏆 [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale
+  Reinforcement Learning](https://huggingface.co/papers/2503.07365) | ⭐ 30 | AI |
+| 🥈 [Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue
+  Learning](https://huggingface.co/papers/2503.07002) | ⭐ 22 | AI |
+| 🥉 [Automated Movie Generation via Multi-Agent CoT Planning](https://huggingface.co/papers/2503.07314) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-03-11 01:48 UTC</sub>
+<sub>Last updated: 2025-03-11 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
