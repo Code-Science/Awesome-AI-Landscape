@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://huggingface.co/papers/2503.07572) | ⭐ 3 | AI |
-| 🥈 [Mixture of Experts Made Intrinsically Interpretable](https://huggingface.co/papers/2503.07639) | ⭐ 1 | AI |
+| 🏆 [YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638) | ⭐ 26 | AI |
+| 🥈 [Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural
+  Vision-Language Dataset for Southeast Asia](https://huggingface.co/papers/2503.07920) | ⭐ 24 | AI |
+| 🥉 [UniF^2ace: Fine-grained Face Understanding and Generation
+  with Unified Multimodal Models](https://huggingface.co/papers/2503.08120) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-03-12 01:47 UTC</sub>
+<sub>Last updated: 2025-03-12 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
