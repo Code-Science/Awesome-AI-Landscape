@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638) | ⭐ 26 | AI |
-| 🥈 [Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural
-  Vision-Language Dataset for Southeast Asia](https://huggingface.co/papers/2503.07920) | ⭐ 24 | AI |
-| 🥉 [UniF^2ace: Fine-grained Face Understanding and Generation
-  with Unified Multimodal Models](https://huggingface.co/papers/2503.08120) | ⭐ 16 | AI |
+| 🏆 [Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural
+  Vision-Language Dataset for Southeast Asia](https://huggingface.co/papers/2503.07920) | ⭐ 59 | AI |
+| 🥈 [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through
+  Two-Stage Rule-Based RL](https://huggingface.co/papers/2503.07536) | ⭐ 43 | AI |
+| 🥉 [YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-03-12 06:31 UTC</sub>
+<sub>Last updated: 2025-03-12 12:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
