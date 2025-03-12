@@ -18,14 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Feature-Level Insights into Artificial Text Detection with Sparse
-  Autoencoders](https://huggingface.co/papers/2503.03601) | ⭐ 109 | AI |
-| 🥈 [SEAP: Training-free Sparse Expert Activation Pruning Unlock the
-  Brainpower of Large Language Models](https://huggingface.co/papers/2503.07605) | ⭐ 53 | AI |
-| 🥉 [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale
-  Reinforcement Learning](https://huggingface.co/papers/2503.07365) | ⭐ 42 | AI |
+| 🏆 [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://huggingface.co/papers/2503.07572) | ⭐ 3 | AI |
+| 🥈 [Mixture of Experts Made Intrinsically Interpretable](https://huggingface.co/papers/2503.07639) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-03-11 12:45 UTC</sub>
+<sub>Last updated: 2025-03-12 01:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
