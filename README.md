@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural
-  Vision-Language Dataset for Southeast Asia](https://huggingface.co/papers/2503.07920) | ⭐ 74 | AI |
-| 🥈 [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through
-  Two-Stage Rule-Based RL](https://huggingface.co/papers/2503.07536) | ⭐ 56 | AI |
-| 🥉 [YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638) | ⭐ 49 | AI |
+| 🏆 [TPDiff: Temporal Pyramid Video Diffusion Model](https://huggingface.co/papers/2503.09566) | ⭐ 11 | AI |
+| 🥈 [Block Diffusion: Interpolating Between Autoregressive and Diffusion
+  Language Models](https://huggingface.co/papers/2503.09573) | ⭐ 9 | AI |
+| 🥉 [Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](https://huggingface.co/papers/2503.09151) | ⭐ 6 | AI |
 
-<sub>Last updated: 2025-03-13 01:48 UTC</sub>
+<sub>Last updated: 2025-03-13 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
