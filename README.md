@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural
-  Vision-Language Dataset for Southeast Asia](https://huggingface.co/papers/2503.07920) | ⭐ 69 | AI |
+  Vision-Language Dataset for Southeast Asia](https://huggingface.co/papers/2503.07920) | ⭐ 74 | AI |
 | 🥈 [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through
-  Two-Stage Rule-Based RL](https://huggingface.co/papers/2503.07536) | ⭐ 48 | AI |
-| 🥉 [YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638) | ⭐ 43 | AI |
+  Two-Stage Rule-Based RL](https://huggingface.co/papers/2503.07536) | ⭐ 56 | AI |
+| 🥉 [YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638) | ⭐ 49 | AI |
 
-<sub>Last updated: 2025-03-12 18:31 UTC</sub>
+<sub>Last updated: 2025-03-13 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
