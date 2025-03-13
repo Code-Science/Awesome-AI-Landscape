@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TPDiff: Temporal Pyramid Video Diffusion Model](https://huggingface.co/papers/2503.09566) | ⭐ 28 | AI |
-| 🥈 [Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](https://huggingface.co/papers/2503.09151) | ⭐ 23 | AI |
-| 🥉 [Block Diffusion: Interpolating Between Autoregressive and Diffusion
-  Language Models](https://huggingface.co/papers/2503.09573) | ⭐ 16 | AI |
+| 🏆 [TPDiff: Temporal Pyramid Video Diffusion Model](https://huggingface.co/papers/2503.09566) | ⭐ 31 | AI |
+| 🥈 [Block Diffusion: Interpolating Between Autoregressive and Diffusion
+  Language Models](https://huggingface.co/papers/2503.09573) | ⭐ 25 | AI |
+| 🥉 [Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](https://huggingface.co/papers/2503.09151) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-03-13 12:45 UTC</sub>
+<sub>Last updated: 2025-03-13 18:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
