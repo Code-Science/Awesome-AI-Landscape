@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 35 | AI |
-| 🥈 [World Modeling Makes a Better Planner: Dual Preference Optimization for
-  Embodied Task Planning](https://huggingface.co/papers/2503.10480) | ⭐ 27 | AI |
-| 🥉 [Silent Branding Attack: Trigger-free Data Poisoning Attack on
-  Text-to-Image Diffusion Models](https://huggingface.co/papers/2503.09669) | ⭐ 27 | AI |
+| 🏆 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 41 | AI |
+| 🥈 [Transformers without Normalization](https://huggingface.co/papers/2503.10622) | ⭐ 33 | AI |
+| 🥉 [World Modeling Makes a Better Planner: Dual Preference Optimization for
+  Embodied Task Planning](https://huggingface.co/papers/2503.10480) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-03-14 12:42 UTC</sub>
+<sub>Last updated: 2025-03-14 18:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
