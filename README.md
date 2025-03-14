@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TPDiff: Temporal Pyramid Video Diffusion Model](https://huggingface.co/papers/2503.09566) | ⭐ 36 | AI |
-| 🥈 [Block Diffusion: Interpolating Between Autoregressive and Diffusion
-  Language Models](https://huggingface.co/papers/2503.09573) | ⭐ 34 | AI |
-| 🥉 [Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](https://huggingface.co/papers/2503.09151) | ⭐ 26 | AI |
+| 🏆 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 26 | AI |
+| 🥈 [Silent Branding Attack: Trigger-free Data Poisoning Attack on
+  Text-to-Image Diffusion Models](https://huggingface.co/papers/2503.09669) | ⭐ 23 | AI |
+| 🥉 [World Modeling Makes a Better Planner: Dual Preference Optimization for
+  Embodied Task Planning](https://huggingface.co/papers/2503.10480) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-03-14 01:46 UTC</sub>
+<sub>Last updated: 2025-03-14 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
