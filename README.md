@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 41 | AI |
-| 🥈 [Transformers without Normalization](https://huggingface.co/papers/2503.10622) | ⭐ 33 | AI |
-| 🥉 [World Modeling Makes a Better Planner: Dual Preference Optimization for
-  Embodied Task Planning](https://huggingface.co/papers/2503.10480) | ⭐ 29 | AI |
+| 🏆 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 52 | AI |
+| 🥈 [Transformers without Normalization](https://huggingface.co/papers/2503.10622) | ⭐ 44 | AI |
+| 🥉 [Charting and Navigating Hugging Face's Model Atlas](https://huggingface.co/papers/2503.10633) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-03-14 18:30 UTC</sub>
+<sub>Last updated: 2025-03-15 01:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
