@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 52 | AI |
-| 🥈 [Transformers without Normalization](https://huggingface.co/papers/2503.10622) | ⭐ 44 | AI |
-| 🥉 [Charting and Navigating Hugging Face's Model Atlas](https://huggingface.co/papers/2503.10633) | ⭐ 37 | AI |
+| 🏆 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 54 | AI |
+| 🥈 [Transformers without Normalization](https://huggingface.co/papers/2503.10622) | ⭐ 49 | AI |
+| 🥉 [Charting and Navigating Hugging Face's Model Atlas](https://huggingface.co/papers/2503.10633) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-03-15 01:46 UTC</sub>
+<sub>Last updated: 2025-03-15 06:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
