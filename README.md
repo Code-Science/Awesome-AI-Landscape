@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Transformers without Normalization](https://huggingface.co/papers/2503.10622) | ⭐ 96 | AI |
-| 🥈 [CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](https://huggingface.co/papers/2503.10613) | ⭐ 64 | AI |
-| 🥉 [Charting and Navigating Hugging Face's Model Atlas](https://huggingface.co/papers/2503.10633) | ⭐ 55 | AI |
+| 🏆 [PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference
+  Time by Leveraging Sparsity](https://huggingface.co/papers/2503.07677) | ⭐ 44 | AI |
+| 🥈 [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://huggingface.co/papers/2503.11647) | ⭐ 37 | AI |
+| 🥉 [Adversarial Data Collection: Human-Collaborative Perturbations for
+  Efficient and Robust Robotic Imitation Learning](https://huggingface.co/papers/2503.11646) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-03-17 01:51 UTC</sub>
+<sub>Last updated: 2025-03-17 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
