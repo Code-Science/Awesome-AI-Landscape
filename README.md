@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference
-  Time by Leveraging Sparsity](https://huggingface.co/papers/2503.07677) | ⭐ 44 | AI |
-| 🥈 [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://huggingface.co/papers/2503.11647) | ⭐ 37 | AI |
+| 🏆 [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://huggingface.co/papers/2503.11647) | ⭐ 65 | AI |
+| 🥈 [PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference
+  Time by Leveraging Sparsity](https://huggingface.co/papers/2503.07677) | ⭐ 63 | AI |
 | 🥉 [Adversarial Data Collection: Human-Collaborative Perturbations for
-  Efficient and Robust Robotic Imitation Learning](https://huggingface.co/papers/2503.11646) | ⭐ 20 | AI |
+  Efficient and Robust Robotic Imitation Learning](https://huggingface.co/papers/2503.11646) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-03-17 06:32 UTC</sub>
+<sub>Last updated: 2025-03-17 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
