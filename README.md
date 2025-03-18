@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal
-  Consistent Video Generation](https://huggingface.co/papers/2503.06053) | ⭐ 69 | AI |
+  Consistent Video Generation](https://huggingface.co/papers/2503.06053) | ⭐ 72 | AI |
 | 🥈 [Being-0: A Humanoid Robotic Agent with Vision-Language Models and
-  Modular Skills](https://huggingface.co/papers/2503.12533) | ⭐ 38 | AI |
+  Modular Skills](https://huggingface.co/papers/2503.12533) | ⭐ 48 | AI |
 | 🥉 [DreamRenderer: Taming Multi-Instance Attribute Control in Large-Scale
-  Text-to-Image Models](https://huggingface.co/papers/2503.12885) | ⭐ 32 | AI |
+  Text-to-Image Models](https://huggingface.co/papers/2503.12885) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-03-18 12:47 UTC</sub>
+<sub>Last updated: 2025-03-18 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
