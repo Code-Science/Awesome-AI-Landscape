@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://huggingface.co/papers/2503.11647) | ⭐ 83 | AI |
-| 🥈 [PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference
-  Time by Leveraging Sparsity](https://huggingface.co/papers/2503.07677) | ⭐ 68 | AI |
-| 🥉 [Adversarial Data Collection: Human-Collaborative Perturbations for
-  Efficient and Robust Robotic Imitation Learning](https://huggingface.co/papers/2503.11646) | ⭐ 31 | AI |
+| 🏆 [Being-0: A Humanoid Robotic Agent with Vision-Language Models and
+  Modular Skills](https://huggingface.co/papers/2503.12533) | ⭐ 21 | AI |
+| 🥈 [DreamRenderer: Taming Multi-Instance Attribute Control in Large-Scale
+  Text-to-Image Models](https://huggingface.co/papers/2503.12885) | ⭐ 19 | AI |
+| 🥉 [Edit Transfer: Learning Image Editing via Vision In-Context Relations](https://huggingface.co/papers/2503.13327) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-03-18 01:49 UTC</sub>
+<sub>Last updated: 2025-03-18 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
