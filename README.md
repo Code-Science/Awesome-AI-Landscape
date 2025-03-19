@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 38 | AI |
-| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 33 | AI |
-| 🥉 [Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](https://huggingface.co/papers/2503.14478) | ⭐ 30 | AI |
+| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 72 | AI |
+| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 39 | AI |
+| 🥉 [Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](https://huggingface.co/papers/2503.14478) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-03-19 06:32 UTC</sub>
+<sub>Last updated: 2025-03-19 12:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
