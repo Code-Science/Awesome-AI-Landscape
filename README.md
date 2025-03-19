@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal
-  Consistent Video Generation](https://huggingface.co/papers/2503.06053) | ⭐ 72 | AI |
-| 🥈 [Being-0: A Humanoid Robotic Agent with Vision-Language Models and
-  Modular Skills](https://huggingface.co/papers/2503.12533) | ⭐ 48 | AI |
-| 🥉 [DreamRenderer: Taming Multi-Instance Attribute Control in Large-Scale
-  Text-to-Image Models](https://huggingface.co/papers/2503.12885) | ⭐ 34 | AI |
+| 🏆 [Frac-Connections: Fractional Extension of Hyper-Connections](https://huggingface.co/papers/2503.14125) | ⭐ 2 | AI |
+| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 1 | AI |
+| 🥉 [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for
+  Multimodal Large Language Models](https://huggingface.co/papers/2503.12545) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-03-18 18:32 UTC</sub>
+<sub>Last updated: 2025-03-19 01:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
