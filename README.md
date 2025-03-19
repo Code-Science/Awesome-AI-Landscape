@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Frac-Connections: Fractional Extension of Hyper-Connections](https://huggingface.co/papers/2503.14125) | ⭐ 2 | AI |
-| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 1 | AI |
-| 🥉 [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for
-  Multimodal Large Language Models](https://huggingface.co/papers/2503.12545) | ⭐ 1 | AI |
+| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 38 | AI |
+| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 33 | AI |
+| 🥉 [Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](https://huggingface.co/papers/2503.14478) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-03-19 01:49 UTC</sub>
+<sub>Last updated: 2025-03-19 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
