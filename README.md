@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 72 | AI |
-| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 39 | AI |
-| 🥉 [Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](https://huggingface.co/papers/2503.14478) | ⭐ 35 | AI |
+| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 83 | AI |
+| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 46 | AI |
+| 🥉 [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://huggingface.co/papers/2503.14476) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-03-19 12:45 UTC</sub>
+<sub>Last updated: 2025-03-19 18:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
