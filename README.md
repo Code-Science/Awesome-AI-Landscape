@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 83 | AI |
-| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 46 | AI |
-| 🥉 [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://huggingface.co/papers/2503.14476) | ⭐ 38 | AI |
+| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 93 | AI |
+| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 47 | AI |
+| 🥉 [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://huggingface.co/papers/2503.14476) | ⭐ 46 | AI |
 
-<sub>Last updated: 2025-03-19 18:31 UTC</sub>
+<sub>Last updated: 2025-03-20 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
