@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TULIP: Towards Unified Language-Image Pretraining](https://huggingface.co/papers/2503.15485) | ⭐ 14 | AI |
-| 🥈 [Cube: A Roblox View of 3D Intelligence](https://huggingface.co/papers/2503.15475) | ⭐ 14 | AI |
-| 🥉 [Efficient Personalization of Quantized Diffusion Model without
-  Backpropagation](https://huggingface.co/papers/2503.14868) | ⭐ 13 | AI |
+| 🏆 [φ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time
+  Exploration and Exploitation](https://huggingface.co/papers/2503.13288) | ⭐ 31 | AI |
+| 🥈 [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement
+  Learning](https://huggingface.co/papers/2503.15265) | ⭐ 27 | AI |
+| 🥉 [TULIP: Towards Unified Language-Image Pretraining](https://huggingface.co/papers/2503.15485) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-03-20 06:31 UTC</sub>
+<sub>Last updated: 2025-03-20 12:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
