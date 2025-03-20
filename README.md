@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://huggingface.co/papers/2503.14456) | ⭐ 93 | AI |
-| 🥈 [Impossible Videos](https://huggingface.co/papers/2503.14378) | ⭐ 47 | AI |
-| 🥉 [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://huggingface.co/papers/2503.14476) | ⭐ 46 | AI |
+| 🏆 [TULIP: Towards Unified Language-Image Pretraining](https://huggingface.co/papers/2503.15485) | ⭐ 14 | AI |
+| 🥈 [Cube: A Roblox View of 3D Intelligence](https://huggingface.co/papers/2503.15475) | ⭐ 14 | AI |
+| 🥉 [Efficient Personalization of Quantized Diffusion Model without
+  Backpropagation](https://huggingface.co/papers/2503.14868) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-03-20 01:48 UTC</sub>
+<sub>Last updated: 2025-03-20 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
