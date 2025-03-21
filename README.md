@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [φ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time
-  Exploration and Exploitation](https://huggingface.co/papers/2503.13288) | ⭐ 40 | AI |
-| 🥈 [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement
-  Learning](https://huggingface.co/papers/2503.15265) | ⭐ 35 | AI |
-| 🥉 [TULIP: Towards Unified Language-Image Pretraining](https://huggingface.co/papers/2503.15485) | ⭐ 34 | AI |
+| 🏆 [Stop Overthinking: A Survey on Efficient Reasoning for Large Language
+  Models](https://huggingface.co/papers/2503.16419) | ⭐ 20 | AI |
+| 🥈 [Unleashing Vecset Diffusion Model for Fast Shape Generation](https://huggingface.co/papers/2503.16302) | ⭐ 16 | AI |
+| 🥉 [MathFusion: Enhancing Mathematic Problem-solving of LLM through
+  Instruction Fusion](https://huggingface.co/papers/2503.16212) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-03-21 01:50 UTC</sub>
+<sub>Last updated: 2025-03-21 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
