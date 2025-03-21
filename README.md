@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [One-Step Residual Shifting Diffusion for Image Super-Resolution via
-  Distillation](https://huggingface.co/papers/2503.13358) | ⭐ 57 | AI |
+  Distillation](https://huggingface.co/papers/2503.13358) | ⭐ 67 | AI |
 | 🥈 [Stop Overthinking: A Survey on Efficient Reasoning for Large Language
-  Models](https://huggingface.co/papers/2503.16419) | ⭐ 29 | AI |
-| 🥉 [Unleashing Vecset Diffusion Model for Fast Shape Generation](https://huggingface.co/papers/2503.16302) | ⭐ 25 | AI |
+  Models](https://huggingface.co/papers/2503.16419) | ⭐ 35 | AI |
+| 🥉 [Survey on Evaluation of LLM-based Agents](https://huggingface.co/papers/2503.16416) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-03-21 12:44 UTC</sub>
+<sub>Last updated: 2025-03-21 18:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
