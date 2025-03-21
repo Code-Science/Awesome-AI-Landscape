@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [φ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time
-  Exploration and Exploitation](https://huggingface.co/papers/2503.13288) | ⭐ 37 | AI |
+  Exploration and Exploitation](https://huggingface.co/papers/2503.13288) | ⭐ 40 | AI |
 | 🥈 [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement
-  Learning](https://huggingface.co/papers/2503.15265) | ⭐ 31 | AI |
-| 🥉 [TULIP: Towards Unified Language-Image Pretraining](https://huggingface.co/papers/2503.15485) | ⭐ 26 | AI |
+  Learning](https://huggingface.co/papers/2503.15265) | ⭐ 35 | AI |
+| 🥉 [TULIP: Towards Unified Language-Image Pretraining](https://huggingface.co/papers/2503.15485) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-03-20 18:31 UTC</sub>
+<sub>Last updated: 2025-03-21 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
