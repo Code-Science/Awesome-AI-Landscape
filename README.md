@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Stop Overthinking: A Survey on Efficient Reasoning for Large Language
-  Models](https://huggingface.co/papers/2503.16419) | ⭐ 20 | AI |
-| 🥈 [Unleashing Vecset Diffusion Model for Fast Shape Generation](https://huggingface.co/papers/2503.16302) | ⭐ 16 | AI |
-| 🥉 [MathFusion: Enhancing Mathematic Problem-solving of LLM through
-  Instruction Fusion](https://huggingface.co/papers/2503.16212) | ⭐ 12 | AI |
+| 🏆 [One-Step Residual Shifting Diffusion for Image Super-Resolution via
+  Distillation](https://huggingface.co/papers/2503.13358) | ⭐ 57 | AI |
+| 🥈 [Stop Overthinking: A Survey on Efficient Reasoning for Large Language
+  Models](https://huggingface.co/papers/2503.16419) | ⭐ 29 | AI |
+| 🥉 [Unleashing Vecset Diffusion Model for Fast Shape Generation](https://huggingface.co/papers/2503.16302) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-03-21 06:33 UTC</sub>
+<sub>Last updated: 2025-03-21 12:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
