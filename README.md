@@ -21,10 +21,10 @@
 | 🏆 [One-Step Residual Shifting Diffusion for Image Super-Resolution via
   Distillation](https://huggingface.co/papers/2503.13358) | ⭐ 75 | AI |
 | 🥈 [Stop Overthinking: A Survey on Efficient Reasoning for Large Language
-  Models](https://huggingface.co/papers/2503.16419) | ⭐ 42 | AI |
-| 🥉 [Survey on Evaluation of LLM-based Agents](https://huggingface.co/papers/2503.16416) | ⭐ 35 | AI |
+  Models](https://huggingface.co/papers/2503.16419) | ⭐ 44 | AI |
+| 🥉 [Survey on Evaluation of LLM-based Agents](https://huggingface.co/papers/2503.16416) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-03-22 06:29 UTC</sub>
+<sub>Last updated: 2025-03-22 12:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
