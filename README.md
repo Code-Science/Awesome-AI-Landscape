@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [One-Step Residual Shifting Diffusion for Image Super-Resolution via
-  Distillation](https://huggingface.co/papers/2503.13358) | ⭐ 83 | AI |
-| 🥈 [Survey on Evaluation of LLM-based Agents](https://huggingface.co/papers/2503.16416) | ⭐ 62 | AI |
-| 🥉 [Stop Overthinking: A Survey on Efficient Reasoning for Large Language
-  Models](https://huggingface.co/papers/2503.16419) | ⭐ 54 | AI |
+| 🏆 [MAPS: A Multi-Agent Framework Based on Big Seven Personality and
+  Socratic Guidance for Multimodal Scientific Problem Solving](https://huggingface.co/papers/2503.16905) | ⭐ 32 | AI |
+| 🥈 [MARS: A Multi-Agent Framework Incorporating Socratic Guidance for
+  Automated Prompt Optimization](https://huggingface.co/papers/2503.16874) | ⭐ 28 | AI |
+| 🥉 [RoboFactory: Exploring Embodied Agent Collaboration with Compositional
+  Constraints](https://huggingface.co/papers/2503.16408) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-03-24 01:53 UTC</sub>
+<sub>Last updated: 2025-03-24 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
