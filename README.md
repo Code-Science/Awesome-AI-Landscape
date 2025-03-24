@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [MAPS: A Multi-Agent Framework Based on Big Seven Personality and
-  Socratic Guidance for Multimodal Scientific Problem Solving](https://huggingface.co/papers/2503.16905) | ⭐ 32 | AI |
+  Socratic Guidance for Multimodal Scientific Problem Solving](https://huggingface.co/papers/2503.16905) | ⭐ 38 | AI |
 | 🥈 [MARS: A Multi-Agent Framework Incorporating Socratic Guidance for
-  Automated Prompt Optimization](https://huggingface.co/papers/2503.16874) | ⭐ 28 | AI |
+  Automated Prompt Optimization](https://huggingface.co/papers/2503.16874) | ⭐ 33 | AI |
 | 🥉 [RoboFactory: Exploring Embodied Agent Collaboration with Compositional
-  Constraints](https://huggingface.co/papers/2503.16408) | ⭐ 23 | AI |
+  Constraints](https://huggingface.co/papers/2503.16408) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-03-24 06:33 UTC</sub>
+<sub>Last updated: 2025-03-24 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
