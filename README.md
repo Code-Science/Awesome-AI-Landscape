@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Position: Interactive Generative Video as Next-Generation Game Engine](https://huggingface.co/papers/2503.17359) | ⭐ 42 | AI |
-| 🥈 [Video-T1: Test-Time Scaling for Video Generation](https://huggingface.co/papers/2503.18942) | ⭐ 36 | AI |
-| 🥉 [SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for
-  Open Base Models in the Wild](https://huggingface.co/papers/2503.18892) | ⭐ 10 | AI |
+| 🏆 [I Have Covered All the Bases Here: Interpreting Reasoning Features in
+  Large Language Models via Sparse Autoencoders](https://huggingface.co/papers/2503.18878) | ⭐ 70 | AI |
+| 🥈 [Position: Interactive Generative Video as Next-Generation Game Engine](https://huggingface.co/papers/2503.17359) | ⭐ 50 | AI |
+| 🥉 [Video-T1: Test-Time Scaling for Video Generation](https://huggingface.co/papers/2503.18942) | ⭐ 44 | AI |
 
-<sub>Last updated: 2025-03-25 06:32 UTC</sub>
+<sub>Last updated: 2025-03-25 12:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
