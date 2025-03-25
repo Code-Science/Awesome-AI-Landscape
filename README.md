@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [I Have Covered All the Bases Here: Interpreting Reasoning Features in
-  Large Language Models via Sparse Autoencoders](https://huggingface.co/papers/2503.18878) | ⭐ 70 | AI |
-| 🥈 [Position: Interactive Generative Video as Next-Generation Game Engine](https://huggingface.co/papers/2503.17359) | ⭐ 50 | AI |
-| 🥉 [Video-T1: Test-Time Scaling for Video Generation](https://huggingface.co/papers/2503.18942) | ⭐ 44 | AI |
+  Large Language Models via Sparse Autoencoders](https://huggingface.co/papers/2503.18878) | ⭐ 77 | AI |
+| 🥈 [Position: Interactive Generative Video as Next-Generation Game Engine](https://huggingface.co/papers/2503.17359) | ⭐ 51 | AI |
+| 🥉 [Video-T1: Test-Time Scaling for Video Generation](https://huggingface.co/papers/2503.18942) | ⭐ 50 | AI |
 
-<sub>Last updated: 2025-03-25 12:46 UTC</sub>
+<sub>Last updated: 2025-03-25 18:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
