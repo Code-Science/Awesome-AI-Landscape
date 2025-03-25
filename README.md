@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [When Less is Enough: Adaptive Token Reduction for Efficient Image
-  Representation](https://huggingface.co/papers/2503.16660) | ⭐ 51 | AI |
+  Representation](https://huggingface.co/papers/2503.16660) | ⭐ 55 | AI |
 | 🥈 [MAPS: A Multi-Agent Framework Based on Big Seven Personality and
-  Socratic Guidance for Multimodal Scientific Problem Solving](https://huggingface.co/papers/2503.16905) | ⭐ 44 | AI |
+  Socratic Guidance for Multimodal Scientific Problem Solving](https://huggingface.co/papers/2503.16905) | ⭐ 45 | AI |
 | 🥉 [MARS: A Multi-Agent Framework Incorporating Socratic Guidance for
-  Automated Prompt Optimization](https://huggingface.co/papers/2503.16874) | ⭐ 37 | AI |
+  Automated Prompt Optimization](https://huggingface.co/papers/2503.16874) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-03-24 18:32 UTC</sub>
+<sub>Last updated: 2025-03-25 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
