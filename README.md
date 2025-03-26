@@ -18,12 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [I Have Covered All the Bases Here: Interpreting Reasoning Features in
-  Large Language Models via Sparse Autoencoders](https://huggingface.co/papers/2503.18878) | ⭐ 77 | AI |
-| 🥈 [Position: Interactive Generative Video as Next-Generation Game Engine](https://huggingface.co/papers/2503.17359) | ⭐ 51 | AI |
-| 🥉 [Video-T1: Test-Time Scaling for Video Generation](https://huggingface.co/papers/2503.18942) | ⭐ 50 | AI |
+| 🏆 [Gumbel-Softmax Flow Matching with Straight-Through Guidance for
+  Controllable Biological Sequence Generation](https://huggingface.co/papers/2503.17361) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-03-25 18:31 UTC</sub>
+<sub>Last updated: 2025-03-26 01:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
