@@ -18,10 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Gumbel-Softmax Flow Matching with Straight-Through Guidance for
-  Controllable Biological Sequence Generation](https://huggingface.co/papers/2503.17361) | ⭐ 0 | AI |
+| 🏆 [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://huggingface.co/papers/2503.19325) | ⭐ 45 | AI |
+| 🥈 [CoMP: Continual Multimodal Pre-training for Vision Foundation Models](https://huggingface.co/papers/2503.18931) | ⭐ 15 | AI |
+| 🥉 [Inference-Time Scaling for Flow Models via Stochastic Generation and
+  Rollover Budget Forcing](https://huggingface.co/papers/2503.19385) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-03-26 01:49 UTC</sub>
+<sub>Last updated: 2025-03-26 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
