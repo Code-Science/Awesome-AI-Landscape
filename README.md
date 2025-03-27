@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://huggingface.co/papers/2503.19325) | ⭐ 58 | AI |
-| 🥈 [CoMP: Continual Multimodal Pre-training for Vision Foundation Models](https://huggingface.co/papers/2503.18931) | ⭐ 25 | AI |
-| 🥉 [Exploring Hallucination of Large Multimodal Models in Video
-  Understanding: Benchmark, Analysis and Mitigation](https://huggingface.co/papers/2503.19622) | ⭐ 24 | AI |
+| 🏆 [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://huggingface.co/papers/2503.19325) | ⭐ 59 | AI |
+| 🥈 [Exploring Hallucination of Large Multimodal Models in Video
+  Understanding: Benchmark, Analysis and Mitigation](https://huggingface.co/papers/2503.19622) | ⭐ 26 | AI |
+| 🥉 [CoMP: Continual Multimodal Pre-training for Vision Foundation Models](https://huggingface.co/papers/2503.18931) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-03-26 18:32 UTC</sub>
+<sub>Last updated: 2025-03-27 01:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
