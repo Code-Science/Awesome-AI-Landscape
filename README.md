@@ -19,12 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Dita: Scaling Diffusion Transformer for Generalist
-  Vision-Language-Action Policy](https://huggingface.co/papers/2503.19757) | ⭐ 30 | AI |
-| 🥈 [LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](https://huggingface.co/papers/2503.19990) | ⭐ 19 | AI |
-| 🥉 [Unconditional Priors Matter! Improving Conditional Generation of
-  Fine-Tuned Diffusion Models](https://huggingface.co/papers/2503.20240) | ⭐ 15 | AI |
+  Vision-Language-Action Policy](https://huggingface.co/papers/2503.19757) | ⭐ 34 | AI |
+| 🥈 [Qwen2.5-Omni Technical Report](https://huggingface.co/papers/2503.20215) | ⭐ 29 | AI |
+| 🥉 [LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](https://huggingface.co/papers/2503.19990) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-03-27 06:31 UTC</sub>
+<sub>Last updated: 2025-03-27 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
