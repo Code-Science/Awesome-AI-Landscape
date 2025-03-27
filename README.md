@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://huggingface.co/papers/2503.19325) | ⭐ 59 | AI |
-| 🥈 [Exploring Hallucination of Large Multimodal Models in Video
-  Understanding: Benchmark, Analysis and Mitigation](https://huggingface.co/papers/2503.19622) | ⭐ 26 | AI |
-| 🥉 [CoMP: Continual Multimodal Pre-training for Vision Foundation Models](https://huggingface.co/papers/2503.18931) | ⭐ 26 | AI |
+| 🏆 [Dita: Scaling Diffusion Transformer for Generalist
+  Vision-Language-Action Policy](https://huggingface.co/papers/2503.19757) | ⭐ 30 | AI |
+| 🥈 [LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](https://huggingface.co/papers/2503.19990) | ⭐ 19 | AI |
+| 🥉 [Unconditional Priors Matter! Improving Conditional Generation of
+  Fine-Tuned Diffusion Models](https://huggingface.co/papers/2503.20240) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-03-27 01:49 UTC</sub>
+<sub>Last updated: 2025-03-27 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
