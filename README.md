@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen2.5-Omni Technical Report](https://huggingface.co/papers/2503.20215) | ⭐ 50 | AI |
-| 🥈 [Dita: Scaling Diffusion Transformer for Generalist
-  Vision-Language-Action Policy](https://huggingface.co/papers/2503.19757) | ⭐ 39 | AI |
-| 🥉 [Wan: Open and Advanced Large-Scale Video Generative Models](https://huggingface.co/papers/2503.20314) | ⭐ 27 | AI |
+| 🏆 [Unified Multimodal Discrete Diffusion](https://huggingface.co/papers/2503.20853) | ⭐ 1 | AI |
+| 🥈 [LLPut: Investigating Large Language Models for Bug Report-Based Input
+  Generation](https://huggingface.co/papers/2503.20578) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-03-27 18:31 UTC</sub>
+<sub>Last updated: 2025-03-28 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
