@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unified Multimodal Discrete Diffusion](https://huggingface.co/papers/2503.20853) | ⭐ 1 | AI |
-| 🥈 [LLPut: Investigating Large Language Models for Bug Report-Based Input
-  Generation](https://huggingface.co/papers/2503.20578) | ⭐ 1 | AI |
+| 🏆 [Video-R1: Reinforcing Video Reasoning in MLLMs](https://huggingface.co/papers/2503.21776) | ⭐ 35 | AI |
+| 🥈 [Challenging the Boundaries of Reasoning: An Olympiad-Level Math
+  Benchmark for Large Language Models](https://huggingface.co/papers/2503.21380) | ⭐ 22 | AI |
+| 🥉 [VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic
+  Faithfulness](https://huggingface.co/papers/2503.21755) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-03-28 01:50 UTC</sub>
+<sub>Last updated: 2025-03-28 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
