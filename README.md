@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video-R1: Reinforcing Video Reasoning in MLLMs](https://huggingface.co/papers/2503.21776) | ⭐ 54 | AI |
+| 🏆 [Video-R1: Reinforcing Video Reasoning in MLLMs](https://huggingface.co/papers/2503.21776) | ⭐ 57 | AI |
 | 🥈 [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement
-  Learning](https://huggingface.co/papers/2503.21620) | ⭐ 37 | AI |
+  Learning](https://huggingface.co/papers/2503.21620) | ⭐ 40 | AI |
 | 🥉 [Challenging the Boundaries of Reasoning: An Olympiad-Level Math
-  Benchmark for Large Language Models](https://huggingface.co/papers/2503.21380) | ⭐ 29 | AI |
+  Benchmark for Large Language Models](https://huggingface.co/papers/2503.21380) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-03-28 18:32 UTC</sub>
+<sub>Last updated: 2025-03-29 01:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
