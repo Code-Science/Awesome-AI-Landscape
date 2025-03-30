@@ -22,9 +22,9 @@
 | 🥈 [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement
   Learning](https://huggingface.co/papers/2503.21620) | ⭐ 45 | AI |
 | 🥉 [Large Language Model Agent: A Survey on Methodology, Applications and
-  Challenges](https://huggingface.co/papers/2503.21460) | ⭐ 38 | AI |
+  Challenges](https://huggingface.co/papers/2503.21460) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-03-30 01:57 UTC</sub>
+<sub>Last updated: 2025-03-30 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
