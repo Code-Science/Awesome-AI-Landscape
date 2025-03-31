@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Think Before Recommend: Unleashing the Latent Reasoning Power for
-  Sequential Recommendation](https://huggingface.co/papers/2503.22675) | ⭐ 18 | AI |
+| 🏆 [AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through
+  Lightweight Vocabulary Adaptation](https://huggingface.co/papers/2503.19693) | ⭐ 37 | AI |
 | 🥈 [Exploring Data Scaling Trends and Effects in Reinforcement Learning from
-  Human Feedback](https://huggingface.co/papers/2503.22230) | ⭐ 12 | AI |
-| 🥉 [ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation](https://huggingface.co/papers/2503.22194) | ⭐ 12 | AI |
+  Human Feedback](https://huggingface.co/papers/2503.22230) | ⭐ 24 | AI |
+| 🥉 [Think Before Recommend: Unleashing the Latent Reasoning Power for
+  Sequential Recommendation](https://huggingface.co/papers/2503.22675) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-03-31 06:33 UTC</sub>
+<sub>Last updated: 2025-03-31 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
