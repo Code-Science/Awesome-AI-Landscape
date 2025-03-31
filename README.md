@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video-R1: Reinforcing Video Reasoning in MLLMs](https://huggingface.co/papers/2503.21776) | ⭐ 67 | AI |
-| 🥈 [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement
+| 🏆 [Video-R1: Reinforcing Video Reasoning in MLLMs](https://huggingface.co/papers/2503.21776) | ⭐ 69 | AI |
+| 🥈 [Large Language Model Agent: A Survey on Methodology, Applications and
+  Challenges](https://huggingface.co/papers/2503.21460) | ⭐ 53 | AI |
+| 🥉 [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement
   Learning](https://huggingface.co/papers/2503.21620) | ⭐ 46 | AI |
-| 🥉 [Large Language Model Agent: A Survey on Methodology, Applications and
-  Challenges](https://huggingface.co/papers/2503.21460) | ⭐ 41 | AI |
 
-<sub>Last updated: 2025-03-30 18:28 UTC</sub>
+<sub>Last updated: 2025-03-31 01:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
