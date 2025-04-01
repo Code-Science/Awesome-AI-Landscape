@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [TextCrafter: Accurately Rendering Multiple Texts in Complex Visual
-  Scenes](https://huggingface.co/papers/2503.23461) | ⭐ 53 | AI |
-| 🥈 [MoCha: Towards Movie-Grade Talking Character Synthesis](https://huggingface.co/papers/2503.23307) | ⭐ 35 | AI |
-| 🥉 [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large
-  Language Models](https://huggingface.co/papers/2503.24235) | ⭐ 27 | AI |
+  Scenes](https://huggingface.co/papers/2503.23461) | ⭐ 58 | AI |
+| 🥈 [MoCha: Towards Movie-Grade Talking Character Synthesis](https://huggingface.co/papers/2503.23307) | ⭐ 41 | AI |
+| 🥉 [Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement
+  Learning on the Base Model](https://huggingface.co/papers/2503.24290) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-04-01 12:49 UTC</sub>
+<sub>Last updated: 2025-04-01 18:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
