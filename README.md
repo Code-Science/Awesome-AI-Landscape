@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through
-  Lightweight Vocabulary Adaptation](https://huggingface.co/papers/2503.19693) | ⭐ 52 | AI |
-| 🥈 [Exploring Data Scaling Trends and Effects in Reinforcement Learning from
-  Human Feedback](https://huggingface.co/papers/2503.22230) | ⭐ 28 | AI |
-| 🥉 [Think Before Recommend: Unleashing the Latent Reasoning Power for
-  Sequential Recommendation](https://huggingface.co/papers/2503.22675) | ⭐ 26 | AI |
+| 🏆 [MoCha: Towards Movie-Grade Talking Character Synthesis](https://huggingface.co/papers/2503.23307) | ⭐ 20 | AI |
+| 🥈 [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large
+  Language Models](https://huggingface.co/papers/2503.24235) | ⭐ 18 | AI |
+| 🥉 [RIG: Synergizing Reasoning and Imagination in End-to-End Generalist
+  Policy](https://huggingface.co/papers/2503.24388) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-04-01 02:02 UTC</sub>
+<sub>Last updated: 2025-04-01 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
