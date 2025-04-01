@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through
-  Lightweight Vocabulary Adaptation](https://huggingface.co/papers/2503.19693) | ⭐ 46 | AI |
+  Lightweight Vocabulary Adaptation](https://huggingface.co/papers/2503.19693) | ⭐ 52 | AI |
 | 🥈 [Exploring Data Scaling Trends and Effects in Reinforcement Learning from
-  Human Feedback](https://huggingface.co/papers/2503.22230) | ⭐ 26 | AI |
+  Human Feedback](https://huggingface.co/papers/2503.22230) | ⭐ 28 | AI |
 | 🥉 [Think Before Recommend: Unleashing the Latent Reasoning Power for
-  Sequential Recommendation](https://huggingface.co/papers/2503.22675) | ⭐ 24 | AI |
+  Sequential Recommendation](https://huggingface.co/papers/2503.22675) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-03-31 18:32 UTC</sub>
+<sub>Last updated: 2025-04-01 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
