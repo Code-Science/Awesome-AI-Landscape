@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Any2Caption:Interpreting Any Condition to Caption for Controllable Video
-  Generation](https://huggingface.co/papers/2503.24379) | ⭐ 35 | AI |
-| 🥈 [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive
-  Program Synthesis](https://huggingface.co/papers/2503.23145) | ⭐ 17 | AI |
-| 🥉 [Exploring the Effect of Reinforcement Learning on Video Understanding:
-  Insights from SEED-Bench-R1](https://huggingface.co/papers/2503.24376) | ⭐ 16 | AI |
+  Generation](https://huggingface.co/papers/2503.24379) | ⭐ 40 | AI |
+| 🥈 [Exploring the Effect of Reinforcement Learning on Video Understanding:
+  Insights from SEED-Bench-R1](https://huggingface.co/papers/2503.24376) | ⭐ 22 | AI |
+| 🥉 [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive
+  Program Synthesis](https://huggingface.co/papers/2503.23145) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-04-02 06:32 UTC</sub>
+<sub>Last updated: 2025-04-02 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
