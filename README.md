@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TextCrafter: Accurately Rendering Multiple Texts in Complex Visual
-  Scenes](https://huggingface.co/papers/2503.23461) | ⭐ 58 | AI |
-| 🥈 [MoCha: Towards Movie-Grade Talking Character Synthesis](https://huggingface.co/papers/2503.23307) | ⭐ 41 | AI |
-| 🥉 [Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement
-  Learning on the Base Model](https://huggingface.co/papers/2503.24290) | ⭐ 32 | AI |
+| 🏆 [Agent S2: A Compositional Generalist-Specialist Framework for Computer
+  Use Agents](https://huggingface.co/papers/2504.00906) | ⭐ 4 | AI |
+| 🥈 [Discovering Knowledge Deficiencies of Language Models on Massive
+  Knowledge Base](https://huggingface.co/papers/2503.23361) | ⭐ 2 | AI |
+| 🥉 [GeometryCrafter: Consistent Geometry Estimation for Open-world Videos
+  with Diffusion Priors](https://huggingface.co/papers/2504.01016) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-04-01 18:31 UTC</sub>
+<sub>Last updated: 2025-04-02 01:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
