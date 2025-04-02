@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agent S2: A Compositional Generalist-Specialist Framework for Computer
-  Use Agents](https://huggingface.co/papers/2504.00906) | ⭐ 4 | AI |
-| 🥈 [Discovering Knowledge Deficiencies of Language Models on Massive
-  Knowledge Base](https://huggingface.co/papers/2503.23361) | ⭐ 2 | AI |
-| 🥉 [GeometryCrafter: Consistent Geometry Estimation for Open-world Videos
-  with Diffusion Priors](https://huggingface.co/papers/2504.01016) | ⭐ 1 | AI |
+| 🏆 [Any2Caption:Interpreting Any Condition to Caption for Controllable Video
+  Generation](https://huggingface.co/papers/2503.24379) | ⭐ 35 | AI |
+| 🥈 [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive
+  Program Synthesis](https://huggingface.co/papers/2503.23145) | ⭐ 17 | AI |
+| 🥉 [Exploring the Effect of Reinforcement Learning on Video Understanding:
+  Insights from SEED-Bench-R1](https://huggingface.co/papers/2503.24376) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-04-02 01:52 UTC</sub>
+<sub>Last updated: 2025-04-02 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
