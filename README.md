@@ -19,13 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [MergeVQ: A Unified Framework for Visual Generation and Representation
-  with Disentangled Token Merging and Quantization](https://huggingface.co/papers/2504.00999) | ⭐ 3 | AI |
-| 🥈 [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to
-  Gaussian Noise in Perturbation-based Attacks](https://huggingface.co/papers/2504.01308) | ⭐ 2 | AI |
-| 🥉 [ScholarCopilot: Training Large Language Models for Academic Writing with
-  Accurate Citations](https://huggingface.co/papers/2504.00824) | ⭐ 0 | AI |
+  with Disentangled Token Merging and Quantization](https://huggingface.co/papers/2504.00999) | ⭐ 43 | AI |
+| 🥈 [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://huggingface.co/papers/2504.00883) | ⭐ 37 | AI |
+| 🥉 [AnimeGamer: Infinite Anime Life Simulation with Next Game State
+  Prediction](https://huggingface.co/papers/2504.01014) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-04-03 01:50 UTC</sub>
+<sub>Last updated: 2025-04-03 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
