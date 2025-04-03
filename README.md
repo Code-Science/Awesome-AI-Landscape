@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Any2Caption:Interpreting Any Condition to Caption for Controllable Video
-  Generation](https://huggingface.co/papers/2503.24379) | ⭐ 43 | AI |
-| 🥈 [JudgeLRM: Large Reasoning Models as a Judge](https://huggingface.co/papers/2504.00050) | ⭐ 29 | AI |
-| 🥉 [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive
-  Program Synthesis](https://huggingface.co/papers/2503.23145) | ⭐ 26 | AI |
+| 🏆 [MergeVQ: A Unified Framework for Visual Generation and Representation
+  with Disentangled Token Merging and Quantization](https://huggingface.co/papers/2504.00999) | ⭐ 3 | AI |
+| 🥈 [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to
+  Gaussian Noise in Perturbation-based Attacks](https://huggingface.co/papers/2504.01308) | ⭐ 2 | AI |
+| 🥉 [ScholarCopilot: Training Large Language Models for Academic Writing with
+  Accurate Citations](https://huggingface.co/papers/2504.00824) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-04-02 18:32 UTC</sub>
+<sub>Last updated: 2025-04-03 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
