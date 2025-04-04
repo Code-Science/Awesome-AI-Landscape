@@ -20,11 +20,11 @@
 |-------|--------|-----------|
 | 🏆 [MergeVQ: A Unified Framework for Visual Generation and Representation
   with Disentangled Token Merging and Quantization](https://huggingface.co/papers/2504.00999) | ⭐ 56 | AI |
-| 🥈 [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://huggingface.co/papers/2504.00883) | ⭐ 41 | AI |
+| 🥈 [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://huggingface.co/papers/2504.00883) | ⭐ 42 | AI |
 | 🥉 [AnimeGamer: Infinite Anime Life Simulation with Next Game State
-  Prediction](https://huggingface.co/papers/2504.01014) | ⭐ 29 | AI |
+  Prediction](https://huggingface.co/papers/2504.01014) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-04-03 18:31 UTC</sub>
+<sub>Last updated: 2025-04-04 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
