@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image
-  Generation](https://huggingface.co/papers/2504.02782) | ⭐ 21 | AI |
-| 🥈 [Rethinking RL Scaling for Vision Language Models: A Transparent,
-  From-Scratch Framework and Comprehensive Evaluation Scheme](https://huggingface.co/papers/2504.02587) | ⭐ 9 | AI |
-| 🥉 [Audio-visual Controlled Video Diffusion with Masked Selective State
-  Spaces Modeling for Natural Talking Head Generation](https://huggingface.co/papers/2504.02542) | ⭐ 7 | AI |
+| 🏆 [Advances and Challenges in Foundation Agents: From Brain-Inspired
+  Intelligence to Evolutionary, Collaborative, and Safe Systems](https://huggingface.co/papers/2504.01990) | ⭐ 69 | AI |
+| 🥈 [Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual
+  Editing](https://huggingface.co/papers/2504.02826) | ⭐ 51 | AI |
+| 🥉 [GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image
+  Generation](https://huggingface.co/papers/2504.02782) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-04-04 06:32 UTC</sub>
+<sub>Last updated: 2025-04-04 12:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
