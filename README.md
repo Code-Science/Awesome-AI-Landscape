@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MergeVQ: A Unified Framework for Visual Generation and Representation
-  with Disentangled Token Merging and Quantization](https://huggingface.co/papers/2504.00999) | ⭐ 56 | AI |
-| 🥈 [Improved Visual-Spatial Reasoning via R1-Zero-Like Training](https://huggingface.co/papers/2504.00883) | ⭐ 42 | AI |
-| 🥉 [AnimeGamer: Infinite Anime Life Simulation with Next Game State
-  Prediction](https://huggingface.co/papers/2504.01014) | ⭐ 30 | AI |
+| 🏆 [GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image
+  Generation](https://huggingface.co/papers/2504.02782) | ⭐ 21 | AI |
+| 🥈 [Rethinking RL Scaling for Vision Language Models: A Transparent,
+  From-Scratch Framework and Comprehensive Evaluation Scheme](https://huggingface.co/papers/2504.02587) | ⭐ 9 | AI |
+| 🥉 [Audio-visual Controlled Video Diffusion with Masked Selective State
+  Spaces Modeling for Natural Talking Head Generation](https://huggingface.co/papers/2504.02542) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-04-04 01:50 UTC</sub>
+<sub>Last updated: 2025-04-04 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
