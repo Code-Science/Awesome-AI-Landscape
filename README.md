@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Advances and Challenges in Foundation Agents: From Brain-Inspired
-  Intelligence to Evolutionary, Collaborative, and Safe Systems](https://huggingface.co/papers/2504.01990) | ⭐ 121 | AI |
-| 🥈 [ZClip: Adaptive Spike Mitigation for LLM Pre-Training](https://huggingface.co/papers/2504.02507) | ⭐ 66 | AI |
+  Intelligence to Evolutionary, Collaborative, and Safe Systems](https://huggingface.co/papers/2504.01990) | ⭐ 133 | AI |
+| 🥈 [ZClip: Adaptive Spike Mitigation for LLM Pre-Training](https://huggingface.co/papers/2504.02507) | ⭐ 67 | AI |
 | 🥉 [Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual
   Editing](https://huggingface.co/papers/2504.02826) | ⭐ 58 | AI |
 
-<sub>Last updated: 2025-04-06 01:56 UTC</sub>
+<sub>Last updated: 2025-04-06 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
