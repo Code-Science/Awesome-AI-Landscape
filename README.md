@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://huggingface.co/papers/2504.02605) | ⭐ 19 | AI |
-| 🥈 [Agentic Knowledgeable Self-awareness](https://huggingface.co/papers/2504.03553) | ⭐ 9 | AI |
-| 🥉 [SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge
-  Refinement](https://huggingface.co/papers/2504.03561) | ⭐ 7 | AI |
+| 🏆 [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://huggingface.co/papers/2504.02605) | ⭐ 28 | AI |
+| 🥈 [Agentic Knowledgeable Self-awareness](https://huggingface.co/papers/2504.03553) | ⭐ 16 | AI |
+| 🥉 [MegaMath: Pushing the Limits of Open Math Corpora](https://huggingface.co/papers/2504.02807) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-04-07 06:34 UTC</sub>
+<sub>Last updated: 2025-04-07 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
