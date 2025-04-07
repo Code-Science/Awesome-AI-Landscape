@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Advances and Challenges in Foundation Agents: From Brain-Inspired
-  Intelligence to Evolutionary, Collaborative, and Safe Systems](https://huggingface.co/papers/2504.01990) | ⭐ 161 | AI |
-| 🥈 [ZClip: Adaptive Spike Mitigation for LLM Pre-Training](https://huggingface.co/papers/2504.02507) | ⭐ 71 | AI |
-| 🥉 [Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual
-  Editing](https://huggingface.co/papers/2504.02826) | ⭐ 61 | AI |
+| 🏆 [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://huggingface.co/papers/2504.02605) | ⭐ 19 | AI |
+| 🥈 [Agentic Knowledgeable Self-awareness](https://huggingface.co/papers/2504.03553) | ⭐ 9 | AI |
+| 🥉 [SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge
+  Refinement](https://huggingface.co/papers/2504.03561) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-04-07 01:54 UTC</sub>
+<sub>Last updated: 2025-04-07 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
