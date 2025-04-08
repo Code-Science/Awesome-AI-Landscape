@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://huggingface.co/papers/2504.02605) | ⭐ 29 | AI |
-| 🥈 [Agentic Knowledgeable Self-awareness](https://huggingface.co/papers/2504.03553) | ⭐ 19 | AI |
-| 🥉 [MegaMath: Pushing the Limits of Open Math Corpora](https://huggingface.co/papers/2504.02807) | ⭐ 19 | AI |
+| 🏆 [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://huggingface.co/papers/2504.02605) | ⭐ 30 | AI |
+| 🥈 [MegaMath: Pushing the Limits of Open Math Corpora](https://huggingface.co/papers/2504.02807) | ⭐ 20 | AI |
+| 🥉 [Agentic Knowledgeable Self-awareness](https://huggingface.co/papers/2504.03553) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-04-07 18:31 UTC</sub>
+<sub>Last updated: 2025-04-08 01:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
