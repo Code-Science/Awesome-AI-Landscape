@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://huggingface.co/papers/2504.02605) | ⭐ 30 | AI |
-| 🥈 [MegaMath: Pushing the Limits of Open Math Corpora](https://huggingface.co/papers/2504.02807) | ⭐ 20 | AI |
-| 🥉 [Agentic Knowledgeable Self-awareness](https://huggingface.co/papers/2504.03553) | ⭐ 19 | AI |
+| 🏆 [One-Minute Video Generation with Test-Time Training](https://huggingface.co/papers/2504.05298) | ⭐ 14 | AI |
+| 🥈 [URECA: Unique Region Caption Anything](https://huggingface.co/papers/2504.05305) | ⭐ 10 | AI |
+| 🥉 [Concept Lancet: Image Editing with Compositional Representation
+  Transplant](https://huggingface.co/papers/2504.02828) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-04-08 01:51 UTC</sub>
+<sub>Last updated: 2025-04-08 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
