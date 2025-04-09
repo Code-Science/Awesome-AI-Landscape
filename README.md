@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SmolVLM: Redefining small and efficient multimodal models](https://huggingface.co/papers/2504.05299) | ⭐ 90 | AI |
-| 🥈 [One-Minute Video Generation with Test-Time Training](https://huggingface.co/papers/2504.05298) | ⭐ 59 | AI |
-| 🥉 [Rethinking Reflection in Pre-Training](https://huggingface.co/papers/2504.04022) | ⭐ 49 | AI |
+| 🏆 [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://huggingface.co/papers/2504.06263) | ⭐ 34 | AI |
+| 🥈 [An Empirical Study of GPT-4o Image Generation Capabilities](https://huggingface.co/papers/2504.05979) | ⭐ 32 | AI |
+| 🥉 [Less-to-More Generalization: Unlocking More Controllability by
+  In-Context Generation](https://huggingface.co/papers/2504.02160) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-04-09 01:51 UTC</sub>
+<sub>Last updated: 2025-04-09 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
