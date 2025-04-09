@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SmolVLM: Redefining small and efficient multimodal models](https://huggingface.co/papers/2504.05299) | ⭐ 75 | AI |
-| 🥈 [One-Minute Video Generation with Test-Time Training](https://huggingface.co/papers/2504.05298) | ⭐ 51 | AI |
-| 🥉 [Rethinking Reflection in Pre-Training](https://huggingface.co/papers/2504.04022) | ⭐ 45 | AI |
+| 🏆 [SmolVLM: Redefining small and efficient multimodal models](https://huggingface.co/papers/2504.05299) | ⭐ 90 | AI |
+| 🥈 [One-Minute Video Generation with Test-Time Training](https://huggingface.co/papers/2504.05298) | ⭐ 59 | AI |
+| 🥉 [Rethinking Reflection in Pre-Training](https://huggingface.co/papers/2504.04022) | ⭐ 49 | AI |
 
-<sub>Last updated: 2025-04-08 18:32 UTC</sub>
+<sub>Last updated: 2025-04-09 01:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
