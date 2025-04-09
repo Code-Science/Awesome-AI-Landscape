@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://huggingface.co/papers/2504.06263) | ⭐ 34 | AI |
-| 🥈 [An Empirical Study of GPT-4o Image Generation Capabilities](https://huggingface.co/papers/2504.05979) | ⭐ 32 | AI |
-| 🥉 [Less-to-More Generalization: Unlocking More Controllability by
-  In-Context Generation](https://huggingface.co/papers/2504.02160) | ⭐ 13 | AI |
+| 🏆 [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://huggingface.co/papers/2504.06263) | ⭐ 53 | AI |
+| 🥈 [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://huggingface.co/papers/2504.05599) | ⭐ 45 | AI |
+| 🥉 [An Empirical Study of GPT-4o Image Generation Capabilities](https://huggingface.co/papers/2504.05979) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-04-09 06:33 UTC</sub>
+<sub>Last updated: 2025-04-09 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
