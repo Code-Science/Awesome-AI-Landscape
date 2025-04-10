@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 38 | AI |
-| 🥈 [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of
-  Photography](https://huggingface.co/papers/2504.07083) | ⭐ 17 | AI |
-| 🥉 [OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training
-  Tokens](https://huggingface.co/papers/2504.07096) | ⭐ 16 | AI |
+| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 44 | AI |
+| 🥈 [OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training
+  Tokens](https://huggingface.co/papers/2504.07096) | ⭐ 29 | AI |
+| 🥉 [A Unified Agentic Framework for Evaluating Conditional Image Generation](https://huggingface.co/papers/2504.07046) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-04-10 12:48 UTC</sub>
+<sub>Last updated: 2025-04-10 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
