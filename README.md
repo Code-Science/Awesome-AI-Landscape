@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 24 | AI |
+| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 38 | AI |
 | 🥈 [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of
-  Photography](https://huggingface.co/papers/2504.07083) | ⭐ 16 | AI |
-| 🥉 [Missing Premise exacerbates Overthinking: Are Reasoning Models losing
-  Critical Thinking Skill?](https://huggingface.co/papers/2504.06514) | ⭐ 8 | AI |
+  Photography](https://huggingface.co/papers/2504.07083) | ⭐ 17 | AI |
+| 🥉 [OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training
+  Tokens](https://huggingface.co/papers/2504.07096) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-04-10 06:33 UTC</sub>
+<sub>Last updated: 2025-04-10 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
