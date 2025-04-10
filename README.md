@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://huggingface.co/papers/2504.06263) | ⭐ 87 | AI |
-| 🥈 [Hogwild! Inference: Parallel LLM Generation via Concurrent Attention](https://huggingface.co/papers/2504.06261) | ⭐ 71 | AI |
-| 🥉 [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://huggingface.co/papers/2504.05599) | ⭐ 61 | AI |
+| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 24 | AI |
+| 🥈 [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of
+  Photography](https://huggingface.co/papers/2504.07083) | ⭐ 16 | AI |
+| 🥉 [Missing Premise exacerbates Overthinking: Are Reasoning Models losing
+  Critical Thinking Skill?](https://huggingface.co/papers/2504.06514) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-04-10 01:51 UTC</sub>
+<sub>Last updated: 2025-04-10 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
