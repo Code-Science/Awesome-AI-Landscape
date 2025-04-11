@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 58 | AI |
+| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 68 | AI |
 | 🥈 [VCR-Bench: A Comprehensive Evaluation Framework for Video
-  Chain-of-Thought Reasoning](https://huggingface.co/papers/2504.07956) | ⭐ 31 | AI |
+  Chain-of-Thought Reasoning](https://huggingface.co/papers/2504.07956) | ⭐ 34 | AI |
 | 🥉 [VisualCloze: A Universal Image Generation Framework via Visual
-  In-Context Learning](https://huggingface.co/papers/2504.07960) | ⭐ 24 | AI |
+  In-Context Learning](https://huggingface.co/papers/2504.07960) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-04-11 12:47 UTC</sub>
+<sub>Last updated: 2025-04-11 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
