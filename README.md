@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 49 | AI |
-| 🥈 [OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training
-  Tokens](https://huggingface.co/papers/2504.07096) | ⭐ 42 | AI |
-| 🥉 [A Unified Agentic Framework for Evaluating Conditional Image Generation](https://huggingface.co/papers/2504.07046) | ⭐ 23 | AI |
+| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 40 | AI |
+| 🥈 [VCR-Bench: A Comprehensive Evaluation Framework for Video
+  Chain-of-Thought Reasoning](https://huggingface.co/papers/2504.07956) | ⭐ 26 | AI |
+| 🥉 [MM-IFEngine: Towards Multimodal Instruction Following](https://huggingface.co/papers/2504.07957) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-04-11 01:52 UTC</sub>
+<sub>Last updated: 2025-04-11 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
