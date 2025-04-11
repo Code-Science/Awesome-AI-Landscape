@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 44 | AI |
+| 🏆 [DDT: Decoupled Diffusion Transformer](https://huggingface.co/papers/2504.05741) | ⭐ 49 | AI |
 | 🥈 [OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training
-  Tokens](https://huggingface.co/papers/2504.07096) | ⭐ 29 | AI |
-| 🥉 [A Unified Agentic Framework for Evaluating Conditional Image Generation](https://huggingface.co/papers/2504.07046) | ⭐ 22 | AI |
+  Tokens](https://huggingface.co/papers/2504.07096) | ⭐ 42 | AI |
+| 🥉 [A Unified Agentic Framework for Evaluating Conditional Image Generation](https://huggingface.co/papers/2504.07046) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-04-10 18:29 UTC</sub>
+<sub>Last updated: 2025-04-11 01:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
