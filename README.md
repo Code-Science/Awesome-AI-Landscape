@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 70 | AI |
-| 🥈 [VCR-Bench: A Comprehensive Evaluation Framework for Video
-  Chain-of-Thought Reasoning](https://huggingface.co/papers/2504.07956) | ⭐ 34 | AI |
-| 🥉 [VisualCloze: A Universal Image Generation Framework via Visual
-  In-Context Learning](https://huggingface.co/papers/2504.07960) | ⭐ 32 | AI |
+| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 75 | AI |
+| 🥈 [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization
+  for Test-Time Expert Re-Mixing](https://huggingface.co/papers/2504.07964) | ⭐ 45 | AI |
+| 🥉 [DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning](https://huggingface.co/papers/2504.07128) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-04-12 01:49 UTC</sub>
+<sub>Last updated: 2025-04-12 06:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
