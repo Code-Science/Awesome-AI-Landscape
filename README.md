@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 81 | AI |
-| 🥈 [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization
+| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 85 | AI |
+| 🥈 [DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning](https://huggingface.co/papers/2504.07128) | ⭐ 52 | AI |
+| 🥉 [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization
   for Test-Time Expert Re-Mixing](https://huggingface.co/papers/2504.07964) | ⭐ 46 | AI |
-| 🥉 [DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning](https://huggingface.co/papers/2504.07128) | ⭐ 43 | AI |
 
-<sub>Last updated: 2025-04-12 12:41 UTC</sub>
+<sub>Last updated: 2025-04-12 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
