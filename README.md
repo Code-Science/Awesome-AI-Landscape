@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi-VL Technical Report](https://huggingface.co/papers/2504.07491) | ⭐ 96 | AI |
-| 🥈 [DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning](https://huggingface.co/papers/2504.07128) | ⭐ 64 | AI |
-| 🥉 [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization
-  for Test-Time Expert Re-Mixing](https://huggingface.co/papers/2504.07964) | ⭐ 51 | AI |
+| 🏆 [Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model](https://huggingface.co/papers/2504.08685) | ⭐ 24 | AI |
+| 🥈 [GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for
+  Autoregressive Image Generation](https://huggingface.co/papers/2504.08736) | ⭐ 14 | AI |
+| 🥉 [MineWorld: a Real-Time and Open-Source Interactive World Model on
+  Minecraft](https://huggingface.co/papers/2504.08388) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-04-14 01:56 UTC</sub>
+<sub>Last updated: 2025-04-14 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
