@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FUSION: Fully Integration of Vision-Language Representations for Deep
-  Cross-Modal Understanding](https://huggingface.co/papers/2504.09925) | ⭐ 3 | AI |
-| 🥈 [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM
-  Post-training](https://huggingface.co/papers/2504.09710) | ⭐ 3 | AI |
+| 🏆 [PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday
+  Home Clusters](https://huggingface.co/papers/2504.08791) | ⭐ 42 | AI |
+| 🥈 [FUSION: Fully Integration of Vision-Language Representations for Deep
+  Cross-Modal Understanding](https://huggingface.co/papers/2504.09925) | ⭐ 25 | AI |
+| 🥉 [InternVL3: Exploring Advanced Training and Test-Time Recipes for
+  Open-Source Multimodal Models](https://huggingface.co/papers/2504.10479) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-04-15 01:55 UTC</sub>
+<sub>Last updated: 2025-04-15 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
