@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model](https://huggingface.co/papers/2504.08685) | ⭐ 73 | AI |
-| 🥈 [GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for
-  Autoregressive Image Generation](https://huggingface.co/papers/2504.08736) | ⭐ 27 | AI |
-| 🥉 [MineWorld: a Real-Time and Open-Source Interactive World Model on
-  Minecraft](https://huggingface.co/papers/2504.08388) | ⭐ 18 | AI |
+| 🏆 [FUSION: Fully Integration of Vision-Language Representations for Deep
+  Cross-Modal Understanding](https://huggingface.co/papers/2504.09925) | ⭐ 3 | AI |
+| 🥈 [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM
+  Post-training](https://huggingface.co/papers/2504.09710) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-04-14 18:32 UTC</sub>
+<sub>Last updated: 2025-04-15 01:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
