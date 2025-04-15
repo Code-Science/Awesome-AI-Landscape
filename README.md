@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday
-  Home Clusters](https://huggingface.co/papers/2504.08791) | ⭐ 42 | AI |
-| 🥈 [FUSION: Fully Integration of Vision-Language Representations for Deep
-  Cross-Modal Understanding](https://huggingface.co/papers/2504.09925) | ⭐ 25 | AI |
-| 🥉 [InternVL3: Exploring Advanced Training and Test-Time Recipes for
-  Open-Source Multimodal Models](https://huggingface.co/papers/2504.10479) | ⭐ 19 | AI |
+| 🏆 [InternVL3: Exploring Advanced Training and Test-Time Recipes for
+  Open-Source Multimodal Models](https://huggingface.co/papers/2504.10479) | ⭐ 146 | AI |
+| 🥈 [PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday
+  Home Clusters](https://huggingface.co/papers/2504.08791) | ⭐ 83 | AI |
+| 🥉 [FUSION: Fully Integration of Vision-Language Representations for Deep
+  Cross-Modal Understanding](https://huggingface.co/papers/2504.09925) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-04-15 06:33 UTC</sub>
+<sub>Last updated: 2025-04-15 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
