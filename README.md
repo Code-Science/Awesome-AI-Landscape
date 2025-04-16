@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Genius: A Generalizable and Purely Unsupervised Self-Training Framework
-  For Advanced Reasoning](https://huggingface.co/papers/2504.08672) | ⭐ 38 | AI |
-| 🥈 [xVerify: Efficient Answer Verifier for Reasoning Model Evaluations](https://huggingface.co/papers/2504.10481) | ⭐ 29 | AI |
-| 🥉 [Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding](https://huggingface.co/papers/2504.10465) | ⭐ 22 | AI |
+| 🏆 [xVerify: Efficient Answer Verifier for Reasoning Model Evaluations](https://huggingface.co/papers/2504.10481) | ⭐ 62 | AI |
+| 🥈 [Genius: A Generalizable and Purely Unsupervised Self-Training Framework
+  For Advanced Reasoning](https://huggingface.co/papers/2504.08672) | ⭐ 41 | AI |
+| 🥉 [Heimdall: test-time scaling on the generative verification](https://huggingface.co/papers/2504.10337) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-04-16 12:48 UTC</sub>
+<sub>Last updated: 2025-04-16 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
