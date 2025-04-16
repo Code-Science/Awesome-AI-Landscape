@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [InternVL3: Exploring Advanced Training and Test-Time Recipes for
-  Open-Source Multimodal Models](https://huggingface.co/papers/2504.10479) | ⭐ 161 | AI |
+  Open-Source Multimodal Models](https://huggingface.co/papers/2504.10479) | ⭐ 170 | AI |
 | 🥈 [PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday
-  Home Clusters](https://huggingface.co/papers/2504.08791) | ⭐ 87 | AI |
-| 🥉 [FUSION: Fully Integration of Vision-Language Representations for Deep
-  Cross-Modal Understanding](https://huggingface.co/papers/2504.09925) | ⭐ 33 | AI |
+  Home Clusters](https://huggingface.co/papers/2504.08791) | ⭐ 95 | AI |
+| 🥉 [Have we unified image generation and understanding yet? An empirical
+  study of GPT-4o's image generation ability](https://huggingface.co/papers/2504.08003) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-04-15 18:30 UTC</sub>
+<sub>Last updated: 2025-04-16 01:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
