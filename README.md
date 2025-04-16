@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [xVerify: Efficient Answer Verifier for Reasoning Model Evaluations](https://huggingface.co/papers/2504.10481) | ⭐ 18 | AI |
-| 🥈 [Heimdall: test-time scaling on the generative verification](https://huggingface.co/papers/2504.10337) | ⭐ 16 | AI |
-| 🥉 [How Instruction and Reasoning Data shape Post-Training: Data Quality
-  through the Lens of Layer-wise Gradients](https://huggingface.co/papers/2504.10766) | ⭐ 14 | AI |
+| 🏆 [Genius: A Generalizable and Purely Unsupervised Self-Training Framework
+  For Advanced Reasoning](https://huggingface.co/papers/2504.08672) | ⭐ 38 | AI |
+| 🥈 [xVerify: Efficient Answer Verifier for Reasoning Model Evaluations](https://huggingface.co/papers/2504.10481) | ⭐ 29 | AI |
+| 🥉 [Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding](https://huggingface.co/papers/2504.10465) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-04-16 06:33 UTC</sub>
+<sub>Last updated: 2025-04-16 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
