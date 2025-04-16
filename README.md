@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InternVL3: Exploring Advanced Training and Test-Time Recipes for
-  Open-Source Multimodal Models](https://huggingface.co/papers/2504.10479) | ⭐ 170 | AI |
-| 🥈 [PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday
-  Home Clusters](https://huggingface.co/papers/2504.08791) | ⭐ 95 | AI |
-| 🥉 [Have we unified image generation and understanding yet? An empirical
-  study of GPT-4o's image generation ability](https://huggingface.co/papers/2504.08003) | ⭐ 38 | AI |
+| 🏆 [xVerify: Efficient Answer Verifier for Reasoning Model Evaluations](https://huggingface.co/papers/2504.10481) | ⭐ 18 | AI |
+| 🥈 [Heimdall: test-time scaling on the generative verification](https://huggingface.co/papers/2504.10337) | ⭐ 16 | AI |
+| 🥉 [How Instruction and Reasoning Data shape Post-Training: Data Quality
+  through the Lens of Layer-wise Gradients](https://huggingface.co/papers/2504.10766) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-04-16 01:54 UTC</sub>
+<sub>Last updated: 2025-04-16 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
