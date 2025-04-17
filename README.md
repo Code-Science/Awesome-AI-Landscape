@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Cobra: Efficient Line Art COlorization with BRoAder References](https://huggingface.co/papers/2504.12240) | ⭐ 14 | AI |
-| 🥈 [ColorBench: Can VLMs See and Understand the Colorful World? A
-  Comprehensive Benchmark for Color Perception, Reasoning, and Robustness](https://huggingface.co/papers/2504.10514) | ⭐ 14 | AI |
-| 🥉 [BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285) | ⭐ 8 | AI |
+| 🏆 [ColorBench: Can VLMs See and Understand the Colorful World? A
+  Comprehensive Benchmark for Color Perception, Reasoning, and Robustness](https://huggingface.co/papers/2504.10514) | ⭐ 20 | AI |
+| 🥈 [BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285) | ⭐ 16 | AI |
+| 🥉 [Cobra: Efficient Line Art COlorization with BRoAder References](https://huggingface.co/papers/2504.12240) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-04-17 06:33 UTC</sub>
+<sub>Last updated: 2025-04-17 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
