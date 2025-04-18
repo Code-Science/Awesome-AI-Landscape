@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [ColorBench: Can VLMs See and Understand the Colorful World? A
-  Comprehensive Benchmark for Color Perception, Reasoning, and Robustness](https://huggingface.co/papers/2504.10514) | ⭐ 26 | AI |
-| 🥈 [BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285) | ⭐ 24 | AI |
-| 🥉 [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://huggingface.co/papers/2504.11536) | ⭐ 20 | AI |
+  Comprehensive Benchmark for Color Perception, Reasoning, and Robustness](https://huggingface.co/papers/2504.10514) | ⭐ 35 | AI |
+| 🥈 [BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285) | ⭐ 31 | AI |
+| 🥉 [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://huggingface.co/papers/2504.11536) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-04-17 18:32 UTC</sub>
+<sub>Last updated: 2025-04-18 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
