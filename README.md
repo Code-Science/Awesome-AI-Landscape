@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for
-  Language Model Pre-training](https://huggingface.co/papers/2504.13161) | ⭐ 71 | AI |
-| 🥈 [Antidistillation Sampling](https://huggingface.co/papers/2504.13146) | ⭐ 53 | AI |
+  Language Model Pre-training](https://huggingface.co/papers/2504.13161) | ⭐ 74 | AI |
+| 🥈 [Antidistillation Sampling](https://huggingface.co/papers/2504.13146) | ⭐ 54 | AI |
 | 🥉 [Generate, but Verify: Reducing Hallucination in Vision-Language Models
-  with Retrospective Resampling](https://huggingface.co/papers/2504.13169) | ⭐ 30 | AI |
+  with Retrospective Resampling](https://huggingface.co/papers/2504.13169) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-04-19 06:30 UTC</sub>
+<sub>Last updated: 2025-04-19 12:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
