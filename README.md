@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MIG: Automatic Data Selection for Instruction Tuning by Maximizing
-  Information Gain in Semantic Space](https://huggingface.co/papers/2504.13835) | ⭐ 24 | AI |
-| 🥈 [Does Reinforcement Learning Really Incentivize Reasoning Capacity in
-  LLMs Beyond the Base Model?](https://huggingface.co/papers/2504.13837) | ⭐ 19 | AI |
-| 🥉 [Could Thinking Multilingually Empower LLM Reasoning?](https://huggingface.co/papers/2504.11833) | ⭐ 13 | AI |
+| 🏆 [Does Reinforcement Learning Really Incentivize Reasoning Capacity in
+  LLMs Beyond the Base Model?](https://huggingface.co/papers/2504.13837) | ⭐ 40 | AI |
+| 🥈 [MIG: Automatic Data Selection for Instruction Tuning by Maximizing
+  Information Gain in Semantic Space](https://huggingface.co/papers/2504.13835) | ⭐ 28 | AI |
+| 🥉 [Could Thinking Multilingually Empower LLM Reasoning?](https://huggingface.co/papers/2504.11833) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-04-21 06:33 UTC</sub>
+<sub>Last updated: 2025-04-21 12:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
