@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for
-  Language Model Pre-training](https://huggingface.co/papers/2504.13161) | ⭐ 83 | AI |
-| 🥈 [Antidistillation Sampling](https://huggingface.co/papers/2504.13146) | ⭐ 55 | AI |
+  Language Model Pre-training](https://huggingface.co/papers/2504.13161) | ⭐ 84 | AI |
+| 🥈 [Antidistillation Sampling](https://huggingface.co/papers/2504.13146) | ⭐ 56 | AI |
 | 🥉 [Packing Input Frame Context in Next-Frame Prediction Models for Video
   Generation](https://huggingface.co/papers/2504.12626) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-04-20 18:29 UTC</sub>
+<sub>Last updated: 2025-04-21 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
