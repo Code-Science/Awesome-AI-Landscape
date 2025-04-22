@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Does Reinforcement Learning Really Incentivize Reasoning Capacity in
-  LLMs Beyond the Base Model?](https://huggingface.co/papers/2504.13837) | ⭐ 53 | AI |
+  LLMs Beyond the Base Model?](https://huggingface.co/papers/2504.13837) | ⭐ 63 | AI |
 | 🥈 [MIG: Automatic Data Selection for Instruction Tuning by Maximizing
-  Information Gain in Semantic Space](https://huggingface.co/papers/2504.13835) | ⭐ 29 | AI |
-| 🥉 [NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes](https://huggingface.co/papers/2504.11544) | ⭐ 21 | AI |
+  Information Gain in Semantic Space](https://huggingface.co/papers/2504.13835) | ⭐ 31 | AI |
+| 🥉 [NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes](https://huggingface.co/papers/2504.11544) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-04-21 18:31 UTC</sub>
+<sub>Last updated: 2025-04-22 01:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
