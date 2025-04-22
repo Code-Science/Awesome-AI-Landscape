@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Does Reinforcement Learning Really Incentivize Reasoning Capacity in
-  LLMs Beyond the Base Model?](https://huggingface.co/papers/2504.13837) | ⭐ 63 | AI |
-| 🥈 [MIG: Automatic Data Selection for Instruction Tuning by Maximizing
-  Information Gain in Semantic Space](https://huggingface.co/papers/2504.13835) | ⭐ 31 | AI |
-| 🥉 [NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes](https://huggingface.co/papers/2504.11544) | ⭐ 29 | AI |
+| 🏆 [Learning to Reason under Off-Policy Guidance](https://huggingface.co/papers/2504.14945) | ⭐ 24 | AI |
+| 🥈 [SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video
+  Generation via Spherical Latent Representation](https://huggingface.co/papers/2504.14396) | ⭐ 18 | AI |
+| 🥉 [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://huggingface.co/papers/2504.15257) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-04-22 01:53 UTC</sub>
+<sub>Last updated: 2025-04-22 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
