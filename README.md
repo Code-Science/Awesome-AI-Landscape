@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Learning to Reason under Off-Policy Guidance](https://huggingface.co/papers/2504.14945) | ⭐ 46 | AI |
-| 🥈 [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://huggingface.co/papers/2504.15257) | ⭐ 29 | AI |
-| 🥉 [Eagle 2.5: Boosting Long-Context Post-Training for Frontier
-  Vision-Language Models](https://huggingface.co/papers/2504.15271) | ⭐ 28 | AI |
+| 🏆 [Learning to Reason under Off-Policy Guidance](https://huggingface.co/papers/2504.14945) | ⭐ 55 | AI |
+| 🥈 [Eagle 2.5: Boosting Long-Context Post-Training for Frontier
+  Vision-Language Models](https://huggingface.co/papers/2504.15271) | ⭐ 45 | AI |
+| 🥉 [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://huggingface.co/papers/2504.15257) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-04-22 12:48 UTC</sub>
+<sub>Last updated: 2025-04-22 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
