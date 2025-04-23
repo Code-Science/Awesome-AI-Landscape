@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vidi: Large Multimodal Models for Video Understanding and Editing](https://huggingface.co/papers/2504.15681) | ⭐ 2 | AI |
-| 🥈 [From Reflection to Perfection: Scaling Inference-Time Optimization for
-  Text-to-Image Diffusion Models via Reflection Tuning](https://huggingface.co/papers/2504.16080) | ⭐ 1 | AI |
-| 🥉 [Describe Anything: Detailed Localized Image and Video Captioning](https://huggingface.co/papers/2504.16072) | ⭐ 1 | AI |
+| 🏆 [TTRL: Test-Time Reinforcement Learning](https://huggingface.co/papers/2504.16084) | ⭐ 33 | AI |
+| 🥈 [The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](https://huggingface.co/papers/2504.15521) | ⭐ 32 | AI |
+| 🥉 [Learning Adaptive Parallel Reasoning with Language Models](https://huggingface.co/papers/2504.15466) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-04-23 01:54 UTC</sub>
+<sub>Last updated: 2025-04-23 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
