@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Learning to Reason under Off-Policy Guidance](https://huggingface.co/papers/2504.14945) | ⭐ 55 | AI |
-| 🥈 [Eagle 2.5: Boosting Long-Context Post-Training for Frontier
-  Vision-Language Models](https://huggingface.co/papers/2504.15271) | ⭐ 45 | AI |
-| 🥉 [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://huggingface.co/papers/2504.15257) | ⭐ 34 | AI |
+| 🏆 [Vidi: Large Multimodal Models for Video Understanding and Editing](https://huggingface.co/papers/2504.15681) | ⭐ 2 | AI |
+| 🥈 [From Reflection to Perfection: Scaling Inference-Time Optimization for
+  Text-to-Image Diffusion Models via Reflection Tuning](https://huggingface.co/papers/2504.16080) | ⭐ 1 | AI |
+| 🥉 [Describe Anything: Detailed Localized Image and Video Captioning](https://huggingface.co/papers/2504.16072) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-04-22 18:32 UTC</sub>
+<sub>Last updated: 2025-04-23 01:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
