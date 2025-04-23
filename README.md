@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kuwain 1.5B: An Arabic SLM via Language Injection](https://huggingface.co/papers/2504.15120) | ⭐ 73 | AI |
-| 🥈 [TTRL: Test-Time Reinforcement Learning](https://huggingface.co/papers/2504.16084) | ⭐ 47 | AI |
-| 🥉 [The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](https://huggingface.co/papers/2504.15521) | ⭐ 44 | AI |
+| 🏆 [Kuwain 1.5B: An Arabic SLM via Language Injection](https://huggingface.co/papers/2504.15120) | ⭐ 91 | AI |
+| 🥈 [TTRL: Test-Time Reinforcement Learning](https://huggingface.co/papers/2504.16084) | ⭐ 55 | AI |
+| 🥉 [The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](https://huggingface.co/papers/2504.15521) | ⭐ 50 | AI |
 
-<sub>Last updated: 2025-04-23 12:49 UTC</sub>
+<sub>Last updated: 2025-04-23 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
