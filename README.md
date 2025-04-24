@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal
-  Large Language Models](https://huggingface.co/papers/2504.15279) | ⭐ 33 | AI |
-| 🥈 [Trillion 7B Technical Report](https://huggingface.co/papers/2504.15431) | ⭐ 15 | AI |
-| 🥉 [Decoupled Global-Local Alignment for Improving Compositional
-  Understanding](https://huggingface.co/papers/2504.16801) | ⭐ 8 | AI |
+  Large Language Models](https://huggingface.co/papers/2504.15279) | ⭐ 48 | AI |
+| 🥈 [DreamID: High-Fidelity and Fast diffusion-based Face Swapping via
+  Triplet ID Group Learning](https://huggingface.co/papers/2504.14509) | ⭐ 29 | AI |
+| 🥉 [Trillion 7B Technical Report](https://huggingface.co/papers/2504.15431) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-04-24 06:34 UTC</sub>
+<sub>Last updated: 2025-04-24 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
