@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Pre-DPO: Improving Data Utilization in Direct Preference Optimization
-  Using a Guiding Reference Model](https://huggingface.co/papers/2504.15843) | ⭐ 3 | AI |
+| 🏆 [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal
+  Large Language Models](https://huggingface.co/papers/2504.15279) | ⭐ 33 | AI |
+| 🥈 [Trillion 7B Technical Report](https://huggingface.co/papers/2504.15431) | ⭐ 15 | AI |
+| 🥉 [Decoupled Global-Local Alignment for Improving Compositional
+  Understanding](https://huggingface.co/papers/2504.16801) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-04-24 01:54 UTC</sub>
+<sub>Last updated: 2025-04-24 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
