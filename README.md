@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kuwain 1.5B: An Arabic SLM via Language Injection](https://huggingface.co/papers/2504.15120) | ⭐ 91 | AI |
-| 🥈 [TTRL: Test-Time Reinforcement Learning](https://huggingface.co/papers/2504.16084) | ⭐ 55 | AI |
-| 🥉 [The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](https://huggingface.co/papers/2504.15521) | ⭐ 50 | AI |
+| 🏆 [Pre-DPO: Improving Data Utilization in Direct Preference Optimization
+  Using a Guiding Reference Model](https://huggingface.co/papers/2504.15843) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-04-23 18:34 UTC</sub>
+<sub>Last updated: 2025-04-24 01:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
