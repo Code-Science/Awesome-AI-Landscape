@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal
-  Large Language Models](https://huggingface.co/papers/2504.15279) | ⭐ 56 | AI |
-| 🥈 [DreamID: High-Fidelity and Fast diffusion-based Face Swapping via
-  Triplet ID Group Learning](https://huggingface.co/papers/2504.14509) | ⭐ 38 | AI |
-| 🥉 [Trillion 7B Technical Report](https://huggingface.co/papers/2504.15431) | ⭐ 26 | AI |
+| 🏆 [Step1X-Edit: A Practical Framework for General Image Editing](https://huggingface.co/papers/2504.17761) | ⭐ 33 | AI |
+| 🥈 [Breaking the Modality Barrier: Universal Embedding Learning with
+  Multimodal LLMs](https://huggingface.co/papers/2504.17432) | ⭐ 19 | AI |
+| 🥉 [Paper2Code: Automating Code Generation from Scientific Papers in Machine
+  Learning](https://huggingface.co/papers/2504.17192) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-04-25 01:55 UTC</sub>
+<sub>Last updated: 2025-04-25 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
