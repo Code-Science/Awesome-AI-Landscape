@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Step1X-Edit: A Practical Framework for General Image Editing](https://huggingface.co/papers/2504.17761) | ⭐ 33 | AI |
-| 🥈 [Breaking the Modality Barrier: Universal Embedding Learning with
-  Multimodal LLMs](https://huggingface.co/papers/2504.17432) | ⭐ 19 | AI |
+| 🏆 [Step1X-Edit: A Practical Framework for General Image Editing](https://huggingface.co/papers/2504.17761) | ⭐ 42 | AI |
+| 🥈 [RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image
+  Generation](https://huggingface.co/papers/2504.17502) | ⭐ 40 | AI |
 | 🥉 [Paper2Code: Automating Code Generation from Scientific Papers in Machine
-  Learning](https://huggingface.co/papers/2504.17192) | ⭐ 15 | AI |
+  Learning](https://huggingface.co/papers/2504.17192) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-04-25 06:33 UTC</sub>
+<sub>Last updated: 2025-04-25 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
