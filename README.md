@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Step1X-Edit: A Practical Framework for General Image Editing](https://huggingface.co/papers/2504.17761) | ⭐ 64 | AI |
+| 🏆 [Step1X-Edit: A Practical Framework for General Image Editing](https://huggingface.co/papers/2504.17761) | ⭐ 67 | AI |
 | 🥈 [Paper2Code: Automating Code Generation from Scientific Papers in Machine
-  Learning](https://huggingface.co/papers/2504.17192) | ⭐ 61 | AI |
+  Learning](https://huggingface.co/papers/2504.17192) | ⭐ 65 | AI |
 | 🥉 [RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image
-  Generation](https://huggingface.co/papers/2504.17502) | ⭐ 49 | AI |
+  Generation](https://huggingface.co/papers/2504.17502) | ⭐ 50 | AI |
 
-<sub>Last updated: 2025-04-27 02:00 UTC</sub>
+<sub>Last updated: 2025-04-27 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
