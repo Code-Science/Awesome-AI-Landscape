@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards Understanding Camera Motions in Any Video](https://huggingface.co/papers/2504.15376) | ⭐ 71 | AI |
-| 🥈 [BitNet v2: Native 4-bit Activations with Hadamard Transformation for
-  1-bit LLMs](https://huggingface.co/papers/2504.18415) | ⭐ 8 | AI |
-| 🥉 [Can Large Language Models Help Multimodal Language Analysis? MMLA: A
-  Comprehensive Benchmark](https://huggingface.co/papers/2504.16427) | ⭐ 6 | AI |
+| 🏆 [Towards Understanding Camera Motions in Any Video](https://huggingface.co/papers/2504.15376) | ⭐ 112 | AI |
+| 🥈 [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://huggingface.co/papers/2504.16656) | ⭐ 38 | AI |
+| 🥉 [BitNet v2: Native 4-bit Activations with Hadamard Transformation for
+  1-bit LLMs](https://huggingface.co/papers/2504.18415) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-04-28 06:40 UTC</sub>
+<sub>Last updated: 2025-04-28 12:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
