@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
-  Prospects](https://huggingface.co/papers/2504.19838) | ⭐ 13 | AI |
-| 🥈 [RepText: Rendering Visual Text via Replicating](https://huggingface.co/papers/2504.19724) | ⭐ 9 | AI |
+| 🏆 [RepText: Rendering Visual Text via Replicating](https://huggingface.co/papers/2504.19724) | ⭐ 17 | AI |
+| 🥈 [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
+  Prospects](https://huggingface.co/papers/2504.19838) | ⭐ 15 | AI |
 | 🥉 [CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through
-  Cryptography Challenges](https://huggingface.co/papers/2504.19093) | ⭐ 5 | AI |
+  Cryptography Challenges](https://huggingface.co/papers/2504.19093) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-04-29 06:34 UTC</sub>
+<sub>Last updated: 2025-04-29 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
