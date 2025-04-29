@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards Understanding Camera Motions in Any Video](https://huggingface.co/papers/2504.15376) | ⭐ 124 | AI |
-| 🥈 [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://huggingface.co/papers/2504.16656) | ⭐ 43 | AI |
-| 🥉 [BitNet v2: Native 4-bit Activations with Hadamard Transformation for
-  1-bit LLMs](https://huggingface.co/papers/2504.18415) | ⭐ 24 | AI |
+| 🏆 [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
+  Prospects](https://huggingface.co/papers/2504.19838) | ⭐ 13 | AI |
+| 🥈 [RepText: Rendering Visual Text via Replicating](https://huggingface.co/papers/2504.19724) | ⭐ 9 | AI |
+| 🥉 [CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through
+  Cryptography Challenges](https://huggingface.co/papers/2504.19093) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-04-29 01:55 UTC</sub>
+<sub>Last updated: 2025-04-29 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
