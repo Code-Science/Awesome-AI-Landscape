@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards Understanding Camera Motions in Any Video](https://huggingface.co/papers/2504.15376) | ⭐ 119 | AI |
-| 🥈 [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://huggingface.co/papers/2504.16656) | ⭐ 42 | AI |
+| 🏆 [Towards Understanding Camera Motions in Any Video](https://huggingface.co/papers/2504.15376) | ⭐ 124 | AI |
+| 🥈 [Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://huggingface.co/papers/2504.16656) | ⭐ 43 | AI |
 | 🥉 [BitNet v2: Native 4-bit Activations with Hadamard Transformation for
-  1-bit LLMs](https://huggingface.co/papers/2504.18415) | ⭐ 23 | AI |
+  1-bit LLMs](https://huggingface.co/papers/2504.18415) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-04-28 18:33 UTC</sub>
+<sub>Last updated: 2025-04-29 01:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
