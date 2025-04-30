@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RepText: Rendering Visual Text via Replicating](https://huggingface.co/papers/2504.19724) | ⭐ 22 | AI |
-| 🥈 [Clinical knowledge in LLMs does not translate to human interactions](https://huggingface.co/papers/2504.18919) | ⭐ 18 | AI |
-| 🥉 [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
-  Prospects](https://huggingface.co/papers/2504.19838) | ⭐ 17 | AI |
+| 🏆 [UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with
+  Diverse Modalities and Granularities](https://huggingface.co/papers/2504.20734) | ⭐ 33 | AI |
+| 🥈 [ReasonIR: Training Retrievers for Reasoning Tasks](https://huggingface.co/papers/2504.20595) | ⭐ 19 | AI |
+| 🥉 [Reinforcement Learning for Reasoning in Large Language Models with One
+  Training Example](https://huggingface.co/papers/2504.20571) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-04-30 01:55 UTC</sub>
+<sub>Last updated: 2025-04-30 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
