@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with
-  Diverse Modalities and Granularities](https://huggingface.co/papers/2504.20734) | ⭐ 37 | AI |
+  Diverse Modalities and Granularities](https://huggingface.co/papers/2504.20734) | ⭐ 42 | AI |
 | 🥈 [Reinforcement Learning for Reasoning in Large Language Models with One
-  Training Example](https://huggingface.co/papers/2504.20571) | ⭐ 34 | AI |
-| 🥉 [ReasonIR: Training Retrievers for Reasoning Tasks](https://huggingface.co/papers/2504.20595) | ⭐ 27 | AI |
+  Training Example](https://huggingface.co/papers/2504.20571) | ⭐ 40 | AI |
+| 🥉 [ReasonIR: Training Retrievers for Reasoning Tasks](https://huggingface.co/papers/2504.20595) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-04-30 12:48 UTC</sub>
+<sub>Last updated: 2025-04-30 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
