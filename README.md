@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RepText: Rendering Visual Text via Replicating](https://huggingface.co/papers/2504.19724) | ⭐ 21 | AI |
-| 🥈 [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
+| 🏆 [RepText: Rendering Visual Text via Replicating](https://huggingface.co/papers/2504.19724) | ⭐ 22 | AI |
+| 🥈 [Clinical knowledge in LLMs does not translate to human interactions](https://huggingface.co/papers/2504.18919) | ⭐ 18 | AI |
+| 🥉 [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and
   Prospects](https://huggingface.co/papers/2504.19838) | ⭐ 17 | AI |
-| 🥉 [Clinical knowledge in LLMs does not translate to human interactions](https://huggingface.co/papers/2504.18919) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-04-29 18:31 UTC</sub>
+<sub>Last updated: 2025-04-30 01:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
