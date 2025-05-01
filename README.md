@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with
-  Diverse Modalities and Granularities](https://huggingface.co/papers/2504.20734) | ⭐ 42 | AI |
-| 🥈 [Reinforcement Learning for Reasoning in Large Language Models with One
-  Training Example](https://huggingface.co/papers/2504.20571) | ⭐ 40 | AI |
-| 🥉 [ReasonIR: Training Retrievers for Reasoning Tasks](https://huggingface.co/papers/2504.20595) | ⭐ 32 | AI |
+| 🏆 [WebThinker: Empowering Large Reasoning Models with Deep Research
+  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 1 | AI |
+| 🥈 [Phi-4-reasoning Technical Report](https://huggingface.co/papers/2504.21318) | ⭐ 1 | AI |
+| 🥉 [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
+  Models in Math](https://huggingface.co/papers/2504.21233) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-04-30 18:33 UTC</sub>
+<sub>Last updated: 2025-05-01 02:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
