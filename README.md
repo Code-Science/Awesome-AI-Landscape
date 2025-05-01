@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Sadeed: Advancing Arabic Diacritization Through Small Language Model](https://huggingface.co/papers/2504.21635) | ⭐ 42 | AI |
+| 🏆 [Sadeed: Advancing Arabic Diacritization Through Small Language Model](https://huggingface.co/papers/2504.21635) | ⭐ 44 | AI |
 | 🥈 [WebThinker: Empowering Large Reasoning Models with Deep Research
-  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 21 | AI |
-| 🥉 [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
-  Models in Math](https://huggingface.co/papers/2504.21233) | ⭐ 15 | AI |
+  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 25 | AI |
+| 🥉 [COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning](https://huggingface.co/papers/2504.21850) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-05-01 12:47 UTC</sub>
+<sub>Last updated: 2025-05-01 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
