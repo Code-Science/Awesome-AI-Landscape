@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WebThinker: Empowering Large Reasoning Models with Deep Research
-  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 14 | AI |
-| 🥈 [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
-  Models in Math](https://huggingface.co/papers/2504.21233) | ⭐ 12 | AI |
-| 🥉 [Softpick: No Attention Sink, No Massive Activations with Rectified
-  Softmax](https://huggingface.co/papers/2504.20966) | ⭐ 9 | AI |
+| 🏆 [Sadeed: Advancing Arabic Diacritization Through Small Language Model](https://huggingface.co/papers/2504.21635) | ⭐ 42 | AI |
+| 🥈 [WebThinker: Empowering Large Reasoning Models with Deep Research
+  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 21 | AI |
+| 🥉 [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
+  Models in Math](https://huggingface.co/papers/2504.21233) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-05-01 06:34 UTC</sub>
+<sub>Last updated: 2025-05-01 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
