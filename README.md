@@ -19,12 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [WebThinker: Empowering Large Reasoning Models with Deep Research
-  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 1 | AI |
-| 🥈 [Phi-4-reasoning Technical Report](https://huggingface.co/papers/2504.21318) | ⭐ 1 | AI |
-| 🥉 [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
-  Models in Math](https://huggingface.co/papers/2504.21233) | ⭐ 1 | AI |
+  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 14 | AI |
+| 🥈 [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language
+  Models in Math](https://huggingface.co/papers/2504.21233) | ⭐ 12 | AI |
+| 🥉 [Softpick: No Attention Sink, No Massive Activations with Rectified
+  Softmax](https://huggingface.co/papers/2504.20966) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-05-01 02:04 UTC</sub>
+<sub>Last updated: 2025-05-01 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
