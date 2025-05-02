@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Sadeed: Advancing Arabic Diacritization Through Small Language Model](https://huggingface.co/papers/2504.21635) | ⭐ 44 | AI |
-| 🥈 [WebThinker: Empowering Large Reasoning Models with Deep Research
-  Capability](https://huggingface.co/papers/2504.21776) | ⭐ 27 | AI |
-| 🥉 [COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning](https://huggingface.co/papers/2504.21850) | ⭐ 21 | AI |
+| 🏆 [DeepCritic: Deliberate Critique with Large Language Models](https://huggingface.co/papers/2505.00662) | ⭐ 18 | AI |
+| 🥈 [A Survey of Interactive Generative Video](https://huggingface.co/papers/2504.21853) | ⭐ 15 | AI |
+| 🥉 [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level
+  and Token-level CoT](https://huggingface.co/papers/2505.00703) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-05-02 01:56 UTC</sub>
+<sub>Last updated: 2025-05-02 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
