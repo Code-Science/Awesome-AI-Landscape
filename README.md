@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey of Interactive Generative Video](https://huggingface.co/papers/2504.21853) | ⭐ 27 | AI |
-| 🥈 [DeepCritic: Deliberate Critique with Large Language Models](https://huggingface.co/papers/2505.00662) | ⭐ 24 | AI |
+| 🏆 [A Survey of Interactive Generative Video](https://huggingface.co/papers/2504.21853) | ⭐ 31 | AI |
+| 🥈 [DeepCritic: Deliberate Critique with Large Language Models](https://huggingface.co/papers/2505.00662) | ⭐ 27 | AI |
 | 🥉 [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level
-  and Token-level CoT](https://huggingface.co/papers/2505.00703) | ⭐ 17 | AI |
+  and Token-level CoT](https://huggingface.co/papers/2505.00703) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-05-02 18:32 UTC</sub>
+<sub>Last updated: 2025-05-03 01:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
