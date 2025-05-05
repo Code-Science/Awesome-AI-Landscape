@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Improving Editability in Image Generation with Layer-wise Memory](https://huggingface.co/papers/2505.01079) | ⭐ 7 | AI |
-| 🥈 [CORG: Generating Answers from Complex, Interrelated Contexts](https://huggingface.co/papers/2505.00023) | ⭐ 3 | AI |
-| 🥉 [Real-World Gaps in AI Governance Research](https://huggingface.co/papers/2505.00174) | ⭐ 2 | AI |
+| 🏆 [PixelHacker: Image Inpainting with Structural and Semantic Consistency](https://huggingface.co/papers/2504.20438) | ⭐ 19 | AI |
+| 🥈 [Improving Editability in Image Generation with Layer-wise Memory](https://huggingface.co/papers/2505.01079) | ⭐ 13 | AI |
+| 🥉 [Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG
+  Evaluation Prompts](https://huggingface.co/papers/2504.21117) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-05-05 06:35 UTC</sub>
+<sub>Last updated: 2025-05-05 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
