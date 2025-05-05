@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey of Interactive Generative Video](https://huggingface.co/papers/2504.21853) | ⭐ 41 | AI |
-| 🥈 [DeepCritic: Deliberate Critique with Large Language Models](https://huggingface.co/papers/2505.00662) | ⭐ 40 | AI |
-| 🥉 [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level
-  and Token-level CoT](https://huggingface.co/papers/2505.00703) | ⭐ 32 | AI |
+| 🏆 [Improving Editability in Image Generation with Layer-wise Memory](https://huggingface.co/papers/2505.01079) | ⭐ 7 | AI |
+| 🥈 [CORG: Generating Answers from Complex, Interrelated Contexts](https://huggingface.co/papers/2505.00023) | ⭐ 3 | AI |
+| 🥉 [Real-World Gaps in AI Governance Research](https://huggingface.co/papers/2505.00174) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-05-05 02:00 UTC</sub>
+<sub>Last updated: 2025-05-05 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
