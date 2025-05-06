@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Voila: Voice-Language Foundation Models for Real-Time Autonomous
-  Interaction and Voice Role-Play](https://huggingface.co/papers/2505.02707) | ⭐ 27 | AI |
-| 🥈 [RM-R1: Reward Modeling as Reasoning](https://huggingface.co/papers/2505.02387) | ⭐ 25 | AI |
-| 🥉 [FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language
-  Models](https://huggingface.co/papers/2505.02735) | ⭐ 13 | AI |
+  Interaction and Voice Role-Play](https://huggingface.co/papers/2505.02707) | ⭐ 50 | AI |
+| 🥈 [RM-R1: Reward Modeling as Reasoning](https://huggingface.co/papers/2505.02387) | ⭐ 30 | AI |
+| 🥉 [Grokking in the Wild: Data Augmentation for Real-World Multi-Hop
+  Reasoning with Transformers](https://huggingface.co/papers/2504.20752) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-05-06 06:33 UTC</sub>
+<sub>Last updated: 2025-05-06 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
