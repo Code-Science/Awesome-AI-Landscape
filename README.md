@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PixelHacker: Image Inpainting with Structural and Semantic Consistency](https://huggingface.co/papers/2504.20438) | ⭐ 24 | AI |
-| 🥈 [Improving Editability in Image Generation with Layer-wise Memory](https://huggingface.co/papers/2505.01079) | ⭐ 18 | AI |
-| 🥉 [Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG
-  Evaluation Prompts](https://huggingface.co/papers/2504.21117) | ⭐ 11 | AI |
+| 🏆 [Voila: Voice-Language Foundation Models for Real-Time Autonomous
+  Interaction and Voice Role-Play](https://huggingface.co/papers/2505.02707) | ⭐ 27 | AI |
+| 🥈 [RM-R1: Reward Modeling as Reasoning](https://huggingface.co/papers/2505.02387) | ⭐ 25 | AI |
+| 🥉 [FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language
+  Models](https://huggingface.co/papers/2505.02735) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-05-06 01:57 UTC</sub>
+<sub>Last updated: 2025-05-06 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
