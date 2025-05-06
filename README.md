@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PixelHacker: Image Inpainting with Structural and Semantic Consistency](https://huggingface.co/papers/2504.20438) | ⭐ 23 | AI |
-| 🥈 [Improving Editability in Image Generation with Layer-wise Memory](https://huggingface.co/papers/2505.01079) | ⭐ 17 | AI |
+| 🏆 [PixelHacker: Image Inpainting with Structural and Semantic Consistency](https://huggingface.co/papers/2504.20438) | ⭐ 24 | AI |
+| 🥈 [Improving Editability in Image Generation with Layer-wise Memory](https://huggingface.co/papers/2505.01079) | ⭐ 18 | AI |
 | 🥉 [Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG
   Evaluation Prompts](https://huggingface.co/papers/2504.21117) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-05-05 18:29 UTC</sub>
+<sub>Last updated: 2025-05-06 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
