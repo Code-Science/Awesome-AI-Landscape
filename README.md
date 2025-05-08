@@ -19,11 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement
-  Fine-Tuning](https://huggingface.co/papers/2505.03318) | ⭐ 62 | AI |
-| 🥈 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://huggingface.co/papers/2505.03335) | ⭐ 56 | AI |
-| 🥉 [FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios](https://huggingface.co/papers/2505.03730) | ⭐ 19 | AI |
+  Fine-Tuning](https://huggingface.co/papers/2505.03318) | ⭐ 66 | AI |
+| 🥈 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://huggingface.co/papers/2505.03335) | ⭐ 61 | AI |
+| 🥉 [RADLADS: Rapid Attention Distillation to Linear Attention Decoders at
+  Scale](https://huggingface.co/papers/2505.03005) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-05-07 18:32 UTC</sub>
+<sub>Last updated: 2025-05-08 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
