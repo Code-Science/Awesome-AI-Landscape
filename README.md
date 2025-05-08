@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement
-  Fine-Tuning](https://huggingface.co/papers/2505.03318) | ⭐ 66 | AI |
-| 🥈 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://huggingface.co/papers/2505.03335) | ⭐ 61 | AI |
-| 🥉 [RADLADS: Rapid Attention Distillation to Linear Attention Decoders at
-  Scale](https://huggingface.co/papers/2505.03005) | ⭐ 22 | AI |
+| 🏆 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://huggingface.co/papers/2505.04588) | ⭐ 8 | AI |
+| 🥈 [Benchmarking LLMs' Swarm intelligence](https://huggingface.co/papers/2505.04364) | ⭐ 5 | AI |
+| 🥉 [Knowledge Augmented Complex Problem Solving with Large Language Models:
+  A Survey](https://huggingface.co/papers/2505.03418) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-05-08 01:58 UTC</sub>
+<sub>Last updated: 2025-05-08 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
