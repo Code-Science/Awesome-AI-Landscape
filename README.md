@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://huggingface.co/papers/2505.04588) | ⭐ 8 | AI |
-| 🥈 [Benchmarking LLMs' Swarm intelligence](https://huggingface.co/papers/2505.04364) | ⭐ 5 | AI |
-| 🥉 [Knowledge Augmented Complex Problem Solving with Large Language Models:
-  A Survey](https://huggingface.co/papers/2505.03418) | ⭐ 1 | AI |
+| 🏆 [Unified Multimodal Understanding and Generation Models: Advances,
+  Challenges, and Opportunities](https://huggingface.co/papers/2505.02567) | ⭐ 40 | AI |
+| 🥈 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://huggingface.co/papers/2505.04588) | ⭐ 25 | AI |
+| 🥉 [PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with
+  Auto-Regressive Transformer](https://huggingface.co/papers/2505.04622) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-05-08 06:34 UTC</sub>
+<sub>Last updated: 2025-05-08 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
