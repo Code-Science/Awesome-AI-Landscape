@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Unified Multimodal Understanding and Generation Models: Advances,
-  Challenges, and Opportunities](https://huggingface.co/papers/2505.02567) | ⭐ 40 | AI |
-| 🥈 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://huggingface.co/papers/2505.04588) | ⭐ 25 | AI |
-| 🥉 [PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with
-  Auto-Regressive Transformer](https://huggingface.co/papers/2505.04622) | ⭐ 8 | AI |
+  Challenges, and Opportunities](https://huggingface.co/papers/2505.02567) | ⭐ 49 | AI |
+| 🥈 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://huggingface.co/papers/2505.04588) | ⭐ 28 | AI |
+| 🥉 [Beyond Recognition: Evaluating Visual Perspective Taking in Vision
+  Language Models](https://huggingface.co/papers/2505.03821) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-05-08 12:49 UTC</sub>
+<sub>Last updated: 2025-05-08 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
