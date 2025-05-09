@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unified Multimodal Understanding and Generation Models: Advances,
-  Challenges, and Opportunities](https://huggingface.co/papers/2505.02567) | ⭐ 57 | AI |
-| 🥈 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://huggingface.co/papers/2505.04588) | ⭐ 33 | AI |
-| 🥉 [Beyond Recognition: Evaluating Visual Perspective Taking in Vision
-  Language Models](https://huggingface.co/papers/2505.03821) | ⭐ 19 | AI |
+| 🏆 [On Path to Multimodal Generalist: General-Level and General-Bench](https://huggingface.co/papers/2505.04620) | ⭐ 32 | AI |
+| 🥈 [Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in
+  Large Language Models](https://huggingface.co/papers/2505.02847) | ⭐ 11 | AI |
+| 🥉 [Scalable Chain of Thoughts via Elastic Reasoning](https://huggingface.co/papers/2505.05315) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-05-09 01:57 UTC</sub>
+<sub>Last updated: 2025-05-09 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
