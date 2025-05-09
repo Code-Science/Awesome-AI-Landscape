@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [On Path to Multimodal Generalist: General-Level and General-Bench](https://huggingface.co/papers/2505.04620) | ⭐ 32 | AI |
-| 🥈 [Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in
-  Large Language Models](https://huggingface.co/papers/2505.02847) | ⭐ 11 | AI |
-| 🥉 [Scalable Chain of Thoughts via Elastic Reasoning](https://huggingface.co/papers/2505.05315) | ⭐ 10 | AI |
+| 🏆 [Perception, Reason, Think, and Plan: A Survey on Large Multimodal
+  Reasoning Models](https://huggingface.co/papers/2505.04921) | ⭐ 50 | AI |
+| 🥈 [On Path to Multimodal Generalist: General-Level and General-Bench](https://huggingface.co/papers/2505.04620) | ⭐ 47 | AI |
+| 🥉 [Flow-GRPO: Training Flow Matching Models via Online RL](https://huggingface.co/papers/2505.05470) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-05-09 06:34 UTC</sub>
+<sub>Last updated: 2025-05-09 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
