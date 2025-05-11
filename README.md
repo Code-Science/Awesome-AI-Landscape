@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Perception, Reason, Think, and Plan: A Survey on Large Multimodal
-  Reasoning Models](https://huggingface.co/papers/2505.04921) | ⭐ 96 | AI |
+  Reasoning Models](https://huggingface.co/papers/2505.04921) | ⭐ 101 | AI |
 | 🥈 [On Path to Multimodal Generalist: General-Level and General-Bench](https://huggingface.co/papers/2505.04620) | ⭐ 62 | AI |
-| 🥉 [Flow-GRPO: Training Flow Matching Models via Online RL](https://huggingface.co/papers/2505.05470) | ⭐ 42 | AI |
+| 🥉 [Flow-GRPO: Training Flow Matching Models via Online RL](https://huggingface.co/papers/2505.05470) | ⭐ 44 | AI |
 
-<sub>Last updated: 2025-05-11 02:03 UTC</sub>
+<sub>Last updated: 2025-05-11 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
