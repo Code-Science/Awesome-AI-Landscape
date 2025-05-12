@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniVLA: Learning to Act Anywhere with Task-centric Latent Actions](https://huggingface.co/papers/2505.06111) | ⭐ 1 | AI |
+| 🏆 [Bielik v3 Small: Technical Report](https://huggingface.co/papers/2505.02550) | ⭐ 34 | AI |
+| 🥈 [Bielik 11B v2 Technical Report](https://huggingface.co/papers/2505.02410) | ⭐ 30 | AI |
+| 🥉 [UniVLA: Learning to Act Anywhere with Task-centric Latent Actions](https://huggingface.co/papers/2505.06111) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-05-12 06:35 UTC</sub>
+<sub>Last updated: 2025-05-12 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
