@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Bielik v3 Small: Technical Report](https://huggingface.co/papers/2505.02550) | ⭐ 47 | AI |
-| 🥈 [Bielik 11B v2 Technical Report](https://huggingface.co/papers/2505.02410) | ⭐ 39 | AI |
-| 🥉 [UniVLA: Learning to Act Anywhere with Task-centric Latent Actions](https://huggingface.co/papers/2505.06111) | ⭐ 15 | AI |
+| 🏆 [REFINE-AF: A Task-Agnostic Framework to Align Language Models via
+  Self-Generated Instructions using Reinforcement Learning from Automated
+  Feedback](https://huggingface.co/papers/2505.06548) | ⭐ 3 | AI |
+| 🥈 [WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional
+  Websites from Scratch](https://huggingface.co/papers/2505.03733) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-05-12 18:33 UTC</sub>
+<sub>Last updated: 2025-05-13 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
