@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [REFINE-AF: A Task-Agnostic Framework to Align Language Models via
-  Self-Generated Instructions using Reinforcement Learning from Automated
-  Feedback](https://huggingface.co/papers/2505.06548) | ⭐ 3 | AI |
-| 🥈 [WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional
-  Websites from Scratch](https://huggingface.co/papers/2505.03733) | ⭐ 3 | AI |
+| 🏆 [Seed1.5-VL Technical Report](https://huggingface.co/papers/2505.07062) | ⭐ 49 | AI |
+| 🥈 [MiMo: Unlocking the Reasoning Potential of Language Model -- From
+  Pretraining to Posttraining](https://huggingface.co/papers/2505.07608) | ⭐ 32 | AI |
+| 🥉 [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured
+  3D Assets](https://huggingface.co/papers/2505.07747) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-05-13 01:59 UTC</sub>
+<sub>Last updated: 2025-05-13 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
