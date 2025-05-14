@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable
-  Speaker Encoder](https://huggingface.co/papers/2505.07916) | ⭐ 74 | AI |
+  Speaker Encoder](https://huggingface.co/papers/2505.07916) | ⭐ 79 | AI |
 | 🥈 [A Multi-Dimensional Constraint Framework for Evaluating and Improving
-  Instruction Following in Large Language Models](https://huggingface.co/papers/2505.07591) | ⭐ 5 | AI |
-| 🥉 [Measuring General Intelligence with Generated Games](https://huggingface.co/papers/2505.07215) | ⭐ 4 | AI |
+  Instruction Following in Large Language Models](https://huggingface.co/papers/2505.07591) | ⭐ 6 | AI |
+| 🥉 [Measuring General Intelligence with Generated Games](https://huggingface.co/papers/2505.07215) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-05-14 12:50 UTC</sub>
+<sub>Last updated: 2025-05-14 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
