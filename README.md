@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seed1.5-VL Technical Report](https://huggingface.co/papers/2505.07062) | ⭐ 100 | AI |
-| 🥈 [MiMo: Unlocking the Reasoning Potential of Language Model -- From
-  Pretraining to Posttraining](https://huggingface.co/papers/2505.07608) | ⭐ 60 | AI |
-| 🥉 [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured
-  3D Assets](https://huggingface.co/papers/2505.07747) | ⭐ 50 | AI |
+| 🏆 [MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable
+  Speaker Encoder](https://huggingface.co/papers/2505.07916) | ⭐ 74 | AI |
+| 🥈 [A Multi-Dimensional Constraint Framework for Evaluating and Improving
+  Instruction Following in Large Language Models](https://huggingface.co/papers/2505.07591) | ⭐ 5 | AI |
+| 🥉 [Measuring General Intelligence with Generated Games](https://huggingface.co/papers/2505.07215) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-05-14 06:34 UTC</sub>
+<sub>Last updated: 2025-05-14 12:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
