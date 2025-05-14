@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seed1.5-VL Technical Report](https://huggingface.co/papers/2505.07062) | ⭐ 78 | AI |
+| 🏆 [Seed1.5-VL Technical Report](https://huggingface.co/papers/2505.07062) | ⭐ 84 | AI |
 | 🥈 [MiMo: Unlocking the Reasoning Potential of Language Model -- From
-  Pretraining to Posttraining](https://huggingface.co/papers/2505.07608) | ⭐ 49 | AI |
+  Pretraining to Posttraining](https://huggingface.co/papers/2505.07608) | ⭐ 53 | AI |
 | 🥉 [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured
-  3D Assets](https://huggingface.co/papers/2505.07747) | ⭐ 44 | AI |
+  3D Assets](https://huggingface.co/papers/2505.07747) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-05-13 18:33 UTC</sub>
+<sub>Last updated: 2025-05-14 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
