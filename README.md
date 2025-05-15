@@ -19,9 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture,
-  Training and Dataset](https://huggingface.co/papers/2505.09568) | ⭐ 0 | AI |
+  Training and Dataset](https://huggingface.co/papers/2505.09568) | ⭐ 6 | AI |
+| 🥈 [VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large
+  Video Language Models](https://huggingface.co/papers/2505.08455) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-05-15 01:56 UTC</sub>
+<sub>Last updated: 2025-05-15 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
