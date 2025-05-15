@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception](https://huggingface.co/papers/2505.04410) | ⭐ 28 | AI |
-| 🥈 [BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture,
-  Training and Dataset](https://huggingface.co/papers/2505.09568) | ⭐ 16 | AI |
+| 🏆 [BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture,
+  Training and Dataset](https://huggingface.co/papers/2505.09568) | ⭐ 40 | AI |
+| 🥈 [DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception](https://huggingface.co/papers/2505.04410) | ⭐ 34 | AI |
 | 🥉 [Insights into DeepSeek-V3: Scaling Challenges and Reflections on
-  Hardware for AI Architectures](https://huggingface.co/papers/2505.09343) | ⭐ 13 | AI |
+  Hardware for AI Architectures](https://huggingface.co/papers/2505.09343) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-05-15 12:50 UTC</sub>
+<sub>Last updated: 2025-05-15 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
