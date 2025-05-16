@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WorldPM: Scaling Human Preference Modeling](https://huggingface.co/papers/2505.10527) | ⭐ 1 | AI |
-| 🥈 [AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection](https://huggingface.co/papers/2505.09926) | ⭐ 1 | AI |
-| 🥉 [MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning](https://huggingface.co/papers/2505.09265) | ⭐ 1 | AI |
+| 🏆 [Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large
+  Reasoning Models](https://huggingface.co/papers/2505.10554) | ⭐ 28 | AI |
+| 🥈 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 25 | AI |
+| 🥉 [EnerVerse-AC: Envisioning Embodied Environments with Action Condition](https://huggingface.co/papers/2505.09723) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-05-16 01:59 UTC</sub>
+<sub>Last updated: 2025-05-16 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
