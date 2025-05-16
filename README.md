@@ -18,13 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture,
-  Training and Dataset](https://huggingface.co/papers/2505.09568) | ⭐ 40 | AI |
-| 🥈 [DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception](https://huggingface.co/papers/2505.04410) | ⭐ 34 | AI |
-| 🥉 [Insights into DeepSeek-V3: Scaling Challenges and Reflections on
-  Hardware for AI Architectures](https://huggingface.co/papers/2505.09343) | ⭐ 22 | AI |
+| 🏆 [WorldPM: Scaling Human Preference Modeling](https://huggingface.co/papers/2505.10527) | ⭐ 1 | AI |
+| 🥈 [AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection](https://huggingface.co/papers/2505.09926) | ⭐ 1 | AI |
+| 🥉 [MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning](https://huggingface.co/papers/2505.09265) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-05-15 18:34 UTC</sub>
+<sub>Last updated: 2025-05-16 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
