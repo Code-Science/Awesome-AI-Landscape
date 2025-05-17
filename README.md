@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large
-  Reasoning Models](https://huggingface.co/papers/2505.10554) | ⭐ 69 | AI |
-| 🥈 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 47 | AI |
+  Reasoning Models](https://huggingface.co/papers/2505.10554) | ⭐ 74 | AI |
+| 🥈 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 48 | AI |
 | 🥉 [EnerVerse-AC: Envisioning Embodied Environments with Action Condition](https://huggingface.co/papers/2505.09723) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-05-16 18:33 UTC</sub>
+<sub>Last updated: 2025-05-17 01:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
