@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large
-  Reasoning Models](https://huggingface.co/papers/2505.10554) | ⭐ 79 | AI |
-| 🥈 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 48 | AI |
-| 🥉 [Parallel Scaling Law for Language Models](https://huggingface.co/papers/2505.10475) | ⭐ 32 | AI |
+  Reasoning Models](https://huggingface.co/papers/2505.10554) | ⭐ 83 | AI |
+| 🥈 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 51 | AI |
+| 🥉 [Parallel Scaling Law for Language Models](https://huggingface.co/papers/2505.10475) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-05-17 06:31 UTC</sub>
+<sub>Last updated: 2025-05-17 12:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
