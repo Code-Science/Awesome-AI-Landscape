@@ -23,7 +23,7 @@
 | 🥈 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 52 | AI |
 | 🥉 [Parallel Scaling Law for Language Models](https://huggingface.co/papers/2505.10475) | ⭐ 49 | AI |
 
-<sub>Last updated: 2025-05-18 02:05 UTC</sub>
+<sub>Last updated: 2025-05-18 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
