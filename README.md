@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen3 Technical Report](https://huggingface.co/papers/2505.09388) | ⭐ 51 | AI |
-| 🥈 [Visual Planning: Let's Think Only with Images](https://huggingface.co/papers/2505.11409) | ⭐ 6 | AI |
-| 🥉 [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective
-  Search and Data Curation](https://huggingface.co/papers/2505.10962) | ⭐ 5 | AI |
+| 🏆 [Qwen3 Technical Report](https://huggingface.co/papers/2505.09388) | ⭐ 83 | AI |
+| 🥈 [MMLongBench: Benchmarking Long-Context Vision-Language Models
+  Effectively and Thoroughly](https://huggingface.co/papers/2505.10610) | ⭐ 26 | AI |
+| 🥉 [Visual Planning: Let's Think Only with Images](https://huggingface.co/papers/2505.11409) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-05-19 06:35 UTC</sub>
+<sub>Last updated: 2025-05-19 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
