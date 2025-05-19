@@ -20,10 +20,10 @@
 |-------|--------|-----------|
 | 🏆 [Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large
   Reasoning Models](https://huggingface.co/papers/2505.10554) | ⭐ 97 | AI |
-| 🥈 [Parallel Scaling Law for Language Models](https://huggingface.co/papers/2505.10475) | ⭐ 53 | AI |
-| 🥉 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 52 | AI |
+| 🥈 [Parallel Scaling Law for Language Models](https://huggingface.co/papers/2505.10475) | ⭐ 55 | AI |
+| 🥉 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 53 | AI |
 
-<sub>Last updated: 2025-05-18 18:30 UTC</sub>
+<sub>Last updated: 2025-05-19 02:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
