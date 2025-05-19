@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large
-  Reasoning Models](https://huggingface.co/papers/2505.10554) | ⭐ 97 | AI |
-| 🥈 [Parallel Scaling Law for Language Models](https://huggingface.co/papers/2505.10475) | ⭐ 55 | AI |
-| 🥉 [System Prompt Optimization with Meta-Learning](https://huggingface.co/papers/2505.09666) | ⭐ 53 | AI |
+| 🏆 [Qwen3 Technical Report](https://huggingface.co/papers/2505.09388) | ⭐ 51 | AI |
+| 🥈 [Visual Planning: Let's Think Only with Images](https://huggingface.co/papers/2505.11409) | ⭐ 6 | AI |
+| 🥉 [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective
+  Search and Data Curation](https://huggingface.co/papers/2505.10962) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-05-19 02:04 UTC</sub>
+<sub>Last updated: 2025-05-19 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
