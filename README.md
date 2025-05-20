@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen3 Technical Report](https://huggingface.co/papers/2505.09388) | ⭐ 105 | AI |
+| 🏆 [Qwen3 Technical Report](https://huggingface.co/papers/2505.09388) | ⭐ 114 | AI |
 | 🥈 [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://huggingface.co/papers/2505.11049) | ⭐ 41 | AI |
 | 🥉 [MMLongBench: Benchmarking Long-Context Vision-Language Models
-  Effectively and Thoroughly](https://huggingface.co/papers/2505.10610) | ⭐ 36 | AI |
+  Effectively and Thoroughly](https://huggingface.co/papers/2505.10610) | ⭐ 41 | AI |
 
-<sub>Last updated: 2025-05-19 18:34 UTC</sub>
+<sub>Last updated: 2025-05-20 02:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
