@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Chain-of-Model Learning for Language Model](https://huggingface.co/papers/2505.11820) | ⭐ 35 | AI |
-| 🥈 [AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via
-  Reinforcement Learning](https://huggingface.co/papers/2505.11896) | ⭐ 31 | AI |
-| 🥉 [Delta Attention: Fast and Accurate Sparse Attention Inference by Delta
-  Correction](https://huggingface.co/papers/2505.11254) | ⭐ 28 | AI |
+| 🏆 [Chain-of-Model Learning for Language Model](https://huggingface.co/papers/2505.11820) | ⭐ 58 | AI |
+| 🥈 [AdaptThink: Reasoning Models Can Learn When to Think](https://huggingface.co/papers/2505.13417) | ⭐ 48 | AI |
+| 🥉 [AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via
+  Reinforcement Learning](https://huggingface.co/papers/2505.11896) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-05-20 06:35 UTC</sub>
+<sub>Last updated: 2025-05-20 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
