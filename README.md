@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen3 Technical Report](https://huggingface.co/papers/2505.09388) | ⭐ 114 | AI |
-| 🥈 [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://huggingface.co/papers/2505.11049) | ⭐ 41 | AI |
-| 🥉 [MMLongBench: Benchmarking Long-Context Vision-Language Models
-  Effectively and Thoroughly](https://huggingface.co/papers/2505.10610) | ⭐ 41 | AI |
+| 🏆 [Chain-of-Model Learning for Language Model](https://huggingface.co/papers/2505.11820) | ⭐ 35 | AI |
+| 🥈 [AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via
+  Reinforcement Learning](https://huggingface.co/papers/2505.11896) | ⭐ 31 | AI |
+| 🥉 [Delta Attention: Fast and Accurate Sparse Attention Inference by Delta
+  Correction](https://huggingface.co/papers/2505.11254) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-05-20 02:00 UTC</sub>
+<sub>Last updated: 2025-05-20 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
