@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Emerging Properties in Unified Multimodal Pretraining](https://huggingface.co/papers/2505.14683) | ⭐ 43 | AI |
+| 🏆 [Emerging Properties in Unified Multimodal Pretraining](https://huggingface.co/papers/2505.14683) | ⭐ 67 | AI |
 | 🥈 [SageAttention3: Microscaling FP4 Attention for Inference and An
-  Exploration of 8-Bit Training](https://huggingface.co/papers/2505.11594) | ⭐ 22 | AI |
-| 🥉 [Latent Flow Transformer](https://huggingface.co/papers/2505.14513) | ⭐ 9 | AI |
+  Exploration of 8-Bit Training](https://huggingface.co/papers/2505.11594) | ⭐ 34 | AI |
+| 🥉 [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via
+  Reinforcement Learning to Rank](https://huggingface.co/papers/2505.14460) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-05-21 06:35 UTC</sub>
+<sub>Last updated: 2025-05-21 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
