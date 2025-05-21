@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Chain-of-Model Learning for Language Model](https://huggingface.co/papers/2505.11820) | ⭐ 66 | AI |
-| 🥈 [AdaptThink: Reasoning Models Can Learn When to Think](https://huggingface.co/papers/2505.13417) | ⭐ 55 | AI |
-| 🥉 [AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via
-  Reinforcement Learning](https://huggingface.co/papers/2505.11896) | ⭐ 42 | AI |
+| 🏆 [Reasoning Path Compression: Compressing Generation Trajectories for
+  Efficient LLM Reasoning](https://huggingface.co/papers/2505.13866) | ⭐ 3 | AI |
+| 🥈 [NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](https://huggingface.co/papers/2505.14680) | ⭐ 1 | AI |
+| 🥉 [Truth Neurons](https://huggingface.co/papers/2505.12182) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-05-20 18:34 UTC</sub>
+<sub>Last updated: 2025-05-21 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
