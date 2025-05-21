@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reasoning Path Compression: Compressing Generation Trajectories for
-  Efficient LLM Reasoning](https://huggingface.co/papers/2505.13866) | ⭐ 3 | AI |
-| 🥈 [NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](https://huggingface.co/papers/2505.14680) | ⭐ 1 | AI |
-| 🥉 [Truth Neurons](https://huggingface.co/papers/2505.12182) | ⭐ 1 | AI |
+| 🏆 [Emerging Properties in Unified Multimodal Pretraining](https://huggingface.co/papers/2505.14683) | ⭐ 43 | AI |
+| 🥈 [SageAttention3: Microscaling FP4 Attention for Inference and An
+  Exploration of 8-Bit Training](https://huggingface.co/papers/2505.11594) | ⭐ 22 | AI |
+| 🥉 [Latent Flow Transformer](https://huggingface.co/papers/2505.14513) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-05-21 01:59 UTC</sub>
+<sub>Last updated: 2025-05-21 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
