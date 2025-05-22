@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Emerging Properties in Unified Multimodal Pretraining](https://huggingface.co/papers/2505.14683) | ⭐ 75 | AI |
-| 🥈 [SageAttention3: Microscaling FP4 Attention for Inference and An
-  Exploration of 8-Bit Training](https://huggingface.co/papers/2505.11594) | ⭐ 43 | AI |
-| 🥉 [Optimizing Anytime Reasoning via Budget Relative Policy Optimization](https://huggingface.co/papers/2505.13438) | ⭐ 25 | AI |
+| 🏆 [MMaDA: Multimodal Large Diffusion Language Models](https://huggingface.co/papers/2505.15809) | ⭐ 7 | AI |
+| 🥈 [Vid2World: Crafting Video Diffusion Models to Interactive World Models](https://huggingface.co/papers/2505.14357) | ⭐ 2 | AI |
+| 🥉 [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement
+  Learning](https://huggingface.co/papers/2505.14231) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-05-21 18:34 UTC</sub>
+<sub>Last updated: 2025-05-22 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
