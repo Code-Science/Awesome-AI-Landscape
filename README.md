@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reinforcement Learning Finetunes Small Subnetworks in Large Language
-  Models](https://huggingface.co/papers/2505.11711) | ⭐ 1 | AI |
+| 🏆 [NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop
+  System from Hypothesis to Verification](https://huggingface.co/papers/2505.16938) | ⭐ 60 | AI |
+| 🥈 [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement
+  Learning](https://huggingface.co/papers/2505.16410) | ⭐ 31 | AI |
+| 🥉 [KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models](https://huggingface.co/papers/2505.16707) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-05-23 01:58 UTC</sub>
+<sub>Last updated: 2025-05-23 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
