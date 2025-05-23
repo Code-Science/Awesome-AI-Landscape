@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Web-Shepherd: Advancing PRMs for Reinforcing Web Agents](https://huggingface.co/papers/2505.15277) | ⭐ 77 | AI |
-| 🥈 [Scaling Law for Quantization-Aware Training](https://huggingface.co/papers/2505.14302) | ⭐ 53 | AI |
-| 🥉 [MMaDA: Multimodal Large Diffusion Language Models](https://huggingface.co/papers/2505.15809) | ⭐ 50 | AI |
+| 🏆 [Reinforcement Learning Finetunes Small Subnetworks in Large Language
+  Models](https://huggingface.co/papers/2505.11711) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-05-22 18:34 UTC</sub>
+<sub>Last updated: 2025-05-23 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
