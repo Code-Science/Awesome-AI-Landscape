@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop
-  System from Hypothesis to Verification](https://huggingface.co/papers/2505.16938) | ⭐ 100 | AI |
+  System from Hypothesis to Verification](https://huggingface.co/papers/2505.16938) | ⭐ 104 | AI |
 | 🥈 [Scaling Reasoning, Losing Control: Evaluating Instruction Following in
-  Large Reasoning Models](https://huggingface.co/papers/2505.14810) | ⭐ 53 | AI |
+  Large Reasoning Models](https://huggingface.co/papers/2505.14810) | ⭐ 54 | AI |
 | 🥉 [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement
   Learning](https://huggingface.co/papers/2505.16410) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-05-25 06:32 UTC</sub>
+<sub>Last updated: 2025-05-25 12:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
