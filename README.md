@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Teaching with Lies: Curriculum DPO on Synthetic Negatives for
-  Hallucination Detection](https://huggingface.co/papers/2505.17558) | ⭐ 3 | AI |
-| 🥈 [Large Language Models Implicitly Learn to See and Hear Just By Reading](https://huggingface.co/papers/2505.17091) | ⭐ 1 | AI |
-| 🥉 [Distilling LLM Agent into Small Models with Retrieval and Code Tools](https://huggingface.co/papers/2505.17612) | ⭐ 0 | AI |
+| 🏆 [Distilling LLM Agent into Small Models with Retrieval and Code Tools](https://huggingface.co/papers/2505.17612) | ⭐ 26 | AI |
+| 🥈 [QwenLong-L1: Towards Long-Context Large Reasoning Models with
+  Reinforcement Learning](https://huggingface.co/papers/2505.17667) | ⭐ 21 | AI |
+| 🥉 [VeriThinker: Learning to Verify Makes Reasoning Model Efficient](https://huggingface.co/papers/2505.17941) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-05-26 02:02 UTC</sub>
+<sub>Last updated: 2025-05-26 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
