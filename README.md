@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Distilling LLM Agent into Small Models with Retrieval and Code Tools](https://huggingface.co/papers/2505.17612) | ⭐ 26 | AI |
+| 🏆 [TabSTAR: A Foundation Tabular Model With Semantically Target-Aware
+  Representations](https://huggingface.co/papers/2505.18125) | ⭐ 79 | AI |
 | 🥈 [QwenLong-L1: Towards Long-Context Large Reasoning Models with
-  Reinforcement Learning](https://huggingface.co/papers/2505.17667) | ⭐ 21 | AI |
-| 🥉 [VeriThinker: Learning to Verify Makes Reasoning Model Efficient](https://huggingface.co/papers/2505.17941) | ⭐ 18 | AI |
+  Reinforcement Learning](https://huggingface.co/papers/2505.17667) | ⭐ 45 | AI |
+| 🥉 [Reasoning Model is Stubborn: Diagnosing Instruction Overriding in
+  Reasoning Models](https://huggingface.co/papers/2505.17225) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-05-26 06:36 UTC</sub>
+<sub>Last updated: 2025-05-26 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
