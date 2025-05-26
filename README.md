@@ -19,13 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [TabSTAR: A Foundation Tabular Model With Semantically Target-Aware
-  Representations](https://huggingface.co/papers/2505.18125) | ⭐ 79 | AI |
+  Representations](https://huggingface.co/papers/2505.18125) | ⭐ 92 | AI |
 | 🥈 [QwenLong-L1: Towards Long-Context Large Reasoning Models with
-  Reinforcement Learning](https://huggingface.co/papers/2505.17667) | ⭐ 45 | AI |
-| 🥉 [Reasoning Model is Stubborn: Diagnosing Instruction Overriding in
-  Reasoning Models](https://huggingface.co/papers/2505.17225) | ⭐ 42 | AI |
+  Reinforcement Learning](https://huggingface.co/papers/2505.17667) | ⭐ 57 | AI |
+| 🥉 [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://huggingface.co/papers/2505.18129) | ⭐ 49 | AI |
 
-<sub>Last updated: 2025-05-26 12:49 UTC</sub>
+<sub>Last updated: 2025-05-26 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
