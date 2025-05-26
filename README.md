@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop
-  System from Hypothesis to Verification](https://huggingface.co/papers/2505.16938) | ⭐ 105 | AI |
-| 🥈 [Scaling Reasoning, Losing Control: Evaluating Instruction Following in
-  Large Reasoning Models](https://huggingface.co/papers/2505.14810) | ⭐ 54 | AI |
-| 🥉 [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement
-  Learning](https://huggingface.co/papers/2505.16410) | ⭐ 47 | AI |
+| 🏆 [Teaching with Lies: Curriculum DPO on Synthetic Negatives for
+  Hallucination Detection](https://huggingface.co/papers/2505.17558) | ⭐ 3 | AI |
+| 🥈 [Large Language Models Implicitly Learn to See and Hear Just By Reading](https://huggingface.co/papers/2505.17091) | ⭐ 1 | AI |
+| 🥉 [Distilling LLM Agent into Small Models with Retrieval and Code Tools](https://huggingface.co/papers/2505.17612) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-05-25 18:30 UTC</sub>
+<sub>Last updated: 2025-05-26 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
