@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TabSTAR: A Foundation Tabular Model With Semantically Target-Aware
-  Representations](https://huggingface.co/papers/2505.18125) | ⭐ 92 | AI |
-| 🥈 [QwenLong-L1: Towards Long-Context Large Reasoning Models with
-  Reinforcement Learning](https://huggingface.co/papers/2505.17667) | ⭐ 57 | AI |
-| 🥉 [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://huggingface.co/papers/2505.18129) | ⭐ 49 | AI |
+| 🏆 [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language
+  Model via Reinforcement Learning](https://huggingface.co/papers/2505.13426) | ⭐ 3 | AI |
+| 🥈 [Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications
+  of Agentic AI](https://huggingface.co/papers/2505.19443) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-05-26 18:32 UTC</sub>
+<sub>Last updated: 2025-05-27 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
