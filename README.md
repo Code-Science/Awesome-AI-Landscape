@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Shifting AI Efficiency From Model-Centric to Data-Centric Compression](https://huggingface.co/papers/2505.19147) | ⭐ 50 | AI |
-| 🥈 [Embodied Agents Meet Personalization: Exploring Memory Utilization for
-  Personalized Assistance](https://huggingface.co/papers/2505.16348) | ⭐ 31 | AI |
-| 🥉 [ARM: Adaptive Reasoning Model](https://huggingface.co/papers/2505.20258) | ⭐ 26 | AI |
+| 🏆 [Shifting AI Efficiency From Model-Centric to Data-Centric Compression](https://huggingface.co/papers/2505.19147) | ⭐ 97 | AI |
+| 🥈 [Mutarjim: Advancing Bidirectional Arabic-English Translation with a
+  Small Language Model](https://huggingface.co/papers/2505.17894) | ⭐ 84 | AI |
+| 🥉 [BizFinBench: A Business-Driven Real-World Financial Benchmark for
+  Evaluating LLMs](https://huggingface.co/papers/2505.19457) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-05-27 06:34 UTC</sub>
+<sub>Last updated: 2025-05-27 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
