@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language
-  Model via Reinforcement Learning](https://huggingface.co/papers/2505.13426) | ⭐ 3 | AI |
-| 🥈 [Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications
-  of Agentic AI](https://huggingface.co/papers/2505.19443) | ⭐ 1 | AI |
+| 🏆 [Shifting AI Efficiency From Model-Centric to Data-Centric Compression](https://huggingface.co/papers/2505.19147) | ⭐ 50 | AI |
+| 🥈 [Embodied Agents Meet Personalization: Exploring Memory Utilization for
+  Personalized Assistance](https://huggingface.co/papers/2505.16348) | ⭐ 31 | AI |
+| 🥉 [ARM: Adaptive Reasoning Model](https://huggingface.co/papers/2505.20258) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-05-27 01:57 UTC</sub>
+<sub>Last updated: 2025-05-27 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
