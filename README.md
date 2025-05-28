@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://huggingface.co/papers/2505.21327) | ⭐ 59 | AI |
-| 🥈 [OmniConsistency: Learning Style-Agnostic Consistency from Paired
-  Stylization Data](https://huggingface.co/papers/2505.18445) | ⭐ 56 | AI |
+| 🏆 [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic
+  Scientific Workflows](https://huggingface.co/papers/2505.19897) | ⭐ 77 | AI |
+| 🥈 [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://huggingface.co/papers/2505.21327) | ⭐ 68 | AI |
 | 🥉 [Paper2Poster: Towards Multimodal Poster Automation from Scientific
-  Papers](https://huggingface.co/papers/2505.21497) | ⭐ 50 | AI |
+  Papers](https://huggingface.co/papers/2505.21497) | ⭐ 61 | AI |
 
-<sub>Last updated: 2025-05-28 12:51 UTC</sub>
+<sub>Last updated: 2025-05-28 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
