@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mutarjim: Advancing Bidirectional Arabic-English Translation with a
-  Small Language Model](https://huggingface.co/papers/2505.17894) | ⭐ 169 | AI |
-| 🥈 [Shifting AI Efficiency From Model-Centric to Data-Centric Compression](https://huggingface.co/papers/2505.19147) | ⭐ 118 | AI |
-| 🥉 [BizFinBench: A Business-Driven Real-World Financial Benchmark for
-  Evaluating LLMs](https://huggingface.co/papers/2505.19457) | ⭐ 54 | AI |
+| 🏆 [Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via
+  Semantic-Aware Permutation](https://huggingface.co/papers/2505.18875) | ⭐ 9 | AI |
+| 🥈 [OmniConsistency: Learning Style-Agnostic Consistency from Paired
+  Stylization Data](https://huggingface.co/papers/2505.18445) | ⭐ 8 | AI |
+| 🥉 [MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent
+  Systems](https://huggingface.co/papers/2505.18943) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-05-27 18:33 UTC</sub>
+<sub>Last updated: 2025-05-28 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
