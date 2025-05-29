@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic
-  Scientific Workflows](https://huggingface.co/papers/2505.19897) | ⭐ 77 | AI |
-| 🥈 [MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs](https://huggingface.co/papers/2505.21327) | ⭐ 68 | AI |
-| 🥉 [Paper2Poster: Towards Multimodal Poster Automation from Scientific
-  Papers](https://huggingface.co/papers/2505.21497) | ⭐ 61 | AI |
+| 🏆 [DeepResearchGym: A Free, Transparent, and Reproducible Evaluation
+  Sandbox for Deep Research](https://huggingface.co/papers/2505.19253) | ⭐ 4 | AI |
+| 🥈 [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large
+  Model Token Routing](https://huggingface.co/papers/2505.21600) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-05-28 18:33 UTC</sub>
+<sub>Last updated: 2025-05-29 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
