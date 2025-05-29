@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepResearchGym: A Free, Transparent, and Reproducible Evaluation
-  Sandbox for Deep Research](https://huggingface.co/papers/2505.19253) | ⭐ 4 | AI |
-| 🥈 [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large
-  Model Token Routing](https://huggingface.co/papers/2505.21600) | ⭐ 1 | AI |
+| 🏆 [The Entropy Mechanism of Reinforcement Learning for Reasoning Language
+  Models](https://huggingface.co/papers/2505.22617) | ⭐ 36 | AI |
+| 🥈 [Skywork Open Reasoner 1 Technical Report](https://huggingface.co/papers/2505.22312) | ⭐ 32 | AI |
+| 🥉 [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large
+  Model Token Routing](https://huggingface.co/papers/2505.21600) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-05-29 01:59 UTC</sub>
+<sub>Last updated: 2025-05-29 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
