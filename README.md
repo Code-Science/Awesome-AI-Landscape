@@ -19,12 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [The Entropy Mechanism of Reinforcement Learning for Reasoning Language
-  Models](https://huggingface.co/papers/2505.22617) | ⭐ 72 | AI |
+  Models](https://huggingface.co/papers/2505.22617) | ⭐ 82 | AI |
 | 🥈 [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large
-  Model Token Routing](https://huggingface.co/papers/2505.21600) | ⭐ 48 | AI |
-| 🥉 [Skywork Open Reasoner 1 Technical Report](https://huggingface.co/papers/2505.22312) | ⭐ 40 | AI |
+  Model Token Routing](https://huggingface.co/papers/2505.21600) | ⭐ 57 | AI |
+| 🥉 [SWE-rebench: An Automated Pipeline for Task Collection and
+  Decontaminated Evaluation of Software Engineering Agents](https://huggingface.co/papers/2505.20411) | ⭐ 57 | AI |
 
-<sub>Last updated: 2025-05-29 12:50 UTC</sub>
+<sub>Last updated: 2025-05-29 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
