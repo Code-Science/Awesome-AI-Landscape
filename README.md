@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Entropy Mechanism of Reinforcement Learning for Reasoning Language
-  Models](https://huggingface.co/papers/2505.22617) | ⭐ 82 | AI |
-| 🥈 [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large
-  Model Token Routing](https://huggingface.co/papers/2505.21600) | ⭐ 57 | AI |
-| 🥉 [SWE-rebench: An Automated Pipeline for Task Collection and
-  Decontaminated Evaluation of Software Engineering Agents](https://huggingface.co/papers/2505.20411) | ⭐ 57 | AI |
+| 🏆 [VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC
+  Videos](https://huggingface.co/papers/2505.23693) | ⭐ 4 | AI |
+| 🥈 [SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents](https://huggingface.co/papers/2505.23559) | ⭐ 1 | AI |
+| 🥉 [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic
+  Reasoning in Chest X-rays](https://huggingface.co/papers/2505.18087) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-05-29 18:34 UTC</sub>
+<sub>Last updated: 2025-05-30 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
