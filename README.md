@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC
-  Videos](https://huggingface.co/papers/2505.23693) | ⭐ 4 | AI |
-| 🥈 [SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents](https://huggingface.co/papers/2505.23559) | ⭐ 1 | AI |
-| 🥉 [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic
-  Reasoning in Chest X-rays](https://huggingface.co/papers/2505.18087) | ⭐ 0 | AI |
+| 🏆 [ZeroGUI: Automating Online GUI Learning at Zero Human Cost](https://huggingface.co/papers/2505.23762) | ⭐ 30 | AI |
+| 🥈 [The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in
+  Learning to Reason](https://huggingface.co/papers/2505.22653) | ⭐ 30 | AI |
+| 🥉 [VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC
+  Videos](https://huggingface.co/papers/2505.23693) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-05-30 01:57 UTC</sub>
+<sub>Last updated: 2025-05-30 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
