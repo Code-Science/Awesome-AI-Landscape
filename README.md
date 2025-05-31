@@ -20,11 +20,11 @@
 |-------|--------|-----------|
 | 🏆 [Table-R1: Inference-Time Scaling for Table Reasoning](https://huggingface.co/papers/2505.23621) | ⭐ 67 | AI |
 | 🥈 [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial
-  Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 54 | AI |
+  Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 57 | AI |
 | 🥉 [VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC
   Videos](https://huggingface.co/papers/2505.23693) | ⭐ 51 | AI |
 
-<sub>Last updated: 2025-05-31 06:32 UTC</sub>
+<sub>Last updated: 2025-05-31 12:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
