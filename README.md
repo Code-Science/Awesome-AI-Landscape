@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Table-R1: Inference-Time Scaling for Table Reasoning](https://huggingface.co/papers/2505.23621) | ⭐ 66 | AI |
-| 🥈 [VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC
-  Videos](https://huggingface.co/papers/2505.23693) | ⭐ 52 | AI |
-| 🥉 [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial
-  Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 45 | AI |
+| 🥈 [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial
+  Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 53 | AI |
+| 🥉 [VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC
+  Videos](https://huggingface.co/papers/2505.23693) | ⭐ 51 | AI |
 
-<sub>Last updated: 2025-05-30 18:33 UTC</sub>
+<sub>Last updated: 2025-05-31 01:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
