@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Table-R1: Inference-Time Scaling for Table Reasoning](https://huggingface.co/papers/2505.23621) | ⭐ 70 | AI |
-| 🥈 [The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in
-  Learning to Reason](https://huggingface.co/papers/2505.22653) | ⭐ 58 | AI |
-| 🥉 [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial
-  Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 57 | AI |
+| 🏆 [Table-R1: Inference-Time Scaling for Table Reasoning](https://huggingface.co/papers/2505.23621) | ⭐ 73 | AI |
+| 🥈 [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial
+  Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 60 | AI |
+| 🥉 [The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in
+  Learning to Reason](https://huggingface.co/papers/2505.22653) | ⭐ 59 | AI |
 
-<sub>Last updated: 2025-06-01 06:33 UTC</sub>
+<sub>Last updated: 2025-06-01 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
