@@ -24,7 +24,7 @@
 | 🥉 [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial
   Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 57 | AI |
 
-<sub>Last updated: 2025-06-01 02:24 UTC</sub>
+<sub>Last updated: 2025-06-01 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
