@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in
-  Large Language Models](https://huggingface.co/papers/2505.24864) | ⭐ 50 | AI |
-| 🥈 [AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](https://huggingface.co/papers/2505.24863) | ⭐ 34 | AI |
-| 🥉 [Time Blindness: Why Video-Language Models Can't See What Humans Can?](https://huggingface.co/papers/2505.24867) | ⭐ 26 | AI |
+  Large Language Models](https://huggingface.co/papers/2505.24864) | ⭐ 72 | AI |
+| 🥈 [AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](https://huggingface.co/papers/2505.24863) | ⭐ 43 | AI |
+| 🥉 [Time Blindness: Why Video-Language Models Can't See What Humans Can?](https://huggingface.co/papers/2505.24867) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-06-02 12:51 UTC</sub>
+<sub>Last updated: 2025-06-02 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
