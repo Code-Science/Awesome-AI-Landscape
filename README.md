@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Table-R1: Inference-Time Scaling for Table Reasoning](https://huggingface.co/papers/2505.23621) | ⭐ 79 | AI |
-| 🥈 [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial
-  Intelligence](https://huggingface.co/papers/2505.23747) | ⭐ 61 | AI |
-| 🥉 [The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in
-  Learning to Reason](https://huggingface.co/papers/2505.22653) | ⭐ 60 | AI |
+| 🏆 [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in
+  Large Language Models](https://huggingface.co/papers/2505.24864) | ⭐ 33 | AI |
+| 🥈 [AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](https://huggingface.co/papers/2505.24863) | ⭐ 27 | AI |
+| 🥉 [HardTests: Synthesizing High-Quality Test Cases for LLM Coding](https://huggingface.co/papers/2505.24098) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-06-02 02:05 UTC</sub>
+<sub>Last updated: 2025-06-02 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
