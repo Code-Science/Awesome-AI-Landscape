@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective
-  Reinforcement Learning for LLM Reasoning](https://huggingface.co/papers/2506.01939) | ⭐ 41 | AI |
-| 🥈 [Taming LLMs by Scaling Learning Rates with Gradient Grouping](https://huggingface.co/papers/2506.01049) | ⭐ 18 | AI |
-| 🥉 [Learning Video Generation for Robotic Manipulation with Collaborative
-  Trajectory Control](https://huggingface.co/papers/2506.01943) | ⭐ 11 | AI |
+  Reinforcement Learning for LLM Reasoning](https://huggingface.co/papers/2506.01939) | ⭐ 74 | AI |
+| 🥈 [REASONING GYM: Reasoning Environments for Reinforcement Learning with
+  Verifiable Rewards](https://huggingface.co/papers/2505.24760) | ⭐ 25 | AI |
+| 🥉 [Taming LLMs by Scaling Learning Rates with Gradient Grouping](https://huggingface.co/papers/2506.01049) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-06-03 06:36 UTC</sub>
+<sub>Last updated: 2025-06-03 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
