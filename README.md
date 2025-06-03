@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in
-  Large Language Models](https://huggingface.co/papers/2505.24864) | ⭐ 72 | AI |
-| 🥈 [AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](https://huggingface.co/papers/2505.24863) | ⭐ 43 | AI |
-| 🥉 [Time Blindness: Why Video-Language Models Can't See What Humans Can?](https://huggingface.co/papers/2505.24867) | ⭐ 42 | AI |
+| 🏆 [DyePack: Provably Flagging Test Set Contamination in LLMs Using
+  Backdoors](https://huggingface.co/papers/2505.23001) | ⭐ 7 | AI |
+| 🥈 [VAU-R1: Advancing Video Anomaly Understanding via Reinforcement
+  Fine-Tuning](https://huggingface.co/papers/2505.23504) | ⭐ 2 | AI |
+| 🥉 [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision
+  Geometry Priors](https://huggingface.co/papers/2505.24625) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-06-02 18:34 UTC</sub>
+<sub>Last updated: 2025-06-03 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
