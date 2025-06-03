@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DyePack: Provably Flagging Test Set Contamination in LLMs Using
-  Backdoors](https://huggingface.co/papers/2505.23001) | ⭐ 7 | AI |
-| 🥈 [VAU-R1: Advancing Video Anomaly Understanding via Reinforcement
-  Fine-Tuning](https://huggingface.co/papers/2505.23504) | ⭐ 2 | AI |
-| 🥉 [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision
-  Geometry Priors](https://huggingface.co/papers/2505.24625) | ⭐ 1 | AI |
+| 🏆 [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective
+  Reinforcement Learning for LLM Reasoning](https://huggingface.co/papers/2506.01939) | ⭐ 41 | AI |
+| 🥈 [Taming LLMs by Scaling Learning Rates with Gradient Grouping](https://huggingface.co/papers/2506.01049) | ⭐ 18 | AI |
+| 🥉 [Learning Video Generation for Robotic Manipulation with Collaborative
+  Trajectory Control](https://huggingface.co/papers/2506.01943) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-06-03 02:01 UTC</sub>
+<sub>Last updated: 2025-06-03 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
