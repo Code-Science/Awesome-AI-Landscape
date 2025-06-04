@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective
-  Reinforcement Learning for LLM Reasoning](https://huggingface.co/papers/2506.01939) | ⭐ 87 | AI |
-| 🥈 [SmolVLA: A Vision-Language-Action Model for Affordable and Efficient
-  Robotics](https://huggingface.co/papers/2506.01844) | ⭐ 38 | AI |
-| 🥉 [REASONING GYM: Reasoning Environments for Reinforcement Learning with
-  Verifiable Rewards](https://huggingface.co/papers/2505.24760) | ⭐ 37 | AI |
+  Reinforcement Learning for LLM Reasoning](https://huggingface.co/papers/2506.01939) | ⭐ 99 | AI |
+| 🥈 [REASONING GYM: Reasoning Environments for Reinforcement Learning with
+  Verifiable Rewards](https://huggingface.co/papers/2505.24760) | ⭐ 50 | AI |
+| 🥉 [SmolVLA: A Vision-Language-Action Model for Affordable and Efficient
+  Robotics](https://huggingface.co/papers/2506.01844) | ⭐ 45 | AI |
 
-<sub>Last updated: 2025-06-03 18:35 UTC</sub>
+<sub>Last updated: 2025-06-04 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
