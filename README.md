@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning
-  Capabilities of VLMs](https://huggingface.co/papers/2505.24120) | ⭐ 41 | AI |
-| 🥈 [UniWorld: High-Resolution Semantic Encoders for Unified Visual
-  Understanding and Generation](https://huggingface.co/papers/2506.03147) | ⭐ 40 | AI |
-| 🥉 [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in
-  Multi-Agent Environments](https://huggingface.co/papers/2506.02387) | ⭐ 39 | AI |
+| 🏆 [Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning](https://huggingface.co/papers/2505.24726) | ⭐ 132 | AI |
+| 🥈 [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in
+  Multi-Agent Environments](https://huggingface.co/papers/2506.02387) | ⭐ 48 | AI |
+| 🥉 [UniWorld: High-Resolution Semantic Encoders for Unified Visual
+  Understanding and Generation](https://huggingface.co/papers/2506.03147) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-06-04 12:52 UTC</sub>
+<sub>Last updated: 2025-06-04 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
