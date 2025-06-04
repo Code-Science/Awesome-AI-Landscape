@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniWorld: High-Resolution Semantic Encoders for Unified Visual
-  Understanding and Generation](https://huggingface.co/papers/2506.03147) | ⭐ 27 | AI |
-| 🥈 [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in
-  Multi-Agent Environments](https://huggingface.co/papers/2506.02387) | ⭐ 21 | AI |
-| 🥉 [Visual Embodied Brain: Let Multimodal Large Language Models See, Think,
-  and Control in Spaces](https://huggingface.co/papers/2506.00123) | ⭐ 20 | AI |
+| 🏆 [CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning
+  Capabilities of VLMs](https://huggingface.co/papers/2505.24120) | ⭐ 41 | AI |
+| 🥈 [UniWorld: High-Resolution Semantic Encoders for Unified Visual
+  Understanding and Generation](https://huggingface.co/papers/2506.03147) | ⭐ 40 | AI |
+| 🥉 [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in
+  Multi-Agent Environments](https://huggingface.co/papers/2506.02387) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-06-04 06:35 UTC</sub>
+<sub>Last updated: 2025-06-04 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
