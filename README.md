@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DiffDecompose: Layer-Wise Decomposition of Alpha-Composited Images via
-  Diffusion Transformers](https://huggingface.co/papers/2505.21541) | ⭐ 1 | AI |
-| 🥈 [TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management
-  in LLM-based Agentic Multi-Agent Systems](https://huggingface.co/papers/2506.04133) | ⭐ 0 | AI |
-| 🥉 [Improving Knowledge Distillation Under Unknown Covariate Shift Through
-  Confidence-Guided Data Augmentation](https://huggingface.co/papers/2506.02294) | ⭐ 0 | AI |
+| 🏆 [MiMo-VL Technical Report](https://huggingface.co/papers/2506.03569) | ⭐ 32 | AI |
+| 🥈 [A Controllable Examination for Long-Context Language Models](https://huggingface.co/papers/2506.02921) | ⭐ 23 | AI |
+| 🥉 [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged
+  Reinforcement Learning](https://huggingface.co/papers/2506.04207) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-06-05 02:00 UTC</sub>
+<sub>Last updated: 2025-06-05 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
