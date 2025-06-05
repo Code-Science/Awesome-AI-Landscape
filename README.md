@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MiMo-VL Technical Report](https://huggingface.co/papers/2506.03569) | ⭐ 32 | AI |
-| 🥈 [A Controllable Examination for Long-Context Language Models](https://huggingface.co/papers/2506.02921) | ⭐ 23 | AI |
-| 🥉 [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged
-  Reinforcement Learning](https://huggingface.co/papers/2506.04207) | ⭐ 19 | AI |
+| 🏆 [MiMo-VL Technical Report](https://huggingface.co/papers/2506.03569) | ⭐ 49 | AI |
+| 🥈 [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged
+  Reinforcement Learning](https://huggingface.co/papers/2506.04207) | ⭐ 37 | AI |
+| 🥉 [AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment](https://huggingface.co/papers/2506.04089) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-06-05 06:36 UTC</sub>
+<sub>Last updated: 2025-06-05 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
