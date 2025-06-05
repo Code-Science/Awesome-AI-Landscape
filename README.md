@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning](https://huggingface.co/papers/2505.24726) | ⭐ 132 | AI |
-| 🥈 [VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in
-  Multi-Agent Environments](https://huggingface.co/papers/2506.02387) | ⭐ 48 | AI |
-| 🥉 [UniWorld: High-Resolution Semantic Encoders for Unified Visual
-  Understanding and Generation](https://huggingface.co/papers/2506.03147) | ⭐ 47 | AI |
+| 🏆 [DiffDecompose: Layer-Wise Decomposition of Alpha-Composited Images via
+  Diffusion Transformers](https://huggingface.co/papers/2505.21541) | ⭐ 1 | AI |
+| 🥈 [TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management
+  in LLM-based Agentic Multi-Agent Systems](https://huggingface.co/papers/2506.04133) | ⭐ 0 | AI |
+| 🥉 [Improving Knowledge Distillation Under Unknown Covariate Shift Through
+  Confidence-Guided Data Augmentation](https://huggingface.co/papers/2506.02294) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-06-04 18:34 UTC</sub>
+<sub>Last updated: 2025-06-05 02:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
