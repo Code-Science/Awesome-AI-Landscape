@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language
-  Models for Robotics](https://huggingface.co/papers/2506.04308) | ⭐ 26 | AI |
-| 🥈 [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow
-  Development](https://huggingface.co/papers/2506.05010) | ⭐ 18 | AI |
-| 🥉 [Aligning Latent Spaces with Flow Priors](https://huggingface.co/papers/2506.05240) | ⭐ 14 | AI |
+  Models for Robotics](https://huggingface.co/papers/2506.04308) | ⭐ 31 | AI |
+| 🥈 [SeedVR2: One-Step Video Restoration via Diffusion Adversarial
+  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 30 | AI |
+| 🥉 [Video World Models with Long-term Spatial Memory](https://huggingface.co/papers/2506.05284) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-06-06 06:36 UTC</sub>
+<sub>Last updated: 2025-06-06 12:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
