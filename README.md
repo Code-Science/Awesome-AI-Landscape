@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual
-  Counting for MLLMs](https://huggingface.co/papers/2506.05328) | ⭐ 1 | AI |
-| 🥈 [Aligning Latent Spaces with Flow Priors](https://huggingface.co/papers/2506.05240) | ⭐ 1 | AI |
-| 🥉 [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at
-  Scale](https://huggingface.co/papers/2506.04405) | ⭐ 1 | AI |
+| 🏆 [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language
+  Models for Robotics](https://huggingface.co/papers/2506.04308) | ⭐ 26 | AI |
+| 🥈 [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow
+  Development](https://huggingface.co/papers/2506.05010) | ⭐ 18 | AI |
+| 🥉 [Aligning Latent Spaces with Flow Priors](https://huggingface.co/papers/2506.05240) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-06-06 01:59 UTC</sub>
+<sub>Last updated: 2025-06-06 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
