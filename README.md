@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MiMo-VL Technical Report](https://huggingface.co/papers/2506.03569) | ⭐ 49 | AI |
-| 🥈 [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged
-  Reinforcement Learning](https://huggingface.co/papers/2506.04207) | ⭐ 37 | AI |
-| 🥉 [AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment](https://huggingface.co/papers/2506.04089) | ⭐ 34 | AI |
+| 🏆 [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual
+  Counting for MLLMs](https://huggingface.co/papers/2506.05328) | ⭐ 1 | AI |
+| 🥈 [Aligning Latent Spaces with Flow Priors](https://huggingface.co/papers/2506.05240) | ⭐ 1 | AI |
+| 🥉 [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at
+  Scale](https://huggingface.co/papers/2506.04405) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-06-05 12:51 UTC</sub>
+<sub>Last updated: 2025-06-06 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
