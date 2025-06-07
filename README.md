@@ -19,13 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [SeedVR2: One-Step Video Restoration via Diffusion Adversarial
-  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 39 | AI |
+  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 41 | AI |
 | 🥈 [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow
-  Development](https://huggingface.co/papers/2506.05010) | ⭐ 38 | AI |
-| 🥉 [Diagonal Batching Unlocks Parallelism in Recurrent Memory Transformers
-  for Long Contexts](https://huggingface.co/papers/2506.05229) | ⭐ 32 | AI |
+  Development](https://huggingface.co/papers/2506.05010) | ⭐ 40 | AI |
+| 🥉 [Video World Models with Long-term Spatial Memory](https://huggingface.co/papers/2506.05284) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-06-07 01:59 UTC</sub>
+<sub>Last updated: 2025-06-07 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
