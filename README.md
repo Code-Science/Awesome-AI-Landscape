@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [SeedVR2: One-Step Video Restoration via Diffusion Adversarial
-  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 41 | AI |
+  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 43 | AI |
 | 🥈 [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow
-  Development](https://huggingface.co/papers/2506.05010) | ⭐ 40 | AI |
-| 🥉 [Video World Models with Long-term Spatial Memory](https://huggingface.co/papers/2506.05284) | ⭐ 33 | AI |
+  Development](https://huggingface.co/papers/2506.05010) | ⭐ 43 | AI |
+| 🥉 [Video World Models with Long-term Spatial Memory](https://huggingface.co/papers/2506.05284) | ⭐ 36 | AI |
 
-<sub>Last updated: 2025-06-07 06:32 UTC</sub>
+<sub>Last updated: 2025-06-07 12:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
