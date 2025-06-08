@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SeedVR2: One-Step Video Restoration via Diffusion Adversarial
-  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 46 | AI |
-| 🥈 [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow
-  Development](https://huggingface.co/papers/2506.05010) | ⭐ 46 | AI |
+| 🏆 [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow
+  Development](https://huggingface.co/papers/2506.05010) | ⭐ 49 | AI |
+| 🥈 [SeedVR2: One-Step Video Restoration via Diffusion Adversarial
+  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 48 | AI |
 | 🥉 [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language
   Models for Robotics](https://huggingface.co/papers/2506.04308) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-06-08 02:10 UTC</sub>
+<sub>Last updated: 2025-06-08 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
