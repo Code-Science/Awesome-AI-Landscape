@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal
-  Contextual Fusion](https://huggingface.co/papers/2506.01111) | ⭐ 17 | AI |
-| 🥈 [Audio-Aware Large Language Models as Judges for Speaking Styles](https://huggingface.co/papers/2506.05984) | ⭐ 6 | AI |
-| 🥉 [Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs](https://huggingface.co/papers/2506.05629) | ⭐ 5 | AI |
+| 🏆 [Will It Still Be True Tomorrow? Multilingual Evergreen Question
+  Classification to Improve Trustworthy QA](https://huggingface.co/papers/2505.21115) | ⭐ 67 | AI |
+| 🥈 [FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal
+  Contextual Fusion](https://huggingface.co/papers/2506.01111) | ⭐ 22 | AI |
+| 🥉 [Is Extending Modality The Right Path Towards Omni-Modality?](https://huggingface.co/papers/2506.01872) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-06-09 06:37 UTC</sub>
+<sub>Last updated: 2025-06-09 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
