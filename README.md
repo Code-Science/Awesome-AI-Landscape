@@ -18,14 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow
-  Development](https://huggingface.co/papers/2506.05010) | ⭐ 51 | AI |
-| 🥈 [SeedVR2: One-Step Video Restoration via Diffusion Adversarial
-  Post-Training](https://huggingface.co/papers/2506.05301) | ⭐ 48 | AI |
-| 🥉 [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language
-  Models for Robotics](https://huggingface.co/papers/2506.04308) | ⭐ 39 | AI |
+| 🏆 [Audio-Aware Large Language Models as Judges for Speaking Styles](https://huggingface.co/papers/2506.05984) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-06-08 12:46 UTC</sub>
+<sub>Last updated: 2025-06-09 02:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
