@@ -18,9 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Audio-Aware Large Language Models as Judges for Speaking Styles](https://huggingface.co/papers/2506.05984) | ⭐ 1 | AI |
+| 🏆 [FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal
+  Contextual Fusion](https://huggingface.co/papers/2506.01111) | ⭐ 17 | AI |
+| 🥈 [Audio-Aware Large Language Models as Judges for Speaking Styles](https://huggingface.co/papers/2506.05984) | ⭐ 6 | AI |
+| 🥉 [Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs](https://huggingface.co/papers/2506.05629) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-06-09 02:07 UTC</sub>
+<sub>Last updated: 2025-06-09 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
