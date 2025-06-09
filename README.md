@@ -19,12 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Will It Still Be True Tomorrow? Multilingual Evergreen Question
-  Classification to Improve Trustworthy QA](https://huggingface.co/papers/2505.21115) | ⭐ 67 | AI |
+  Classification to Improve Trustworthy QA](https://huggingface.co/papers/2505.21115) | ⭐ 76 | AI |
 | 🥈 [FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal
-  Contextual Fusion](https://huggingface.co/papers/2506.01111) | ⭐ 22 | AI |
-| 🥉 [Is Extending Modality The Right Path Towards Omni-Modality?](https://huggingface.co/papers/2506.01872) | ⭐ 14 | AI |
+  Contextual Fusion](https://huggingface.co/papers/2506.01111) | ⭐ 24 | AI |
+| 🥉 [MORSE-500: A Programmatically Controllable Video Benchmark to
+  Stress-Test Multimodal Reasoning](https://huggingface.co/papers/2506.05523) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-06-09 12:51 UTC</sub>
+<sub>Last updated: 2025-06-09 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
