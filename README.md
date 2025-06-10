@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reinforcement Pre-Training](https://huggingface.co/papers/2506.08007) | ⭐ 87 | AI |
+| 🏆 [Reinforcement Pre-Training](https://huggingface.co/papers/2506.08007) | ⭐ 121 | AI |
 | 🥈 [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical
-  Understanding and Reasoning](https://huggingface.co/papers/2506.07044) | ⭐ 39 | AI |
-| 🥉 [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://huggingface.co/papers/2506.07900) | ⭐ 35 | AI |
+  Understanding and Reasoning](https://huggingface.co/papers/2506.07044) | ⭐ 53 | AI |
+| 🥉 [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://huggingface.co/papers/2506.07900) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-06-10 06:35 UTC</sub>
+<sub>Last updated: 2025-06-10 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
