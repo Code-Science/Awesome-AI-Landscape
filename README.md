@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation](https://huggingface.co/papers/2506.07530) | ⭐ 2 | AI |
-| 🥈 [Through the Valley: Path to Effective Long CoT Training for Small
-  Language Models](https://huggingface.co/papers/2506.07712) | ⭐ 1 | AI |
+| 🏆 [Reinforcement Pre-Training](https://huggingface.co/papers/2506.08007) | ⭐ 87 | AI |
+| 🥈 [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical
+  Understanding and Reasoning](https://huggingface.co/papers/2506.07044) | ⭐ 39 | AI |
+| 🥉 [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://huggingface.co/papers/2506.07900) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-06-10 02:03 UTC</sub>
+<sub>Last updated: 2025-06-10 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
