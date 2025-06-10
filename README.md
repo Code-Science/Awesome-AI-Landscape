@@ -18,14 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Will It Still Be True Tomorrow? Multilingual Evergreen Question
-  Classification to Improve Trustworthy QA](https://huggingface.co/papers/2505.21115) | ⭐ 76 | AI |
-| 🥈 [FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal
-  Contextual Fusion](https://huggingface.co/papers/2506.01111) | ⭐ 24 | AI |
-| 🥉 [MORSE-500: A Programmatically Controllable Video Benchmark to
-  Stress-Test Multimodal Reasoning](https://huggingface.co/papers/2506.05523) | ⭐ 23 | AI |
+| 🏆 [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation](https://huggingface.co/papers/2506.07530) | ⭐ 2 | AI |
+| 🥈 [Through the Valley: Path to Effective Long CoT Training for Small
+  Language Models](https://huggingface.co/papers/2506.07712) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-06-09 18:33 UTC</sub>
+<sub>Last updated: 2025-06-10 02:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
