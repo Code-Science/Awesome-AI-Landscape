@@ -18,9 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RKEFino1: A Regulation Knowledge-Enhanced Large Language Model](https://huggingface.co/papers/2506.05700) | ⭐ 0 | AI |
+| 🏆 [Geopolitical biases in LLMs: what are the "good" and the "bad" countries
+  according to contemporary language models](https://huggingface.co/papers/2506.06751) | ⭐ 9 | AI |
+| 🥈 [Solving Inequality Proofs with Large Language Models](https://huggingface.co/papers/2506.07927) | ⭐ 6 | AI |
+| 🥉 [ECoRAG: Evidentiality-guided Compression for Long Context RAG](https://huggingface.co/papers/2506.05167) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-06-11 02:02 UTC</sub>
+<sub>Last updated: 2025-06-11 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
