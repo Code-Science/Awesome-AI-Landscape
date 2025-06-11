@@ -18,13 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reinforcement Pre-Training](https://huggingface.co/papers/2506.08007) | ⭐ 135 | AI |
-| 🥈 [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical
-  Understanding and Reasoning](https://huggingface.co/papers/2506.07044) | ⭐ 79 | AI |
-| 🥉 [Saffron-1: Towards an Inference Scaling Paradigm for LLM Safety
-  Assurance](https://huggingface.co/papers/2506.06444) | ⭐ 55 | AI |
+| 🏆 [RKEFino1: A Regulation Knowledge-Enhanced Large Language Model](https://huggingface.co/papers/2506.05700) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-06-10 18:34 UTC</sub>
+<sub>Last updated: 2025-06-11 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
