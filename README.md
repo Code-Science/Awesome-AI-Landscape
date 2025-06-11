@@ -19,11 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Geopolitical biases in LLMs: what are the "good" and the "bad" countries
-  according to contemporary language models](https://huggingface.co/papers/2506.06751) | ⭐ 9 | AI |
-| 🥈 [Solving Inequality Proofs with Large Language Models](https://huggingface.co/papers/2506.07927) | ⭐ 6 | AI |
-| 🥉 [ECoRAG: Evidentiality-guided Compression for Long Context RAG](https://huggingface.co/papers/2506.05167) | ⭐ 5 | AI |
+  according to contemporary language models](https://huggingface.co/papers/2506.06751) | ⭐ 40 | AI |
+| 🥈 [RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic
+  Sampling](https://huggingface.co/papers/2506.08672) | ⭐ 20 | AI |
+| 🥉 [Autoregressive Semantic Visual Reconstruction Helps VLMs Understand
+  Better](https://huggingface.co/papers/2506.09040) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-06-11 06:36 UTC</sub>
+<sub>Last updated: 2025-06-11 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
