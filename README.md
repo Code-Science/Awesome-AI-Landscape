@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner](https://huggingface.co/papers/2506.09003) | ⭐ 2 | AI |
+| 🏆 [PlayerOne: Egocentric World Simulator](https://huggingface.co/papers/2506.09995) | ⭐ 18 | AI |
+| 🥈 [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://huggingface.co/papers/2506.09113) | ⭐ 18 | AI |
+| 🥉 [SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner](https://huggingface.co/papers/2506.09003) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-06-12 02:01 UTC</sub>
+<sub>Last updated: 2025-06-12 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
