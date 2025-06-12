@@ -18,14 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Geopolitical biases in LLMs: what are the "good" and the "bad" countries
-  according to contemporary language models](https://huggingface.co/papers/2506.06751) | ⭐ 51 | AI |
-| 🥈 [Autoregressive Semantic Visual Reconstruction Helps VLMs Understand
-  Better](https://huggingface.co/papers/2506.09040) | ⭐ 24 | AI |
-| 🥉 [RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic
-  Sampling](https://huggingface.co/papers/2506.08672) | ⭐ 23 | AI |
+| 🏆 [SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner](https://huggingface.co/papers/2506.09003) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-06-11 18:35 UTC</sub>
+<sub>Last updated: 2025-06-12 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
