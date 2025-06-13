@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](https://huggingface.co/papers/2506.06395) | ⭐ 60 | AI |
-| 🥈 [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://huggingface.co/papers/2506.09113) | ⭐ 45 | AI |
-| 🥉 [Autoregressive Adversarial Post-Training for Real-Time Interactive Video
-  Generation](https://huggingface.co/papers/2506.09350) | ⭐ 33 | AI |
+| 🏆 [VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos](https://huggingface.co/papers/2506.10857) | ⭐ 4 | AI |
+| 🥈 [SWE-Factory: Your Automated Factory for Issue Resolution Training Data
+  and Evaluation Benchmarks](https://huggingface.co/papers/2506.10954) | ⭐ 1 | AI |
+| 🥉 [VerIF: Verification Engineering for Reinforcement Learning in
+  Instruction Following](https://huggingface.co/papers/2506.09942) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-06-12 18:34 UTC</sub>
+<sub>Last updated: 2025-06-13 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
