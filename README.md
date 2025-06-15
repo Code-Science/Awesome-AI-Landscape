@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical
-  Reasoning](https://huggingface.co/papers/2506.09513) | ⭐ 76 | AI |
+  Reasoning](https://huggingface.co/papers/2506.09513) | ⭐ 79 | AI |
 | 🥈 [SWE-Factory: Your Automated Factory for Issue Resolution Training Data
   and Evaluation Benchmarks](https://huggingface.co/papers/2506.10954) | ⭐ 43 | AI |
-| 🥉 [Text-Aware Image Restoration with Diffusion Models](https://huggingface.co/papers/2506.09993) | ⭐ 35 | AI |
+| 🥉 [Magistral](https://huggingface.co/papers/2506.10910) | ⭐ 36 | AI |
 
-<sub>Last updated: 2025-06-15 06:33 UTC</sub>
+<sub>Last updated: 2025-06-15 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
