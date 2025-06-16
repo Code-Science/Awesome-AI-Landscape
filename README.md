@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical
-  Reasoning](https://huggingface.co/papers/2506.09513) | ⭐ 80 | AI |
+  Reasoning](https://huggingface.co/papers/2506.09513) | ⭐ 84 | AI |
 | 🥈 [SWE-Factory: Your Automated Factory for Issue Resolution Training Data
-  and Evaluation Benchmarks](https://huggingface.co/papers/2506.10954) | ⭐ 44 | AI |
-| 🥉 [Magistral](https://huggingface.co/papers/2506.10910) | ⭐ 39 | AI |
+  and Evaluation Benchmarks](https://huggingface.co/papers/2506.10954) | ⭐ 45 | AI |
+| 🥉 [Magistral](https://huggingface.co/papers/2506.10910) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-06-15 18:31 UTC</sub>
+<sub>Last updated: 2025-06-16 02:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
