@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical
-  Reasoning](https://huggingface.co/papers/2506.09513) | ⭐ 84 | AI |
-| 🥈 [SWE-Factory: Your Automated Factory for Issue Resolution Training Data
-  and Evaluation Benchmarks](https://huggingface.co/papers/2506.10954) | ⭐ 45 | AI |
-| 🥉 [Magistral](https://huggingface.co/papers/2506.10910) | ⭐ 42 | AI |
+| 🏆 [Aligned Novel View Image and Geometry Synthesis via Cross-modal
+  Attention Instillation](https://huggingface.co/papers/2506.11924) | ⭐ 14 | AI |
+| 🥈 [The Diffusion Duality](https://huggingface.co/papers/2506.10892) | ⭐ 3 | AI |
+| 🥉 [LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive
+  Programming?](https://huggingface.co/papers/2506.11928) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-06-16 02:06 UTC</sub>
+<sub>Last updated: 2025-06-16 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
