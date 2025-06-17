@@ -18,12 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Aligned Novel View Image and Geometry Synthesis via Cross-modal
-  Attention Instillation](https://huggingface.co/papers/2506.11924) | ⭐ 24 | AI |
-| 🥈 [Effective Red-Teaming of Policy-Adherent Agents](https://huggingface.co/papers/2506.09600) | ⭐ 18 | AI |
-| 🥉 [The Diffusion Duality](https://huggingface.co/papers/2506.10892) | ⭐ 12 | AI |
+| 🏆 [DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents](https://huggingface.co/papers/2506.11763) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-06-16 12:53 UTC</sub>
+<sub>Last updated: 2025-06-17 02:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
