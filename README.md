@@ -18,9 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents](https://huggingface.co/papers/2506.11763) | ⭐ 0 | AI |
+| 🏆 [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning
+  Attention](https://huggingface.co/papers/2506.13585) | ⭐ 138 | AI |
+| 🥈 [Scientists' First Exam: Probing Cognitive Abilities of MLLM via
+  Perception, Understanding, and Reasoning](https://huggingface.co/papers/2506.10521) | ⭐ 35 | AI |
+| 🥉 [DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents](https://huggingface.co/papers/2506.11763) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-06-17 02:03 UTC</sub>
+<sub>Last updated: 2025-06-17 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
