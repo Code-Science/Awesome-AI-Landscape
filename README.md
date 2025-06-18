@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Stream-Omni: Simultaneous Multimodal Interactions with Large
-  Language-Vision-Speech Model](https://huggingface.co/papers/2506.13642) | ⭐ 6 | AI |
-| 🥈 [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://huggingface.co/papers/2506.14429) | ⭐ 2 | AI |
-| 🥉 [Taming Polysemanticity in LLMs: Provable Feature Recovery via Sparse
-  Autoencoders](https://huggingface.co/papers/2506.14002) | ⭐ 2 | AI |
+| 🏆 [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://huggingface.co/papers/2506.14429) | ⭐ 19 | AI |
+| 🥈 [Stream-Omni: Simultaneous Multimodal Interactions with Large
+  Language-Vision-Speech Model](https://huggingface.co/papers/2506.13642) | ⭐ 15 | AI |
+| 🥉 [Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just
+  Like an Olympiad Team](https://huggingface.co/papers/2506.14234) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-06-18 02:02 UTC</sub>
+<sub>Last updated: 2025-06-18 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
