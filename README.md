@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning
-  Attention](https://huggingface.co/papers/2506.13585) | ⭐ 180 | AI |
-| 🥈 [Scientists' First Exam: Probing Cognitive Abilities of MLLM via
-  Perception, Understanding, and Reasoning](https://huggingface.co/papers/2506.10521) | ⭐ 60 | AI |
-| 🥉 [DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents](https://huggingface.co/papers/2506.11763) | ⭐ 40 | AI |
+| 🏆 [Stream-Omni: Simultaneous Multimodal Interactions with Large
+  Language-Vision-Speech Model](https://huggingface.co/papers/2506.13642) | ⭐ 6 | AI |
+| 🥈 [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://huggingface.co/papers/2506.14429) | ⭐ 2 | AI |
+| 🥉 [Taming Polysemanticity in LLMs: Provable Feature Recovery via Sparse
+  Autoencoders](https://huggingface.co/papers/2506.14002) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-06-17 18:35 UTC</sub>
+<sub>Last updated: 2025-06-18 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
