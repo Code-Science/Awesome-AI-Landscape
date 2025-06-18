@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Scaling Test-time Compute for LLM Agents](https://huggingface.co/papers/2506.12928) | ⭐ 30 | AI |
-| 🥈 [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://huggingface.co/papers/2506.14429) | ⭐ 28 | AI |
-| 🥉 [Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes
-  Correct Reasoning in Base LLMs](https://huggingface.co/papers/2506.14245) | ⭐ 21 | AI |
+| 🏆 [MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark
+  for Financial LLM Evaluation](https://huggingface.co/papers/2506.14028) | ⭐ 56 | AI |
+| 🥈 [Scaling Test-time Compute for LLM Agents](https://huggingface.co/papers/2506.12928) | ⭐ 33 | AI |
+| 🥉 [CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction
+  Following](https://huggingface.co/papers/2506.12285) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-06-18 12:52 UTC</sub>
+<sub>Last updated: 2025-06-18 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
