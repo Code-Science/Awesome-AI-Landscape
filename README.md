@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://huggingface.co/papers/2506.14429) | ⭐ 19 | AI |
-| 🥈 [Stream-Omni: Simultaneous Multimodal Interactions with Large
-  Language-Vision-Speech Model](https://huggingface.co/papers/2506.13642) | ⭐ 15 | AI |
-| 🥉 [Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just
-  Like an Olympiad Team](https://huggingface.co/papers/2506.14234) | ⭐ 13 | AI |
+| 🏆 [Scaling Test-time Compute for LLM Agents](https://huggingface.co/papers/2506.12928) | ⭐ 30 | AI |
+| 🥈 [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://huggingface.co/papers/2506.14429) | ⭐ 28 | AI |
+| 🥉 [Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes
+  Correct Reasoning in Base LLMs](https://huggingface.co/papers/2506.14245) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-06-18 06:36 UTC</sub>
+<sub>Last updated: 2025-06-18 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
