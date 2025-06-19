@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CoMemo: LVLMs Need Image Context with Image Memory](https://huggingface.co/papers/2506.06279) | ⭐ 1 | AI |
-| 🥈 [Embodied Web Agents: Bridging Physical-Digital Realms for Integrated
-  Agent Intelligence](https://huggingface.co/papers/2506.15677) | ⭐ 0 | AI |
+| 🏆 [Sekai: A Video Dataset towards World Exploration](https://huggingface.co/papers/2506.15675) | ⭐ 29 | AI |
+| 🥈 [ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning
+  in LLMs](https://huggingface.co/papers/2506.15211) | ⭐ 14 | AI |
+| 🥉 [GenRecal: Generation after Recalibration from Large to Small
+  Vision-Language Models](https://huggingface.co/papers/2506.15681) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-06-19 02:02 UTC</sub>
+<sub>Last updated: 2025-06-19 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
