@@ -18,13 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark
-  for Financial LLM Evaluation](https://huggingface.co/papers/2506.14028) | ⭐ 56 | AI |
-| 🥈 [Scaling Test-time Compute for LLM Agents](https://huggingface.co/papers/2506.12928) | ⭐ 33 | AI |
-| 🥉 [CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction
-  Following](https://huggingface.co/papers/2506.12285) | ⭐ 33 | AI |
+| 🏆 [CoMemo: LVLMs Need Image Context with Image Memory](https://huggingface.co/papers/2506.06279) | ⭐ 1 | AI |
+| 🥈 [Embodied Web Agents: Bridging Physical-Digital Realms for Integrated
+  Agent Intelligence](https://huggingface.co/papers/2506.15677) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-06-18 18:35 UTC</sub>
+<sub>Last updated: 2025-06-19 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
