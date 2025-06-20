@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Sekai: A Video Dataset towards World Exploration](https://huggingface.co/papers/2506.15675) | ⭐ 33 | AI |
+| 🏆 [Sekai: A Video Dataset towards World Exploration](https://huggingface.co/papers/2506.15675) | ⭐ 39 | AI |
 | 🥈 [ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning
-  in LLMs](https://huggingface.co/papers/2506.15211) | ⭐ 19 | AI |
+  in LLMs](https://huggingface.co/papers/2506.15211) | ⭐ 23 | AI |
 | 🥉 [GenRecal: Generation after Recalibration from Large to Small
-  Vision-Language Models](https://huggingface.co/papers/2506.15681) | ⭐ 16 | AI |
+  Vision-Language Models](https://huggingface.co/papers/2506.15681) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-06-19 18:33 UTC</sub>
+<sub>Last updated: 2025-06-20 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
