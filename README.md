@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain
-  Perspective](https://huggingface.co/papers/2506.14965) | ⭐ 18 | AI |
+  Perspective](https://huggingface.co/papers/2506.14965) | ⭐ 27 | AI |
 | 🥈 [EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech
-  Emotion Detection](https://huggingface.co/papers/2506.09827) | ⭐ 6 | AI |
-| 🥉 [SonicVerse: Multi-Task Learning for Music Feature-Informed Captioning](https://huggingface.co/papers/2506.15154) | ⭐ 4 | AI |
+  Emotion Detection](https://huggingface.co/papers/2506.09827) | ⭐ 7 | AI |
+| 🥉 [Show-o2: Improved Native Unified Multimodal Models](https://huggingface.co/papers/2506.15564) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-06-20 18:34 UTC</sub>
+<sub>Last updated: 2025-06-21 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
