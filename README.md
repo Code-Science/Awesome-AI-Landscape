@@ -20,11 +20,11 @@
 |-------|--------|-----------|
 | 🏆 [Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain
   Perspective](https://huggingface.co/papers/2506.14965) | ⭐ 32 | AI |
-| 🥈 [Show-o2: Improved Native Unified Multimodal Models](https://huggingface.co/papers/2506.15564) | ⭐ 16 | AI |
+| 🥈 [Show-o2: Improved Native Unified Multimodal Models](https://huggingface.co/papers/2506.15564) | ⭐ 17 | AI |
 | 🥉 [EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech
   Emotion Detection](https://huggingface.co/papers/2506.09827) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-06-22 12:46 UTC</sub>
+<sub>Last updated: 2025-06-22 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
