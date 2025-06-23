@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights](https://huggingface.co/papers/2506.16406) | ⭐ 38 | AI |
-| 🥈 [VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement
-  Learning](https://huggingface.co/papers/2506.09049) | ⭐ 23 | AI |
-| 🥉 [Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal
-  Document Understanding](https://huggingface.co/papers/2506.16035) | ⭐ 17 | AI |
+| 🏆 [Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights](https://huggingface.co/papers/2506.16406) | ⭐ 57 | AI |
+| 🥈 [Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal
+  Document Understanding](https://huggingface.co/papers/2506.16035) | ⭐ 39 | AI |
+| 🥉 [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and
+  Quantized Attention in Visual Generation Models](https://huggingface.co/papers/2506.16054) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-06-23 06:38 UTC</sub>
+<sub>Last updated: 2025-06-23 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
