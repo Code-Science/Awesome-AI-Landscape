@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights](https://huggingface.co/papers/2506.16406) | ⭐ 71 | AI |
+| 🏆 [Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights](https://huggingface.co/papers/2506.16406) | ⭐ 79 | AI |
 | 🥈 [Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal
-  Document Understanding](https://huggingface.co/papers/2506.16035) | ⭐ 53 | AI |
+  Document Understanding](https://huggingface.co/papers/2506.16035) | ⭐ 54 | AI |
 | 🥉 [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and
-  Quantized Attention in Visual Generation Models](https://huggingface.co/papers/2506.16054) | ⭐ 43 | AI |
+  Quantized Attention in Visual Generation Models](https://huggingface.co/papers/2506.16054) | ⭐ 45 | AI |
 
-<sub>Last updated: 2025-06-23 18:35 UTC</sub>
+<sub>Last updated: 2025-06-24 02:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
