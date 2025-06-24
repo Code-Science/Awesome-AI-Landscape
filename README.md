@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniGen2: Exploration to Advanced Multimodal Generation](https://huggingface.co/papers/2506.18871) | ⭐ 26 | AI |
-| 🥈 [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
-  Learning](https://huggingface.co/papers/2506.18841) | ⭐ 25 | AI |
-| 🥉 [Phantom-Data : Towards a General Subject-Consistent Video Generation
-  Dataset](https://huggingface.co/papers/2506.18851) | ⭐ 19 | AI |
+| 🏆 [Light of Normals: Unified Feature Representation for Universal
+  Photometric Stereo](https://huggingface.co/papers/2506.18882) | ⭐ 64 | AI |
+| 🥈 [OmniGen2: Exploration to Advanced Multimodal Generation](https://huggingface.co/papers/2506.18871) | ⭐ 37 | AI |
+| 🥉 [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
+  Learning](https://huggingface.co/papers/2506.18841) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-06-24 06:37 UTC</sub>
+<sub>Last updated: 2025-06-24 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
