@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights](https://huggingface.co/papers/2506.16406) | ⭐ 79 | AI |
-| 🥈 [Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal
-  Document Understanding](https://huggingface.co/papers/2506.16035) | ⭐ 54 | AI |
-| 🥉 [PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and
-  Quantized Attention in Visual Generation Models](https://huggingface.co/papers/2506.16054) | ⭐ 45 | AI |
+| 🏆 [OmniGen2: Exploration to Advanced Multimodal Generation](https://huggingface.co/papers/2506.18871) | ⭐ 26 | AI |
+| 🥈 [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
+  Learning](https://huggingface.co/papers/2506.18841) | ⭐ 25 | AI |
+| 🥉 [Phantom-Data : Towards a General Subject-Consistent Video Generation
+  Dataset](https://huggingface.co/papers/2506.18851) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-06-24 02:03 UTC</sub>
+<sub>Last updated: 2025-06-24 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
