@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Light of Normals: Unified Feature Representation for Universal
-  Photometric Stereo](https://huggingface.co/papers/2506.18882) | ⭐ 64 | AI |
-| 🥈 [OmniGen2: Exploration to Advanced Multimodal Generation](https://huggingface.co/papers/2506.18871) | ⭐ 37 | AI |
+  Photometric Stereo](https://huggingface.co/papers/2506.18882) | ⭐ 68 | AI |
+| 🥈 [OmniGen2: Exploration to Advanced Multimodal Generation](https://huggingface.co/papers/2506.18871) | ⭐ 43 | AI |
 | 🥉 [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
-  Learning](https://huggingface.co/papers/2506.18841) | ⭐ 30 | AI |
+  Learning](https://huggingface.co/papers/2506.18841) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-06-24 12:52 UTC</sub>
+<sub>Last updated: 2025-06-24 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
