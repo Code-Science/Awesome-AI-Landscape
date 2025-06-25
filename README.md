@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Light of Normals: Unified Feature Representation for Universal
-  Photometric Stereo](https://huggingface.co/papers/2506.18882) | ⭐ 72 | AI |
-| 🥈 [OmniGen2: Exploration to Advanced Multimodal Generation](https://huggingface.co/papers/2506.18871) | ⭐ 48 | AI |
-| 🥉 [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
-  Learning](https://huggingface.co/papers/2506.18841) | ⭐ 40 | AI |
+| 🏆 [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal
+  Reasoning](https://huggingface.co/papers/2506.16141) | ⭐ 18 | AI |
+| 🥈 [AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion
+  Models](https://huggingface.co/papers/2506.19851) | ⭐ 17 | AI |
+| 🥉 [ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality
+  Debiasing](https://huggingface.co/papers/2506.19848) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-06-25 02:03 UTC</sub>
+<sub>Last updated: 2025-06-25 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
