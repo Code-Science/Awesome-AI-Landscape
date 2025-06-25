@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal
-  Reasoning](https://huggingface.co/papers/2506.16141) | ⭐ 18 | AI |
-| 🥈 [AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion
-  Models](https://huggingface.co/papers/2506.19851) | ⭐ 17 | AI |
-| 🥉 [ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality
-  Debiasing](https://huggingface.co/papers/2506.19848) | ⭐ 16 | AI |
+| 🏆 [AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion
+  Models](https://huggingface.co/papers/2506.19851) | ⭐ 35 | AI |
+| 🥈 [Matrix-Game: Interactive World Foundation Model](https://huggingface.co/papers/2506.18701) | ⭐ 25 | AI |
+| 🥉 [GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal
+  Reasoning](https://huggingface.co/papers/2506.16141) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-06-25 06:37 UTC</sub>
+<sub>Last updated: 2025-06-25 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
