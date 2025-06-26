@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion
-  Models](https://huggingface.co/papers/2506.19851) | ⭐ 39 | AI |
-| 🥈 [Matrix-Game: Interactive World Foundation Model](https://huggingface.co/papers/2506.18701) | ⭐ 36 | AI |
+  Models](https://huggingface.co/papers/2506.19851) | ⭐ 41 | AI |
+| 🥈 [Matrix-Game: Interactive World Foundation Model](https://huggingface.co/papers/2506.18701) | ⭐ 41 | AI |
 | 🥉 [Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in
-  LLMs](https://huggingface.co/papers/2506.19290) | ⭐ 27 | AI |
+  LLMs](https://huggingface.co/papers/2506.19290) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-06-25 18:36 UTC</sub>
+<sub>Last updated: 2025-06-26 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
