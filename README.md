@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion
-  Models](https://huggingface.co/papers/2506.19851) | ⭐ 41 | AI |
-| 🥈 [Matrix-Game: Interactive World Foundation Model](https://huggingface.co/papers/2506.18701) | ⭐ 41 | AI |
-| 🥉 [Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in
-  LLMs](https://huggingface.co/papers/2506.19290) | ⭐ 31 | AI |
+| 🏆 [ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image
+  Generation](https://huggingface.co/papers/2506.18095) | ⭐ 36 | AI |
+| 🥈 [Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large
+  Language Models](https://huggingface.co/papers/2506.19697) | ⭐ 24 | AI |
+| 🥉 [The Debugging Decay Index: Rethinking Debugging Strategies for Code LLMs](https://huggingface.co/papers/2506.18403) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-06-26 02:02 UTC</sub>
+<sub>Last updated: 2025-06-26 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
