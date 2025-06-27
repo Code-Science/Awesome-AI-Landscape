@@ -18,9 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://huggingface.co/papers/2506.21506) | ⭐ 2 | AI |
+| 🏆 [MMSearch-R1: Incentivizing LMMs to Search](https://huggingface.co/papers/2506.20670) | ⭐ 28 | AI |
+| 🥈 [Where to find Grokking in LLM Pretraining? Monitor
+  Memorization-to-Generalization without Test](https://huggingface.co/papers/2506.21551) | ⭐ 9 | AI |
+| 🥉 [WorldVLA: Towards Autoregressive Action World Model](https://huggingface.co/papers/2506.21539) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-06-27 02:03 UTC</sub>
+<sub>Last updated: 2025-06-27 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
