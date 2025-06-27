@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MMSearch-R1: Incentivizing LMMs to Search](https://huggingface.co/papers/2506.20670) | ⭐ 35 | AI |
-| 🥈 [MADrive: Memory-Augmented Driving Scene Modeling](https://huggingface.co/papers/2506.21520) | ⭐ 23 | AI |
-| 🥉 [WorldVLA: Towards Autoregressive Action World Model](https://huggingface.co/papers/2506.21539) | ⭐ 20 | AI |
+| 🏆 [MMSearch-R1: Incentivizing LMMs to Search](https://huggingface.co/papers/2506.20670) | ⭐ 37 | AI |
+| 🥈 [MADrive: Memory-Augmented Driving Scene Modeling](https://huggingface.co/papers/2506.21520) | ⭐ 28 | AI |
+| 🥉 [WorldVLA: Towards Autoregressive Action World Model](https://huggingface.co/papers/2506.21539) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-06-27 12:51 UTC</sub>
+<sub>Last updated: 2025-06-27 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
