@@ -18,14 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image
-  Generation](https://huggingface.co/papers/2506.18095) | ⭐ 53 | AI |
-| 🥈 [Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large
-  Language Models](https://huggingface.co/papers/2506.19697) | ⭐ 34 | AI |
-| 🥉 [Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency
-  Models](https://huggingface.co/papers/2506.19103) | ⭐ 33 | AI |
+| 🏆 [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://huggingface.co/papers/2506.21506) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-06-26 18:35 UTC</sub>
+<sub>Last updated: 2025-06-27 02:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
