@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MMSearch-R1: Incentivizing LMMs to Search](https://huggingface.co/papers/2506.20670) | ⭐ 37 | AI |
-| 🥈 [MADrive: Memory-Augmented Driving Scene Modeling](https://huggingface.co/papers/2506.21520) | ⭐ 28 | AI |
-| 🥉 [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://huggingface.co/papers/2506.21506) | ⭐ 28 | AI |
+| 🏆 [MMSearch-R1: Incentivizing LMMs to Search](https://huggingface.co/papers/2506.20670) | ⭐ 39 | AI |
+| 🥈 [MADrive: Memory-Augmented Driving Scene Modeling](https://huggingface.co/papers/2506.21520) | ⭐ 30 | AI |
+| 🥉 [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://huggingface.co/papers/2506.21506) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-06-28 01:59 UTC</sub>
+<sub>Last updated: 2025-06-28 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
