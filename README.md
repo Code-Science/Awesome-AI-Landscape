@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLaVA-Scissor: Token Compression with Semantic Connected Components for
-  Video LLMs](https://huggingface.co/papers/2506.21862) | ⭐ 2 | AI |
+| 🏆 [BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://huggingface.co/papers/2506.17450) | ⭐ 19 | AI |
+| 🥈 [LLaVA-Scissor: Token Compression with Semantic Connected Components for
+  Video LLMs](https://huggingface.co/papers/2506.21862) | ⭐ 14 | AI |
+| 🥉 [ShotBench: Expert-Level Cinematic Understanding in Vision-Language
+  Models](https://huggingface.co/papers/2506.21356) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-06-30 02:08 UTC</sub>
+<sub>Last updated: 2025-06-30 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
