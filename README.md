@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://huggingface.co/papers/2506.17450) | ⭐ 29 | AI |
+| 🏆 [BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://huggingface.co/papers/2506.17450) | ⭐ 41 | AI |
 | 🥈 [LLaVA-Scissor: Token Compression with Semantic Connected Components for
-  Video LLMs](https://huggingface.co/papers/2506.21862) | ⭐ 26 | AI |
+  Video LLMs](https://huggingface.co/papers/2506.21862) | ⭐ 29 | AI |
 | 🥉 [XVerse: Consistent Multi-Subject Control of Identity and Semantic
-  Attributes via DiT Modulation](https://huggingface.co/papers/2506.21416) | ⭐ 20 | AI |
+  Attributes via DiT Modulation](https://huggingface.co/papers/2506.21416) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-06-30 12:52 UTC</sub>
+<sub>Last updated: 2025-06-30 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
