@@ -18,13 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://huggingface.co/papers/2506.17450) | ⭐ 41 | AI |
-| 🥈 [LLaVA-Scissor: Token Compression with Semantic Connected Components for
-  Video LLMs](https://huggingface.co/papers/2506.21862) | ⭐ 29 | AI |
-| 🥉 [XVerse: Consistent Multi-Subject Control of Identity and Semantic
-  Attributes via DiT Modulation](https://huggingface.co/papers/2506.21416) | ⭐ 23 | AI |
+| 🏆 [Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in
+  Inference-time Scaling?](https://huggingface.co/papers/2506.17417) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-06-30 18:35 UTC</sub>
+<sub>Last updated: 2025-07-01 02:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
