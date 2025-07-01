@@ -18,10 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in
-  Inference-time Scaling?](https://huggingface.co/papers/2506.17417) | ⭐ 2 | AI |
+| 🏆 [Ovis-U1 Technical Report](https://huggingface.co/papers/2506.23044) | ⭐ 23 | AI |
+| 🥈 [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](https://huggingface.co/papers/2506.23858) | ⭐ 20 | AI |
+| 🥉 [Calligrapher: Freestyle Text Image Customization](https://huggingface.co/papers/2506.24123) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-07-01 02:20 UTC</sub>
+<sub>Last updated: 2025-07-01 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
