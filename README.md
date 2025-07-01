@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Ovis-U1 Technical Report](https://huggingface.co/papers/2506.23044) | ⭐ 23 | AI |
-| 🥈 [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](https://huggingface.co/papers/2506.23858) | ⭐ 20 | AI |
-| 🥉 [Calligrapher: Freestyle Text Image Customization](https://huggingface.co/papers/2506.24123) | ⭐ 14 | AI |
+| 🏆 [Ovis-U1 Technical Report](https://huggingface.co/papers/2506.23044) | ⭐ 34 | AI |
+| 🥈 [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](https://huggingface.co/papers/2506.23858) | ⭐ 22 | AI |
+| 🥉 [Calligrapher: Freestyle Text Image Customization](https://huggingface.co/papers/2506.24123) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-07-01 06:37 UTC</sub>
+<sub>Last updated: 2025-07-01 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
