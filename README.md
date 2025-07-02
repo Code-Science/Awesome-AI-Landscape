@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Ovis-U1 Technical Report](https://huggingface.co/papers/2506.23044) | ⭐ 43 | AI |
-| 🥈 [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](https://huggingface.co/papers/2506.23858) | ⭐ 25 | AI |
-| 🥉 [Calligrapher: Freestyle Text Image Customization](https://huggingface.co/papers/2506.24123) | ⭐ 24 | AI |
+| 🏆 [Does Math Reasoning Improve General LLM Capabilities? Understanding
+  Transferability of LLM Reasoning](https://huggingface.co/papers/2507.00432) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-07-01 18:34 UTC</sub>
+<sub>Last updated: 2025-07-02 02:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
