@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable
-  Reinforcement Learning](https://huggingface.co/papers/2507.01006) | ⭐ 122 | AI |
-| 🥈 [MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional
-  Multimodal Embeddings](https://huggingface.co/papers/2506.23115) | ⭐ 29 | AI |
-| 🥉 [SciArena: An Open Evaluation Platform for Foundation Models in
-  Scientific Literature Tasks](https://huggingface.co/papers/2507.01001) | ⭐ 25 | AI |
+  Reinforcement Learning](https://huggingface.co/papers/2507.01006) | ⭐ 134 | AI |
+| 🥈 [SciArena: An Open Evaluation Platform for Foundation Models in
+  Scientific Literature Tasks](https://huggingface.co/papers/2507.01001) | ⭐ 32 | AI |
+| 🥉 [MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional
+  Multimodal Embeddings](https://huggingface.co/papers/2506.23115) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-07-02 12:52 UTC</sub>
+<sub>Last updated: 2025-07-02 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
