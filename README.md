@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kwai Keye-VL Technical Report](https://huggingface.co/papers/2507.01949) | ⭐ 71 | AI |
+| 🏆 [Kwai Keye-VL Technical Report](https://huggingface.co/papers/2507.01949) | ⭐ 88 | AI |
 | 🥈 [LongAnimation: Long Animation Generation with Dynamic Global-Local
-  Memory](https://huggingface.co/papers/2507.01945) | ⭐ 41 | AI |
-| 🥉 [Depth Anything at Any Condition](https://huggingface.co/papers/2507.01634) | ⭐ 19 | AI |
+  Memory](https://huggingface.co/papers/2507.01945) | ⭐ 57 | AI |
+| 🥉 [Depth Anything at Any Condition](https://huggingface.co/papers/2507.01634) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-07-03 06:37 UTC</sub>
+<sub>Last updated: 2025-07-03 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
