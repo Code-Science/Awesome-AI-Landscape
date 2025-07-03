@@ -18,10 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Depth Anything at Any Condition](https://huggingface.co/papers/2507.01634) | ⭐ 2 | AI |
-| 🥈 [JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching](https://huggingface.co/papers/2506.23552) | ⭐ 1 | AI |
+| 🏆 [Kwai Keye-VL Technical Report](https://huggingface.co/papers/2507.01949) | ⭐ 71 | AI |
+| 🥈 [LongAnimation: Long Animation Generation with Dynamic Global-Local
+  Memory](https://huggingface.co/papers/2507.01945) | ⭐ 41 | AI |
+| 🥉 [Depth Anything at Any Condition](https://huggingface.co/papers/2507.01634) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-07-03 02:03 UTC</sub>
+<sub>Last updated: 2025-07-03 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
