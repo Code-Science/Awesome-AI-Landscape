@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kwai Keye-VL Technical Report](https://huggingface.co/papers/2507.01949) | ⭐ 93 | AI |
-| 🥈 [LongAnimation: Long Animation Generation with Dynamic Global-Local
-  Memory](https://huggingface.co/papers/2507.01945) | ⭐ 60 | AI |
-| 🥉 [Depth Anything at Any Condition](https://huggingface.co/papers/2507.01634) | ⭐ 34 | AI |
+| 🏆 [Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy](https://huggingface.co/papers/2507.01352) | ⭐ 4 | AI |
+| 🥈 [Fast and Simplex: 2-Simplicial Attention in Triton](https://huggingface.co/papers/2507.02754) | ⭐ 1 | AI |
+| 🥉 [Decoupled Planning and Execution: A Hierarchical Reasoning Framework for
+  Deep Search](https://huggingface.co/papers/2507.02652) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-07-03 18:34 UTC</sub>
+<sub>Last updated: 2025-07-04 02:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
