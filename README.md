@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WebSailor: Navigating Super-human Reasoning for Web Agent](https://huggingface.co/papers/2507.02592) | ⭐ 41 | AI |
+| 🏆 [WebSailor: Navigating Super-human Reasoning for Web Agent](https://huggingface.co/papers/2507.02592) | ⭐ 48 | AI |
 | 🥈 [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with
-  TriMap Video Diffusion](https://huggingface.co/papers/2507.02813) | ⭐ 36 | AI |
-| 🥉 [IntFold: A Controllable Foundation Model for General and Specialized
-  Biomolecular Structure Prediction](https://huggingface.co/papers/2507.02025) | ⭐ 30 | AI |
+  TriMap Video Diffusion](https://huggingface.co/papers/2507.02813) | ⭐ 42 | AI |
+| 🥉 [Heeding the Inner Voice: Aligning ControlNet Training via Intermediate
+  Features Feedback](https://huggingface.co/papers/2507.02321) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-07-04 12:51 UTC</sub>
+<sub>Last updated: 2025-07-04 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
