@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy](https://huggingface.co/papers/2507.01352) | ⭐ 4 | AI |
-| 🥈 [Fast and Simplex: 2-Simplicial Attention in Triton](https://huggingface.co/papers/2507.02754) | ⭐ 1 | AI |
-| 🥉 [Decoupled Planning and Execution: A Hierarchical Reasoning Framework for
-  Deep Search](https://huggingface.co/papers/2507.02652) | ⭐ 1 | AI |
+| 🏆 [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with
+  TriMap Video Diffusion](https://huggingface.co/papers/2507.02813) | ⭐ 31 | AI |
+| 🥈 [IntFold: A Controllable Foundation Model for General and Specialized
+  Biomolecular Structure Prediction](https://huggingface.co/papers/2507.02025) | ⭐ 27 | AI |
+| 🥉 [Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy](https://huggingface.co/papers/2507.01352) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-07-04 02:03 UTC</sub>
+<sub>Last updated: 2025-07-04 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
