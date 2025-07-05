@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WebSailor: Navigating Super-human Reasoning for Web Agent](https://huggingface.co/papers/2507.02592) | ⭐ 56 | AI |
+| 🏆 [WebSailor: Navigating Super-human Reasoning for Web Agent](https://huggingface.co/papers/2507.02592) | ⭐ 59 | AI |
 | 🥈 [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with
-  TriMap Video Diffusion](https://huggingface.co/papers/2507.02813) | ⭐ 45 | AI |
+  TriMap Video Diffusion](https://huggingface.co/papers/2507.02813) | ⭐ 46 | AI |
 | 🥉 [Heeding the Inner Voice: Aligning ControlNet Training via Intermediate
-  Features Feedback](https://huggingface.co/papers/2507.02321) | ⭐ 33 | AI |
+  Features Feedback](https://huggingface.co/papers/2507.02321) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-07-05 06:33 UTC</sub>
+<sub>Last updated: 2025-07-05 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
