@@ -24,7 +24,7 @@
 | 🥉 [Heeding the Inner Voice: Aligning ControlNet Training via Intermediate
   Features Feedback](https://huggingface.co/papers/2507.02321) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-07-05 01:59 UTC</sub>
+<sub>Last updated: 2025-07-05 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
