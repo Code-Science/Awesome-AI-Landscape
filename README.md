@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Eka-Eval : A Comprehensive Evaluation Framework for Large Language
-  Models in Indian Languages](https://huggingface.co/papers/2507.01853) | ⭐ 2 | AI |
-| 🥈 [How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation
-  Models on Standard Computer Vision Tasks](https://huggingface.co/papers/2507.01955) | ⭐ 0 | AI |
+| 🏆 [How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation
+  Models on Standard Computer Vision Tasks](https://huggingface.co/papers/2507.01955) | ⭐ 9 | AI |
+| 🥈 [Lost in Latent Space: An Empirical Study of Latent Diffusion Models for
+  Physics Emulation](https://huggingface.co/papers/2507.02608) | ⭐ 4 | AI |
+| 🥉 [Eka-Eval : A Comprehensive Evaluation Framework for Large Language
+  Models in Indian Languages](https://huggingface.co/papers/2507.01853) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-07-07 12:53 UTC</sub>
+<sub>Last updated: 2025-07-07 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
