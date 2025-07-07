@@ -19,9 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Eka-Eval : A Comprehensive Evaluation Framework for Large Language
-  Models in Indian Languages](https://huggingface.co/papers/2507.01853) | ⭐ 1 | AI |
+  Models in Indian Languages](https://huggingface.co/papers/2507.01853) | ⭐ 2 | AI |
+| 🥈 [How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation
+  Models on Standard Computer Vision Tasks](https://huggingface.co/papers/2507.01955) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-07-07 06:38 UTC</sub>
+<sub>Last updated: 2025-07-07 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
