@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WebSailor: Navigating Super-human Reasoning for Web Agent](https://huggingface.co/papers/2507.02592) | ⭐ 76 | AI |
+| 🏆 [WebSailor: Navigating Super-human Reasoning for Web Agent](https://huggingface.co/papers/2507.02592) | ⭐ 77 | AI |
 | 🥈 [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and
-  Future Frontiers](https://huggingface.co/papers/2506.23918) | ⭐ 55 | AI |
+  Future Frontiers](https://huggingface.co/papers/2506.23918) | ⭐ 57 | AI |
 | 🥉 [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with
   TriMap Video Diffusion](https://huggingface.co/papers/2507.02813) | ⭐ 49 | AI |
 
-<sub>Last updated: 2025-07-06 18:32 UTC</sub>
+<sub>Last updated: 2025-07-07 02:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
