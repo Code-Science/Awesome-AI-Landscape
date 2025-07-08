@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation
-  Models on Standard Computer Vision Tasks](https://huggingface.co/papers/2507.01955) | ⭐ 10 | AI |
-| 🥈 [Lost in Latent Space: An Empirical Study of Latent Diffusion Models for
-  Physics Emulation](https://huggingface.co/papers/2507.02608) | ⭐ 6 | AI |
-| 🥉 [Eka-Eval : A Comprehensive Evaluation Framework for Large Language
-  Models in Indian Languages](https://huggingface.co/papers/2507.01853) | ⭐ 4 | AI |
+| 🏆 [MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724) | ⭐ 51 | AI |
+| 🥈 [4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous
+  Capture](https://huggingface.co/papers/2507.05163) | ⭐ 22 | AI |
+| 🥉 [Pre-Trained Policy Discriminators are General Reward Models](https://huggingface.co/papers/2507.05197) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-07-08 02:04 UTC</sub>
+<sub>Last updated: 2025-07-08 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
