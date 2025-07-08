@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724) | ⭐ 70 | AI |
-| 🥈 [Should We Still Pretrain Encoders with Masked Language Modeling?](https://huggingface.co/papers/2507.00994) | ⭐ 36 | AI |
+| 🏆 [MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724) | ⭐ 76 | AI |
+| 🥈 [Should We Still Pretrain Encoders with Masked Language Modeling?](https://huggingface.co/papers/2507.00994) | ⭐ 55 | AI |
 | 🥉 [4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous
-  Capture](https://huggingface.co/papers/2507.05163) | ⭐ 31 | AI |
+  Capture](https://huggingface.co/papers/2507.05163) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-07-08 12:53 UTC</sub>
+<sub>Last updated: 2025-07-08 18:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
