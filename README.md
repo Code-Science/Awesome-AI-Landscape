@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724) | ⭐ 51 | AI |
-| 🥈 [4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous
-  Capture](https://huggingface.co/papers/2507.05163) | ⭐ 22 | AI |
-| 🥉 [Pre-Trained Policy Discriminators are General Reward Models](https://huggingface.co/papers/2507.05197) | ⭐ 18 | AI |
+| 🏆 [MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724) | ⭐ 70 | AI |
+| 🥈 [Should We Still Pretrain Encoders with Masked Language Modeling?](https://huggingface.co/papers/2507.00994) | ⭐ 36 | AI |
+| 🥉 [4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous
+  Capture](https://huggingface.co/papers/2507.05163) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-07-08 06:37 UTC</sub>
+<sub>Last updated: 2025-07-08 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
