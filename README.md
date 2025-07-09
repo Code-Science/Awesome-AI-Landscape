@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724) | ⭐ 76 | AI |
-| 🥈 [Should We Still Pretrain Encoders with Masked Language Modeling?](https://huggingface.co/papers/2507.00994) | ⭐ 55 | AI |
-| 🥉 [4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous
-  Capture](https://huggingface.co/papers/2507.05163) | ⭐ 32 | AI |
+| 🏆 [Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers](https://huggingface.co/papers/2507.06223) | ⭐ 6 | AI |
+| 🥈 [SAMed-2: Selective Memory Enhanced Medical Segment Anything Model](https://huggingface.co/papers/2507.03698) | ⭐ 5 | AI |
+| 🥉 [GTA1: GUI Test-time Scaling Agent](https://huggingface.co/papers/2507.05791) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-07-08 18:36 UTC</sub>
+<sub>Last updated: 2025-07-09 02:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
