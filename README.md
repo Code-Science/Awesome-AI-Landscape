@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey on Latent Reasoning](https://huggingface.co/papers/2507.06203) | ⭐ 47 | AI |
-| 🥈 [SingLoRA: Low Rank Adaptation Using a Single Matrix](https://huggingface.co/papers/2507.05566) | ⭐ 43 | AI |
+| 🏆 [SingLoRA: Low Rank Adaptation Using a Single Matrix](https://huggingface.co/papers/2507.05566) | ⭐ 56 | AI |
+| 🥈 [A Survey on Latent Reasoning](https://huggingface.co/papers/2507.06203) | ⭐ 51 | AI |
 | 🥉 [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and
-  Structural Cohesion](https://huggingface.co/papers/2507.06165) | ⭐ 33 | AI |
+  Structural Cohesion](https://huggingface.co/papers/2507.06165) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-07-09 12:53 UTC</sub>
+<sub>Last updated: 2025-07-09 18:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
