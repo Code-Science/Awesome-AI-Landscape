@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers](https://huggingface.co/papers/2507.06223) | ⭐ 6 | AI |
-| 🥈 [SAMed-2: Selective Memory Enhanced Medical Segment Anything Model](https://huggingface.co/papers/2507.03698) | ⭐ 5 | AI |
-| 🥉 [GTA1: GUI Test-time Scaling Agent](https://huggingface.co/papers/2507.05791) | ⭐ 3 | AI |
+| 🏆 [A Survey on Latent Reasoning](https://huggingface.co/papers/2507.06203) | ⭐ 35 | AI |
+| 🥈 [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and
+  Structural Cohesion](https://huggingface.co/papers/2507.06165) | ⭐ 25 | AI |
+| 🥉 [RLVER: Reinforcement Learning with Verifiable Emotion Rewards for
+  Empathetic Agents](https://huggingface.co/papers/2507.03112) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-07-09 02:05 UTC</sub>
+<sub>Last updated: 2025-07-09 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
