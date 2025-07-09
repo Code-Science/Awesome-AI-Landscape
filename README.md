@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey on Latent Reasoning](https://huggingface.co/papers/2507.06203) | ⭐ 35 | AI |
-| 🥈 [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and
-  Structural Cohesion](https://huggingface.co/papers/2507.06165) | ⭐ 25 | AI |
-| 🥉 [RLVER: Reinforcement Learning with Verifiable Emotion Rewards for
-  Empathetic Agents](https://huggingface.co/papers/2507.03112) | ⭐ 22 | AI |
+| 🏆 [A Survey on Latent Reasoning](https://huggingface.co/papers/2507.06203) | ⭐ 47 | AI |
+| 🥈 [SingLoRA: Low Rank Adaptation Using a Single Matrix](https://huggingface.co/papers/2507.05566) | ⭐ 43 | AI |
+| 🥉 [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and
+  Structural Cohesion](https://huggingface.co/papers/2507.06165) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-07-09 06:37 UTC</sub>
+<sub>Last updated: 2025-07-09 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
