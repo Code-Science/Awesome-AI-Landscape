@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SingLoRA: Low Rank Adaptation Using a Single Matrix](https://huggingface.co/papers/2507.05566) | ⭐ 56 | AI |
-| 🥈 [A Survey on Latent Reasoning](https://huggingface.co/papers/2507.06203) | ⭐ 51 | AI |
-| 🥉 [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and
-  Structural Cohesion](https://huggingface.co/papers/2507.06165) | ⭐ 40 | AI |
+| 🏆 [Towards Solving More Challenging IMO Problems via Decoupled Reasoning
+  and Proving](https://huggingface.co/papers/2507.06804) | ⭐ 3 | AI |
+| 🥈 [Rethinking Verification for LLM Code Generation: From Generation to
+  Testing](https://huggingface.co/papers/2507.06920) | ⭐ 1 | AI |
+| 🥉 [Evaluating the Critical Risks of Amazon's Nova Premier under the
+  Frontier Model Safety Framework](https://huggingface.co/papers/2507.06260) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-07-09 18:36 UTC</sub>
+<sub>Last updated: 2025-07-10 02:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
