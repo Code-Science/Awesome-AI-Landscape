@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Perception-Aware Policy Optimization for Multimodal Reasoning](https://huggingface.co/papers/2507.06448) | ⭐ 19 | AI |
-| 🥈 [Rethinking Verification for LLM Code Generation: From Generation to
-  Testing](https://huggingface.co/papers/2507.06920) | ⭐ 12 | AI |
-| 🥉 [Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://huggingface.co/papers/2507.07095) | ⭐ 9 | AI |
+| 🏆 [Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://huggingface.co/papers/2507.07095) | ⭐ 35 | AI |
+| 🥈 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://huggingface.co/papers/2507.07105) | ⭐ 27 | AI |
+| 🥉 [Perception-Aware Policy Optimization for Multimodal Reasoning](https://huggingface.co/papers/2507.06448) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-07-10 06:38 UTC</sub>
+<sub>Last updated: 2025-07-10 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
