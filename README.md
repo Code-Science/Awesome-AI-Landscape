@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://huggingface.co/papers/2507.07095) | ⭐ 35 | AI |
-| 🥈 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://huggingface.co/papers/2507.07105) | ⭐ 27 | AI |
-| 🥉 [Perception-Aware Policy Optimization for Multimodal Reasoning](https://huggingface.co/papers/2507.06448) | ⭐ 24 | AI |
+| 🏆 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://huggingface.co/papers/2507.07105) | ⭐ 45 | AI |
+| 🥈 [Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://huggingface.co/papers/2507.07095) | ⭐ 39 | AI |
+| 🥉 [Perception-Aware Policy Optimization for Multimodal Reasoning](https://huggingface.co/papers/2507.06448) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-07-10 12:53 UTC</sub>
+<sub>Last updated: 2025-07-10 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
