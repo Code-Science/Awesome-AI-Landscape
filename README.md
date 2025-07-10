@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards Solving More Challenging IMO Problems via Decoupled Reasoning
-  and Proving](https://huggingface.co/papers/2507.06804) | ⭐ 3 | AI |
+| 🏆 [Perception-Aware Policy Optimization for Multimodal Reasoning](https://huggingface.co/papers/2507.06448) | ⭐ 19 | AI |
 | 🥈 [Rethinking Verification for LLM Code Generation: From Generation to
-  Testing](https://huggingface.co/papers/2507.06920) | ⭐ 1 | AI |
-| 🥉 [Evaluating the Critical Risks of Amazon's Nova Premier under the
-  Frontier Model Safety Framework](https://huggingface.co/papers/2507.06260) | ⭐ 0 | AI |
+  Testing](https://huggingface.co/papers/2507.06920) | ⭐ 12 | AI |
+| 🥉 [Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://huggingface.co/papers/2507.07095) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-07-10 02:05 UTC</sub>
+<sub>Last updated: 2025-07-10 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
