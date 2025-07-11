@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://huggingface.co/papers/2507.07105) | ⭐ 45 | AI |
-| 🥈 [Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://huggingface.co/papers/2507.07095) | ⭐ 39 | AI |
-| 🥉 [Perception-Aware Policy Optimization for Multimodal Reasoning](https://huggingface.co/papers/2507.06448) | ⭐ 30 | AI |
+| 🏆 [Scaling RL to Long Videos](https://huggingface.co/papers/2507.07966) | ⭐ 6 | AI |
+| 🥈 [PyVision: Agentic Vision with Dynamic Tooling](https://huggingface.co/papers/2507.07998) | ⭐ 3 | AI |
+| 🥉 [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and
+  Methodology](https://huggingface.co/papers/2507.07999) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-07-10 18:35 UTC</sub>
+<sub>Last updated: 2025-07-11 02:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
