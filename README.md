@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Scaling RL to Long Videos](https://huggingface.co/papers/2507.07966) | ⭐ 6 | AI |
-| 🥈 [PyVision: Agentic Vision with Dynamic Tooling](https://huggingface.co/papers/2507.07998) | ⭐ 3 | AI |
-| 🥉 [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and
-  Methodology](https://huggingface.co/papers/2507.07999) | ⭐ 2 | AI |
+| 🏆 [Scaling RL to Long Videos](https://huggingface.co/papers/2507.07966) | ⭐ 60 | AI |
+| 🥈 [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and
+  Methodology](https://huggingface.co/papers/2507.07999) | ⭐ 27 | AI |
+| 🥉 [OST-Bench: Evaluating the Capabilities of MLLMs in Online
+  Spatio-temporal Scene Understanding](https://huggingface.co/papers/2507.07984) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-07-11 02:08 UTC</sub>
+<sub>Last updated: 2025-07-11 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
