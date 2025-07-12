@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Scaling RL to Long Videos](https://huggingface.co/papers/2507.07966) | ⭐ 98 | AI |
-| 🥈 [T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://huggingface.co/papers/2507.05964) | ⭐ 85 | AI |
+| 🏆 [Scaling RL to Long Videos](https://huggingface.co/papers/2507.07966) | ⭐ 103 | AI |
+| 🥈 [T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://huggingface.co/papers/2507.05964) | ⭐ 88 | AI |
 | 🥉 [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and
-  Methodology](https://huggingface.co/papers/2507.07999) | ⭐ 37 | AI |
+  Methodology](https://huggingface.co/papers/2507.07999) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-07-12 06:35 UTC</sub>
+<sub>Last updated: 2025-07-12 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
