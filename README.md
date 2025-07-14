@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Scaling RL to Long Videos](https://huggingface.co/papers/2507.07966) | ⭐ 112 | AI |
-| 🥈 [T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://huggingface.co/papers/2507.05964) | ⭐ 96 | AI |
-| 🥉 [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and
-  Methodology](https://huggingface.co/papers/2507.07999) | ⭐ 40 | AI |
+| 🏆 [CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive
+  Neural Rendering](https://huggingface.co/papers/2507.08776) | ⭐ 20 | AI |
+| 🥈 [Test-Time Scaling with Reflective Generative Model](https://huggingface.co/papers/2507.01951) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-07-13 18:33 UTC</sub>
+<sub>Last updated: 2025-07-14 02:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
