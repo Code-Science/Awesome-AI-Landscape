@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive
-  Neural Rendering](https://huggingface.co/papers/2507.08776) | ⭐ 20 | AI |
-| 🥈 [Test-Time Scaling with Reflective Generative Model](https://huggingface.co/papers/2507.01951) | ⭐ 3 | AI |
+| 🏆 [Test-Time Scaling with Reflective Generative Model](https://huggingface.co/papers/2507.01951) | ⭐ 43 | AI |
+| 🥈 [CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive
+  Neural Rendering](https://huggingface.co/papers/2507.08776) | ⭐ 35 | AI |
+| 🥉 [NeuralOS: Towards Simulating Operating Systems via Neural Generative
+  Models](https://huggingface.co/papers/2507.08800) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-07-14 02:18 UTC</sub>
+<sub>Last updated: 2025-07-14 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
