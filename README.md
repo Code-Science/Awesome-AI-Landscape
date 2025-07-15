@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Test-Time Scaling with Reflective Generative Model](https://huggingface.co/papers/2507.01951) | ⭐ 67 | AI |
+| 🏆 [Test-Time Scaling with Reflective Generative Model](https://huggingface.co/papers/2507.01951) | ⭐ 68 | AI |
 | 🥈 [CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive
-  Neural Rendering](https://huggingface.co/papers/2507.08776) | ⭐ 40 | AI |
-| 🥉 [NeuralOS: Towards Simulating Operating Systems via Neural Generative
-  Models](https://huggingface.co/papers/2507.08800) | ⭐ 33 | AI |
+  Neural Rendering](https://huggingface.co/papers/2507.08776) | ⭐ 43 | AI |
+| 🥉 [Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for
+  Visual Reasoning](https://huggingface.co/papers/2507.05255) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-07-14 18:38 UTC</sub>
+<sub>Last updated: 2025-07-15 02:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
