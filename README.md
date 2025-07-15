@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://huggingface.co/papers/2507.10548) | ⭐ 15 | AI |
-| 🥈 [SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual
-  Dyadic Interactive Human Generation](https://huggingface.co/papers/2507.09862) | ⭐ 13 | AI |
-| 🥉 [CompassJudger-2: Towards Generalist Judge Model via Verifiable Rewards](https://huggingface.co/papers/2507.09104) | ⭐ 9 | AI |
+| 🏆 [SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual
+  Dyadic Interactive Human Generation](https://huggingface.co/papers/2507.09862) | ⭐ 29 | AI |
+| 🥈 [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://huggingface.co/papers/2507.10548) | ⭐ 24 | AI |
+| 🥉 [Reasoning or Memorization? Unreliable Results of Reinforcement Learning
+  Due to Data Contamination](https://huggingface.co/papers/2507.10532) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-07-15 06:39 UTC</sub>
+<sub>Last updated: 2025-07-15 12:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
