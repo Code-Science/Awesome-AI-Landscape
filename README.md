@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Test-Time Scaling with Reflective Generative Model](https://huggingface.co/papers/2507.01951) | ⭐ 68 | AI |
-| 🥈 [CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive
-  Neural Rendering](https://huggingface.co/papers/2507.08776) | ⭐ 43 | AI |
-| 🥉 [Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for
-  Visual Reasoning](https://huggingface.co/papers/2507.05255) | ⭐ 39 | AI |
+| 🏆 [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://huggingface.co/papers/2507.10548) | ⭐ 15 | AI |
+| 🥈 [SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual
+  Dyadic Interactive Human Generation](https://huggingface.co/papers/2507.09862) | ⭐ 13 | AI |
+| 🥉 [CompassJudger-2: Towards Generalist Judge Model via Verifiable Rewards](https://huggingface.co/papers/2507.09104) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-07-15 02:18 UTC</sub>
+<sub>Last updated: 2025-07-15 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
