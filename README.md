@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual
-  Dyadic Interactive Human Generation](https://huggingface.co/papers/2507.09862) | ⭐ 29 | AI |
-| 🥈 [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://huggingface.co/papers/2507.10548) | ⭐ 24 | AI |
-| 🥉 [Reasoning or Memorization? Unreliable Results of Reinforcement Learning
-  Due to Data Contamination](https://huggingface.co/papers/2507.10532) | ⭐ 24 | AI |
+  Dyadic Interactive Human Generation](https://huggingface.co/papers/2507.09862) | ⭐ 38 | AI |
+| 🥈 [Reasoning or Memorization? Unreliable Results of Reinforcement Learning
+  Due to Data Contamination](https://huggingface.co/papers/2507.10532) | ⭐ 33 | AI |
+| 🥉 [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://huggingface.co/papers/2507.10548) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-07-15 12:55 UTC</sub>
+<sub>Last updated: 2025-07-15 18:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
