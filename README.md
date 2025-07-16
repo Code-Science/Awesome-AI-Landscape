@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation
-  from Diffusion Models](https://huggingface.co/papers/2507.07104) | ⭐ 15 | AI |
+  from Diffusion Models](https://huggingface.co/papers/2507.07104) | ⭐ 25 | AI |
 | 🥈 [EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and
-  Reasoning Modes](https://huggingface.co/papers/2507.11407) | ⭐ 13 | AI |
-| 🥉 [Scaling Laws for Optimal Data Mixtures](https://huggingface.co/papers/2507.09404) | ⭐ 11 | AI |
+  Reasoning Modes](https://huggingface.co/papers/2507.11407) | ⭐ 20 | AI |
+| 🥉 [Scaling Laws for Optimal Data Mixtures](https://huggingface.co/papers/2507.09404) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-07-16 12:55 UTC</sub>
+<sub>Last updated: 2025-07-16 18:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
