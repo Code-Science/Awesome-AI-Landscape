@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation
-  from Diffusion Models](https://huggingface.co/papers/2507.07104) | ⭐ 32 | AI |
-| 🥈 [EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and
-  Reasoning Modes](https://huggingface.co/papers/2507.11407) | ⭐ 23 | AI |
-| 🥉 [Scaling Laws for Optimal Data Mixtures](https://huggingface.co/papers/2507.09404) | ⭐ 17 | AI |
+| 🏆 [PhysX: Physical-Grounded 3D Asset Generation](https://huggingface.co/papers/2507.12465) | ⭐ 16 | AI |
+| 🥈 [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning
+  Systems in LLMs](https://huggingface.co/papers/2507.09477) | ⭐ 12 | AI |
+| 🥉 [MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior
+  Understanding](https://huggingface.co/papers/2507.12463) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-07-17 02:09 UTC</sub>
+<sub>Last updated: 2025-07-17 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
