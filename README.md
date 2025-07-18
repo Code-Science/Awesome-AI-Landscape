@@ -18,13 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning
-  Systems in LLMs](https://huggingface.co/papers/2507.09477) | ⭐ 46 | AI |
-| 🥈 [PhysX: Physical-Grounded 3D Asset Generation](https://huggingface.co/papers/2507.12465) | ⭐ 20 | AI |
-| 🥉 [MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior
-  Understanding](https://huggingface.co/papers/2507.12463) | ⭐ 14 | AI |
+| 🏆 [FLEXITOKENS: Flexible Tokenization for Evolving Language Models](https://huggingface.co/papers/2507.12720) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-07-17 18:38 UTC</sub>
+<sub>Last updated: 2025-07-18 02:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
