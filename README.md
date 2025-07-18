@@ -18,9 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FLEXITOKENS: Flexible Tokenization for Evolving Language Models](https://huggingface.co/papers/2507.12720) | ⭐ 1 | AI |
+| 🏆 [A Survey of Context Engineering for Large Language Models](https://huggingface.co/papers/2507.13334) | ⭐ 52 | AI |
+| 🥈 [The Imitation Game: Turing Machine Imitator is Length Generalizable
+  Reasoner](https://huggingface.co/papers/2507.13332) | ⭐ 27 | AI |
+| 🥉 [π^3: Scalable Permutation-Equivariant Visual Geometry Learning](https://huggingface.co/papers/2507.13347) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-07-18 02:11 UTC</sub>
+<sub>Last updated: 2025-07-18 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
