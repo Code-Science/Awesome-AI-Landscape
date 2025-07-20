@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey of Context Engineering for Large Language Models](https://huggingface.co/papers/2507.13334) | ⭐ 131 | AI |
+| 🏆 [A Survey of Context Engineering for Large Language Models](https://huggingface.co/papers/2507.13334) | ⭐ 136 | AI |
 | 🥈 [VisionThink: Smart and Efficient Vision Language Model via Reinforcement
-  Learning](https://huggingface.co/papers/2507.13348) | ⭐ 60 | AI |
-| 🥉 [π^3: Scalable Permutation-Equivariant Visual Geometry Learning](https://huggingface.co/papers/2507.13347) | ⭐ 43 | AI |
+  Learning](https://huggingface.co/papers/2507.13348) | ⭐ 61 | AI |
+| 🥉 [π^3: Scalable Permutation-Equivariant Visual Geometry Learning](https://huggingface.co/papers/2507.13347) | ⭐ 44 | AI |
 
-<sub>Last updated: 2025-07-20 12:50 UTC</sub>
+<sub>Last updated: 2025-07-20 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
