@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges
-  in Russian Speech Generative Models](https://huggingface.co/papers/2507.13563) | ⭐ 24 | AI |
-| 🥈 [The Devil behind the mask: An emergent safety vulnerability of Diffusion
-  LLMs](https://huggingface.co/papers/2507.11097) | ⭐ 18 | AI |
+| 🏆 [The Devil behind the mask: An emergent safety vulnerability of Diffusion
+  LLMs](https://huggingface.co/papers/2507.11097) | ⭐ 39 | AI |
+| 🥈 [A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges
+  in Russian Speech Generative Models](https://huggingface.co/papers/2507.13563) | ⭐ 36 | AI |
 | 🥉 [Franca: Nested Matryoshka Clustering for Scalable Visual Representation
-  Learning](https://huggingface.co/papers/2507.14137) | ⭐ 10 | AI |
+  Learning](https://huggingface.co/papers/2507.14137) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-07-21 12:56 UTC</sub>
+<sub>Last updated: 2025-07-21 18:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
