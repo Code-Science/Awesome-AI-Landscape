@@ -18,12 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey of Context Engineering for Large Language Models](https://huggingface.co/papers/2507.13334) | ⭐ 136 | AI |
-| 🥈 [VisionThink: Smart and Efficient Vision Language Model via Reinforcement
-  Learning](https://huggingface.co/papers/2507.13348) | ⭐ 61 | AI |
-| 🥉 [π^3: Scalable Permutation-Equivariant Visual Geometry Learning](https://huggingface.co/papers/2507.13347) | ⭐ 44 | AI |
+| 🏆 [RedOne: Revealing Domain-specific LLM Post-Training in Social Networking
+  Services](https://huggingface.co/papers/2507.10605) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-07-20 18:34 UTC</sub>
+<sub>Last updated: 2025-07-21 02:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
