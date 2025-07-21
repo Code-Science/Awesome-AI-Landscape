@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Devil behind the mask: An emergent safety vulnerability of Diffusion
-  LLMs](https://huggingface.co/papers/2507.11097) | ⭐ 6 | AI |
-| 🥈 [Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal
-  Large Language Models](https://huggingface.co/papers/2507.12566) | ⭐ 3 | AI |
-| 🥉 [RedOne: Revealing Domain-specific LLM Post-Training in Social Networking
-  Services](https://huggingface.co/papers/2507.10605) | ⭐ 2 | AI |
+| 🏆 [A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges
+  in Russian Speech Generative Models](https://huggingface.co/papers/2507.13563) | ⭐ 24 | AI |
+| 🥈 [The Devil behind the mask: An emergent safety vulnerability of Diffusion
+  LLMs](https://huggingface.co/papers/2507.11097) | ⭐ 18 | AI |
+| 🥉 [Franca: Nested Matryoshka Clustering for Scalable Visual Representation
+  Learning](https://huggingface.co/papers/2507.14137) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-07-21 06:39 UTC</sub>
+<sub>Last updated: 2025-07-21 12:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
