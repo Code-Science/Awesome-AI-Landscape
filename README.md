@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges
-  in Russian Speech Generative Models](https://huggingface.co/papers/2507.13563) | ⭐ 42 | AI |
-| 🥈 [The Devil behind the mask: An emergent safety vulnerability of Diffusion
-  LLMs](https://huggingface.co/papers/2507.11097) | ⭐ 42 | AI |
-| 🥉 [Franca: Nested Matryoshka Clustering for Scalable Visual Representation
-  Learning](https://huggingface.co/papers/2507.14137) | ⭐ 16 | AI |
+| 🏆 [MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via
+  Context-Aware Multi-Stage Policy Optimization](https://huggingface.co/papers/2507.14683) | ⭐ 52 | AI |
+| 🥈 [GUI-G^2: Gaussian Reward Modeling for GUI Grounding](https://huggingface.co/papers/2507.15846) | ⭐ 28 | AI |
+| 🥉 [WebShaper: Agentically Data Synthesizing via Information-Seeking
+  Formalization](https://huggingface.co/papers/2507.15061) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-07-22 02:10 UTC</sub>
+<sub>Last updated: 2025-07-22 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
