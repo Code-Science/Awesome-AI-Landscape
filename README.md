@@ -19,12 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via
-  Context-Aware Multi-Stage Policy Optimization](https://huggingface.co/papers/2507.14683) | ⭐ 52 | AI |
-| 🥈 [GUI-G^2: Gaussian Reward Modeling for GUI Grounding](https://huggingface.co/papers/2507.15846) | ⭐ 28 | AI |
-| 🥉 [WebShaper: Agentically Data Synthesizing via Information-Seeking
-  Formalization](https://huggingface.co/papers/2507.15061) | ⭐ 22 | AI |
+  Context-Aware Multi-Stage Policy Optimization](https://huggingface.co/papers/2507.14683) | ⭐ 71 | AI |
+| 🥈 [GUI-G^2: Gaussian Reward Modeling for GUI Grounding](https://huggingface.co/papers/2507.15846) | ⭐ 54 | AI |
+| 🥉 [The Invisible Leash: Why RLVR May Not Escape Its Origin](https://huggingface.co/papers/2507.14843) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-07-22 06:39 UTC</sub>
+<sub>Last updated: 2025-07-22 12:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
