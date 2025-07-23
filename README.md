@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science
-  Reasoning](https://huggingface.co/papers/2507.16812) | ⭐ 2 | AI |
-| 🥈 [Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://huggingface.co/papers/2507.16746) | ⭐ 2 | AI |
-| 🥉 [HOComp: Interaction-Aware Human-Object Composition](https://huggingface.co/papers/2507.16813) | ⭐ 1 | AI |
+| 🏆 [Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](https://huggingface.co/papers/2507.16784) | ⭐ 28 | AI |
+| 🥈 [Step-Audio 2 Technical Report](https://huggingface.co/papers/2507.16632) | ⭐ 18 | AI |
+| 🥉 [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science
+  Reasoning](https://huggingface.co/papers/2507.16812) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-07-23 02:11 UTC</sub>
+<sub>Last updated: 2025-07-23 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
