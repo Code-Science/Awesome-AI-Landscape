@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GUI-G^2: Gaussian Reward Modeling for GUI Grounding](https://huggingface.co/papers/2507.15846) | ⭐ 96 | AI |
-| 🥈 [MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via
-  Context-Aware Multi-Stage Policy Optimization](https://huggingface.co/papers/2507.14683) | ⭐ 89 | AI |
-| 🥉 [The Invisible Leash: Why RLVR May Not Escape Its Origin](https://huggingface.co/papers/2507.14843) | ⭐ 54 | AI |
+| 🏆 [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science
+  Reasoning](https://huggingface.co/papers/2507.16812) | ⭐ 2 | AI |
+| 🥈 [Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://huggingface.co/papers/2507.16746) | ⭐ 2 | AI |
+| 🥉 [HOComp: Interaction-Aware Human-Object Composition](https://huggingface.co/papers/2507.16813) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-07-22 18:38 UTC</sub>
+<sub>Last updated: 2025-07-23 02:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
