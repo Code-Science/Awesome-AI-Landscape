@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Can One Domain Help Others? A Data-Centric Study on Multi-Domain
-  Reasoning via Reinforcement Learning](https://huggingface.co/papers/2507.17512) | ⭐ 19 | AI |
-| 🥈 [DesignLab: Designing Slides Through Iterative Detection and Correction](https://huggingface.co/papers/2507.17202) | ⭐ 14 | AI |
-| 🥉 [Pixels, Patterns, but No Poetry: To See The World like Humans](https://huggingface.co/papers/2507.16863) | ⭐ 14 | AI |
+| 🏆 [Pixels, Patterns, but No Poetry: To See The World like Humans](https://huggingface.co/papers/2507.16863) | ⭐ 36 | AI |
+| 🥈 [Yume: An Interactive World Generation Model](https://huggingface.co/papers/2507.17744) | ⭐ 31 | AI |
+| 🥉 [DesignLab: Designing Slides Through Iterative Detection and Correction](https://huggingface.co/papers/2507.17202) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-07-24 06:39 UTC</sub>
+<sub>Last updated: 2025-07-24 12:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
