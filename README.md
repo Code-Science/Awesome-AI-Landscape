@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](https://huggingface.co/papers/2507.16784) | ⭐ 73 | AI |
-| 🥈 [Step-Audio 2 Technical Report](https://huggingface.co/papers/2507.16632) | ⭐ 36 | AI |
+| 🏆 [Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](https://huggingface.co/papers/2507.16784) | ⭐ 77 | AI |
+| 🥈 [Step-Audio 2 Technical Report](https://huggingface.co/papers/2507.16632) | ⭐ 42 | AI |
 | 🥉 [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science
-  Reasoning](https://huggingface.co/papers/2507.16812) | ⭐ 31 | AI |
+  Reasoning](https://huggingface.co/papers/2507.16812) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-07-23 18:38 UTC</sub>
+<sub>Last updated: 2025-07-24 02:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
