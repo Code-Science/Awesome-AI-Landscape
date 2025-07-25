@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent
-  Diffusion](https://huggingface.co/papers/2507.16535) | ⭐ 0 | AI |
+| 🏆 [LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy
+  Optimization](https://huggingface.co/papers/2507.15758) | ⭐ 15 | AI |
+| 🥈 [TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive
+  Generation](https://huggingface.co/papers/2507.18537) | ⭐ 8 | AI |
+| 🥉 [Captain Cinema: Towards Short Movie Generation](https://huggingface.co/papers/2507.18634) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-07-25 02:10 UTC</sub>
+<sub>Last updated: 2025-07-25 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
