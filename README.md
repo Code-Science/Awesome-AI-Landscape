@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Pixels, Patterns, but No Poetry: To See The World like Humans](https://huggingface.co/papers/2507.16863) | ⭐ 42 | AI |
-| 🥈 [Yume: An Interactive World Generation Model](https://huggingface.co/papers/2507.17744) | ⭐ 37 | AI |
-| 🥉 [DesignLab: Designing Slides Through Iterative Detection and Correction](https://huggingface.co/papers/2507.17202) | ⭐ 32 | AI |
+| 🏆 [EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent
+  Diffusion](https://huggingface.co/papers/2507.16535) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-07-24 18:38 UTC</sub>
+<sub>Last updated: 2025-07-25 02:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
