@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Group Sequence Policy Optimization](https://huggingface.co/papers/2507.18071) | ⭐ 26 | AI |
-| 🥈 [LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy
-  Optimization](https://huggingface.co/papers/2507.15758) | ⭐ 21 | AI |
-| 🥉 [MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://huggingface.co/papers/2507.14958) | ⭐ 19 | AI |
+| 🏆 [nablaNABLA: Neighborhood Adaptive Block-Level Attention](https://huggingface.co/papers/2507.13546) | ⭐ 69 | AI |
+| 🥈 [Group Sequence Policy Optimization](https://huggingface.co/papers/2507.18071) | ⭐ 47 | AI |
+| 🥉 [MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://huggingface.co/papers/2507.14958) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-07-25 12:54 UTC</sub>
+<sub>Last updated: 2025-07-25 18:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
