@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [nablaNABLA: Neighborhood Adaptive Block-Level Attention](https://huggingface.co/papers/2507.13546) | ⭐ 90 | AI |
-| 🥈 [Group Sequence Policy Optimization](https://huggingface.co/papers/2507.18071) | ⭐ 69 | AI |
+| 🏆 [nablaNABLA: Neighborhood Adaptive Block-Level Attention](https://huggingface.co/papers/2507.13546) | ⭐ 92 | AI |
+| 🥈 [Group Sequence Policy Optimization](https://huggingface.co/papers/2507.18071) | ⭐ 73 | AI |
 | 🥉 [MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://huggingface.co/papers/2507.14958) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-07-26 12:50 UTC</sub>
+<sub>Last updated: 2025-07-26 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
