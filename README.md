@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Chat with AI: The Surprising Turn of Real-time Video Communication from
-  Human to AI](https://huggingface.co/papers/2507.10510) | ⭐ 1 | AI |
+| 🏆 [The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane
+  Algorithm](https://huggingface.co/papers/2507.18553) | ⭐ 14 | AI |
+| 🥈 [Deep Researcher with Test-Time Diffusion](https://huggingface.co/papers/2507.16075) | ⭐ 10 | AI |
+| 🥉 [Specification Self-Correction: Mitigating In-Context Reward Hacking
+  Through Test-Time Refinement](https://huggingface.co/papers/2507.18742) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-07-28 06:41 UTC</sub>
+<sub>Last updated: 2025-07-28 12:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
