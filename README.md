@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane
-  Algorithm](https://huggingface.co/papers/2507.18553) | ⭐ 14 | AI |
-| 🥈 [Deep Researcher with Test-Time Diffusion](https://huggingface.co/papers/2507.16075) | ⭐ 10 | AI |
-| 🥉 [Specification Self-Correction: Mitigating In-Context Reward Hacking
-  Through Test-Time Refinement](https://huggingface.co/papers/2507.18742) | ⭐ 2 | AI |
+| 🏆 [Deep Researcher with Test-Time Diffusion](https://huggingface.co/papers/2507.16075) | ⭐ 18 | AI |
+| 🥈 [The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane
+  Algorithm](https://huggingface.co/papers/2507.18553) | ⭐ 17 | AI |
+| 🥉 [MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI
+  Agents](https://huggingface.co/papers/2507.19478) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-07-28 12:57 UTC</sub>
+<sub>Last updated: 2025-07-28 18:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
