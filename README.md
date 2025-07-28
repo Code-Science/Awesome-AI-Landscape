@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Group Sequence Policy Optimization](https://huggingface.co/papers/2507.18071) | ⭐ 124 | AI |
-| 🥈 [nablaNABLA: Neighborhood Adaptive Block-Level Attention](https://huggingface.co/papers/2507.13546) | ⭐ 100 | AI |
-| 🥉 [MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://huggingface.co/papers/2507.14958) | ⭐ 37 | AI |
+| 🏆 [Chat with AI: The Surprising Turn of Real-time Video Communication from
+  Human to AI](https://huggingface.co/papers/2507.10510) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-07-28 02:23 UTC</sub>
+<sub>Last updated: 2025-07-28 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
