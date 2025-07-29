@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World
-  Shorts](https://huggingface.co/papers/2507.20939) | ⭐ 31 | AI |
-| 🥈 [Agentic Reinforced Policy Optimization](https://huggingface.co/papers/2507.19849) | ⭐ 29 | AI |
-| 🥉 [Reconstructing 4D Spatial Intelligence: A Survey](https://huggingface.co/papers/2507.21045) | ⭐ 19 | AI |
+| 🏆 [Agentic Reinforced Policy Optimization](https://huggingface.co/papers/2507.19849) | ⭐ 56 | AI |
+| 🥈 [ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World
+  Shorts](https://huggingface.co/papers/2507.20939) | ⭐ 41 | AI |
+| 🥉 [Rep-MTL: Unleashing the Power of Representation-level Task Saliency for
+  Multi-Task Learning](https://huggingface.co/papers/2507.21049) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-07-29 06:40 UTC</sub>
+<sub>Last updated: 2025-07-29 12:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
