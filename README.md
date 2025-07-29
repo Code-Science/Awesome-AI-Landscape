@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Deep Researcher with Test-Time Diffusion](https://huggingface.co/papers/2507.16075) | ⭐ 18 | AI |
-| 🥈 [The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane
-  Algorithm](https://huggingface.co/papers/2507.18553) | ⭐ 17 | AI |
-| 🥉 [MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI
-  Agents](https://huggingface.co/papers/2507.19478) | ⭐ 13 | AI |
+| 🏆 [ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World
+  Shorts](https://huggingface.co/papers/2507.20939) | ⭐ 8 | AI |
+| 🥈 [Reconstructing 4D Spatial Intelligence: A Survey](https://huggingface.co/papers/2507.21045) | ⭐ 5 | AI |
+| 🥉 [Region-based Cluster Discrimination for Visual Representation Learning](https://huggingface.co/papers/2507.20025) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-07-28 18:39 UTC</sub>
+<sub>Last updated: 2025-07-29 02:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
