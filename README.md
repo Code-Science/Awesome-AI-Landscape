@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World
-  Shorts](https://huggingface.co/papers/2507.20939) | ⭐ 8 | AI |
-| 🥈 [Reconstructing 4D Spatial Intelligence: A Survey](https://huggingface.co/papers/2507.21045) | ⭐ 5 | AI |
-| 🥉 [Region-based Cluster Discrimination for Visual Representation Learning](https://huggingface.co/papers/2507.20025) | ⭐ 1 | AI |
+  Shorts](https://huggingface.co/papers/2507.20939) | ⭐ 31 | AI |
+| 🥈 [Agentic Reinforced Policy Optimization](https://huggingface.co/papers/2507.19849) | ⭐ 29 | AI |
+| 🥉 [Reconstructing 4D Spatial Intelligence: A Survey](https://huggingface.co/papers/2507.21045) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-07-29 02:28 UTC</sub>
+<sub>Last updated: 2025-07-29 06:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
