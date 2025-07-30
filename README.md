@@ -18,13 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Reinforced Policy Optimization](https://huggingface.co/papers/2507.19849) | ⭐ 66 | AI |
-| 🥈 [ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World
-  Shorts](https://huggingface.co/papers/2507.20939) | ⭐ 44 | AI |
-| 🥉 [Rep-MTL: Unleashing the Power of Representation-level Task Saliency for
-  Multi-Task Learning](https://huggingface.co/papers/2507.21049) | ⭐ 29 | AI |
+| 🏆 [MaPPO: Maximum a Posteriori Preference Optimization with Prior Knowledge](https://huggingface.co/papers/2507.21183) | ⭐ 1 | AI |
+| 🥈 [MOVE: Motion-Guided Few-Shot Video Object Segmentation](https://huggingface.co/papers/2507.22061) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-07-29 18:40 UTC</sub>
+<sub>Last updated: 2025-07-30 02:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
