@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D
-  Worlds from Words or Pixels](https://huggingface.co/papers/2507.21809) | ⭐ 45 | AI |
+  Worlds from Words or Pixels](https://huggingface.co/papers/2507.21809) | ⭐ 58 | AI |
 | 🥈 [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image
-  Generative Models Great Again](https://huggingface.co/papers/2507.22058) | ⭐ 18 | AI |
-| 🥉 [CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement
-  Learning](https://huggingface.co/papers/2507.14111) | ⭐ 11 | AI |
+  Generative Models Great Again](https://huggingface.co/papers/2507.22058) | ⭐ 22 | AI |
+| 🥉 [ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical
+  Knowledge](https://huggingface.co/papers/2507.21990) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-07-30 12:57 UTC</sub>
+<sub>Last updated: 2025-07-30 18:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
