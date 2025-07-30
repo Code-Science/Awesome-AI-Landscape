@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MaPPO: Maximum a Posteriori Preference Optimization with Prior Knowledge](https://huggingface.co/papers/2507.21183) | ⭐ 1 | AI |
-| 🥈 [MOVE: Motion-Guided Few-Shot Video Object Segmentation](https://huggingface.co/papers/2507.22061) | ⭐ 0 | AI |
+| 🏆 [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D
+  Worlds from Words or Pixels](https://huggingface.co/papers/2507.21809) | ⭐ 27 | AI |
+| 🥈 [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image
+  Generative Models Great Again](https://huggingface.co/papers/2507.22058) | ⭐ 8 | AI |
+| 🥉 [MaPPO: Maximum a Posteriori Preference Optimization with Prior Knowledge](https://huggingface.co/papers/2507.21183) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-07-30 02:19 UTC</sub>
+<sub>Last updated: 2025-07-30 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
