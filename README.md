@@ -18,14 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D
-  Worlds from Words or Pixels](https://huggingface.co/papers/2507.21809) | ⭐ 58 | AI |
-| 🥈 [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image
-  Generative Models Great Again](https://huggingface.co/papers/2507.22058) | ⭐ 22 | AI |
-| 🥉 [ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical
-  Knowledge](https://huggingface.co/papers/2507.21990) | ⭐ 20 | AI |
+| 🏆 [Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual
+  Segmentation](https://huggingface.co/papers/2507.22886) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-07-30 18:39 UTC</sub>
+<sub>Last updated: 2025-07-31 02:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
