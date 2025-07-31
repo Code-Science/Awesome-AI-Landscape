@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual
-  Segmentation](https://huggingface.co/papers/2507.22886) | ⭐ 2 | AI |
+| 🏆 [ScreenCoder: Advancing Visual-to-Code Generation for Front-End
+  Automation via Modular Multimodal Agents](https://huggingface.co/papers/2507.22827) | ⭐ 39 | AI |
+| 🥈 [BANG: Dividing 3D Assets via Generative Exploded Dynamics](https://huggingface.co/papers/2507.21493) | ⭐ 24 | AI |
+| 🥉 [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency
+  and Performance](https://huggingface.co/papers/2507.22448) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-07-31 02:19 UTC</sub>
+<sub>Last updated: 2025-07-31 06:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
