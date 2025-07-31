@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [ScreenCoder: Advancing Visual-to-Code Generation for Front-End
-  Automation via Modular Multimodal Agents](https://huggingface.co/papers/2507.22827) | ⭐ 50 | AI |
-| 🥈 [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency
-  and Performance](https://huggingface.co/papers/2507.22448) | ⭐ 36 | AI |
-| 🥉 [BANG: Dividing 3D Assets via Generative Exploded Dynamics](https://huggingface.co/papers/2507.21493) | ⭐ 34 | AI |
+  Automation via Modular Multimodal Agents](https://huggingface.co/papers/2507.22827) | ⭐ 57 | AI |
+| 🥈 [BANG: Dividing 3D Assets via Generative Exploded Dynamics](https://huggingface.co/papers/2507.21493) | ⭐ 41 | AI |
+| 🥉 [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency
+  and Performance](https://huggingface.co/papers/2507.22448) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-07-31 12:56 UTC</sub>
+<sub>Last updated: 2025-07-31 18:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
