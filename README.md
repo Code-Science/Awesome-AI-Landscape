@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ScreenCoder: Advancing Visual-to-Code Generation for Front-End
-  Automation via Modular Multimodal Agents](https://huggingface.co/papers/2507.22827) | ⭐ 57 | AI |
-| 🥈 [BANG: Dividing 3D Assets via Generative Exploded Dynamics](https://huggingface.co/papers/2507.21493) | ⭐ 41 | AI |
-| 🥉 [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency
-  and Performance](https://huggingface.co/papers/2507.22448) | ⭐ 39 | AI |
+| 🏆 [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://huggingface.co/papers/2507.23726) | ⭐ 20 | AI |
+| 🥈 [RecGPT Technical Report](https://huggingface.co/papers/2507.22879) | ⭐ 7 | AI |
+| 🥉 [C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring
+  Challenges in Complex Conversations](https://huggingface.co/papers/2507.22968) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-07-31 18:39 UTC</sub>
+<sub>Last updated: 2025-08-01 02:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
