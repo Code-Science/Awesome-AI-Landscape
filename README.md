@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://huggingface.co/papers/2507.23726) | ⭐ 20 | AI |
-| 🥈 [RecGPT Technical Report](https://huggingface.co/papers/2507.22879) | ⭐ 7 | AI |
-| 🥉 [C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring
-  Challenges in Complex Conversations](https://huggingface.co/papers/2507.22968) | ⭐ 2 | AI |
+| 🏆 [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://huggingface.co/papers/2507.23726) | ⭐ 41 | AI |
+| 🥈 [RecGPT Technical Report](https://huggingface.co/papers/2507.22879) | ⭐ 12 | AI |
+| 🥉 [villa-X: Enhancing Latent Action Modeling in Vision-Language-Action
+  Models](https://huggingface.co/papers/2507.23682) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-08-01 02:30 UTC</sub>
+<sub>Last updated: 2025-08-01 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
