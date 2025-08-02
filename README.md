@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://huggingface.co/papers/2507.23726) | ⭐ 75 | AI |
+| 🏆 [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://huggingface.co/papers/2507.23726) | ⭐ 76 | AI |
 | 🥈 [Phi-Ground Tech Report: Advancing Perception in GUI Grounding](https://huggingface.co/papers/2507.23779) | ⭐ 32 | AI |
 | 🥉 [C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring
   Challenges in Complex Conversations](https://huggingface.co/papers/2507.22968) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-08-02 12:51 UTC</sub>
+<sub>Last updated: 2025-08-02 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
