@@ -23,7 +23,7 @@
 | 🥉 [C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring
   Challenges in Complex Conversations](https://huggingface.co/papers/2507.22968) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-08-03 02:28 UTC</sub>
+<sub>Last updated: 2025-08-03 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
