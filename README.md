@@ -18,10 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PixNerd: Pixel Neural Field Diffusion](https://huggingface.co/papers/2507.23268) | ⭐ 3 | AI |
-| 🥈 [Multimodal Referring Segmentation: A Survey](https://huggingface.co/papers/2508.00265) | ⭐ 1 | AI |
+| 🏆 [Beyond Fixed: Variable-Length Denoising for Diffusion Large Language
+  Models](https://huggingface.co/papers/2508.00819) | ⭐ 19 | AI |
+| 🥈 [PixNerd: Pixel Neural Field Diffusion](https://huggingface.co/papers/2507.23268) | ⭐ 13 | AI |
+| 🥉 [SWE-Exp: Experience-Driven Software Issue Resolution](https://huggingface.co/papers/2507.23361) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-08-04 02:28 UTC</sub>
+<sub>Last updated: 2025-08-04 06:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
