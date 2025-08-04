@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://huggingface.co/papers/2507.23726) | ⭐ 86 | AI |
-| 🥈 [Phi-Ground Tech Report: Advancing Perception in GUI Grounding](https://huggingface.co/papers/2507.23779) | ⭐ 35 | AI |
-| 🥉 [RecGPT Technical Report](https://huggingface.co/papers/2507.22879) | ⭐ 23 | AI |
+| 🏆 [PixNerd: Pixel Neural Field Diffusion](https://huggingface.co/papers/2507.23268) | ⭐ 3 | AI |
+| 🥈 [Multimodal Referring Segmentation: A Survey](https://huggingface.co/papers/2508.00265) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-08-03 18:36 UTC</sub>
+<sub>Last updated: 2025-08-04 02:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
