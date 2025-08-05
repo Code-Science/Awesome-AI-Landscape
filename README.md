@@ -19,11 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Beyond Fixed: Variable-Length Denoising for Diffusion Large Language
-  Models](https://huggingface.co/papers/2508.00819) | ⭐ 33 | AI |
-| 🥈 [PixNerd: Pixel Neural Field Diffusion](https://huggingface.co/papers/2507.23268) | ⭐ 29 | AI |
-| 🥉 [SWE-Exp: Experience-Driven Software Issue Resolution](https://huggingface.co/papers/2507.23361) | ⭐ 6 | AI |
+  Models](https://huggingface.co/papers/2508.00819) | ⭐ 38 | AI |
+| 🥈 [PixNerd: Pixel Neural Field Diffusion](https://huggingface.co/papers/2507.23268) | ⭐ 32 | AI |
+| 🥉 [Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent
+  Foundation Models Training](https://huggingface.co/papers/2508.00414) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-08-04 18:40 UTC</sub>
+<sub>Last updated: 2025-08-05 02:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
