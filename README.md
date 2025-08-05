@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CellForge: Agentic Design of Virtual Cell Models](https://huggingface.co/papers/2508.02276) | ⭐ 19 | AI |
-| 🥈 [Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report](https://huggingface.co/papers/2508.01059) | ⭐ 12 | AI |
-| 🥉 [Beyond the Trade-off: Self-Supervised Reinforcement Learning for
-  Reasoning Models' Instruction Following](https://huggingface.co/papers/2508.02150) | ⭐ 7 | AI |
+| 🏆 [Qwen-Image Technical Report](https://huggingface.co/papers/2508.02324) | ⭐ 52 | AI |
+| 🥈 [SitEmb-v1.5: Improved Context-Aware Dense Retrieval for Semantic
+  Association and Long Story Comprehension](https://huggingface.co/papers/2508.01959) | ⭐ 28 | AI |
+| 🥉 [CellForge: Agentic Design of Virtual Cell Models](https://huggingface.co/papers/2508.02276) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-08-05 06:41 UTC</sub>
+<sub>Last updated: 2025-08-05 12:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
