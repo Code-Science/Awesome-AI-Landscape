@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond Fixed: Variable-Length Denoising for Diffusion Large Language
-  Models](https://huggingface.co/papers/2508.00819) | ⭐ 38 | AI |
-| 🥈 [PixNerd: Pixel Neural Field Diffusion](https://huggingface.co/papers/2507.23268) | ⭐ 32 | AI |
-| 🥉 [Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent
-  Foundation Models Training](https://huggingface.co/papers/2508.00414) | ⭐ 17 | AI |
+| 🏆 [CellForge: Agentic Design of Virtual Cell Models](https://huggingface.co/papers/2508.02276) | ⭐ 19 | AI |
+| 🥈 [Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report](https://huggingface.co/papers/2508.01059) | ⭐ 12 | AI |
+| 🥉 [Beyond the Trade-off: Self-Supervised Reinforcement Learning for
+  Reasoning Models' Instruction Following](https://huggingface.co/papers/2508.02150) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-08-05 02:22 UTC</sub>
+<sub>Last updated: 2025-08-05 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
