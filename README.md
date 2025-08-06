@@ -18,9 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](https://huggingface.co/papers/2508.03694) | ⭐ 3 | AI |
+| 🏆 [Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding
+  and Generation](https://huggingface.co/papers/2508.03320) | ⭐ 27 | AI |
+| 🥈 [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](https://huggingface.co/papers/2508.03694) | ⭐ 23 | AI |
+| 🥉 [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed
+  Inference](https://huggingface.co/papers/2508.02193) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-08-06 02:20 UTC</sub>
+<sub>Last updated: 2025-08-06 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
