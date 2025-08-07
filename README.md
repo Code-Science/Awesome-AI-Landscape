@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VeriGUI: Verifiable Long-Chain GUI Dataset](https://huggingface.co/papers/2508.04026) | ⭐ 68 | AI |
-| 🥈 [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://huggingface.co/papers/2508.01191) | ⭐ 39 | AI |
-| 🥉 [Efficient Agents: Building Effective Agents While Reducing Cost](https://huggingface.co/papers/2508.02694) | ⭐ 36 | AI |
+| 🏆 [VeriGUI: Verifiable Long-Chain GUI Dataset](https://huggingface.co/papers/2508.04026) | ⭐ 113 | AI |
+| 🥈 [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://huggingface.co/papers/2508.01191) | ⭐ 105 | AI |
+| 🥉 [Efficient Agents: Building Effective Agents While Reducing Cost](https://huggingface.co/papers/2508.02694) | ⭐ 45 | AI |
 
-<sub>Last updated: 2025-08-07 12:58 UTC</sub>
+<sub>Last updated: 2025-08-07 18:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
