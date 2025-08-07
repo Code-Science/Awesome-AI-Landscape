@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed
-  Inference](https://huggingface.co/papers/2508.02193) | ⭐ 68 | AI |
-| 🥈 [Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding
-  and Generation](https://huggingface.co/papers/2508.03320) | ⭐ 44 | AI |
-| 🥉 [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](https://huggingface.co/papers/2508.03694) | ⭐ 32 | AI |
+| 🏆 [VeriGUI: Verifiable Long-Chain GUI Dataset](https://huggingface.co/papers/2508.04026) | ⭐ 49 | AI |
+| 🥈 [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from
+  Experience](https://huggingface.co/papers/2508.04700) | ⭐ 26 | AI |
+| 🥉 [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://huggingface.co/papers/2508.01191) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-08-07 02:20 UTC</sub>
+<sub>Last updated: 2025-08-07 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
