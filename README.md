@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed
-  Inference](https://huggingface.co/papers/2508.02193) | ⭐ 53 | AI |
+  Inference](https://huggingface.co/papers/2508.02193) | ⭐ 68 | AI |
 | 🥈 [Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding
-  and Generation](https://huggingface.co/papers/2508.03320) | ⭐ 38 | AI |
-| 🥉 [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](https://huggingface.co/papers/2508.03694) | ⭐ 31 | AI |
+  and Generation](https://huggingface.co/papers/2508.03320) | ⭐ 44 | AI |
+| 🥉 [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](https://huggingface.co/papers/2508.03694) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-08-06 18:38 UTC</sub>
+<sub>Last updated: 2025-08-07 02:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
