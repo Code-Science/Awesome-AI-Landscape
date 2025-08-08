@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VeriGUI: Verifiable Long-Chain GUI Dataset](https://huggingface.co/papers/2508.04026) | ⭐ 113 | AI |
-| 🥈 [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://huggingface.co/papers/2508.01191) | ⭐ 105 | AI |
-| 🥉 [Efficient Agents: Building Effective Agents While Reducing Cost](https://huggingface.co/papers/2508.02694) | ⭐ 45 | AI |
+| 🏆 [On the Generalization of SFT: A Reinforcement Learning Perspective with
+  Reward Rectification](https://huggingface.co/papers/2508.05629) | ⭐ 6 | AI |
+| 🥈 [Are Today's LLMs Ready to Explain Well-Being Concepts?](https://huggingface.co/papers/2508.03990) | ⭐ 6 | AI |
+| 🥉 [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://huggingface.co/papers/2508.05004) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-08-07 18:40 UTC</sub>
+<sub>Last updated: 2025-08-08 02:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
