@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [On the Generalization of SFT: A Reinforcement Learning Perspective with
-  Reward Rectification](https://huggingface.co/papers/2508.05629) | ⭐ 6 | AI |
-| 🥈 [Are Today's LLMs Ready to Explain Well-Being Concepts?](https://huggingface.co/papers/2508.03990) | ⭐ 6 | AI |
-| 🥉 [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://huggingface.co/papers/2508.05004) | ⭐ 5 | AI |
+| 🏆 [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://huggingface.co/papers/2508.05004) | ⭐ 39 | AI |
+| 🥈 [DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning](https://huggingface.co/papers/2508.05405) | ⭐ 31 | AI |
+| 🥉 [On the Generalization of SFT: A Reinforcement Learning Perspective with
+  Reward Rectification](https://huggingface.co/papers/2508.05629) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-08-08 02:20 UTC</sub>
+<sub>Last updated: 2025-08-08 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
