@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [On the Generalization of SFT: A Reinforcement Learning Perspective with
-  Reward Rectification](https://huggingface.co/papers/2508.05629) | ⭐ 95 | AI |
-| 🥈 [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://huggingface.co/papers/2508.05004) | ⭐ 80 | AI |
+  Reward Rectification](https://huggingface.co/papers/2508.05629) | ⭐ 100 | AI |
+| 🥈 [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://huggingface.co/papers/2508.05004) | ⭐ 81 | AI |
 | 🥉 [Genie Envisioner: A Unified World Foundation Platform for Robotic
   Manipulation](https://huggingface.co/papers/2508.05635) | ⭐ 62 | AI |
 
-<sub>Last updated: 2025-08-10 06:36 UTC</sub>
+<sub>Last updated: 2025-08-10 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
