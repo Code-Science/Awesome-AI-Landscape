@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Pruning the Unsurprising: Efficient Code Reasoning via First-Token
-  Surprisal](https://huggingface.co/papers/2508.05988) | ⭐ 5 | AI |
+| 🏆 [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://huggingface.co/papers/2508.06471) | ⭐ 20 | AI |
 | 🥈 [Voost: A Unified and Scalable Diffusion Transformer for Bidirectional
-  Virtual Try-On and Try-Off](https://huggingface.co/papers/2508.04825) | ⭐ 5 | AI |
+  Virtual Try-On and Try-Off](https://huggingface.co/papers/2508.04825) | ⭐ 11 | AI |
 | 🥉 [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy
-  Optimization](https://huggingface.co/papers/2508.05731) | ⭐ 2 | AI |
+  Optimization](https://huggingface.co/papers/2508.05731) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-08-11 02:20 UTC</sub>
+<sub>Last updated: 2025-08-11 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
