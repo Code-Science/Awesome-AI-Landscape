@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [On the Generalization of SFT: A Reinforcement Learning Perspective with
-  Reward Rectification](https://huggingface.co/papers/2508.05629) | ⭐ 101 | AI |
-| 🥈 [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://huggingface.co/papers/2508.05004) | ⭐ 81 | AI |
-| 🥉 [Genie Envisioner: A Unified World Foundation Platform for Robotic
-  Manipulation](https://huggingface.co/papers/2508.05635) | ⭐ 62 | AI |
+| 🏆 [Pruning the Unsurprising: Efficient Code Reasoning via First-Token
+  Surprisal](https://huggingface.co/papers/2508.05988) | ⭐ 5 | AI |
+| 🥈 [Voost: A Unified and Scalable Diffusion Transformer for Bidirectional
+  Virtual Try-On and Try-Off](https://huggingface.co/papers/2508.04825) | ⭐ 5 | AI |
+| 🥉 [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy
+  Optimization](https://huggingface.co/papers/2508.05731) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-08-10 18:34 UTC</sub>
+<sub>Last updated: 2025-08-11 02:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
