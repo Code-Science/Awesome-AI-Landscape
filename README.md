@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://huggingface.co/papers/2508.07999) | ⭐ 60 | AI |
-| 🥈 [ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability](https://huggingface.co/papers/2508.07050) | ⭐ 36 | AI |
-| 🥉 [Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving
-  Clipping Policy Optimization](https://huggingface.co/papers/2508.07629) | ⭐ 18 | AI |
+| 🏆 [ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability](https://huggingface.co/papers/2508.07050) | ⭐ 77 | AI |
+| 🥈 [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://huggingface.co/papers/2508.07999) | ⭐ 75 | AI |
+| 🥉 [Omni-Effects: Unified and Spatially-Controllable Visual Effects
+  Generation](https://huggingface.co/papers/2508.07981) | ⭐ 44 | AI |
 
-<sub>Last updated: 2025-08-12 06:38 UTC</sub>
+<sub>Last updated: 2025-08-12 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
