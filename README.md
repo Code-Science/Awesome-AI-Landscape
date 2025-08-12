@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://huggingface.co/papers/2508.06471) | ⭐ 67 | AI |
+| 🏆 [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://huggingface.co/papers/2508.06471) | ⭐ 78 | AI |
 | 🥈 [Voost: A Unified and Scalable Diffusion Transformer for Bidirectional
-  Virtual Try-On and Try-Off](https://huggingface.co/papers/2508.04825) | ⭐ 33 | AI |
+  Virtual Try-On and Try-Off](https://huggingface.co/papers/2508.04825) | ⭐ 35 | AI |
 | 🥉 [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy
-  Optimization](https://huggingface.co/papers/2508.05731) | ⭐ 16 | AI |
+  Optimization](https://huggingface.co/papers/2508.05731) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-08-11 18:38 UTC</sub>
+<sub>Last updated: 2025-08-12 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
