@@ -18,12 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability](https://huggingface.co/papers/2508.07050) | ⭐ 88 | AI |
-| 🥈 [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://huggingface.co/papers/2508.07999) | ⭐ 80 | AI |
-| 🥉 [Omni-Effects: Unified and Spatially-Controllable Visual Effects
-  Generation](https://huggingface.co/papers/2508.07981) | ⭐ 45 | AI |
+| 🏆 [Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language
+  Models](https://huggingface.co/papers/2508.09138) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-08-12 18:37 UTC</sub>
+<sub>Last updated: 2025-08-13 02:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
