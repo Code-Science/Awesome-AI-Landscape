@@ -18,10 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language
-  Models](https://huggingface.co/papers/2508.09138) | ⭐ 1 | AI |
+| 🏆 [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://huggingface.co/papers/2508.05748) | ⭐ 48 | AI |
+| 🥈 [Matrix-3D: Omnidirectional Explorable 3D World Generation](https://huggingface.co/papers/2508.08086) | ⭐ 34 | AI |
+| 🥉 [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale
+  Asynchronous RL](https://huggingface.co/papers/2508.07976) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-08-13 02:04 UTC</sub>
+<sub>Last updated: 2025-08-13 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
