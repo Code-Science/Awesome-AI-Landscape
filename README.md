@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://huggingface.co/papers/2508.05748) | ⭐ 73 | AI |
-| 🥈 [Matrix-3D: Omnidirectional Explorable 3D World Generation](https://huggingface.co/papers/2508.08086) | ⭐ 44 | AI |
+| 🏆 [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://huggingface.co/papers/2508.05748) | ⭐ 79 | AI |
+| 🥈 [Matrix-3D: Omnidirectional Explorable 3D World Generation](https://huggingface.co/papers/2508.08086) | ⭐ 45 | AI |
 | 🥉 [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale
-  Asynchronous RL](https://huggingface.co/papers/2508.07976) | ⭐ 28 | AI |
+  Asynchronous RL](https://huggingface.co/papers/2508.07976) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-08-13 12:54 UTC</sub>
+<sub>Last updated: 2025-08-13 18:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
