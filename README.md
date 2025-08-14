@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://huggingface.co/papers/2508.08401) | ⭐ 23 | AI |
-| 🥈 [Stand-In: A Lightweight and Plug-and-Play Identity Control for Video
-  Generation](https://huggingface.co/papers/2508.07901) | ⭐ 23 | AI |
-| 🥉 [AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust
-  GAIA Problem Solving](https://huggingface.co/papers/2508.09889) | ⭐ 20 | AI |
+| 🏆 [Story2Board: A Training-Free Approach for Expressive Storyboard
+  Generation](https://huggingface.co/papers/2508.09983) | ⭐ 37 | AI |
+| 🥈 [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://huggingface.co/papers/2508.08401) | ⭐ 27 | AI |
+| 🥉 [Stand-In: A Lightweight and Plug-and-Play Identity Control for Video
+  Generation](https://huggingface.co/papers/2508.07901) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-08-14 12:55 UTC</sub>
+<sub>Last updated: 2025-08-14 18:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
