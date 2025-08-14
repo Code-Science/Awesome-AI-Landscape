@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust
-  GAIA Problem Solving](https://huggingface.co/papers/2508.09889) | ⭐ 15 | AI |
-| 🥈 [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://huggingface.co/papers/2508.08401) | ⭐ 15 | AI |
-| 🥉 [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved
-  Image Generation](https://huggingface.co/papers/2508.09987) | ⭐ 11 | AI |
+| 🏆 [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://huggingface.co/papers/2508.08401) | ⭐ 23 | AI |
+| 🥈 [Stand-In: A Lightweight and Plug-and-Play Identity Control for Video
+  Generation](https://huggingface.co/papers/2508.07901) | ⭐ 23 | AI |
+| 🥉 [AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust
+  GAIA Problem Solving](https://huggingface.co/papers/2508.09889) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-08-14 06:38 UTC</sub>
+<sub>Last updated: 2025-08-14 12:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
