@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Story2Board: A Training-Free Approach for Expressive Storyboard
-  Generation](https://huggingface.co/papers/2508.09983) | ⭐ 41 | AI |
-| 🥈 [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://huggingface.co/papers/2508.08401) | ⭐ 29 | AI |
-| 🥉 [Stand-In: A Lightweight and Plug-and-Play Identity Control for Video
-  Generation](https://huggingface.co/papers/2508.07901) | ⭐ 27 | AI |
+| 🏆 [We-Math 2.0: A Versatile MathBook System for Incentivizing Visual
+  Mathematical Reasoning](https://huggingface.co/papers/2508.10433) | ⭐ 83 | AI |
+| 🥈 [NextStep-1: Toward Autoregressive Image Generation with Continuous
+  Tokens at Scale](https://huggingface.co/papers/2508.10711) | ⭐ 60 | AI |
+| 🥉 [PRELUDE: A Benchmark Designed to Require Global Comprehension and
+  Reasoning over Long Contexts](https://huggingface.co/papers/2508.09848) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-08-15 02:05 UTC</sub>
+<sub>Last updated: 2025-08-15 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
