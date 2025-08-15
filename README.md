@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Story2Board: A Training-Free Approach for Expressive Storyboard
-  Generation](https://huggingface.co/papers/2508.09983) | ⭐ 37 | AI |
-| 🥈 [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://huggingface.co/papers/2508.08401) | ⭐ 27 | AI |
+  Generation](https://huggingface.co/papers/2508.09983) | ⭐ 41 | AI |
+| 🥈 [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://huggingface.co/papers/2508.08401) | ⭐ 29 | AI |
 | 🥉 [Stand-In: A Lightweight and Plug-and-Play Identity Control for Video
-  Generation](https://huggingface.co/papers/2508.07901) | ⭐ 25 | AI |
+  Generation](https://huggingface.co/papers/2508.07901) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-08-14 18:37 UTC</sub>
+<sub>Last updated: 2025-08-15 02:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
