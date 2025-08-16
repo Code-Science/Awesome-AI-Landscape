@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [We-Math 2.0: A Versatile MathBook System for Incentivizing Visual
-  Mathematical Reasoning](https://huggingface.co/papers/2508.10433) | ⭐ 121 | AI |
+  Mathematical Reasoning](https://huggingface.co/papers/2508.10433) | ⭐ 122 | AI |
 | 🥈 [NextStep-1: Toward Autoregressive Image Generation with Continuous
-  Tokens at Scale](https://huggingface.co/papers/2508.10711) | ⭐ 104 | AI |
+  Tokens at Scale](https://huggingface.co/papers/2508.10711) | ⭐ 108 | AI |
 | 🥉 [ToonComposer: Streamlining Cartoon Production with Generative
   Post-Keyframing](https://huggingface.co/papers/2508.10881) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-08-16 06:34 UTC</sub>
+<sub>Last updated: 2025-08-16 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
