@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thyme: Think Beyond Images](https://huggingface.co/papers/2508.11630) | ⭐ 5 | AI |
-| 🥈 [PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical
-  Register Indexing](https://huggingface.co/papers/2508.11116) | ⭐ 1 | AI |
+| 🏆 [Thyme: Think Beyond Images](https://huggingface.co/papers/2508.11630) | ⭐ 18 | AI |
+| 🥈 [StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image
+  Translation](https://huggingface.co/papers/2508.11203) | ⭐ 4 | AI |
+| 🥉 [PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical
+  Register Indexing](https://huggingface.co/papers/2508.11116) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-08-18 02:11 UTC</sub>
+<sub>Last updated: 2025-08-18 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
