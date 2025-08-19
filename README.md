@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thyme: Think Beyond Images](https://huggingface.co/papers/2508.11630) | ⭐ 54 | AI |
-| 🥈 [SSRL: Self-Search Reinforcement Learning](https://huggingface.co/papers/2508.10874) | ⭐ 54 | AI |
-| 🥉 [DINOv3](https://huggingface.co/papers/2508.10104) | ⭐ 43 | AI |
+| 🏆 [SSRL: Self-Search Reinforcement Learning](https://huggingface.co/papers/2508.10874) | ⭐ 65 | AI |
+| 🥈 [Thyme: Think Beyond Images](https://huggingface.co/papers/2508.11630) | ⭐ 57 | AI |
+| 🥉 [DINOv3](https://huggingface.co/papers/2508.10104) | ⭐ 56 | AI |
 
-<sub>Last updated: 2025-08-18 18:37 UTC</sub>
+<sub>Last updated: 2025-08-19 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
