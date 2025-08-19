@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SSRL: Self-Search Reinforcement Learning](https://huggingface.co/papers/2508.10874) | ⭐ 65 | AI |
-| 🥈 [Thyme: Think Beyond Images](https://huggingface.co/papers/2508.11630) | ⭐ 57 | AI |
-| 🥉 [DINOv3](https://huggingface.co/papers/2508.10104) | ⭐ 56 | AI |
+| 🏆 [Ovis2.5 Technical Report](https://huggingface.co/papers/2508.11737) | ⭐ 58 | AI |
+| 🥈 [Next Visual Granularity Generation](https://huggingface.co/papers/2508.12811) | ⭐ 29 | AI |
+| 🥉 [ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long
+  Narrative Reasoning](https://huggingface.co/papers/2508.10419) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-08-19 01:58 UTC</sub>
+<sub>Last updated: 2025-08-19 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
