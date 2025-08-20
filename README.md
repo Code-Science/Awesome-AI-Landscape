@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Ovis2.5 Technical Report](https://huggingface.co/papers/2508.11737) | ⭐ 73 | AI |
+| 🏆 [Ovis2.5 Technical Report](https://huggingface.co/papers/2508.11737) | ⭐ 76 | AI |
 | 🥈 [ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long
-  Narrative Reasoning](https://huggingface.co/papers/2508.10419) | ⭐ 45 | AI |
-| 🥉 [4DNeX: Feed-Forward 4D Generative Modeling Made Easy](https://huggingface.co/papers/2508.13154) | ⭐ 42 | AI |
+  Narrative Reasoning](https://huggingface.co/papers/2508.10419) | ⭐ 46 | AI |
+| 🥉 [4DNeX: Feed-Forward 4D Generative Modeling Made Easy](https://huggingface.co/papers/2508.13154) | ⭐ 44 | AI |
 
-<sub>Last updated: 2025-08-19 18:32 UTC</sub>
+<sub>Last updated: 2025-08-20 01:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
