@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent
-  Distillation and Agentic RL](https://huggingface.co/papers/2508.13167) | ⭐ 59 | AI |
-| 🥈 [LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos](https://huggingface.co/papers/2508.14041) | ⭐ 38 | AI |
-| 🥉 [Prompt Orchestration Markup Language](https://huggingface.co/papers/2508.13948) | ⭐ 22 | AI |
+  Distillation and Agentic RL](https://huggingface.co/papers/2508.13167) | ⭐ 68 | AI |
+| 🥈 [LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos](https://huggingface.co/papers/2508.14041) | ⭐ 41 | AI |
+| 🥉 [Prompt Orchestration Markup Language](https://huggingface.co/papers/2508.13948) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-08-20 18:35 UTC</sub>
+<sub>Last updated: 2025-08-21 01:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
