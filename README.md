@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Intern-S1: A Scientific Multimodal Foundation Model](https://huggingface.co/papers/2508.15763) | ⭐ 151 | AI |
-| 🥈 [Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://huggingface.co/papers/2508.15144) | ⭐ 33 | AI |
-| 🥉 [Deep Think with Confidence](https://huggingface.co/papers/2508.15260) | ⭐ 17 | AI |
+| 🏆 [Intern-S1: A Scientific Multimodal Foundation Model](https://huggingface.co/papers/2508.15763) | ⭐ 160 | AI |
+| 🥈 [Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://huggingface.co/papers/2508.15144) | ⭐ 37 | AI |
+| 🥉 [LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on
+  Challenging Queries](https://huggingface.co/papers/2508.15760) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-08-22 12:49 UTC</sub>
+<sub>Last updated: 2025-08-22 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
