@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Intern-S1: A Scientific Multimodal Foundation Model](https://huggingface.co/papers/2508.15763) | ⭐ 16 | AI |
-| 🥈 [Deep Think with Confidence](https://huggingface.co/papers/2508.15260) | ⭐ 0 | AI |
-| 🥉 [Fin-PRM: A Domain-Specialized Process Reward Model for Financial
-  Reasoning in Large Language Models](https://huggingface.co/papers/2508.15202) | ⭐ 0 | AI |
+| 🏆 [Intern-S1: A Scientific Multimodal Foundation Model](https://huggingface.co/papers/2508.15763) | ⭐ 132 | AI |
+| 🥈 [Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://huggingface.co/papers/2508.15144) | ⭐ 28 | AI |
+| 🥉 [Deep Think with Confidence](https://huggingface.co/papers/2508.15260) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-08-22 01:55 UTC</sub>
+<sub>Last updated: 2025-08-22 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
