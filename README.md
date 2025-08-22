@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From Scores to Skills: A Cognitive Diagnosis Framework for Evaluating
-  Financial Large Language Models](https://huggingface.co/papers/2508.13491) | ⭐ 53 | AI |
-| 🥈 [DuPO: Enabling Reliable LLM Self-Verification via Dual Preference
-  Optimization](https://huggingface.co/papers/2508.14460) | ⭐ 51 | AI |
-| 🥉 [FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction](https://huggingface.co/papers/2508.11987) | ⭐ 45 | AI |
+| 🏆 [Intern-S1: A Scientific Multimodal Foundation Model](https://huggingface.co/papers/2508.15763) | ⭐ 16 | AI |
+| 🥈 [Deep Think with Confidence](https://huggingface.co/papers/2508.15260) | ⭐ 0 | AI |
+| 🥉 [Fin-PRM: A Domain-Specialized Process Reward Model for Financial
+  Reasoning in Large Language Models](https://huggingface.co/papers/2508.15202) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-08-21 18:33 UTC</sub>
+<sub>Last updated: 2025-08-22 01:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
