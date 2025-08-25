@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs](https://huggingface.co/papers/2508.16153) | ⭐ 19 | AI |
-| 🥈 [CRISP: Persistent Concept Unlearning via Sparse Autoencoders](https://huggingface.co/papers/2508.13650) | ⭐ 8 | AI |
-| 🥉 [Selective Contrastive Learning for Weakly Supervised Affordance
-  Grounding](https://huggingface.co/papers/2508.07877) | ⭐ 7 | AI |
+| 🏆 [AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs](https://huggingface.co/papers/2508.16153) | ⭐ 38 | AI |
+| 🥈 [ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for
+  Long-Horizon Tasks](https://huggingface.co/papers/2508.08240) | ⭐ 31 | AI |
+| 🥉 [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains
+  RLVR](https://huggingface.co/papers/2508.14029) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-08-25 06:38 UTC</sub>
+<sub>Last updated: 2025-08-25 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
