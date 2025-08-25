@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Intern-S1: A Scientific Multimodal Foundation Model](https://huggingface.co/papers/2508.15763) | ⭐ 208 | AI |
-| 🥈 [Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://huggingface.co/papers/2508.15144) | ⭐ 45 | AI |
-| 🥉 [Deep Think with Confidence](https://huggingface.co/papers/2508.15260) | ⭐ 43 | AI |
+| 🏆 [AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs](https://huggingface.co/papers/2508.16153) | ⭐ 19 | AI |
+| 🥈 [CRISP: Persistent Concept Unlearning via Sparse Autoencoders](https://huggingface.co/papers/2508.13650) | ⭐ 8 | AI |
+| 🥉 [Selective Contrastive Learning for Weakly Supervised Affordance
+  Grounding](https://huggingface.co/papers/2508.07877) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-08-25 02:00 UTC</sub>
+<sub>Last updated: 2025-08-25 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
