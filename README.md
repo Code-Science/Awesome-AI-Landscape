@@ -18,10 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent
-  LLMs](https://huggingface.co/papers/2508.17188) | ⭐ 0 | AI |
+| 🏆 [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,
+  Reasoning, and Efficiency](https://huggingface.co/papers/2508.18265) | ⭐ 44 | AI |
+| 🥈 [Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance
+  for Text-to-Image Generation](https://huggingface.co/papers/2508.18032) | ⭐ 22 | AI |
+| 🥉 [T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image
+  Generation](https://huggingface.co/papers/2508.17472) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-08-26 01:56 UTC</sub>
+<sub>Last updated: 2025-08-26 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
