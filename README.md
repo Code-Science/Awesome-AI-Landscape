@@ -18,13 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs](https://huggingface.co/papers/2508.16153) | ⭐ 50 | AI |
-| 🥈 [ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for
-  Long-Horizon Tasks](https://huggingface.co/papers/2508.08240) | ⭐ 34 | AI |
-| 🥉 [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains
-  RLVR](https://huggingface.co/papers/2508.14029) | ⭐ 27 | AI |
+| 🏆 [PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent
+  LLMs](https://huggingface.co/papers/2508.17188) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-08-25 18:35 UTC</sub>
+<sub>Last updated: 2025-08-26 01:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
