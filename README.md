@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,
-  Reasoning, and Efficiency](https://huggingface.co/papers/2508.18265) | ⭐ 105 | AI |
+  Reasoning, and Efficiency](https://huggingface.co/papers/2508.18265) | ⭐ 117 | AI |
 | 🥈 [Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance
-  for Text-to-Image Generation](https://huggingface.co/papers/2508.18032) | ⭐ 32 | AI |
-| 🥉 [MV-RAG: Retrieval Augmented Multiview Diffusion](https://huggingface.co/papers/2508.16577) | ⭐ 27 | AI |
+  for Text-to-Image Generation](https://huggingface.co/papers/2508.18032) | ⭐ 34 | AI |
+| 🥉 [MV-RAG: Retrieval Augmented Multiview Diffusion](https://huggingface.co/papers/2508.16577) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-08-26 18:33 UTC</sub>
+<sub>Last updated: 2025-08-27 01:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
