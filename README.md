@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CMPhysBench: A Benchmark for Evaluating Large Language Models in
-  Condensed Matter Physics](https://huggingface.co/papers/2508.18124) | ⭐ 25 | AI |
-| 🥈 [VibeVoice Technical Report](https://huggingface.co/papers/2508.19205) | ⭐ 23 | AI |
-| 🥉 [Spacer: Towards Engineered Scientific Inspiration](https://huggingface.co/papers/2508.17661) | ⭐ 19 | AI |
+| 🏆 [TreePO: Bridging the Gap of Policy Optimization and Efficacy and
+  Inference Efficiency with Heuristic Tree-based Modeling](https://huggingface.co/papers/2508.17445) | ⭐ 36 | AI |
+| 🥈 [CMPhysBench: A Benchmark for Evaluating Large Language Models in
+  Condensed Matter Physics](https://huggingface.co/papers/2508.18124) | ⭐ 35 | AI |
+| 🥉 [VibeVoice Technical Report](https://huggingface.co/papers/2508.19205) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-08-27 06:34 UTC</sub>
+<sub>Last updated: 2025-08-27 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
