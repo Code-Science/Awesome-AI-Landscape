@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,
-  Reasoning, and Efficiency](https://huggingface.co/papers/2508.18265) | ⭐ 117 | AI |
-| 🥈 [Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance
-  for Text-to-Image Generation](https://huggingface.co/papers/2508.18032) | ⭐ 34 | AI |
-| 🥉 [MV-RAG: Retrieval Augmented Multiview Diffusion](https://huggingface.co/papers/2508.16577) | ⭐ 29 | AI |
+| 🏆 [CMPhysBench: A Benchmark for Evaluating Large Language Models in
+  Condensed Matter Physics](https://huggingface.co/papers/2508.18124) | ⭐ 25 | AI |
+| 🥈 [VibeVoice Technical Report](https://huggingface.co/papers/2508.19205) | ⭐ 23 | AI |
+| 🥉 [Spacer: Towards Engineered Scientific Inspiration](https://huggingface.co/papers/2508.17661) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-08-27 01:53 UTC</sub>
+<sub>Last updated: 2025-08-27 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
