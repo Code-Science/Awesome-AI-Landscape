@@ -18,13 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TreePO: Bridging the Gap of Policy Optimization and Efficacy and
-  Inference Efficiency with Heuristic Tree-based Modeling](https://huggingface.co/papers/2508.17445) | ⭐ 55 | AI |
-| 🥈 [CMPhysBench: A Benchmark for Evaluating Large Language Models in
-  Condensed Matter Physics](https://huggingface.co/papers/2508.18124) | ⭐ 41 | AI |
-| 🥉 [VibeVoice Technical Report](https://huggingface.co/papers/2508.19205) | ⭐ 36 | AI |
+| 🏆 [Self-Rewarding Vision-Language Model via Reasoning Decomposition](https://huggingface.co/papers/2508.19652) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-08-27 18:32 UTC</sub>
+<sub>Last updated: 2025-08-28 01:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
