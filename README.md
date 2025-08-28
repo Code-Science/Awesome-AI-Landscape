@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond Transcription: Mechanistic Interpretability in ASR](https://huggingface.co/papers/2508.15882) | ⭐ 54 | AI |
-| 🥈 [Self-Rewarding Vision-Language Model via Reasoning Decomposition](https://huggingface.co/papers/2508.19652) | ⭐ 52 | AI |
+| 🏆 [Beyond Transcription: Mechanistic Interpretability in ASR](https://huggingface.co/papers/2508.15882) | ⭐ 64 | AI |
+| 🥈 [Self-Rewarding Vision-Language Model via Reasoning Decomposition](https://huggingface.co/papers/2508.19652) | ⭐ 55 | AI |
 | 🥉 [Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding
-  in Vision-Language-Action Policies](https://huggingface.co/papers/2508.20072) | ⭐ 16 | AI |
+  in Vision-Language-Action Policies](https://huggingface.co/papers/2508.20072) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-08-28 12:49 UTC</sub>
+<sub>Last updated: 2025-08-28 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
