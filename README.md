@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World
-  Tasks via MCP Servers](https://huggingface.co/papers/2508.20453) | ⭐ 1 | AI |
+| 🏆 [Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable
+  Text-to-Image Reinforcement Learning](https://huggingface.co/papers/2508.20751) | ⭐ 41 | AI |
+| 🥈 [rStar2-Agent: Agentic Reasoning Technical Report](https://huggingface.co/papers/2508.20722) | ⭐ 30 | AI |
+| 🥉 [USO: Unified Style and Subject-Driven Generation via Disentangled and
+  Reward Learning](https://huggingface.co/papers/2508.18966) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-08-29 01:52 UTC</sub>
+<sub>Last updated: 2025-08-29 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
