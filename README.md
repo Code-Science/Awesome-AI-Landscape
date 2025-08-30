@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable
-  Text-to-Image Reinforcement Learning](https://huggingface.co/papers/2508.20751) | ⭐ 64 | AI |
-| 🥈 [rStar2-Agent: Agentic Reasoning Technical Report](https://huggingface.co/papers/2508.20722) | ⭐ 52 | AI |
+  Text-to-Image Reinforcement Learning](https://huggingface.co/papers/2508.20751) | ⭐ 67 | AI |
+| 🥈 [rStar2-Agent: Agentic Reasoning Technical Report](https://huggingface.co/papers/2508.20722) | ⭐ 55 | AI |
 | 🥉 [USO: Unified Style and Subject-Driven Generation via Disentangled and
-  Reward Learning](https://huggingface.co/papers/2508.18966) | ⭐ 35 | AI |
+  Reward Learning](https://huggingface.co/papers/2508.18966) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-08-30 12:43 UTC</sub>
+<sub>Last updated: 2025-08-30 18:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
