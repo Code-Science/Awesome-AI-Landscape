@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable
-  Text-to-Image Reinforcement Learning](https://huggingface.co/papers/2508.20751) | ⭐ 75 | AI |
-| 🥈 [rStar2-Agent: Agentic Reasoning Technical Report](https://huggingface.co/papers/2508.20722) | ⭐ 64 | AI |
-| 🥉 [USO: Unified Style and Subject-Driven Generation via Disentangled and
-  Reward Learning](https://huggingface.co/papers/2508.18966) | ⭐ 44 | AI |
+| 🏆 [EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for
+  General Robot Control](https://huggingface.co/papers/2508.21112) | ⭐ 10 | AI |
+| 🥈 [R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs
+  via Bi-Mode Annealing and Reinforce Learning](https://huggingface.co/papers/2508.21113) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-08-31 18:30 UTC</sub>
+<sub>Last updated: 2025-09-01 02:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
