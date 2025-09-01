@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs
-  via Bi-Mode Annealing and Reinforce Learning](https://huggingface.co/papers/2508.21113) | ⭐ 78 | AI |
+  via Bi-Mode Annealing and Reinforce Learning](https://huggingface.co/papers/2508.21113) | ⭐ 80 | AI |
 | 🥈 [EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for
-  General Robot Control](https://huggingface.co/papers/2508.21112) | ⭐ 45 | AI |
+  General Robot Control](https://huggingface.co/papers/2508.21112) | ⭐ 53 | AI |
 | 🥉 [A.S.E: A Repository-Level Benchmark for Evaluating Security in
-  AI-Generated Code](https://huggingface.co/papers/2508.18106) | ⭐ 43 | AI |
+  AI-Generated Code](https://huggingface.co/papers/2508.18106) | ⭐ 46 | AI |
 
-<sub>Last updated: 2025-09-01 12:51 UTC</sub>
+<sub>Last updated: 2025-09-01 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
