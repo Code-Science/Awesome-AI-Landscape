@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs
-  via Bi-Mode Annealing and Reinforce Learning](https://huggingface.co/papers/2508.21113) | ⭐ 84 | AI |
-| 🥈 [EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for
-  General Robot Control](https://huggingface.co/papers/2508.21112) | ⭐ 58 | AI |
-| 🥉 [A.S.E: A Repository-Level Benchmark for Evaluating Security in
-  AI-Generated Code](https://huggingface.co/papers/2508.18106) | ⭐ 47 | AI |
+| 🏆 [PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic
+  Reasoning](https://huggingface.co/papers/2508.21104) | ⭐ 8 | AI |
+| 🥈 [No Label Left Behind: A Unified Surface Defect Detection Model for all
+  Supervision Regimes](https://huggingface.co/papers/2508.19060) | ⭐ 1 | AI |
+| 🥉 [How Can Input Reformulation Improve Tool Usage Accuracy in a Complex
+  Dynamic Environment? A Study on τ-bench](https://huggingface.co/papers/2508.20931) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-09-02 01:54 UTC</sub>
+<sub>Last updated: 2025-09-02 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
