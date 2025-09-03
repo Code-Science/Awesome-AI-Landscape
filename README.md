@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic
-  Reasoning](https://huggingface.co/papers/2508.21104) | ⭐ 20 | AI |
-| 🥈 [T2R-bench: A Benchmark for Generating Article-Level Reports from Real
-  World Industrial Tables](https://huggingface.co/papers/2508.19813) | ⭐ 12 | AI |
-| 🥉 [How Can Input Reformulation Improve Tool Usage Accuracy in a Complex
-  Dynamic Environment? A Study on τ-bench](https://huggingface.co/papers/2508.20931) | ⭐ 8 | AI |
+| 🏆 [LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model](https://huggingface.co/papers/2509.00676) | ⭐ 33 | AI |
+| 🥈 [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://huggingface.co/papers/2509.02547) | ⭐ 29 | AI |
+| 🥉 [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn
+  Reinforcement Learning](https://huggingface.co/papers/2509.02544) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-09-03 01:46 UTC</sub>
+<sub>Last updated: 2025-09-03 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
