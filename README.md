@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model](https://huggingface.co/papers/2509.00676) | ⭐ 33 | AI |
-| 🥈 [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://huggingface.co/papers/2509.02547) | ⭐ 29 | AI |
+| 🏆 [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://huggingface.co/papers/2509.02547) | ⭐ 50 | AI |
+| 🥈 [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn
+  Tool-Integrated Reasoning](https://huggingface.co/papers/2509.02479) | ⭐ 50 | AI |
 | 🥉 [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn
-  Reinforcement Learning](https://huggingface.co/papers/2509.02544) | ⭐ 23 | AI |
+  Reinforcement Learning](https://huggingface.co/papers/2509.02544) | ⭐ 48 | AI |
 
-<sub>Last updated: 2025-09-03 06:33 UTC</sub>
+<sub>Last updated: 2025-09-03 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
