@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic
-  Reasoning](https://huggingface.co/papers/2508.21104) | ⭐ 19 | AI |
+  Reasoning](https://huggingface.co/papers/2508.21104) | ⭐ 20 | AI |
 | 🥈 [T2R-bench: A Benchmark for Generating Article-Level Reports from Real
-  World Industrial Tables](https://huggingface.co/papers/2508.19813) | ⭐ 10 | AI |
-| 🥉 [No Label Left Behind: A Unified Surface Defect Detection Model for all
-  Supervision Regimes](https://huggingface.co/papers/2508.19060) | ⭐ 4 | AI |
+  World Industrial Tables](https://huggingface.co/papers/2508.19813) | ⭐ 12 | AI |
+| 🥉 [How Can Input Reformulation Improve Tool Usage Accuracy in a Complex
+  Dynamic Environment? A Study on τ-bench](https://huggingface.co/papers/2508.20931) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-09-02 18:31 UTC</sub>
+<sub>Last updated: 2025-09-03 01:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
