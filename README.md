@@ -18,13 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://huggingface.co/papers/2509.02547) | ⭐ 73 | AI |
-| 🥈 [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn
-  Reinforcement Learning](https://huggingface.co/papers/2509.02544) | ⭐ 69 | AI |
-| 🥉 [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn
-  Tool-Integrated Reasoning](https://huggingface.co/papers/2509.02479) | ⭐ 64 | AI |
+| 🏆 [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://huggingface.co/papers/2509.01106) | ⭐ 23 | AI |
+| 🥈 [Open Data Synthesis For Deep Research](https://huggingface.co/papers/2509.00375) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-09-04 01:47 UTC</sub>
+<sub>Last updated: 2025-09-04 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
