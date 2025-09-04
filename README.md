@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://huggingface.co/papers/2509.02547) | ⭐ 67 | AI |
-| 🥈 [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn
-  Tool-Integrated Reasoning](https://huggingface.co/papers/2509.02479) | ⭐ 60 | AI |
-| 🥉 [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn
-  Reinforcement Learning](https://huggingface.co/papers/2509.02544) | ⭐ 57 | AI |
+| 🏆 [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://huggingface.co/papers/2509.02547) | ⭐ 73 | AI |
+| 🥈 [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn
+  Reinforcement Learning](https://huggingface.co/papers/2509.02544) | ⭐ 69 | AI |
+| 🥉 [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn
+  Tool-Integrated Reasoning](https://huggingface.co/papers/2509.02479) | ⭐ 64 | AI |
 
-<sub>Last updated: 2025-09-03 18:32 UTC</sub>
+<sub>Last updated: 2025-09-04 01:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
