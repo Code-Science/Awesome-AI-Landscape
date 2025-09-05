@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://huggingface.co/papers/2509.01106) | ⭐ 32 | AI |
-| 🥈 [Open Data Synthesis For Deep Research](https://huggingface.co/papers/2509.00375) | ⭐ 29 | AI |
+| 🏆 [Open Data Synthesis For Deep Research](https://huggingface.co/papers/2509.00375) | ⭐ 36 | AI |
+| 🥈 [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://huggingface.co/papers/2509.01106) | ⭐ 33 | AI |
 | 🥉 [LMEnt: A Suite for Analyzing Knowledge in Language Models from
-  Pretraining Data to Representations](https://huggingface.co/papers/2509.03405) | ⭐ 14 | AI |
+  Pretraining Data to Representations](https://huggingface.co/papers/2509.03405) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-09-04 18:32 UTC</sub>
+<sub>Last updated: 2025-09-05 01:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
