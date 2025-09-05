@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Open Data Synthesis For Deep Research](https://huggingface.co/papers/2509.00375) | ⭐ 36 | AI |
-| 🥈 [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://huggingface.co/papers/2509.01106) | ⭐ 33 | AI |
-| 🥉 [LMEnt: A Suite for Analyzing Knowledge in Language Models from
-  Pretraining Data to Representations](https://huggingface.co/papers/2509.03405) | ⭐ 16 | AI |
+| 🏆 [Towards a Unified View of Large Language Model Post-Training](https://huggingface.co/papers/2509.04419) | ⭐ 27 | AI |
+| 🥈 [DeepResearch Arena: The First Exam of LLMs' Research Abilities via
+  Seminar-Grounded Tasks](https://huggingface.co/papers/2509.01396) | ⭐ 24 | AI |
+| 🥉 [Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow
+  Real Instructions?](https://huggingface.co/papers/2509.04292) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-09-05 01:49 UTC</sub>
+<sub>Last updated: 2025-09-05 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
