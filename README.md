@@ -18,13 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards a Unified View of Large Language Model Post-Training](https://huggingface.co/papers/2509.04419) | ⭐ 27 | AI |
-| 🥈 [DeepResearch Arena: The First Exam of LLMs' Research Abilities via
-  Seminar-Grounded Tasks](https://huggingface.co/papers/2509.01396) | ⭐ 24 | AI |
-| 🥉 [Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow
-  Real Instructions?](https://huggingface.co/papers/2509.04292) | ⭐ 18 | AI |
+| 🏆 [Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth](https://huggingface.co/papers/2509.03867) | ⭐ 57 | AI |
+| 🥈 [From Editor to Dense Geometry Estimator](https://huggingface.co/papers/2509.04338) | ⭐ 55 | AI |
+| 🥉 [Towards a Unified View of Large Language Model Post-Training](https://huggingface.co/papers/2509.04419) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-09-05 06:34 UTC</sub>
+<sub>Last updated: 2025-09-05 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
