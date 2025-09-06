@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth](https://huggingface.co/papers/2509.03867) | ⭐ 104 | AI |
-| 🥈 [From Editor to Dense Geometry Estimator](https://huggingface.co/papers/2509.04338) | ⭐ 64 | AI |
-| 🥉 [Towards a Unified View of Large Language Model Post-Training](https://huggingface.co/papers/2509.04419) | ⭐ 45 | AI |
+| 🏆 [Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth](https://huggingface.co/papers/2509.03867) | ⭐ 117 | AI |
+| 🥈 [From Editor to Dense Geometry Estimator](https://huggingface.co/papers/2509.04338) | ⭐ 67 | AI |
+| 🥉 [Towards a Unified View of Large Language Model Post-Training](https://huggingface.co/papers/2509.04419) | ⭐ 49 | AI |
 
-<sub>Last updated: 2025-09-06 06:30 UTC</sub>
+<sub>Last updated: 2025-09-06 12:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
