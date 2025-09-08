@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth](https://huggingface.co/papers/2509.03867) | ⭐ 178 | AI |
-| 🥈 [From Editor to Dense Geometry Estimator](https://huggingface.co/papers/2509.04338) | ⭐ 76 | AI |
-| 🥉 [Towards a Unified View of Large Language Model Post-Training](https://huggingface.co/papers/2509.04419) | ⭐ 55 | AI |
+| 🏆 [Why Language Models Hallucinate](https://huggingface.co/papers/2509.04664) | ⭐ 22 | AI |
+| 🥈 [WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning](https://huggingface.co/papers/2509.04744) | ⭐ 6 | AI |
+| 🥉 [LatticeWorld: A Multimodal Large Language Model-Empowered Framework for
+  Interactive Complex World Generation](https://huggingface.co/papers/2509.05263) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-09-08 01:55 UTC</sub>
+<sub>Last updated: 2025-09-08 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
