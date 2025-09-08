@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Why Language Models Hallucinate](https://huggingface.co/papers/2509.04664) | ⭐ 48 | AI |
-| 🥈 [Symbolic Graphics Programming with Large Language Models](https://huggingface.co/papers/2509.05208) | ⭐ 20 | AI |
-| 🥉 [Set Block Decoding is a Language Model Inference Accelerator](https://huggingface.co/papers/2509.04185) | ⭐ 13 | AI |
+| 🏆 [Why Language Models Hallucinate](https://huggingface.co/papers/2509.04664) | ⭐ 65 | AI |
+| 🥈 [Symbolic Graphics Programming with Large Language Models](https://huggingface.co/papers/2509.05208) | ⭐ 26 | AI |
+| 🥉 [Set Block Decoding is a Language Model Inference Accelerator](https://huggingface.co/papers/2509.04185) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-09-08 12:51 UTC</sub>
+<sub>Last updated: 2025-09-08 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
