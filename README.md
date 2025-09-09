@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reverse-Engineered Reasoning for Open-Ended Generation](https://huggingface.co/papers/2509.06160) | ⭐ 42 | AI |
-| 🥈 [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://huggingface.co/papers/2509.06501) | ⭐ 34 | AI |
+| 🏆 [Reverse-Engineered Reasoning for Open-Ended Generation](https://huggingface.co/papers/2509.06160) | ⭐ 82 | AI |
+| 🥈 [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://huggingface.co/papers/2509.06501) | ⭐ 44 | AI |
 | 🥉 [Revolutionizing Reinforcement Learning Framework for Diffusion Large
-  Language Models](https://huggingface.co/papers/2509.06949) | ⭐ 18 | AI |
+  Language Models](https://huggingface.co/papers/2509.06949) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-09-09 06:35 UTC</sub>
+<sub>Last updated: 2025-09-09 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
