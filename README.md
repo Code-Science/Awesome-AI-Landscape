@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Why Language Models Hallucinate](https://huggingface.co/papers/2509.04664) | ⭐ 65 | AI |
-| 🥈 [Symbolic Graphics Programming with Large Language Models](https://huggingface.co/papers/2509.05208) | ⭐ 26 | AI |
-| 🥉 [Set Block Decoding is a Language Model Inference Accelerator](https://huggingface.co/papers/2509.04185) | ⭐ 20 | AI |
+| 🏆 [Reinforced Visual Perception with Tools](https://huggingface.co/papers/2509.01656) | ⭐ 4 | AI |
+| 🥈 [UniVerse-1: Unified Audio-Video Generation via Stitching of Experts](https://huggingface.co/papers/2509.06155) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-09-08 18:33 UTC</sub>
+<sub>Last updated: 2025-09-09 01:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
