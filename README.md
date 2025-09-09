@@ -18,10 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reinforced Visual Perception with Tools](https://huggingface.co/papers/2509.01656) | ⭐ 4 | AI |
-| 🥈 [UniVerse-1: Unified Audio-Video Generation via Stitching of Experts](https://huggingface.co/papers/2509.06155) | ⭐ 2 | AI |
+| 🏆 [Reverse-Engineered Reasoning for Open-Ended Generation](https://huggingface.co/papers/2509.06160) | ⭐ 42 | AI |
+| 🥈 [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://huggingface.co/papers/2509.06501) | ⭐ 34 | AI |
+| 🥉 [Revolutionizing Reinforcement Learning Framework for Diffusion Large
+  Language Models](https://huggingface.co/papers/2509.06949) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-09-09 01:51 UTC</sub>
+<sub>Last updated: 2025-09-09 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
