@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Staying in the Sweet Spot: Responsive Reasoning Evolution via
-  Capability-Adaptive Hint Scaffolding](https://huggingface.co/papers/2509.06923) | ⭐ 11 | AI |
+| 🏆 [Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://huggingface.co/papers/2509.07980) | ⭐ 52 | AI |
 | 🥈 [Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual
-  Search](https://huggingface.co/papers/2509.07969) | ⭐ 1 | AI |
+  Search](https://huggingface.co/papers/2509.07969) | ⭐ 37 | AI |
+| 🥉 [Visual Representation Alignment for Multimodal Large Language Models](https://huggingface.co/papers/2509.07979) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-09-10 01:47 UTC</sub>
+<sub>Last updated: 2025-09-10 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
