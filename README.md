@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://huggingface.co/papers/2509.07980) | ⭐ 52 | AI |
+| 🏆 [Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://huggingface.co/papers/2509.07980) | ⭐ 62 | AI |
 | 🥈 [Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual
-  Search](https://huggingface.co/papers/2509.07969) | ⭐ 37 | AI |
-| 🥉 [Visual Representation Alignment for Multimodal Large Language Models](https://huggingface.co/papers/2509.07979) | ⭐ 31 | AI |
+  Search](https://huggingface.co/papers/2509.07969) | ⭐ 42 | AI |
+| 🥉 [Visual Representation Alignment for Multimodal Large Language Models](https://huggingface.co/papers/2509.07979) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-09-10 06:34 UTC</sub>
+<sub>Last updated: 2025-09-10 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
