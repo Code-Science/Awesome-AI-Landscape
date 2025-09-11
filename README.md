@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey of Reinforcement Learning for Large Reasoning Models](https://huggingface.co/papers/2509.08827) | ⭐ 73 | AI |
-| 🥈 [RewardDance: Reward Scaling in Visual Generation](https://huggingface.co/papers/2509.08826) | ⭐ 45 | AI |
-| 🥉 [3D and 4D World Modeling: A Survey](https://huggingface.co/papers/2509.07996) | ⭐ 26 | AI |
+| 🏆 [A Survey of Reinforcement Learning for Large Reasoning Models](https://huggingface.co/papers/2509.08827) | ⭐ 84 | AI |
+| 🥈 [RewardDance: Reward Scaling in Visual Generation](https://huggingface.co/papers/2509.08826) | ⭐ 48 | AI |
+| 🥉 [3D and 4D World Modeling: A Survey](https://huggingface.co/papers/2509.07996) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-09-11 12:47 UTC</sub>
+<sub>Last updated: 2025-09-11 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
