@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey of Reinforcement Learning for Large Reasoning Models](https://huggingface.co/papers/2509.08827) | ⭐ 47 | AI |
-| 🥈 [RewardDance: Reward Scaling in Visual Generation](https://huggingface.co/papers/2509.08826) | ⭐ 36 | AI |
-| 🥉 [AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making
-  through Multi-Turn Reinforcement Learning](https://huggingface.co/papers/2509.08755) | ⭐ 9 | AI |
+| 🏆 [A Survey of Reinforcement Learning for Large Reasoning Models](https://huggingface.co/papers/2509.08827) | ⭐ 73 | AI |
+| 🥈 [RewardDance: Reward Scaling in Visual Generation](https://huggingface.co/papers/2509.08826) | ⭐ 45 | AI |
+| 🥉 [3D and 4D World Modeling: A Survey](https://huggingface.co/papers/2509.07996) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-09-11 06:34 UTC</sub>
+<sub>Last updated: 2025-09-11 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
