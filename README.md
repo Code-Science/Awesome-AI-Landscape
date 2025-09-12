@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [HuMo: Human-Centric Video Generation via Collaborative Multi-Modal
-  Conditioning](https://huggingface.co/papers/2509.08519) | ⭐ 45 | AI |
-| 🥈 [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://huggingface.co/papers/2509.09674) | ⭐ 40 | AI |
+  Conditioning](https://huggingface.co/papers/2509.08519) | ⭐ 78 | AI |
+| 🥈 [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://huggingface.co/papers/2509.09674) | ⭐ 52 | AI |
 | 🥉 [EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for
-  Speech-to-Speech LLMs](https://huggingface.co/papers/2509.09174) | ⭐ 37 | AI |
+  Speech-to-Speech LLMs](https://huggingface.co/papers/2509.09174) | ⭐ 50 | AI |
 
-<sub>Last updated: 2025-09-12 06:34 UTC</sub>
+<sub>Last updated: 2025-09-12 12:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
