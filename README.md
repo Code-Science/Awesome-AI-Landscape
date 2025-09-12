@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Survey of Reinforcement Learning for Large Reasoning Models](https://huggingface.co/papers/2509.08827) | ⭐ 98 | AI |
-| 🥈 [RewardDance: Reward Scaling in Visual Generation](https://huggingface.co/papers/2509.08826) | ⭐ 50 | AI |
-| 🥉 [3D and 4D World Modeling: A Survey](https://huggingface.co/papers/2509.07996) | ⭐ 40 | AI |
+| 🏆 [HuMo: Human-Centric Video Generation via Collaborative Multi-Modal
+  Conditioning](https://huggingface.co/papers/2509.08519) | ⭐ 45 | AI |
+| 🥈 [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://huggingface.co/papers/2509.09674) | ⭐ 40 | AI |
+| 🥉 [EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for
+  Speech-to-Speech LLMs](https://huggingface.co/papers/2509.09174) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-09-12 01:46 UTC</sub>
+<sub>Last updated: 2025-09-12 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
