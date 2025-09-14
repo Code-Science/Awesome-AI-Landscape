@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action
-  Model](https://huggingface.co/papers/2509.09372) | ⭐ 162 | AI |
+  Model](https://huggingface.co/papers/2509.09372) | ⭐ 163 | AI |
 | 🥈 [HuMo: Human-Centric Video Generation via Collaborative Multi-Modal
-  Conditioning](https://huggingface.co/papers/2509.08519) | ⭐ 98 | AI |
+  Conditioning](https://huggingface.co/papers/2509.08519) | ⭐ 99 | AI |
 | 🥉 [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://huggingface.co/papers/2509.09674) | ⭐ 66 | AI |
 
-<sub>Last updated: 2025-09-13 18:28 UTC</sub>
+<sub>Last updated: 2025-09-14 01:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
