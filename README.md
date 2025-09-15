@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in
-  LLMs](https://huggingface.co/papers/2509.09677) | ⭐ 5 | AI |
-| 🥈 [InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis](https://huggingface.co/papers/2509.10441) | ⭐ 1 | AI |
-| 🥉 [Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings
-  for Improved Diffusion Generation](https://huggingface.co/papers/2509.10058) | ⭐ 1 | AI |
+| 🏆 [InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis](https://huggingface.co/papers/2509.10441) | ⭐ 10 | AI |
+| 🥈 [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in
+  LLMs](https://huggingface.co/papers/2509.09677) | ⭐ 9 | AI |
+| 🥉 [X-Part: high fidelity and structure coherent shape decomposition](https://huggingface.co/papers/2509.08643) | ⭐ 9 | AI |
 
-<sub>Last updated: 2025-09-15 01:56 UTC</sub>
+<sub>Last updated: 2025-09-15 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
