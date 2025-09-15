@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis](https://huggingface.co/papers/2509.10441) | ⭐ 10 | AI |
+| 🏆 [IntrEx: A Dataset for Modeling Engagement in Educational Conversations](https://huggingface.co/papers/2509.06652) | ⭐ 19 | AI |
 | 🥈 [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in
-  LLMs](https://huggingface.co/papers/2509.09677) | ⭐ 9 | AI |
-| 🥉 [X-Part: high fidelity and structure coherent shape decomposition](https://huggingface.co/papers/2509.08643) | ⭐ 9 | AI |
+  LLMs](https://huggingface.co/papers/2509.09677) | ⭐ 14 | AI |
+| 🥉 [InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis](https://huggingface.co/papers/2509.10441) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-09-15 06:37 UTC</sub>
+<sub>Last updated: 2025-09-15 12:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
