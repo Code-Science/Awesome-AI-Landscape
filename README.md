@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [IntrEx: A Dataset for Modeling Engagement in Educational Conversations](https://huggingface.co/papers/2509.06652) | ⭐ 21 | AI |
-| 🥈 [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in
-  LLMs](https://huggingface.co/papers/2509.09677) | ⭐ 20 | AI |
-| 🥉 [InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis](https://huggingface.co/papers/2509.10441) | ⭐ 18 | AI |
+| 🏆 [OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](https://huggingface.co/papers/2509.12201) | ⭐ 44 | AI |
+| 🥈 [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://huggingface.co/papers/2509.11543) | ⭐ 28 | AI |
+| 🥉 [LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion
+  Transformers via Explicit Correspondence](https://huggingface.co/papers/2509.12203) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-09-16 01:47 UTC</sub>
+<sub>Last updated: 2025-09-16 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
