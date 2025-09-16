@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](https://huggingface.co/papers/2509.12201) | ⭐ 44 | AI |
-| 🥈 [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://huggingface.co/papers/2509.11543) | ⭐ 28 | AI |
-| 🥉 [LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion
-  Transformers via Explicit Correspondence](https://huggingface.co/papers/2509.12203) | ⭐ 5 | AI |
+| 🏆 [OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](https://huggingface.co/papers/2509.12201) | ⭐ 66 | AI |
+| 🥈 [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://huggingface.co/papers/2509.11543) | ⭐ 32 | AI |
+| 🥉 [InternScenes: A Large-scale Simulatable Indoor Scene Dataset with
+  Realistic Layouts](https://huggingface.co/papers/2509.10813) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-09-16 06:35 UTC</sub>
+<sub>Last updated: 2025-09-16 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
