@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](https://huggingface.co/papers/2509.12201) | ⭐ 73 | AI |
-| 🥈 [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://huggingface.co/papers/2509.11543) | ⭐ 35 | AI |
-| 🥉 [InternScenes: A Large-scale Simulatable Indoor Scene Dataset with
-  Realistic Layouts](https://huggingface.co/papers/2509.10813) | ⭐ 23 | AI |
+| 🏆 [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for
+  Open-Ended Deep Research](https://huggingface.co/papers/2509.13312) | ⭐ 34 | AI |
+| 🥈 [Scaling Agents via Continual Pre-training](https://huggingface.co/papers/2509.13310) | ⭐ 28 | AI |
+| 🥉 [WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic
+  Data and Scalable Reinforcement Learning](https://huggingface.co/papers/2509.13305) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-09-17 01:47 UTC</sub>
+<sub>Last updated: 2025-09-17 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
