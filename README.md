@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for
-  Open-Ended Deep Research](https://huggingface.co/papers/2509.13312) | ⭐ 34 | AI |
-| 🥈 [Scaling Agents via Continual Pre-training](https://huggingface.co/papers/2509.13310) | ⭐ 28 | AI |
+  Open-Ended Deep Research](https://huggingface.co/papers/2509.13312) | ⭐ 68 | AI |
+| 🥈 [Scaling Agents via Continual Pre-training](https://huggingface.co/papers/2509.13310) | ⭐ 53 | AI |
 | 🥉 [WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic
-  Data and Scalable Reinforcement Learning](https://huggingface.co/papers/2509.13305) | ⭐ 28 | AI |
+  Data and Scalable Reinforcement Learning](https://huggingface.co/papers/2509.13305) | ⭐ 46 | AI |
 
-<sub>Last updated: 2025-09-17 06:35 UTC</sub>
+<sub>Last updated: 2025-09-17 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
