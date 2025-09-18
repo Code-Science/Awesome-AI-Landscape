@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GenExam: A Multidisciplinary Text-to-Image Exam](https://huggingface.co/papers/2509.14232) | ⭐ 10 | AI |
-| 🥈 [SAIL-VL2 Technical Report](https://huggingface.co/papers/2509.14033) | ⭐ 6 | AI |
-| 🥉 [THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical
-  Reasoning](https://huggingface.co/papers/2509.13761) | ⭐ 5 | AI |
+| 🏆 [Hala Technical Report: Building Arabic-Centric Instruction & Translation
+  Models at Scale](https://huggingface.co/papers/2509.14008) | ⭐ 45 | AI |
+| 🥈 [SAIL-VL2 Technical Report](https://huggingface.co/papers/2509.14033) | ⭐ 24 | AI |
+| 🥉 [PANORAMA: The Rise of Omnidirectional Vision in the Embodied AI Era](https://huggingface.co/papers/2509.12989) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-09-18 06:34 UTC</sub>
+<sub>Last updated: 2025-09-18 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
