@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Hala Technical Report: Building Arabic-Centric Instruction & Translation
-  Models at Scale](https://huggingface.co/papers/2509.14008) | ⭐ 45 | AI |
-| 🥈 [SAIL-VL2 Technical Report](https://huggingface.co/papers/2509.14033) | ⭐ 24 | AI |
-| 🥉 [PANORAMA: The Rise of Omnidirectional Vision in the Embodied AI Era](https://huggingface.co/papers/2509.12989) | ⭐ 19 | AI |
+  Models at Scale](https://huggingface.co/papers/2509.14008) | ⭐ 58 | AI |
+| 🥈 [SAIL-VL2 Technical Report](https://huggingface.co/papers/2509.14033) | ⭐ 27 | AI |
+| 🥉 [PANORAMA: The Rise of Omnidirectional Vision in the Embodied AI Era](https://huggingface.co/papers/2509.12989) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-09-18 12:48 UTC</sub>
+<sub>Last updated: 2025-09-18 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
