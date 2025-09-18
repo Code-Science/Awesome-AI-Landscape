@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for
-  Open-Ended Deep Research](https://huggingface.co/papers/2509.13312) | ⭐ 77 | AI |
-| 🥈 [Scaling Agents via Continual Pre-training](https://huggingface.co/papers/2509.13310) | ⭐ 62 | AI |
-| 🥉 [WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic
-  Data and Scalable Reinforcement Learning](https://huggingface.co/papers/2509.13305) | ⭐ 53 | AI |
+| 🏆 [GenExam: A Multidisciplinary Text-to-Image Exam](https://huggingface.co/papers/2509.14232) | ⭐ 10 | AI |
+| 🥈 [SAIL-VL2 Technical Report](https://huggingface.co/papers/2509.14033) | ⭐ 6 | AI |
+| 🥉 [THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical
+  Reasoning](https://huggingface.co/papers/2509.13761) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-09-18 01:47 UTC</sub>
+<sub>Last updated: 2025-09-18 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
