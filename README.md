@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Evolving Language Models without Labels: Majority Drives Selection,
-  Novelty Promotes Variation](https://huggingface.co/papers/2509.15194) | ⭐ 11 | AI |
-| 🥈 [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform
-  Data](https://huggingface.co/papers/2509.15221) | ⭐ 2 | AI |
-| 🥉 [MultiEdit: Advancing Instruction-based Image Editing on Diverse and
-  Challenging Tasks](https://huggingface.co/papers/2509.14638) | ⭐ 2 | AI |
+| 🏆 [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform
+  Data](https://huggingface.co/papers/2509.15221) | ⭐ 55 | AI |
+| 🥈 [FlowRL: Matching Reward Distributions for LLM Reasoning](https://huggingface.co/papers/2509.15207) | ⭐ 52 | AI |
+| 🥉 [Evolving Language Models without Labels: Majority Drives Selection,
+  Novelty Promotes Variation](https://huggingface.co/papers/2509.15194) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-09-19 01:50 UTC</sub>
+<sub>Last updated: 2025-09-19 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
