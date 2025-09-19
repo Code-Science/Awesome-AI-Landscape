@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Hala Technical Report: Building Arabic-Centric Instruction & Translation
-  Models at Scale](https://huggingface.co/papers/2509.14008) | ⭐ 58 | AI |
-| 🥈 [SAIL-VL2 Technical Report](https://huggingface.co/papers/2509.14033) | ⭐ 27 | AI |
-| 🥉 [PANORAMA: The Rise of Omnidirectional Vision in the Embodied AI Era](https://huggingface.co/papers/2509.12989) | ⭐ 20 | AI |
+| 🏆 [Evolving Language Models without Labels: Majority Drives Selection,
+  Novelty Promotes Variation](https://huggingface.co/papers/2509.15194) | ⭐ 11 | AI |
+| 🥈 [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform
+  Data](https://huggingface.co/papers/2509.15221) | ⭐ 2 | AI |
+| 🥉 [MultiEdit: Advancing Instruction-based Image Editing on Diverse and
+  Challenging Tasks](https://huggingface.co/papers/2509.14638) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-09-18 18:34 UTC</sub>
+<sub>Last updated: 2025-09-19 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
