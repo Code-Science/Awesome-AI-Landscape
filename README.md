@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform
-  Data](https://huggingface.co/papers/2509.15221) | ⭐ 88 | AI |
-| 🥈 [FlowRL: Matching Reward Distributions for LLM Reasoning](https://huggingface.co/papers/2509.15207) | ⭐ 79 | AI |
+  Data](https://huggingface.co/papers/2509.15221) | ⭐ 90 | AI |
+| 🥈 [FlowRL: Matching Reward Distributions for LLM Reasoning](https://huggingface.co/papers/2509.15207) | ⭐ 80 | AI |
 | 🥉 [Reasoning over Boundaries: Enhancing Specification Alignment via
-  Test-time Delibration](https://huggingface.co/papers/2509.14760) | ⭐ 46 | AI |
+  Test-time Delibration](https://huggingface.co/papers/2509.14760) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-09-20 12:43 UTC</sub>
+<sub>Last updated: 2025-09-20 18:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
