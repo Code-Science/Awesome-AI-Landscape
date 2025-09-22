@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform
-  Data](https://huggingface.co/papers/2509.15221) | ⭐ 93 | AI |
-| 🥈 [FlowRL: Matching Reward Distributions for LLM Reasoning](https://huggingface.co/papers/2509.15207) | ⭐ 84 | AI |
-| 🥉 [Reasoning over Boundaries: Enhancing Specification Alignment via
-  Test-time Delibration](https://huggingface.co/papers/2509.14760) | ⭐ 48 | AI |
+| 🏆 [MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid
+  Vision Tokenizer](https://huggingface.co/papers/2509.16197) | ⭐ 1 | AI |
+| 🥈 [RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes](https://huggingface.co/papers/2509.15123) | ⭐ 1 | AI |
+| 🥉 [BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](https://huggingface.co/papers/2509.15566) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-09-21 18:30 UTC</sub>
+<sub>Last updated: 2025-09-22 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
