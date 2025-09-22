@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid
-  Vision Tokenizer](https://huggingface.co/papers/2509.16197) | ⭐ 1 | AI |
-| 🥈 [RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes](https://huggingface.co/papers/2509.15123) | ⭐ 1 | AI |
-| 🥉 [BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](https://huggingface.co/papers/2509.15566) | ⭐ 0 | AI |
+| 🏆 [RPG: A Repository Planning Graph for Unified and Scalable Codebase
+  Generation](https://huggingface.co/papers/2509.16198) | ⭐ 39 | AI |
+| 🥈 [MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid
+  Vision Tokenizer](https://huggingface.co/papers/2509.16197) | ⭐ 18 | AI |
+| 🥉 [BaseReward: A Strong Baseline for Multimodal Reward Model](https://huggingface.co/papers/2509.16127) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-09-22 01:57 UTC</sub>
+<sub>Last updated: 2025-09-22 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
