@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RPG: A Repository Planning Graph for Unified and Scalable Codebase
-  Generation](https://huggingface.co/papers/2509.16198) | ⭐ 88 | AI |
-| 🥈 [MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid
-  Vision Tokenizer](https://huggingface.co/papers/2509.16197) | ⭐ 37 | AI |
-| 🥉 [Latent Zoning Network: A Unified Principle for Generative Modeling,
-  Representation Learning, and Classification](https://huggingface.co/papers/2509.15591) | ⭐ 28 | AI |
+| 🏆 [LIMI: Less is More for Agency](https://huggingface.co/papers/2509.17567) | ⭐ 37 | AI |
+| 🥈 [OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion
+  Transformer Models](https://huggingface.co/papers/2509.17627) | ⭐ 35 | AI |
+| 🥉 [OnePiece: Bringing Context Engineering and Reasoning to Industrial
+  Cascade Ranking System](https://huggingface.co/papers/2509.18091) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-09-23 01:48 UTC</sub>
+<sub>Last updated: 2025-09-23 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
