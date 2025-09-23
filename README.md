@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LIMI: Less is More for Agency](https://huggingface.co/papers/2509.17567) | ⭐ 37 | AI |
+| 🏆 [LIMI: Less is More for Agency](https://huggingface.co/papers/2509.17567) | ⭐ 49 | AI |
 | 🥈 [OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion
-  Transformer Models](https://huggingface.co/papers/2509.17627) | ⭐ 35 | AI |
-| 🥉 [OnePiece: Bringing Context Engineering and Reasoning to Industrial
-  Cascade Ranking System](https://huggingface.co/papers/2509.18091) | ⭐ 20 | AI |
+  Transformer Models](https://huggingface.co/papers/2509.17627) | ⭐ 39 | AI |
+| 🥉 [Qwen3-Omni Technical Report](https://huggingface.co/papers/2509.17765) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-09-23 06:35 UTC</sub>
+<sub>Last updated: 2025-09-23 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
