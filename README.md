@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [RPG: A Repository Planning Graph for Unified and Scalable Codebase
-  Generation](https://huggingface.co/papers/2509.16198) | ⭐ 85 | AI |
+  Generation](https://huggingface.co/papers/2509.16198) | ⭐ 88 | AI |
 | 🥈 [MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid
-  Vision Tokenizer](https://huggingface.co/papers/2509.16197) | ⭐ 34 | AI |
+  Vision Tokenizer](https://huggingface.co/papers/2509.16197) | ⭐ 37 | AI |
 | 🥉 [Latent Zoning Network: A Unified Principle for Generative Modeling,
-  Representation Learning, and Classification](https://huggingface.co/papers/2509.15591) | ⭐ 26 | AI |
+  Representation Learning, and Classification](https://huggingface.co/papers/2509.15591) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-09-22 18:32 UTC</sub>
+<sub>Last updated: 2025-09-23 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
