@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reinforcement Learning on Pre-Training Data](https://huggingface.co/papers/2509.19249) | ⭐ 23 | AI |
-| 🥈 [Do You Need Proprioceptive States in Visuomotor Policies?](https://huggingface.co/papers/2509.18644) | ⭐ 14 | AI |
-| 🥉 [Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR](https://huggingface.co/papers/2509.18174) | ⭐ 12 | AI |
+| 🏆 [Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR](https://huggingface.co/papers/2509.18174) | ⭐ 72 | AI |
+| 🥈 [Reinforcement Learning on Pre-Training Data](https://huggingface.co/papers/2509.19249) | ⭐ 37 | AI |
+| 🥉 [Do You Need Proprioceptive States in Visuomotor Policies?](https://huggingface.co/papers/2509.18644) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-09-24 06:35 UTC</sub>
+<sub>Last updated: 2025-09-24 12:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
