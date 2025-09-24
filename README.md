@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LIMI: Less is More for Agency](https://huggingface.co/papers/2509.17567) | ⭐ 59 | AI |
-| 🥈 [OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion
-  Transformer Models](https://huggingface.co/papers/2509.17627) | ⭐ 41 | AI |
-| 🥉 [Qwen3-Omni Technical Report](https://huggingface.co/papers/2509.17765) | ⭐ 39 | AI |
+| 🏆 [LIMI: Less is More for Agency](https://huggingface.co/papers/2509.17567) | ⭐ 67 | AI |
+| 🥈 [Qwen3-Omni Technical Report](https://huggingface.co/papers/2509.17765) | ⭐ 52 | AI |
+| 🥉 [OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion
+  Transformer Models](https://huggingface.co/papers/2509.17627) | ⭐ 46 | AI |
 
-<sub>Last updated: 2025-09-23 18:34 UTC</sub>
+<sub>Last updated: 2025-09-24 01:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
