@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LIMI: Less is More for Agency](https://huggingface.co/papers/2509.17567) | ⭐ 67 | AI |
-| 🥈 [Qwen3-Omni Technical Report](https://huggingface.co/papers/2509.17765) | ⭐ 52 | AI |
-| 🥉 [OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion
-  Transformer Models](https://huggingface.co/papers/2509.17627) | ⭐ 46 | AI |
+| 🏆 [Reinforcement Learning on Pre-Training Data](https://huggingface.co/papers/2509.19249) | ⭐ 23 | AI |
+| 🥈 [Do You Need Proprioceptive States in Visuomotor Policies?](https://huggingface.co/papers/2509.18644) | ⭐ 14 | AI |
+| 🥉 [Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR](https://huggingface.co/papers/2509.18174) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-09-24 01:49 UTC</sub>
+<sub>Last updated: 2025-09-24 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
