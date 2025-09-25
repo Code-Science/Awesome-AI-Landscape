@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EditVerse: Unifying Image and Video Editing and Generation with
-  In-Context Learning](https://huggingface.co/papers/2509.20360) | ⭐ 1 | AI |
-| 🥈 [EmbeddingGemma: Powerful and Lightweight Text Representations](https://huggingface.co/papers/2509.20354) | ⭐ 1 | AI |
+| 🏆 [SIM-CoT: Supervised Implicit Chain-of-Thought](https://huggingface.co/papers/2509.20317) | ⭐ 18 | AI |
+| 🥈 [Video models are zero-shot learners and reasoners](https://huggingface.co/papers/2509.20328) | ⭐ 8 | AI |
+| 🥉 [EmbeddingGemma: Powerful and Lightweight Text Representations](https://huggingface.co/papers/2509.20354) | ⭐ 6 | AI |
 
-<sub>Last updated: 2025-09-25 01:50 UTC</sub>
+<sub>Last updated: 2025-09-25 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
