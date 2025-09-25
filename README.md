@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR](https://huggingface.co/papers/2509.18174) | ⭐ 79 | AI |
-| 🥈 [Reinforcement Learning on Pre-Training Data](https://huggingface.co/papers/2509.19249) | ⭐ 40 | AI |
-| 🥉 [Do You Need Proprioceptive States in Visuomotor Policies?](https://huggingface.co/papers/2509.18644) | ⭐ 40 | AI |
+| 🏆 [EditVerse: Unifying Image and Video Editing and Generation with
+  In-Context Learning](https://huggingface.co/papers/2509.20360) | ⭐ 1 | AI |
+| 🥈 [EmbeddingGemma: Powerful and Lightweight Text Representations](https://huggingface.co/papers/2509.20354) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-09-24 18:31 UTC</sub>
+<sub>Last updated: 2025-09-25 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
