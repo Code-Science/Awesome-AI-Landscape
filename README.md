@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and
-  Open Resources](https://huggingface.co/papers/2509.21268) | ⭐ 48 | AI |
-| 🥈 [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://huggingface.co/papers/2509.21320) | ⭐ 42 | AI |
-| 🥉 [Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://huggingface.co/papers/2509.20427) | ⭐ 24 | AI |
+| 🏆 [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://huggingface.co/papers/2509.21320) | ⭐ 67 | AI |
+| 🥈 [VCRL: Variance-based Curriculum Reinforcement Learning for Large
+  Language Models](https://huggingface.co/papers/2509.19803) | ⭐ 65 | AI |
+| 🥉 [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and
+  Open Resources](https://huggingface.co/papers/2509.21268) | ⭐ 61 | AI |
 
-<sub>Last updated: 2025-09-26 06:34 UTC</sub>
+<sub>Last updated: 2025-09-26 12:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
