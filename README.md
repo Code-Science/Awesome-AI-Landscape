@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://huggingface.co/papers/2509.20427) | ⭐ 2 | AI |
-| 🥈 [CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy
-  Optimization in Reinforcement Learning](https://huggingface.co/papers/2509.20712) | ⭐ 1 | AI |
+| 🏆 [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and
+  Open Resources](https://huggingface.co/papers/2509.21268) | ⭐ 48 | AI |
+| 🥈 [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://huggingface.co/papers/2509.21320) | ⭐ 42 | AI |
+| 🥉 [Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://huggingface.co/papers/2509.20427) | ⭐ 24 | AI |
 
-<sub>Last updated: 2025-09-26 01:49 UTC</sub>
+<sub>Last updated: 2025-09-26 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
