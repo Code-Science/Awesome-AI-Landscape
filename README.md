@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video models are zero-shot learners and reasoners](https://huggingface.co/papers/2509.20328) | ⭐ 36 | AI |
-| 🥈 [SIM-CoT: Supervised Implicit Chain-of-Thought](https://huggingface.co/papers/2509.20317) | ⭐ 26 | AI |
-| 🥉 [EmbeddingGemma: Powerful and Lightweight Text Representations](https://huggingface.co/papers/2509.20354) | ⭐ 15 | AI |
+| 🏆 [Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://huggingface.co/papers/2509.20427) | ⭐ 2 | AI |
+| 🥈 [CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy
+  Optimization in Reinforcement Learning](https://huggingface.co/papers/2509.20712) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-09-25 18:34 UTC</sub>
+<sub>Last updated: 2025-09-26 01:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
