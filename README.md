@@ -21,10 +21,10 @@
 | 🏆 [VCRL: Variance-based Curriculum Reinforcement Learning for Large
   Language Models](https://huggingface.co/papers/2509.19803) | ⭐ 108 | AI |
 | 🥈 [MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and
-  Open Resources](https://huggingface.co/papers/2509.21268) | ⭐ 88 | AI |
-| 🥉 [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://huggingface.co/papers/2509.21320) | ⭐ 85 | AI |
+  Open Resources](https://huggingface.co/papers/2509.21268) | ⭐ 90 | AI |
+| 🥉 [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://huggingface.co/papers/2509.21320) | ⭐ 86 | AI |
 
-<sub>Last updated: 2025-09-28 06:32 UTC</sub>
+<sub>Last updated: 2025-09-28 12:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
