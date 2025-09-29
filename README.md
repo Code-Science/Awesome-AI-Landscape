@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongLive: Real-time Interactive Long Video Generation](https://huggingface.co/papers/2509.22622) | ⭐ 115 | AI |
-| 🥈 [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://huggingface.co/papers/2509.22611) | ⭐ 94 | AI |
+| 🏆 [LongLive: Real-time Interactive Long Video Generation](https://huggingface.co/papers/2509.22622) | ⭐ 124 | AI |
+| 🥈 [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://huggingface.co/papers/2509.22611) | ⭐ 99 | AI |
 | 🥉 [MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186) | ⭐ 72 | AI |
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186) | ⭐ 76 | AI |
 
-<sub>Last updated: 2025-09-29 12:51 UTC</sub>
+<sub>Last updated: 2025-09-29 18:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
