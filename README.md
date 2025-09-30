@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable
-  Sparse-Linear Attention](https://huggingface.co/papers/2509.24006) | ⭐ 93 | AI |
-| 🥈 [Multiplayer Nash Preference Optimization](https://huggingface.co/papers/2509.23102) | ⭐ 50 | AI |
-| 🥉 [RealUnify: Do Unified Models Truly Benefit from Unification? A
-  Comprehensive Benchmark](https://huggingface.co/papers/2509.24897) | ⭐ 40 | AI |
+  Sparse-Linear Attention](https://huggingface.co/papers/2509.24006) | ⭐ 96 | AI |
+| 🥈 [StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient
+  SpeechLLMs](https://huggingface.co/papers/2509.22220) | ⭐ 56 | AI |
+| 🥉 [Multiplayer Nash Preference Optimization](https://huggingface.co/papers/2509.23102) | ⭐ 51 | AI |
 
-<sub>Last updated: 2025-09-30 12:52 UTC</sub>
+<sub>Last updated: 2025-09-30 18:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
