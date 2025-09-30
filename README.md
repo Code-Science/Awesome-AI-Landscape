@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongLive: Real-time Interactive Long Video Generation](https://huggingface.co/papers/2509.22622) | ⭐ 133 | AI |
-| 🥈 [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://huggingface.co/papers/2509.22611) | ⭐ 100 | AI |
-| 🥉 [EPO: Entropy-regularized Policy Optimization for LLM Agents
-  Reinforcement Learning](https://huggingface.co/papers/2509.22576) | ⭐ 88 | AI |
+| 🏆 [SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable
+  Sparse-Linear Attention](https://huggingface.co/papers/2509.24006) | ⭐ 75 | AI |
+| 🥈 [Multiplayer Nash Preference Optimization](https://huggingface.co/papers/2509.23102) | ⭐ 44 | AI |
+| 🥉 [Visual Jigsaw Post-Training Improves MLLMs](https://huggingface.co/papers/2509.25190) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-09-30 01:47 UTC</sub>
+<sub>Last updated: 2025-09-30 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
