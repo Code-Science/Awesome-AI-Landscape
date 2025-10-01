@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DC-VideoGen: Efficient Video Generation with Deep Compression Video
-  Autoencoder](https://huggingface.co/papers/2509.25182) | ⭐ 9 | AI |
-| 🥈 [Learning to See Before Seeing: Demystifying LLM Visual Priors from
-  Language Pre-training](https://huggingface.co/papers/2509.26625) | ⭐ 1 | AI |
-| 🥉 [Thinking Sparks!: Emergent Attention Heads in Reasoning Models During
-  Post Training](https://huggingface.co/papers/2509.25758) | ⭐ 1 | AI |
+| 🏆 [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified
+  Self-Play](https://huggingface.co/papers/2509.25541) | ⭐ 50 | AI |
+| 🥈 [TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](https://huggingface.co/papers/2509.25760) | ⭐ 29 | AI |
+| 🥉 [OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://huggingface.co/papers/2509.26536) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-10-01 02:00 UTC</sub>
+<sub>Last updated: 2025-10-01 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
