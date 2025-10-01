@@ -19,11 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified
-  Self-Play](https://huggingface.co/papers/2509.25541) | ⭐ 50 | AI |
-| 🥈 [TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](https://huggingface.co/papers/2509.25760) | ⭐ 29 | AI |
-| 🥉 [OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://huggingface.co/papers/2509.26536) | ⭐ 21 | AI |
+  Self-Play](https://huggingface.co/papers/2509.25541) | ⭐ 64 | AI |
+| 🥈 [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP
+  Use](https://huggingface.co/papers/2509.24002) | ⭐ 45 | AI |
+| 🥉 [The Dragon Hatchling: The Missing Link between the Transformer and
+  Models of the Brain](https://huggingface.co/papers/2509.26507) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-10-01 06:35 UTC</sub>
+<sub>Last updated: 2025-10-01 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
