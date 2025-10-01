@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable
-  Sparse-Linear Attention](https://huggingface.co/papers/2509.24006) | ⭐ 96 | AI |
-| 🥈 [StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient
-  SpeechLLMs](https://huggingface.co/papers/2509.22220) | ⭐ 56 | AI |
-| 🥉 [Multiplayer Nash Preference Optimization](https://huggingface.co/papers/2509.23102) | ⭐ 51 | AI |
+| 🏆 [DC-VideoGen: Efficient Video Generation with Deep Compression Video
+  Autoencoder](https://huggingface.co/papers/2509.25182) | ⭐ 9 | AI |
+| 🥈 [Learning to See Before Seeing: Demystifying LLM Visual Priors from
+  Language Pre-training](https://huggingface.co/papers/2509.26625) | ⭐ 1 | AI |
+| 🥉 [Thinking Sparks!: Emergent Attention Heads in Reasoning Models During
+  Post Training](https://huggingface.co/papers/2509.25758) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-09-30 18:31 UTC</sub>
+<sub>Last updated: 2025-10-01 02:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
