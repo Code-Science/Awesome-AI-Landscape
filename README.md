@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals
-  Long-Range Dependency Pitfalls](https://huggingface.co/papers/2510.00184) | ⭐ 5 | AI |
+| 🏆 [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with
+  Verifiable Rewards via Monte Carlo Tree Search](https://huggingface.co/papers/2509.25454) | ⭐ 49 | AI |
+| 🥈 [GEM: A Gym for Agentic LLMs](https://huggingface.co/papers/2510.01051) | ⭐ 30 | AI |
+| 🥉 [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget
+  Allocation](https://huggingface.co/papers/2509.25849) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-10-02 01:48 UTC</sub>
+<sub>Last updated: 2025-10-02 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
