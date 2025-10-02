@@ -18,14 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP
-  Use](https://huggingface.co/papers/2509.24002) | ⭐ 110 | AI |
-| 🥈 [The Dragon Hatchling: The Missing Link between the Transformer and
-  Models of the Brain](https://huggingface.co/papers/2509.26507) | ⭐ 96 | AI |
-| 🥉 [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified
-  Self-Play](https://huggingface.co/papers/2509.25541) | ⭐ 83 | AI |
+| 🏆 [Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals
+  Long-Range Dependency Pitfalls](https://huggingface.co/papers/2510.00184) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-10-01 18:34 UTC</sub>
+<sub>Last updated: 2025-10-02 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
