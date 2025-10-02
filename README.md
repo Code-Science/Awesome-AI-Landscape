@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with
-  Verifiable Rewards via Monte Carlo Tree Search](https://huggingface.co/papers/2509.25454) | ⭐ 49 | AI |
-| 🥈 [GEM: A Gym for Agentic LLMs](https://huggingface.co/papers/2510.01051) | ⭐ 30 | AI |
-| 🥉 [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget
-  Allocation](https://huggingface.co/papers/2509.25849) | ⭐ 18 | AI |
+  Verifiable Rewards via Monte Carlo Tree Search](https://huggingface.co/papers/2509.25454) | ⭐ 70 | AI |
+| 🥈 [GEM: A Gym for Agentic LLMs](https://huggingface.co/papers/2510.01051) | ⭐ 41 | AI |
+| 🥉 [VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified
+  Rewards in World Simulators](https://huggingface.co/papers/2510.00406) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-10-02 06:34 UTC</sub>
+<sub>Last updated: 2025-10-02 12:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
