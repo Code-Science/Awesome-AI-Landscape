@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Interactive Training: Feedback-Driven Neural Network Optimization](https://huggingface.co/papers/2510.02297) | ⭐ 3 | AI |
-| 🥈 [CLUE: Non-parametric Verification from Experience via Hidden-State
-  Clustering](https://huggingface.co/papers/2510.01591) | ⭐ 2 | AI |
-| 🥉 [Transformers Discover Molecular Structure Without Graph Priors](https://huggingface.co/papers/2510.02259) | ⭐ 0 | AI |
+| 🏆 [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://huggingface.co/papers/2510.02283) | ⭐ 37 | AI |
+| 🥈 [LongCodeZip: Compress Long Context for Code Language Models](https://huggingface.co/papers/2510.00446) | ⭐ 30 | AI |
+| 🥉 [Interactive Training: Feedback-Driven Neural Network Optimization](https://huggingface.co/papers/2510.02297) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-10-03 01:47 UTC</sub>
+<sub>Last updated: 2025-10-03 06:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
