@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://huggingface.co/papers/2510.02283) | ⭐ 37 | AI |
-| 🥈 [LongCodeZip: Compress Long Context for Code Language Models](https://huggingface.co/papers/2510.00446) | ⭐ 30 | AI |
-| 🥉 [Interactive Training: Feedback-Driven Neural Network Optimization](https://huggingface.co/papers/2510.02297) | ⭐ 19 | AI |
+| 🏆 [LongCodeZip: Compress Long Context for Code Language Models](https://huggingface.co/papers/2510.00446) | ⭐ 62 | AI |
+| 🥈 [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://huggingface.co/papers/2510.02283) | ⭐ 48 | AI |
+| 🥉 [StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided
+  Illusions](https://huggingface.co/papers/2510.02314) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-10-03 06:33 UTC</sub>
+<sub>Last updated: 2025-10-03 12:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
