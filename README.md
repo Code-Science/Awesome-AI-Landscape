@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongCodeZip: Compress Long Context for Code Language Models](https://huggingface.co/papers/2510.00446) | ⭐ 78 | AI |
-| 🥈 [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://huggingface.co/papers/2510.02283) | ⭐ 66 | AI |
+| 🏆 [LongCodeZip: Compress Long Context for Code Language Models](https://huggingface.co/papers/2510.00446) | ⭐ 80 | AI |
+| 🥈 [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://huggingface.co/papers/2510.02283) | ⭐ 67 | AI |
 | 🥉 [ExGRPO: Learning to Reason from Experience](https://huggingface.co/papers/2510.02245) | ⭐ 59 | AI |
 
-<sub>Last updated: 2025-10-05 01:58 UTC</sub>
+<sub>Last updated: 2025-10-05 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
