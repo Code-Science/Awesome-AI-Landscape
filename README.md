@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Efficient Multi-modal Large Language Models via Progressive Consistency
-  Distillation](https://huggingface.co/papers/2510.00515) | ⭐ 12 | AI |
-| 🥈 [Compose Your Policies! Improving Diffusion-based or Flow-based Robot
-  Policies via Test-time Distribution-level Composition](https://huggingface.co/papers/2510.01068) | ⭐ 9 | AI |
-| 🥉 [Self-Improvement in Multimodal Large Language Models: A Survey](https://huggingface.co/papers/2510.02665) | ⭐ 8 | AI |
+| 🏆 [Apriel-1.5-15b-Thinker](https://huggingface.co/papers/2510.01141) | ⭐ 67 | AI |
+| 🥈 [Efficient Multi-modal Large Language Models via Progressive Consistency
+  Distillation](https://huggingface.co/papers/2510.00515) | ⭐ 22 | AI |
+| 🥉 [Compose Your Policies! Improving Diffusion-based or Flow-based Robot
+  Policies via Test-time Distribution-level Composition](https://huggingface.co/papers/2510.01068) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-10-06 06:35 UTC</sub>
+<sub>Last updated: 2025-10-06 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
