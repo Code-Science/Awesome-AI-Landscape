@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongCodeZip: Compress Long Context for Code Language Models](https://huggingface.co/papers/2510.00446) | ⭐ 87 | AI |
-| 🥈 [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://huggingface.co/papers/2510.02283) | ⭐ 69 | AI |
-| 🥉 [ExGRPO: Learning to Reason from Experience](https://huggingface.co/papers/2510.02245) | ⭐ 62 | AI |
+| 🏆 [Improving GUI Grounding with Explicit Position-to-Coordinate Mapping](https://huggingface.co/papers/2510.03230) | ⭐ 1 | AI |
+| 🥈 [Self-Improvement in Multimodal Large Language Models: A Survey](https://huggingface.co/papers/2510.02665) | ⭐ 1 | AI |
+| 🥉 [How Confident are Video Models? Empowering Video Models to Express their
+  Uncertainty](https://huggingface.co/papers/2510.02571) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-05 18:30 UTC</sub>
+<sub>Last updated: 2025-10-06 01:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
