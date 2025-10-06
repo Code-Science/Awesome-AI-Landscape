@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Improving GUI Grounding with Explicit Position-to-Coordinate Mapping](https://huggingface.co/papers/2510.03230) | ⭐ 1 | AI |
-| 🥈 [Self-Improvement in Multimodal Large Language Models: A Survey](https://huggingface.co/papers/2510.02665) | ⭐ 1 | AI |
-| 🥉 [How Confident are Video Models? Empowering Video Models to Express their
-  Uncertainty](https://huggingface.co/papers/2510.02571) | ⭐ 1 | AI |
+| 🏆 [Efficient Multi-modal Large Language Models via Progressive Consistency
+  Distillation](https://huggingface.co/papers/2510.00515) | ⭐ 12 | AI |
+| 🥈 [Compose Your Policies! Improving Diffusion-based or Flow-based Robot
+  Policies via Test-time Distribution-level Composition](https://huggingface.co/papers/2510.01068) | ⭐ 9 | AI |
+| 🥉 [Self-Improvement in Multimodal Large Language Models: A Survey](https://huggingface.co/papers/2510.02665) | ⭐ 8 | AI |
 
-<sub>Last updated: 2025-10-06 01:51 UTC</sub>
+<sub>Last updated: 2025-10-06 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
