@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Paper2Video: Automatic Video Generation from Scientific Papers](https://huggingface.co/papers/2510.05096) | ⭐ 39 | AI |
+| 🏆 [Paper2Video: Automatic Video Generation from Scientific Papers](https://huggingface.co/papers/2510.05096) | ⭐ 43 | AI |
 | 🥈 [Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large
-  Multimodal Models](https://huggingface.co/papers/2510.05034) | ⭐ 23 | AI |
-| 🥉 [Imperceptible Jailbreaking against Large Language Models](https://huggingface.co/papers/2510.05025) | ⭐ 22 | AI |
+  Multimodal Models](https://huggingface.co/papers/2510.05034) | ⭐ 30 | AI |
+| 🥉 [VChain: Chain-of-Visual-Thought for Reasoning in Video Generation](https://huggingface.co/papers/2510.05094) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-10-07 12:50 UTC</sub>
+<sub>Last updated: 2025-10-07 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
