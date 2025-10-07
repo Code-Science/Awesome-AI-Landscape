@@ -18,9 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Utility-Learning Tension in Self-Modifying Agents](https://huggingface.co/papers/2510.04399) | ⭐ 1 | AI |
+| 🏆 [Paper2Video: Automatic Video Generation from Scientific Papers](https://huggingface.co/papers/2510.05096) | ⭐ 27 | AI |
+| 🥈 [Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large
+  Multimodal Models](https://huggingface.co/papers/2510.05034) | ⭐ 17 | AI |
+| 🥉 [MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual
+  Information](https://huggingface.co/papers/2510.03632) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-10-07 01:48 UTC</sub>
+<sub>Last updated: 2025-10-07 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
