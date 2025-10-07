@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Paper2Video: Automatic Video Generation from Scientific Papers](https://huggingface.co/papers/2510.05096) | ⭐ 27 | AI |
+| 🏆 [Paper2Video: Automatic Video Generation from Scientific Papers](https://huggingface.co/papers/2510.05096) | ⭐ 39 | AI |
 | 🥈 [Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large
-  Multimodal Models](https://huggingface.co/papers/2510.05034) | ⭐ 17 | AI |
-| 🥉 [MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual
-  Information](https://huggingface.co/papers/2510.03632) | ⭐ 16 | AI |
+  Multimodal Models](https://huggingface.co/papers/2510.05034) | ⭐ 23 | AI |
+| 🥉 [Imperceptible Jailbreaking against Large Language Models](https://huggingface.co/papers/2510.05025) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-10-07 06:34 UTC</sub>
+<sub>Last updated: 2025-10-07 12:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
