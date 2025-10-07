@@ -18,12 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Apriel-1.5-15b-Thinker](https://huggingface.co/papers/2510.01141) | ⭐ 75 | AI |
-| 🥈 [Large Reasoning Models Learn Better Alignment from Flawed Thinking](https://huggingface.co/papers/2510.00938) | ⭐ 28 | AI |
-| 🥉 [Efficient Multi-modal Large Language Models via Progressive Consistency
-  Distillation](https://huggingface.co/papers/2510.00515) | ⭐ 28 | AI |
+| 🏆 [Utility-Learning Tension in Self-Modifying Agents](https://huggingface.co/papers/2510.04399) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-06 18:34 UTC</sub>
+<sub>Last updated: 2025-10-07 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
