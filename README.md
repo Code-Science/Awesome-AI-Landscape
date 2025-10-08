@@ -19,13 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular
-  Reasoning](https://huggingface.co/papers/2510.06217) | ⭐ 9 | AI |
-| 🥈 [EgoNight: Towards Egocentric Vision Understanding at Night with a
-  Challenging Benchmark](https://huggingface.co/papers/2510.06218) | ⭐ 1 | AI |
-| 🥉 [AInstein: Assessing the Feasibility of AI-Generated Approaches to
-  Research Problems](https://huggingface.co/papers/2510.05432) | ⭐ 1 | AI |
+  Reasoning](https://huggingface.co/papers/2510.06217) | ⭐ 33 | AI |
+| 🥈 [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://huggingface.co/papers/2509.26328) | ⭐ 19 | AI |
+| 🥉 [CoDA: Coding LM via Diffusion Adaptation](https://huggingface.co/papers/2510.03270) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-10-08 01:48 UTC</sub>
+<sub>Last updated: 2025-10-08 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
