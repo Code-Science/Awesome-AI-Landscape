@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Paper2Video: Automatic Video Generation from Scientific Papers](https://huggingface.co/papers/2510.05096) | ⭐ 43 | AI |
-| 🥈 [Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large
-  Multimodal Models](https://huggingface.co/papers/2510.05034) | ⭐ 30 | AI |
-| 🥉 [VChain: Chain-of-Visual-Thought for Reasoning in Video Generation](https://huggingface.co/papers/2510.05094) | ⭐ 28 | AI |
+| 🏆 [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular
+  Reasoning](https://huggingface.co/papers/2510.06217) | ⭐ 9 | AI |
+| 🥈 [EgoNight: Towards Egocentric Vision Understanding at Night with a
+  Challenging Benchmark](https://huggingface.co/papers/2510.06218) | ⭐ 1 | AI |
+| 🥉 [AInstein: Assessing the Feasibility of AI-Generated Approaches to
+  Research Problems](https://huggingface.co/papers/2510.05432) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-07 18:35 UTC</sub>
+<sub>Last updated: 2025-10-08 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
