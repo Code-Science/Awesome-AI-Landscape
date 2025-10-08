@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular
-  Reasoning](https://huggingface.co/papers/2510.06217) | ⭐ 42 | AI |
-| 🥈 [Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and
-  Synthesis for SLMs](https://huggingface.co/papers/2509.24107) | ⭐ 28 | AI |
-| 🥉 [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://huggingface.co/papers/2509.26328) | ⭐ 26 | AI |
+| 🏆 [Less is More: Recursive Reasoning with Tiny Networks](https://huggingface.co/papers/2510.04871) | ⭐ 51 | AI |
+| 🥈 [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular
+  Reasoning](https://huggingface.co/papers/2510.06217) | ⭐ 48 | AI |
+| 🥉 [Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and
+  Synthesis for SLMs](https://huggingface.co/papers/2509.24107) | ⭐ 48 | AI |
 
-<sub>Last updated: 2025-10-08 12:51 UTC</sub>
+<sub>Last updated: 2025-10-08 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
