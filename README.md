@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models](https://huggingface.co/papers/2510.06917) | ⭐ 26 | AI |
-| 🥈 [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal
-  Generation and Understanding](https://huggingface.co/papers/2510.06308) | ⭐ 25 | AI |
-| 🥉 [Vibe Checker: Aligning Code Evaluation with Human Preference](https://huggingface.co/papers/2510.07315) | ⭐ 21 | AI |
+| 🏆 [Ming-UniVision: Joint Image Understanding and Generation with a Unified
+  Continuous Tokenizer](https://huggingface.co/papers/2510.06590) | ⭐ 50 | AI |
+| 🥈 [Cache-to-Cache: Direct Semantic Communication Between Large Language
+  Models](https://huggingface.co/papers/2510.03215) | ⭐ 49 | AI |
+| 🥉 [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal
+  Generation and Understanding](https://huggingface.co/papers/2510.06308) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-10-09 06:36 UTC</sub>
+<sub>Last updated: 2025-10-09 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
