@@ -18,10 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models](https://huggingface.co/papers/2510.06917) | ⭐ 3 | AI |
-| 🥈 [Artificial Hippocampus Networks for Efficient Long-Context Modeling](https://huggingface.co/papers/2510.07318) | ⭐ 1 | AI |
+| 🏆 [SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models](https://huggingface.co/papers/2510.06917) | ⭐ 26 | AI |
+| 🥈 [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal
+  Generation and Understanding](https://huggingface.co/papers/2510.06308) | ⭐ 25 | AI |
+| 🥉 [Vibe Checker: Aligning Code Evaluation with Human Preference](https://huggingface.co/papers/2510.07315) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-10-09 01:49 UTC</sub>
+<sub>Last updated: 2025-10-09 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
