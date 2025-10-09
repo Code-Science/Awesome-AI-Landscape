@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Ming-UniVision: Joint Image Understanding and Generation with a Unified
-  Continuous Tokenizer](https://huggingface.co/papers/2510.06590) | ⭐ 50 | AI |
-| 🥈 [Cache-to-Cache: Direct Semantic Communication Between Large Language
-  Models](https://huggingface.co/papers/2510.03215) | ⭐ 49 | AI |
+| 🏆 [Cache-to-Cache: Direct Semantic Communication Between Large Language
+  Models](https://huggingface.co/papers/2510.03215) | ⭐ 59 | AI |
+| 🥈 [Ming-UniVision: Joint Image Understanding and Generation with a Unified
+  Continuous Tokenizer](https://huggingface.co/papers/2510.06590) | ⭐ 56 | AI |
 | 🥉 [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal
-  Generation and Understanding](https://huggingface.co/papers/2510.06308) | ⭐ 34 | AI |
+  Generation and Understanding](https://huggingface.co/papers/2510.06308) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-10-09 12:51 UTC</sub>
+<sub>Last updated: 2025-10-09 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
