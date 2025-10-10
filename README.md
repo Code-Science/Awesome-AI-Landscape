@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Cache-to-Cache: Direct Semantic Communication Between Large Language
-  Models](https://huggingface.co/papers/2510.03215) | ⭐ 63 | AI |
-| 🥈 [Ming-UniVision: Joint Image Understanding and Generation with a Unified
-  Continuous Tokenizer](https://huggingface.co/papers/2510.06590) | ⭐ 59 | AI |
-| 🥉 [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal
-  Generation and Understanding](https://huggingface.co/papers/2510.06308) | ⭐ 39 | AI |
+| 🏆 [MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with
+  Holistic Platform and Adaptive Hybrid Policy Optimization](https://huggingface.co/papers/2510.08540) | ⭐ 76 | AI |
+| 🥈 [Agent Learning via Early Experience](https://huggingface.co/papers/2510.08558) | ⭐ 66 | AI |
+| 🥉 [When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs](https://huggingface.co/papers/2510.07499) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-10-10 01:50 UTC</sub>
+<sub>Last updated: 2025-10-10 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
