@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with
-  Holistic Platform and Adaptive Hybrid Policy Optimization](https://huggingface.co/papers/2510.08540) | ⭐ 76 | AI |
-| 🥈 [Agent Learning via Early Experience](https://huggingface.co/papers/2510.08558) | ⭐ 66 | AI |
-| 🥉 [When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs](https://huggingface.co/papers/2510.07499) | ⭐ 29 | AI |
+| 🏆 [Agent Learning via Early Experience](https://huggingface.co/papers/2510.08558) | ⭐ 95 | AI |
+| 🥈 [MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with
+  Holistic Platform and Adaptive Hybrid Policy Optimization](https://huggingface.co/papers/2510.08540) | ⭐ 86 | AI |
+| 🥉 [From What to Why: A Multi-Agent System for Evidence-based Chemical
+  Reaction Condition Reasoning](https://huggingface.co/papers/2509.23768) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-10-10 06:35 UTC</sub>
+<sub>Last updated: 2025-10-10 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
