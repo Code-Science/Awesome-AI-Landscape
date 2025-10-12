@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agent Learning via Early Experience](https://huggingface.co/papers/2510.08558) | ⭐ 153 | AI |
+| 🏆 [Agent Learning via Early Experience](https://huggingface.co/papers/2510.08558) | ⭐ 161 | AI |
 | 🥈 [MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with
-  Holistic Platform and Adaptive Hybrid Policy Optimization](https://huggingface.co/papers/2510.08540) | ⭐ 96 | AI |
+  Holistic Platform and Adaptive Hybrid Policy Optimization](https://huggingface.co/papers/2510.08540) | ⭐ 97 | AI |
 | 🥉 [MemMamba: Rethinking Memory Patterns in State Space Model](https://huggingface.co/papers/2510.03279) | ⭐ 63 | AI |
 
-<sub>Last updated: 2025-10-12 01:54 UTC</sub>
+<sub>Last updated: 2025-10-12 06:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
