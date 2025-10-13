@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Thinking with Camera: A Unified Multimodal Model for Camera-Centric
-  Understanding and Generation](https://huggingface.co/papers/2510.08673) | ⭐ 49 | AI |
-| 🥈 [TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion
-  Sampling](https://huggingface.co/papers/2510.04533) | ⭐ 30 | AI |
-| 🥉 [Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for
-  MLLMs](https://huggingface.co/papers/2510.09201) | ⭐ 29 | AI |
+  Understanding and Generation](https://huggingface.co/papers/2510.08673) | ⭐ 73 | AI |
+| 🥈 [D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to
+  Embodied AI](https://huggingface.co/papers/2510.05684) | ⭐ 65 | AI |
+| 🥉 [TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion
+  Sampling](https://huggingface.co/papers/2510.04533) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-10-13 06:37 UTC</sub>
+<sub>Last updated: 2025-10-13 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
