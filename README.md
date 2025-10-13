@@ -18,14 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thinking with Camera: A Unified Multimodal Model for Camera-Centric
-  Understanding and Generation](https://huggingface.co/papers/2510.08673) | ⭐ 73 | AI |
-| 🥈 [D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to
-  Embodied AI](https://huggingface.co/papers/2510.05684) | ⭐ 65 | AI |
-| 🥉 [TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion
-  Sampling](https://huggingface.co/papers/2510.04533) | ⭐ 34 | AI |
+| 🏆 [D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to
+  Embodied AI](https://huggingface.co/papers/2510.05684) | ⭐ 96 | AI |
+| 🥈 [Thinking with Camera: A Unified Multimodal Model for Camera-Centric
+  Understanding and Generation](https://huggingface.co/papers/2510.08673) | ⭐ 82 | AI |
+| 🥉 [AutoPR: Let's Automate Your Academic Promotion!](https://huggingface.co/papers/2510.09558) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-10-13 12:51 UTC</sub>
+<sub>Last updated: 2025-10-13 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
