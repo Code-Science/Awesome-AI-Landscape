@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion
-  Sampling](https://huggingface.co/papers/2510.04533) | ⭐ 16 | AI |
-| 🥈 [ReviewerToo: Should AI Join The Program Committee? A Look At The Future
-  of Peer Review](https://huggingface.co/papers/2510.08867) | ⭐ 2 | AI |
-| 🥉 [Don't Waste Mistakes: Leveraging Negative RL-Groups via Confidence
-  Reweighting](https://huggingface.co/papers/2510.08696) | ⭐ 2 | AI |
+| 🏆 [Thinking with Camera: A Unified Multimodal Model for Camera-Centric
+  Understanding and Generation](https://huggingface.co/papers/2510.08673) | ⭐ 49 | AI |
+| 🥈 [TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion
+  Sampling](https://huggingface.co/papers/2510.04533) | ⭐ 30 | AI |
+| 🥉 [Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for
+  MLLMs](https://huggingface.co/papers/2510.09201) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-10-13 01:57 UTC</sub>
+<sub>Last updated: 2025-10-13 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
