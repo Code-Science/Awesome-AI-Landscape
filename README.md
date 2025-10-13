@@ -18,12 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agent Learning via Early Experience](https://huggingface.co/papers/2510.08558) | ⭐ 172 | AI |
-| 🥈 [MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with
-  Holistic Platform and Adaptive Hybrid Policy Optimization](https://huggingface.co/papers/2510.08540) | ⭐ 98 | AI |
-| 🥉 [MemMamba: Rethinking Memory Patterns in State Space Model](https://huggingface.co/papers/2510.03279) | ⭐ 63 | AI |
+| 🏆 [TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion
+  Sampling](https://huggingface.co/papers/2510.04533) | ⭐ 16 | AI |
+| 🥈 [ReviewerToo: Should AI Join The Program Committee? A Look At The Future
+  of Peer Review](https://huggingface.co/papers/2510.08867) | ⭐ 2 | AI |
+| 🥉 [Don't Waste Mistakes: Leveraging Negative RL-Groups via Confidence
+  Reweighting](https://huggingface.co/papers/2510.08696) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-10-12 18:30 UTC</sub>
+<sub>Last updated: 2025-10-13 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
