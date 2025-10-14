@@ -18,13 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to
-  Embodied AI](https://huggingface.co/papers/2510.05684) | ⭐ 96 | AI |
-| 🥈 [Thinking with Camera: A Unified Multimodal Model for Camera-Centric
-  Understanding and Generation](https://huggingface.co/papers/2510.08673) | ⭐ 82 | AI |
-| 🥉 [AutoPR: Let's Automate Your Academic Promotion!](https://huggingface.co/papers/2510.09558) | ⭐ 37 | AI |
+| 🏆 [Self-Improving LLM Agents at Test-Time](https://huggingface.co/papers/2510.07841) | ⭐ 2 | AI |
+| 🥈 [PEAR: Phase Entropy Aware Reward for Efficient Reasoning](https://huggingface.co/papers/2510.08026) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-13 18:32 UTC</sub>
+<sub>Last updated: 2025-10-14 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
