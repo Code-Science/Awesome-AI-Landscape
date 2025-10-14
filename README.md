@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning
-  for LLMs](https://huggingface.co/papers/2510.11696) | ⭐ 70 | AI |
-| 🥈 [Diffusion Transformers with Representation Autoencoders](https://huggingface.co/papers/2510.11690) | ⭐ 31 | AI |
+  for LLMs](https://huggingface.co/papers/2510.11696) | ⭐ 90 | AI |
+| 🥈 [Diffusion Transformers with Representation Autoencoders](https://huggingface.co/papers/2510.11690) | ⭐ 64 | AI |
 | 🥉 [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni
-  MLLMs](https://huggingface.co/papers/2510.10689) | ⭐ 27 | AI |
+  MLLMs](https://huggingface.co/papers/2510.10689) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-10-14 06:35 UTC</sub>
+<sub>Last updated: 2025-10-14 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
