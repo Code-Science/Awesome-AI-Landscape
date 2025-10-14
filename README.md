@@ -18,10 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Self-Improving LLM Agents at Test-Time](https://huggingface.co/papers/2510.07841) | ⭐ 2 | AI |
-| 🥈 [PEAR: Phase Entropy Aware Reward for Efficient Reasoning](https://huggingface.co/papers/2510.08026) | ⭐ 1 | AI |
+| 🏆 [QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning
+  for LLMs](https://huggingface.co/papers/2510.11696) | ⭐ 70 | AI |
+| 🥈 [Diffusion Transformers with Representation Autoencoders](https://huggingface.co/papers/2510.11690) | ⭐ 31 | AI |
+| 🥉 [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni
+  MLLMs](https://huggingface.co/papers/2510.10689) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-10-14 01:50 UTC</sub>
+<sub>Last updated: 2025-10-14 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
