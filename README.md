@@ -19,12 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Spatial Forcing: Implicit Spatial Representation Alignment for
-  Vision-language-action Model](https://huggingface.co/papers/2510.12276) | ⭐ 123 | AI |
-| 🥈 [Advancing End-to-End Pixel Space Generative Modeling via Self-supervised
-  Pre-training](https://huggingface.co/papers/2510.12586) | ⭐ 80 | AI |
-| 🥉 [Scaling Language-Centric Omnimodal Representation Learning](https://huggingface.co/papers/2510.11693) | ⭐ 77 | AI |
+  Vision-language-action Model](https://huggingface.co/papers/2510.12276) | ⭐ 129 | AI |
+| 🥈 [DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel
+  Translation](https://huggingface.co/papers/2510.09116) | ⭐ 87 | AI |
+| 🥉 [Advancing End-to-End Pixel Space Generative Modeling via Self-supervised
+  Pre-training](https://huggingface.co/papers/2510.12586) | ⭐ 86 | AI |
 
-<sub>Last updated: 2025-10-15 12:52 UTC</sub>
+<sub>Last updated: 2025-10-15 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
