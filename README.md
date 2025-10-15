@@ -18,13 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning
-  for LLMs](https://huggingface.co/papers/2510.11696) | ⭐ 94 | AI |
-| 🥈 [Diffusion Transformers with Representation Autoencoders](https://huggingface.co/papers/2510.11690) | ⭐ 79 | AI |
-| 🥉 [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni
-  MLLMs](https://huggingface.co/papers/2510.10689) | ⭐ 38 | AI |
+| 🏆 [DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search](https://huggingface.co/papers/2510.12801) | ⭐ 0 | AI |
+| 🥈 [Detect Anything via Next Point Prediction](https://huggingface.co/papers/2510.12798) | ⭐ 0 | AI |
+| 🥉 [UniFusion: Vision-Language Model as Unified Encoder in Image Generation](https://huggingface.co/papers/2510.12789) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-10-14 18:34 UTC</sub>
+<sub>Last updated: 2025-10-15 01:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
