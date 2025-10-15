@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search](https://huggingface.co/papers/2510.12801) | ⭐ 0 | AI |
-| 🥈 [Detect Anything via Next Point Prediction](https://huggingface.co/papers/2510.12798) | ⭐ 0 | AI |
-| 🥉 [UniFusion: Vision-Language Model as Unified Encoder in Image Generation](https://huggingface.co/papers/2510.12789) | ⭐ 0 | AI |
+| 🏆 [Advancing End-to-End Pixel Space Generative Modeling via Self-supervised
+  Pre-training](https://huggingface.co/papers/2510.12586) | ⭐ 65 | AI |
+| 🥈 [Scaling Language-Centric Omnimodal Representation Learning](https://huggingface.co/papers/2510.11693) | ⭐ 47 | AI |
+| 🥉 [DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel
+  Translation](https://huggingface.co/papers/2510.09116) | ⭐ 44 | AI |
 
-<sub>Last updated: 2025-10-15 01:53 UTC</sub>
+<sub>Last updated: 2025-10-15 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
