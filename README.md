@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PhysMaster: Mastering Physical Representation for Video Generation via
-  Reinforcement Learning](https://huggingface.co/papers/2510.13809) | ⭐ 0 | AI |
-| 🥈 [Generative Universal Verifier as Multimodal Meta-Reasoner](https://huggingface.co/papers/2510.13804) | ⭐ 0 | AI |
-| 🥉 [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://huggingface.co/papers/2510.13802) | ⭐ 0 | AI |
+| 🏆 [Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm
+  Enables Fine-Grained Policy Optimization](https://huggingface.co/papers/2510.13554) | ⭐ 35 | AI |
+| 🥈 [FlashWorld: High-quality 3D Scene Generation within Seconds](https://huggingface.co/papers/2510.13678) | ⭐ 30 | AI |
+| 🥉 [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully
+  Open MLLMs](https://huggingface.co/papers/2510.13795) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-10-16 01:52 UTC</sub>
+<sub>Last updated: 2025-10-16 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
