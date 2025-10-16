@@ -18,14 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Spatial Forcing: Implicit Spatial Representation Alignment for
-  Vision-language-action Model](https://huggingface.co/papers/2510.12276) | ⭐ 129 | AI |
-| 🥈 [DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel
-  Translation](https://huggingface.co/papers/2510.09116) | ⭐ 87 | AI |
-| 🥉 [Advancing End-to-End Pixel Space Generative Modeling via Self-supervised
-  Pre-training](https://huggingface.co/papers/2510.12586) | ⭐ 86 | AI |
+| 🏆 [PhysMaster: Mastering Physical Representation for Video Generation via
+  Reinforcement Learning](https://huggingface.co/papers/2510.13809) | ⭐ 0 | AI |
+| 🥈 [Generative Universal Verifier as Multimodal Meta-Reasoner](https://huggingface.co/papers/2510.13804) | ⭐ 0 | AI |
+| 🥉 [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://huggingface.co/papers/2510.13802) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-10-15 18:35 UTC</sub>
+<sub>Last updated: 2025-10-16 01:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
