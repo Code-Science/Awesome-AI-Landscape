@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 68 | AI |
-| 🥈 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 59 | AI |
-| 🥉 [AI for Service: Proactive Assistance with AI Glasses](https://huggingface.co/papers/2510.14359) | ⭐ 58 | AI |
+| 🏆 [When Models Lie, We Learn: Multilingual Span-Level Hallucination
+  Detection with PsiloQA](https://huggingface.co/papers/2510.04849) | ⭐ 77 | AI |
+| 🥈 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 74 | AI |
+| 🥉 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 63 | AI |
 
-<sub>Last updated: 2025-10-17 12:51 UTC</sub>
+<sub>Last updated: 2025-10-17 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
