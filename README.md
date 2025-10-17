@@ -18,13 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLM-guided Hierarchical Retrieval](https://huggingface.co/papers/2510.13217) | ⭐ 2 | AI |
-| 🥈 [From Pixels to Words -- Towards Native Vision-Language Primitives at
-  Scale](https://huggingface.co/papers/2510.14979) | ⭐ 1 | AI |
-| 🥉 [LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent
-  Training](https://huggingface.co/papers/2510.14969) | ⭐ 1 | AI |
+| 🏆 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 52 | AI |
+| 🥈 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 50 | AI |
+| 🥉 [AI for Service: Proactive Assistance with AI Glasses](https://huggingface.co/papers/2510.14359) | ⭐ 45 | AI |
 
-<sub>Last updated: 2025-10-17 01:50 UTC</sub>
+<sub>Last updated: 2025-10-17 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
