@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 52 | AI |
-| 🥈 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 50 | AI |
-| 🥉 [AI for Service: Proactive Assistance with AI Glasses](https://huggingface.co/papers/2510.14359) | ⭐ 45 | AI |
+| 🏆 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 68 | AI |
+| 🥈 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 59 | AI |
+| 🥉 [AI for Service: Proactive Assistance with AI Glasses](https://huggingface.co/papers/2510.14359) | ⭐ 58 | AI |
 
-<sub>Last updated: 2025-10-17 06:34 UTC</sub>
+<sub>Last updated: 2025-10-17 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
