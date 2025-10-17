@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity
-  MoE](https://huggingface.co/papers/2510.13344) | ⭐ 56 | AI |
-| 🥈 [FlashWorld: High-quality 3D Scene Generation within Seconds](https://huggingface.co/papers/2510.13678) | ⭐ 51 | AI |
-| 🥉 [Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm
-  Enables Fine-Grained Policy Optimization](https://huggingface.co/papers/2510.13554) | ⭐ 45 | AI |
+| 🏆 [LLM-guided Hierarchical Retrieval](https://huggingface.co/papers/2510.13217) | ⭐ 2 | AI |
+| 🥈 [From Pixels to Words -- Towards Native Vision-Language Primitives at
+  Scale](https://huggingface.co/papers/2510.14979) | ⭐ 1 | AI |
+| 🥉 [LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent
+  Training](https://huggingface.co/papers/2510.14969) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-16 18:34 UTC</sub>
+<sub>Last updated: 2025-10-17 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
