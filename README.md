@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [When Models Lie, We Learn: Multilingual Span-Level Hallucination
-  Detection with PsiloQA](https://huggingface.co/papers/2510.04849) | ⭐ 80 | AI |
-| 🥈 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 78 | AI |
-| 🥉 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 65 | AI |
+| 🏆 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 84 | AI |
+| 🥈 [When Models Lie, We Learn: Multilingual Span-Level Hallucination
+  Detection with PsiloQA](https://huggingface.co/papers/2510.04849) | ⭐ 84 | AI |
+| 🥉 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 67 | AI |
 
-<sub>Last updated: 2025-10-18 01:46 UTC</sub>
+<sub>Last updated: 2025-10-18 06:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
