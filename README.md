@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [When Models Lie, We Learn: Multilingual Span-Level Hallucination
-  Detection with PsiloQA](https://huggingface.co/papers/2510.04849) | ⭐ 98 | AI |
-| 🥈 [Agentic Entropy-Balanced Policy Optimization](https://huggingface.co/papers/2510.14545) | ⭐ 90 | AI |
-| 🥉 [WithAnyone: Towards Controllable and ID Consistent Image Generation](https://huggingface.co/papers/2510.14975) | ⭐ 70 | AI |
+| 🏆 [MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning](https://huggingface.co/papers/2510.14265) | ⭐ 8 | AI |
+| 🥈 [LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal](https://huggingface.co/papers/2510.15868) | ⭐ 5 | AI |
+| 🥉 [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite
+  Imagery](https://huggingface.co/papers/2510.15869) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-10-19 18:31 UTC</sub>
+<sub>Last updated: 2025-10-20 02:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
