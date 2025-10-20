@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding
-  LLM](https://huggingface.co/papers/2510.15870) | ⭐ 28 | AI |
-| 🥈 [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://huggingface.co/papers/2510.15019) | ⭐ 23 | AI |
-| 🥉 [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite
-  Imagery](https://huggingface.co/papers/2510.15869) | ⭐ 19 | AI |
+  LLM](https://huggingface.co/papers/2510.15870) | ⭐ 40 | AI |
+| 🥈 [Scaling Instruction-Based Video Editing with a High-Quality Synthetic
+  Dataset](https://huggingface.co/papers/2510.15742) | ⭐ 29 | AI |
+| 🥉 [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://huggingface.co/papers/2510.15019) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-10-20 06:37 UTC</sub>
+<sub>Last updated: 2025-10-20 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
