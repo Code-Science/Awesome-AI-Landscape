@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding
-  LLM](https://huggingface.co/papers/2510.15870) | ⭐ 40 | AI |
-| 🥈 [Scaling Instruction-Based Video Editing with a High-Quality Synthetic
-  Dataset](https://huggingface.co/papers/2510.15742) | ⭐ 29 | AI |
-| 🥉 [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://huggingface.co/papers/2510.15019) | ⭐ 29 | AI |
+| 🏆 [A Theoretical Study on Bridging Internal Probability and
+  Self-Consistency for LLM Reasoning](https://huggingface.co/papers/2510.15444) | ⭐ 104 | AI |
+| 🥈 [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding
+  LLM](https://huggingface.co/papers/2510.15870) | ⭐ 47 | AI |
+| 🥉 [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://huggingface.co/papers/2510.15019) | ⭐ 46 | AI |
 
-<sub>Last updated: 2025-10-20 12:51 UTC</sub>
+<sub>Last updated: 2025-10-20 18:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
