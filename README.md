@@ -18,12 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning](https://huggingface.co/papers/2510.14265) | ⭐ 8 | AI |
-| 🥈 [LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal](https://huggingface.co/papers/2510.15868) | ⭐ 5 | AI |
+| 🏆 [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding
+  LLM](https://huggingface.co/papers/2510.15870) | ⭐ 28 | AI |
+| 🥈 [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://huggingface.co/papers/2510.15019) | ⭐ 23 | AI |
 | 🥉 [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite
-  Imagery](https://huggingface.co/papers/2510.15869) | ⭐ 4 | AI |
+  Imagery](https://huggingface.co/papers/2510.15869) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-10-20 02:00 UTC</sub>
+<sub>Last updated: 2025-10-20 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
