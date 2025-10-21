@@ -18,13 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Theoretical Study on Bridging Internal Probability and
-  Self-Consistency for LLM Reasoning](https://huggingface.co/papers/2510.15444) | ⭐ 107 | AI |
-| 🥈 [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding
-  LLM](https://huggingface.co/papers/2510.15870) | ⭐ 55 | AI |
-| 🥉 [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://huggingface.co/papers/2510.15019) | ⭐ 48 | AI |
+| 🏆 [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://huggingface.co/papers/2510.16872) | ⭐ 38 | AI |
+| 🥈 [PICABench: How Far Are We from Physically Realistic Image Editing?](https://huggingface.co/papers/2510.17681) | ⭐ 36 | AI |
+| 🥉 [Glyph: Scaling Context Windows via Visual-Text Compression](https://huggingface.co/papers/2510.17800) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-10-21 01:54 UTC</sub>
+<sub>Last updated: 2025-10-21 06:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
