@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PICABench: How Far Are We from Physically Realistic Image Editing?](https://huggingface.co/papers/2510.17681) | ⭐ 48 | AI |
-| 🥈 [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://huggingface.co/papers/2510.16872) | ⭐ 47 | AI |
-| 🥉 [Glyph: Scaling Context Windows via Visual-Text Compression](https://huggingface.co/papers/2510.17800) | ⭐ 38 | AI |
+| 🏆 [PICABench: How Far Are We from Physically Realistic Image Editing?](https://huggingface.co/papers/2510.17681) | ⭐ 53 | AI |
+| 🥈 [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://huggingface.co/papers/2510.16872) | ⭐ 53 | AI |
+| 🥉 [Glyph: Scaling Context Windows via Visual-Text Compression](https://huggingface.co/papers/2510.17800) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-10-21 12:53 UTC</sub>
+<sub>Last updated: 2025-10-21 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
