@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://huggingface.co/papers/2510.18866) | ⭐ 72 | AI |
+| 🏆 [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://huggingface.co/papers/2510.18866) | ⭐ 77 | AI |
 | 🥈 [World-in-World: World Models in a Closed-Loop World](https://huggingface.co/papers/2510.18135) | ⭐ 62 | AI |
 | 🥉 [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image
-  Generation](https://huggingface.co/papers/2510.18701) | ⭐ 55 | AI |
+  Generation](https://huggingface.co/papers/2510.18701) | ⭐ 57 | AI |
 
-<sub>Last updated: 2025-10-22 12:54 UTC</sub>
+<sub>Last updated: 2025-10-22 18:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
