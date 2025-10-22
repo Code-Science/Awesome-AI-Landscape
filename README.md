@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PICABench: How Far Are We from Physically Realistic Image Editing?](https://huggingface.co/papers/2510.17681) | ⭐ 53 | AI |
-| 🥈 [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science](https://huggingface.co/papers/2510.16872) | ⭐ 53 | AI |
-| 🥉 [Glyph: Scaling Context Windows via Visual-Text Compression](https://huggingface.co/papers/2510.17800) | ⭐ 42 | AI |
+| 🏆 [Grasp Any Region: Towards Precise, Contextual Pixel Understanding for
+  Multimodal LLMs](https://huggingface.co/papers/2510.18876) | ⭐ 2 | AI |
+| 🥈 [Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale
+  Thinking Model](https://huggingface.co/papers/2510.18855) | ⭐ 1 | AI |
+| 🥉 [IF-VidCap: Can Video Caption Models Follow Instructions?](https://huggingface.co/papers/2510.18726) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-21 18:35 UTC</sub>
+<sub>Last updated: 2025-10-22 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
