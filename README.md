@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Grasp Any Region: Towards Precise, Contextual Pixel Understanding for
-  Multimodal LLMs](https://huggingface.co/papers/2510.18876) | ⭐ 2 | AI |
-| 🥈 [Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale
-  Thinking Model](https://huggingface.co/papers/2510.18855) | ⭐ 1 | AI |
-| 🥉 [IF-VidCap: Can Video Caption Models Follow Instructions?](https://huggingface.co/papers/2510.18726) | ⭐ 1 | AI |
+| 🏆 [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://huggingface.co/papers/2510.18866) | ⭐ 53 | AI |
+| 🥈 [World-in-World: World Models in a Closed-Loop World](https://huggingface.co/papers/2510.18135) | ⭐ 44 | AI |
+| 🥉 [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image
+  Generation](https://huggingface.co/papers/2510.18701) | ⭐ 43 | AI |
 
-<sub>Last updated: 2025-10-22 01:57 UTC</sub>
+<sub>Last updated: 2025-10-22 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
