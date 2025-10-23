@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Every Attention Matters: An Efficient Hybrid Architecture for
-  Long-Context Reasoning](https://huggingface.co/papers/2510.19338) | ⭐ 46 | AI |
+  Long-Context Reasoning](https://huggingface.co/papers/2510.19338) | ⭐ 57 | AI |
 | 🥈 [BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via
-  Balanced Policy Optimization with Adaptive Clipping](https://huggingface.co/papers/2510.18927) | ⭐ 40 | AI |
-| 🥉 [LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts](https://huggingface.co/papers/2510.19363) | ⭐ 26 | AI |
+  Balanced Policy Optimization with Adaptive Clipping](https://huggingface.co/papers/2510.18927) | ⭐ 56 | AI |
+| 🥉 [LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts](https://huggingface.co/papers/2510.19363) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-10-23 06:36 UTC</sub>
+<sub>Last updated: 2025-10-23 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
