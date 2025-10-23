@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://huggingface.co/papers/2510.18866) | ⭐ 77 | AI |
-| 🥈 [World-in-World: World Models in a Closed-Loop World](https://huggingface.co/papers/2510.18135) | ⭐ 62 | AI |
-| 🥉 [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image
-  Generation](https://huggingface.co/papers/2510.18701) | ⭐ 57 | AI |
+| 🏆 [LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts](https://huggingface.co/papers/2510.19363) | ⭐ 4 | AI |
+| 🥈 [olmOCR 2: Unit Test Rewards for Document OCR](https://huggingface.co/papers/2510.19817) | ⭐ 1 | AI |
+| 🥉 [Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing](https://huggingface.co/papers/2510.19808) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-22 18:36 UTC</sub>
+<sub>Last updated: 2025-10-23 01:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
