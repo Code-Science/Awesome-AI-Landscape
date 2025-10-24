@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Every Attention Matters: An Efficient Hybrid Architecture for
-  Long-Context Reasoning](https://huggingface.co/papers/2510.19338) | ⭐ 60 | AI |
-| 🥈 [BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via
-  Balanced Policy Optimization with Adaptive Clipping](https://huggingface.co/papers/2510.18927) | ⭐ 59 | AI |
-| 🥉 [LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts](https://huggingface.co/papers/2510.19363) | ⭐ 40 | AI |
+| 🏆 [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video
+  Narratives](https://huggingface.co/papers/2510.20822) | ⭐ 1 | AI |
+| 🥈 [LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered
+  Canvas](https://huggingface.co/papers/2510.20820) | ⭐ 1 | AI |
+| 🥉 [Every Question Has Its Own Value: Reinforcement Learning with Explicit
+  Human Values](https://huggingface.co/papers/2510.20187) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-23 18:35 UTC</sub>
+<sub>Last updated: 2025-10-24 01:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
