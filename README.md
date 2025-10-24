@@ -19,13 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [AdaSPEC: Selective Knowledge Distillation for Efficient Speculative
-  Decoders](https://huggingface.co/papers/2510.19779) | ⭐ 33 | AI |
-| 🥈 [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
-  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 21 | AI |
-| 🥉 [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video
-  Narratives](https://huggingface.co/papers/2510.20822) | ⭐ 13 | AI |
+  Decoders](https://huggingface.co/papers/2510.19779) | ⭐ 47 | AI |
+| 🥈 [Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](https://huggingface.co/papers/2510.19600) | ⭐ 47 | AI |
+| 🥉 [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
+  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-10-24 06:34 UTC</sub>
+<sub>Last updated: 2025-10-24 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
