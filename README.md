@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video
-  Narratives](https://huggingface.co/papers/2510.20822) | ⭐ 1 | AI |
-| 🥈 [LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered
-  Canvas](https://huggingface.co/papers/2510.20820) | ⭐ 1 | AI |
-| 🥉 [Every Question Has Its Own Value: Reinforcement Learning with Explicit
-  Human Values](https://huggingface.co/papers/2510.20187) | ⭐ 1 | AI |
+| 🏆 [AdaSPEC: Selective Knowledge Distillation for Efficient Speculative
+  Decoders](https://huggingface.co/papers/2510.19779) | ⭐ 33 | AI |
+| 🥈 [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
+  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 21 | AI |
+| 🥉 [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video
+  Narratives](https://huggingface.co/papers/2510.20822) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-10-24 01:48 UTC</sub>
+<sub>Last updated: 2025-10-24 06:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
