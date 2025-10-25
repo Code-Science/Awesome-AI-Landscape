@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](https://huggingface.co/papers/2510.19600) | ⭐ 54 | AI |
+| 🏆 [Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](https://huggingface.co/papers/2510.19600) | ⭐ 55 | AI |
 | 🥈 [AdaSPEC: Selective Knowledge Distillation for Efficient Speculative
-  Decoders](https://huggingface.co/papers/2510.19779) | ⭐ 48 | AI |
+  Decoders](https://huggingface.co/papers/2510.19779) | ⭐ 49 | AI |
 | 🥉 [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
-  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 32 | AI |
+  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-10-24 18:32 UTC</sub>
+<sub>Last updated: 2025-10-25 01:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
