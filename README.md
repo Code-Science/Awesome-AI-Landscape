@@ -22,9 +22,9 @@
 | 🥈 [AdaSPEC: Selective Knowledge Distillation for Efficient Speculative
   Decoders](https://huggingface.co/papers/2510.19779) | ⭐ 51 | AI |
 | 🥉 [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
-  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 34 | AI |
+  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 36 | AI |
 
-<sub>Last updated: 2025-10-25 06:32 UTC</sub>
+<sub>Last updated: 2025-10-25 12:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
