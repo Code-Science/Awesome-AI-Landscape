@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://huggingface.co/papers/2510.21618) | ⭐ 41 | AI |
-| 🥈 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 21 | AI |
+| 🏆 [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://huggingface.co/papers/2510.21618) | ⭐ 53 | AI |
+| 🥈 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 27 | AI |
 | 🥉 [From Denoising to Refining: A Corrective Framework for Vision-Language
-  Diffusion Model](https://huggingface.co/papers/2510.19871) | ⭐ 20 | AI |
+  Diffusion Model](https://huggingface.co/papers/2510.19871) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-10-27 06:39 UTC</sub>
+<sub>Last updated: 2025-10-27 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
