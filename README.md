@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](https://huggingface.co/papers/2510.19600) | ⭐ 61 | AI |
-| 🥈 [AdaSPEC: Selective Knowledge Distillation for Efficient Speculative
-  Decoders](https://huggingface.co/papers/2510.19779) | ⭐ 55 | AI |
-| 🥉 [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
-  Evidence](https://huggingface.co/papers/2510.20579) | ⭐ 43 | AI |
+| 🏆 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 2 | AI |
+| 🥈 [WorldGrow: Generating Infinite 3D World](https://huggingface.co/papers/2510.21682) | ⭐ 1 | AI |
+| 🥉 [PhysWorld: From Real Videos to World Models of Deformable Objects via
+  Physics-Aware Demonstration Synthesis](https://huggingface.co/papers/2510.21447) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-26 18:32 UTC</sub>
+<sub>Last updated: 2025-10-27 02:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
