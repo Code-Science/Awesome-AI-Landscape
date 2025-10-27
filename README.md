@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 2 | AI |
-| 🥈 [WorldGrow: Generating Infinite 3D World](https://huggingface.co/papers/2510.21682) | ⭐ 1 | AI |
-| 🥉 [PhysWorld: From Real Videos to World Models of Deformable Objects via
-  Physics-Aware Demonstration Synthesis](https://huggingface.co/papers/2510.21447) | ⭐ 1 | AI |
+| 🏆 [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://huggingface.co/papers/2510.21618) | ⭐ 41 | AI |
+| 🥈 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 21 | AI |
+| 🥉 [From Denoising to Refining: A Corrective Framework for Vision-Language
+  Diffusion Model](https://huggingface.co/papers/2510.19871) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-10-27 02:04 UTC</sub>
+<sub>Last updated: 2025-10-27 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
