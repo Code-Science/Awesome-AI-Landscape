@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
-  Representations](https://huggingface.co/papers/2510.23607) | ⭐ 137 | AI |
-| 🥈 [ReCode: Unify Plan and Action for Universal Granularity Control](https://huggingface.co/papers/2510.23564) | ⭐ 83 | AI |
-| 🥉 [A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](https://huggingface.co/papers/2510.23587) | ⭐ 47 | AI |
+  Representations](https://huggingface.co/papers/2510.23607) | ⭐ 143 | AI |
+| 🥈 [ReCode: Unify Plan and Action for Universal Granularity Control](https://huggingface.co/papers/2510.23564) | ⭐ 97 | AI |
+| 🥉 [A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](https://huggingface.co/papers/2510.23587) | ⭐ 50 | AI |
 
-<sub>Last updated: 2025-10-28 12:51 UTC</sub>
+<sub>Last updated: 2025-10-28 18:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
