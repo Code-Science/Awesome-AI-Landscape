@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://huggingface.co/papers/2510.21618) | ⭐ 58 | AI |
-| 🥈 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 31 | AI |
-| 🥉 [Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image
-  Generation](https://huggingface.co/papers/2510.21583) | ⭐ 25 | AI |
+| 🏆 [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://huggingface.co/papers/2510.21618) | ⭐ 63 | AI |
+| 🥈 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 35 | AI |
+| 🥉 [WorldGrow: Generating Infinite 3D World](https://huggingface.co/papers/2510.21682) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-10-27 18:35 UTC</sub>
+<sub>Last updated: 2025-10-28 01:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
