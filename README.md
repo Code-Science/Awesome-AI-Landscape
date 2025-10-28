@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://huggingface.co/papers/2510.21618) | ⭐ 63 | AI |
-| 🥈 [Video-As-Prompt: Unified Semantic Control for Video Generation](https://huggingface.co/papers/2510.20888) | ⭐ 35 | AI |
-| 🥉 [WorldGrow: Generating Infinite 3D World](https://huggingface.co/papers/2510.21682) | ⭐ 29 | AI |
+| 🏆 [ReCode: Unify Plan and Action for Universal Granularity Control](https://huggingface.co/papers/2510.23564) | ⭐ 60 | AI |
+| 🥈 [Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
+  Representations](https://huggingface.co/papers/2510.23607) | ⭐ 53 | AI |
+| 🥉 [VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing,
+  Speaking, and Acting](https://huggingface.co/papers/2510.21817) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-10-28 01:53 UTC</sub>
+<sub>Last updated: 2025-10-28 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
