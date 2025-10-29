@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a
-  Unified Concept Set](https://huggingface.co/papers/2510.21323) | ⭐ 1 | AI |
-| 🥈 [Tongyi DeepResearch Technical Report](https://huggingface.co/papers/2510.24701) | ⭐ 0 | AI |
-| 🥉 [ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?](https://huggingface.co/papers/2510.24591) | ⭐ 0 | AI |
+| 🏆 [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://huggingface.co/papers/2510.24668) | ⭐ 49 | AI |
+| 🥈 [Tongyi DeepResearch Technical Report](https://huggingface.co/papers/2510.24701) | ⭐ 37 | AI |
+| 🥉 [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://huggingface.co/papers/2510.24699) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-10-29 02:00 UTC</sub>
+<sub>Last updated: 2025-10-29 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
