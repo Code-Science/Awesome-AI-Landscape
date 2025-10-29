@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
-  Representations](https://huggingface.co/papers/2510.23607) | ⭐ 143 | AI |
-| 🥈 [ReCode: Unify Plan and Action for Universal Granularity Control](https://huggingface.co/papers/2510.23564) | ⭐ 97 | AI |
-| 🥉 [A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](https://huggingface.co/papers/2510.23587) | ⭐ 50 | AI |
+| 🏆 [VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a
+  Unified Concept Set](https://huggingface.co/papers/2510.21323) | ⭐ 1 | AI |
+| 🥈 [Tongyi DeepResearch Technical Report](https://huggingface.co/papers/2510.24701) | ⭐ 0 | AI |
+| 🥉 [ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?](https://huggingface.co/papers/2510.24591) | ⭐ 0 | AI |
 
-<sub>Last updated: 2025-10-28 18:37 UTC</sub>
+<sub>Last updated: 2025-10-29 02:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
