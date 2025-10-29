@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://huggingface.co/papers/2510.24668) | ⭐ 78 | AI |
-| 🥈 [Tongyi DeepResearch Technical Report](https://huggingface.co/papers/2510.24701) | ⭐ 53 | AI |
-| 🥉 [RoboOmni: Proactive Robot Manipulation in Omni-modal Context](https://huggingface.co/papers/2510.23763) | ⭐ 48 | AI |
+| 🏆 [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://huggingface.co/papers/2510.24668) | ⭐ 82 | AI |
+| 🥈 [Tongyi DeepResearch Technical Report](https://huggingface.co/papers/2510.24701) | ⭐ 65 | AI |
+| 🥉 [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://huggingface.co/papers/2510.24699) | ⭐ 51 | AI |
 
-<sub>Last updated: 2025-10-29 12:53 UTC</sub>
+<sub>Last updated: 2025-10-29 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
