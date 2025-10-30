@@ -19,13 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [JanusCoder: Towards a Foundational Visual-Programmatic Interface for
-  Code Intelligence](https://huggingface.co/papers/2510.23538) | ⭐ 71 | AI |
+  Code Intelligence](https://huggingface.co/papers/2510.23538) | ⭐ 76 | AI |
 | 🥈 [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement
-  Learning](https://huggingface.co/papers/2510.23473) | ⭐ 66 | AI |
-| 🥉 [ReForm: Reflective Autoformalization with Prospective Bounded Sequence
-  Optimization](https://huggingface.co/papers/2510.24592) | ⭐ 47 | AI |
+  Learning](https://huggingface.co/papers/2510.23473) | ⭐ 73 | AI |
+| 🥉 [Scaling Latent Reasoning via Looped Language Models](https://huggingface.co/papers/2510.25741) | ⭐ 50 | AI |
 
-<sub>Last updated: 2025-10-30 12:52 UTC</sub>
+<sub>Last updated: 2025-10-30 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
