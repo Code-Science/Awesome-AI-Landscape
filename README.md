@@ -18,11 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InteractComp: Evaluating Search Agents With Ambiguous Queries](https://huggingface.co/papers/2510.24668) | ⭐ 82 | AI |
-| 🥈 [Tongyi DeepResearch Technical Report](https://huggingface.co/papers/2510.24701) | ⭐ 65 | AI |
-| 🥉 [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://huggingface.co/papers/2510.24699) | ⭐ 51 | AI |
+| 🏆 [The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic,
+  and Long-Horizon Task Execution](https://huggingface.co/papers/2510.25726) | ⭐ 3 | AI |
+| 🥈 [Scaling Latent Reasoning via Looped Language Models](https://huggingface.co/papers/2510.25741) | ⭐ 1 | AI |
+| 🥉 [RegionE: Adaptive Region-Aware Generation for Efficient Image Editing](https://huggingface.co/papers/2510.25590) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-29 18:35 UTC</sub>
+<sub>Last updated: 2025-10-30 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
