@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement
-  Learning](https://huggingface.co/papers/2510.23473) | ⭐ 47 | AI |
-| 🥈 [JanusCoder: Towards a Foundational Visual-Programmatic Interface for
-  Code Intelligence](https://huggingface.co/papers/2510.23538) | ⭐ 45 | AI |
-| 🥉 [Reasoning-Aware GRPO using Process Mining](https://huggingface.co/papers/2510.25065) | ⭐ 29 | AI |
+| 🏆 [JanusCoder: Towards a Foundational Visual-Programmatic Interface for
+  Code Intelligence](https://huggingface.co/papers/2510.23538) | ⭐ 71 | AI |
+| 🥈 [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement
+  Learning](https://huggingface.co/papers/2510.23473) | ⭐ 66 | AI |
+| 🥉 [ReForm: Reflective Autoformalization with Prospective Bounded Sequence
+  Optimization](https://huggingface.co/papers/2510.24592) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-10-30 06:36 UTC</sub>
+<sub>Last updated: 2025-10-30 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
