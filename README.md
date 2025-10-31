@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 51 | AI |
-| 🥈 [Exploring Conditions for Diffusion models in Robotic Control](https://huggingface.co/papers/2510.15510) | ⭐ 34 | AI |
-| 🥉 [The End of Manual Decoding: Towards Truly End-to-End Language Models](https://huggingface.co/papers/2510.26697) | ⭐ 33 | AI |
+| 🏆 [The End of Manual Decoding: Towards Truly End-to-End Language Models](https://huggingface.co/papers/2510.26697) | ⭐ 64 | AI |
+| 🥈 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 55 | AI |
+| 🥉 [Exploring Conditions for Diffusion models in Robotic Control](https://huggingface.co/papers/2510.15510) | ⭐ 36 | AI |
 
-<sub>Last updated: 2025-10-31 12:51 UTC</sub>
+<sub>Last updated: 2025-10-31 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
