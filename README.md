@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi Linear: An Expressive, Efficient Attention Architecture](https://huggingface.co/papers/2510.26692) | ⭐ 2 | AI |
-| 🥈 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 2 | AI |
-| 🥉 [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with
-  the MME-CoF Benchmark](https://huggingface.co/papers/2510.26802) | ⭐ 1 | AI |
+| 🏆 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 33 | AI |
+| 🥈 [Exploring Conditions for Diffusion models in Robotic Control](https://huggingface.co/papers/2510.15510) | ⭐ 33 | AI |
+| 🥉 [The Quest for Generalizable Motion Generation: Data, Model, and
+  Evaluation](https://huggingface.co/papers/2510.26794) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-10-31 01:56 UTC</sub>
+<sub>Last updated: 2025-10-31 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
