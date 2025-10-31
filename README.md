@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [JanusCoder: Towards a Foundational Visual-Programmatic Interface for
-  Code Intelligence](https://huggingface.co/papers/2510.23538) | ⭐ 76 | AI |
-| 🥈 [Video-Thinker: Sparking "Thinking with Videos" via Reinforcement
-  Learning](https://huggingface.co/papers/2510.23473) | ⭐ 73 | AI |
-| 🥉 [Scaling Latent Reasoning via Looped Language Models](https://huggingface.co/papers/2510.25741) | ⭐ 50 | AI |
+| 🏆 [Kimi Linear: An Expressive, Efficient Attention Architecture](https://huggingface.co/papers/2510.26692) | ⭐ 2 | AI |
+| 🥈 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 2 | AI |
+| 🥉 [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with
+  the MME-CoF Benchmark](https://huggingface.co/papers/2510.26802) | ⭐ 1 | AI |
 
-<sub>Last updated: 2025-10-30 18:35 UTC</sub>
+<sub>Last updated: 2025-10-31 01:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
