@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 33 | AI |
-| 🥈 [Exploring Conditions for Diffusion models in Robotic Control](https://huggingface.co/papers/2510.15510) | ⭐ 33 | AI |
-| 🥉 [The Quest for Generalizable Motion Generation: Data, Model, and
-  Evaluation](https://huggingface.co/papers/2510.26794) | ⭐ 19 | AI |
+| 🏆 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 51 | AI |
+| 🥈 [Exploring Conditions for Diffusion models in Robotic Control](https://huggingface.co/papers/2510.15510) | ⭐ 34 | AI |
+| 🥉 [The End of Manual Decoding: Towards Truly End-to-End Language Models](https://huggingface.co/papers/2510.26697) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-10-31 06:36 UTC</sub>
+<sub>Last updated: 2025-10-31 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
