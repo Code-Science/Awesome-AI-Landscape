@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The End of Manual Decoding: Towards Truly End-to-End Language Models](https://huggingface.co/papers/2510.26697) | ⭐ 98 | AI |
-| 🥈 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 78 | AI |
-| 🥉 [Kimi Linear: An Expressive, Efficient Attention Architecture](https://huggingface.co/papers/2510.26692) | ⭐ 64 | AI |
+| 🏆 [The End of Manual Decoding: Towards Truly End-to-End Language Models](https://huggingface.co/papers/2510.26697) | ⭐ 100 | AI |
+| 🥈 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 84 | AI |
+| 🥉 [Kimi Linear: An Expressive, Efficient Attention Architecture](https://huggingface.co/papers/2510.26692) | ⭐ 67 | AI |
 
-<sub>Last updated: 2025-11-02 18:30 UTC</sub>
+<sub>Last updated: 2025-11-03 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
