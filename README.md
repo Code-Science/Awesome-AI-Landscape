@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The End of Manual Decoding: Towards Truly End-to-End Language Models](https://huggingface.co/papers/2510.26697) | ⭐ 100 | AI |
-| 🥈 [Emu3.5: Native Multimodal Models are World Learners](https://huggingface.co/papers/2510.26583) | ⭐ 84 | AI |
-| 🥉 [Kimi Linear: An Expressive, Efficient Attention Architecture](https://huggingface.co/papers/2510.26692) | ⭐ 67 | AI |
+| 🏆 [ThinkMorph: Emergent Properties in Multimodal Interleaved
+  Chain-of-Thought Reasoning](https://huggingface.co/papers/2510.27492) | ⭐ 30 | AI |
+| 🥈 [INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization
+  Formats](https://huggingface.co/papers/2510.25602) | ⭐ 30 | AI |
+| 🥉 [Continuous Autoregressive Language Models](https://huggingface.co/papers/2510.27688) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-11-03 02:01 UTC</sub>
+<sub>Last updated: 2025-11-03 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
