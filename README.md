@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid
-  Validation in Realistic Workflows](https://huggingface.co/papers/2510.24411) | ⭐ 57 | AI |
+  Validation in Realistic Workflows](https://huggingface.co/papers/2510.24411) | ⭐ 60 | AI |
 | 🥈 [ThinkMorph: Emergent Properties in Multimodal Interleaved
-  Chain-of-Thought Reasoning](https://huggingface.co/papers/2510.27492) | ⭐ 52 | AI |
+  Chain-of-Thought Reasoning](https://huggingface.co/papers/2510.27492) | ⭐ 56 | AI |
 | 🥉 [INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization
-  Formats](https://huggingface.co/papers/2510.25602) | ⭐ 46 | AI |
+  Formats](https://huggingface.co/papers/2510.25602) | ⭐ 48 | AI |
 
-<sub>Last updated: 2025-11-03 18:33 UTC</sub>
+<sub>Last updated: 2025-11-04 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
