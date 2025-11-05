@@ -18,13 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open
-  Language Foundation](https://huggingface.co/papers/2510.22115) | ⭐ 60 | AI |
-| 🥈 [Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph](https://huggingface.co/papers/2511.00086) | ⭐ 33 | AI |
-| 🥉 [The Underappreciated Power of Vision Models for Graph Structural
-  Understanding](https://huggingface.co/papers/2510.24788) | ⭐ 31 | AI |
+| 🏆 [VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual
+  Representation](https://huggingface.co/papers/2511.02778) | ⭐ 37 | AI |
+| 🥈 [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for
+  Visual Chain-of-Thought](https://huggingface.co/papers/2511.02779) | ⭐ 21 | AI |
+| 🥉 [When Modalities Conflict: How Unimodal Reasoning Uncertainty Governs
+  Preference Dynamics in MLLMs](https://huggingface.co/papers/2511.02243) | ⭐ 12 | AI |
 
-<sub>Last updated: 2025-11-05 01:58 UTC</sub>
+<sub>Last updated: 2025-11-05 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
