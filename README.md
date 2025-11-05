@@ -19,13 +19,13 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual
-  Representation](https://huggingface.co/papers/2511.02778) | ⭐ 37 | AI |
+  Representation](https://huggingface.co/papers/2511.02778) | ⭐ 53 | AI |
 | 🥈 [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for
-  Visual Chain-of-Thought](https://huggingface.co/papers/2511.02779) | ⭐ 21 | AI |
+  Visual Chain-of-Thought](https://huggingface.co/papers/2511.02779) | ⭐ 32 | AI |
 | 🥉 [When Modalities Conflict: How Unimodal Reasoning Uncertainty Governs
-  Preference Dynamics in MLLMs](https://huggingface.co/papers/2511.02243) | ⭐ 12 | AI |
+  Preference Dynamics in MLLMs](https://huggingface.co/papers/2511.02243) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-11-05 06:36 UTC</sub>
+<sub>Last updated: 2025-11-05 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
