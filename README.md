@@ -19,12 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open
-  Language Foundation](https://huggingface.co/papers/2510.22115) | ⭐ 59 | AI |
-| 🥈 [The Underappreciated Power of Vision Models for Graph Structural
-  Understanding](https://huggingface.co/papers/2510.24788) | ⭐ 30 | AI |
-| 🥉 [Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph](https://huggingface.co/papers/2511.00086) | ⭐ 28 | AI |
+  Language Foundation](https://huggingface.co/papers/2510.22115) | ⭐ 60 | AI |
+| 🥈 [Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph](https://huggingface.co/papers/2511.00086) | ⭐ 33 | AI |
+| 🥉 [The Underappreciated Power of Vision Models for Graph Structural
+  Understanding](https://huggingface.co/papers/2510.24788) | ⭐ 31 | AI |
 
-<sub>Last updated: 2025-11-04 18:35 UTC</sub>
+<sub>Last updated: 2025-11-05 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
