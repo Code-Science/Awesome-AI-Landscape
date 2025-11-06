@@ -18,14 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Don't Blind Your VLA: Aligning Visual Representations for OOD
-  Generalization](https://huggingface.co/papers/2510.25616) | ⭐ 70 | AI |
-| 🥈 [VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual
-  Representation](https://huggingface.co/papers/2511.02778) | ⭐ 64 | AI |
-| 🥉 [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for
-  Visual Chain-of-Thought](https://huggingface.co/papers/2511.02779) | ⭐ 42 | AI |
+| 🏆 [Diffusion Language Models are Super Data Learners](https://huggingface.co/papers/2511.03276) | ⭐ 44 | AI |
+| 🥈 [Kinematify: Open-Vocabulary Synthesis of High-DoF Articulated Objects](https://huggingface.co/papers/2511.01294) | ⭐ 6 | AI |
+| 🥉 [LiveTradeBench: Seeking Real-World Alpha with Large Language Models](https://huggingface.co/papers/2511.03628) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-11-06 01:58 UTC</sub>
+<sub>Last updated: 2025-11-06 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
