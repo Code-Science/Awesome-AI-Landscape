@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Diffusion Language Models are Super Data Learners](https://huggingface.co/papers/2511.03276) | ⭐ 44 | AI |
-| 🥈 [Kinematify: Open-Vocabulary Synthesis of High-DoF Articulated Objects](https://huggingface.co/papers/2511.01294) | ⭐ 6 | AI |
-| 🥉 [LiveTradeBench: Seeking Real-World Alpha with Large Language Models](https://huggingface.co/papers/2511.03628) | ⭐ 3 | AI |
+| 🏆 [Diffusion Language Models are Super Data Learners](https://huggingface.co/papers/2511.03276) | ⭐ 59 | AI |
+| 🥈 [UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal
+  Interactions](https://huggingface.co/papers/2511.03334) | ⭐ 32 | AI |
+| 🥉 [LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied
+  Environments with Tool Augmentation](https://huggingface.co/papers/2511.03001) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-11-06 06:37 UTC</sub>
+<sub>Last updated: 2025-11-06 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
