@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Diffusion Language Models are Super Data Learners](https://huggingface.co/papers/2511.03276) | ⭐ 59 | AI |
+| 🏆 [Diffusion Language Models are Super Data Learners](https://huggingface.co/papers/2511.03276) | ⭐ 63 | AI |
 | 🥈 [UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal
-  Interactions](https://huggingface.co/papers/2511.03334) | ⭐ 32 | AI |
+  Interactions](https://huggingface.co/papers/2511.03334) | ⭐ 37 | AI |
 | 🥉 [LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied
-  Environments with Tool Augmentation](https://huggingface.co/papers/2511.03001) | ⭐ 17 | AI |
+  Environments with Tool Augmentation](https://huggingface.co/papers/2511.03001) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-11-06 12:52 UTC</sub>
+<sub>Last updated: 2025-11-06 18:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
