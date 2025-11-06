@@ -18,14 +18,14 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual
-  Representation](https://huggingface.co/papers/2511.02778) | ⭐ 60 | AI |
-| 🥈 [Don't Blind Your VLA: Aligning Visual Representations for OOD
-  Generalization](https://huggingface.co/papers/2510.25616) | ⭐ 58 | AI |
+| 🏆 [Don't Blind Your VLA: Aligning Visual Representations for OOD
+  Generalization](https://huggingface.co/papers/2510.25616) | ⭐ 70 | AI |
+| 🥈 [VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual
+  Representation](https://huggingface.co/papers/2511.02778) | ⭐ 64 | AI |
 | 🥉 [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for
-  Visual Chain-of-Thought](https://huggingface.co/papers/2511.02779) | ⭐ 37 | AI |
+  Visual Chain-of-Thought](https://huggingface.co/papers/2511.02779) | ⭐ 42 | AI |
 
-<sub>Last updated: 2025-11-05 18:35 UTC</sub>
+<sub>Last updated: 2025-11-06 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
