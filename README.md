@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Diffusion Language Models are Super Data Learners](https://huggingface.co/papers/2511.03276) | ⭐ 65 | AI |
-| 🥈 [UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal
-  Interactions](https://huggingface.co/papers/2511.03334) | ⭐ 39 | AI |
-| 🥉 [LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied
-  Environments with Tool Augmentation](https://huggingface.co/papers/2511.03001) | ⭐ 39 | AI |
+| 🏆 [V-Thinker: Interactive Thinking with Images](https://huggingface.co/papers/2511.04460) | ⭐ 52 | AI |
+| 🥈 [Thinking with Video: Video Generation as a Promising Multimodal
+  Reasoning Paradigm](https://huggingface.co/papers/2511.04570) | ⭐ 48 | AI |
+| 🥉 [Scaling Agent Learning via Experience Synthesis](https://huggingface.co/papers/2511.03773) | ⭐ 36 | AI |
 
-<sub>Last updated: 2025-11-07 01:57 UTC</sub>
+<sub>Last updated: 2025-11-07 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
