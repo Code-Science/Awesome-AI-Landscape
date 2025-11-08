@@ -19,11 +19,11 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Thinking with Video: Video Generation as a Promising Multimodal
-  Reasoning Paradigm](https://huggingface.co/papers/2511.04570) | ⭐ 138 | AI |
-| 🥈 [V-Thinker: Interactive Thinking with Images](https://huggingface.co/papers/2511.04460) | ⭐ 73 | AI |
-| 🥉 [Scaling Agent Learning via Experience Synthesis](https://huggingface.co/papers/2511.03773) | ⭐ 55 | AI |
+  Reasoning Paradigm](https://huggingface.co/papers/2511.04570) | ⭐ 142 | AI |
+| 🥈 [V-Thinker: Interactive Thinking with Images](https://huggingface.co/papers/2511.04460) | ⭐ 74 | AI |
+| 🥉 [Scaling Agent Learning via Experience Synthesis](https://huggingface.co/papers/2511.03773) | ⭐ 57 | AI |
 
-<sub>Last updated: 2025-11-08 12:45 UTC</sub>
+<sub>Last updated: 2025-11-08 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
