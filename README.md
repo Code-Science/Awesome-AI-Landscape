@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Visual Spatial Tuning](https://huggingface.co/papers/2511.05491) | ⭐ 7 | AI |
-| 🥈 [DeepEyesV2: Toward Agentic Multimodal Model](https://huggingface.co/papers/2511.05271) | ⭐ 7 | AI |
-| 🥉 [Towards Mitigating Hallucinations in Large Vision-Language Models by
-  Refining Textual Embeddings](https://huggingface.co/papers/2511.05017) | ⭐ 3 | AI |
+| 🏆 [DeepEyesV2: Toward Agentic Multimodal Model](https://huggingface.co/papers/2511.05271) | ⭐ 21 | AI |
+| 🥈 [Visual Spatial Tuning](https://huggingface.co/papers/2511.05491) | ⭐ 14 | AI |
+| 🥉 [Too Good to be Bad: On the Failure of LLMs to Role-Play Villains](https://huggingface.co/papers/2511.04962) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-11-10 06:39 UTC</sub>
+<sub>Last updated: 2025-11-10 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
