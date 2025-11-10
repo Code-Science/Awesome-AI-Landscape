@@ -18,12 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thinking with Video: Video Generation as a Promising Multimodal
-  Reasoning Paradigm](https://huggingface.co/papers/2511.04570) | ⭐ 162 | AI |
-| 🥈 [V-Thinker: Interactive Thinking with Images](https://huggingface.co/papers/2511.04460) | ⭐ 81 | AI |
-| 🥉 [Scaling Agent Learning via Experience Synthesis](https://huggingface.co/papers/2511.03773) | ⭐ 64 | AI |
+| 🏆 [Visual Spatial Tuning](https://huggingface.co/papers/2511.05491) | ⭐ 7 | AI |
+| 🥈 [DeepEyesV2: Toward Agentic Multimodal Model](https://huggingface.co/papers/2511.05271) | ⭐ 7 | AI |
+| 🥉 [Towards Mitigating Hallucinations in Large Vision-Language Models by
+  Refining Textual Embeddings](https://huggingface.co/papers/2511.05017) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-11-10 02:03 UTC</sub>
+<sub>Last updated: 2025-11-10 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
