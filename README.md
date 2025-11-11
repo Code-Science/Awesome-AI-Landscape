@@ -18,11 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Too Good to be Bad: On the Failure of LLMs to Role-Play Villains](https://huggingface.co/papers/2511.04962) | ⭐ 32 | AI |
-| 🥈 [DeepEyesV2: Toward Agentic Multimodal Model](https://huggingface.co/papers/2511.05271) | ⭐ 30 | AI |
-| 🥉 [Visual Spatial Tuning](https://huggingface.co/papers/2511.05491) | ⭐ 29 | AI |
+| 🏆 [HaluMem: Evaluating Hallucinations in Memory Systems of Agents](https://huggingface.co/papers/2511.03506) | ⭐ 35 | AI |
+| 🥈 [IterResearch: Rethinking Long-Horizon Agents via Markovian State
+  Reconstruction](https://huggingface.co/papers/2511.07327) | ⭐ 22 | AI |
+| 🥉 [DRIVE: Data Curation Best Practices for Reinforcement Learning with
+  Verifiable Reward in Competitive Code Generation](https://huggingface.co/papers/2511.06307) | ⭐ 15 | AI |
 
-<sub>Last updated: 2025-11-11 01:59 UTC</sub>
+<sub>Last updated: 2025-11-11 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
