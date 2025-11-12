@@ -18,13 +18,13 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HaluMem: Evaluating Hallucinations in Memory Systems of Agents](https://huggingface.co/papers/2511.03506) | ⭐ 67 | AI |
+| 🏆 [HaluMem: Evaluating Hallucinations in Memory Systems of Agents](https://huggingface.co/papers/2511.03506) | ⭐ 72 | AI |
 | 🥈 [IterResearch: Rethinking Long-Horizon Agents via Markovian State
-  Reconstruction](https://huggingface.co/papers/2511.07327) | ⭐ 57 | AI |
+  Reconstruction](https://huggingface.co/papers/2511.07327) | ⭐ 59 | AI |
 | 🥉 [DRIVE: Data Curation Best Practices for Reinforcement Learning with
-  Verifiable Reward in Competitive Code Generation](https://huggingface.co/papers/2511.06307) | ⭐ 39 | AI |
+  Verifiable Reward in Competitive Code Generation](https://huggingface.co/papers/2511.06307) | ⭐ 41 | AI |
 
-<sub>Last updated: 2025-11-11 18:35 UTC</sub>
+<sub>Last updated: 2025-11-12 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
