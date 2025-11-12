@@ -18,13 +18,12 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HaluMem: Evaluating Hallucinations in Memory Systems of Agents](https://huggingface.co/papers/2511.03506) | ⭐ 72 | AI |
-| 🥈 [IterResearch: Rethinking Long-Horizon Agents via Markovian State
-  Reconstruction](https://huggingface.co/papers/2511.07327) | ⭐ 59 | AI |
-| 🥉 [DRIVE: Data Curation Best Practices for Reinforcement Learning with
-  Verifiable Reward in Competitive Code Generation](https://huggingface.co/papers/2511.06307) | ⭐ 41 | AI |
+| 🏆 [Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model
+  Reasoning Ability in VibeThinker-1.5B](https://huggingface.co/papers/2511.06221) | ⭐ 34 | AI |
+| 🥈 [Adaptive Multi-Agent Response Refinement in Conversational Systems](https://huggingface.co/papers/2511.08319) | ⭐ 23 | AI |
+| 🥉 [Grounding Computer Use Agents on Human Demonstrations](https://huggingface.co/papers/2511.07332) | ⭐ 18 | AI |
 
-<sub>Last updated: 2025-11-12 01:58 UTC</sub>
+<sub>Last updated: 2025-11-12 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
