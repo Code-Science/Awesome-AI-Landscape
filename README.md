@@ -19,11 +19,12 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model
-  Reasoning Ability in VibeThinker-1.5B](https://huggingface.co/papers/2511.06221) | ⭐ 34 | AI |
-| 🥈 [Adaptive Multi-Agent Response Refinement in Conversational Systems](https://huggingface.co/papers/2511.08319) | ⭐ 23 | AI |
-| 🥉 [Grounding Computer Use Agents on Human Demonstrations](https://huggingface.co/papers/2511.07332) | ⭐ 18 | AI |
+  Reasoning Ability in VibeThinker-1.5B](https://huggingface.co/papers/2511.06221) | ⭐ 44 | AI |
+| 🥈 [Adaptive Multi-Agent Response Refinement in Conversational Systems](https://huggingface.co/papers/2511.08319) | ⭐ 31 | AI |
+| 🥉 [Wasm: A Pipeline for Constructing Structured Arabic Interleaved
+  Multimodal Corpora](https://huggingface.co/papers/2511.07080) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-11-12 06:37 UTC</sub>
+<sub>Last updated: 2025-11-12 12:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
