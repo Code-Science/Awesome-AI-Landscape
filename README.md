@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://huggingface.co/papers/2511.08892) | ⭐ 63 | AI |
-| 🥈 [Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising](https://huggingface.co/papers/2511.08633) | ⭐ 30 | AI |
-| 🥉 [TiDAR: Think in Diffusion, Talk in Autoregression](https://huggingface.co/papers/2511.08923) | ⭐ 23 | AI |
+| 🏆 [Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://huggingface.co/papers/2511.08892) | ⭐ 78 | AI |
+| 🥈 [MADD: Multi-Agent Drug Discovery Orchestra](https://huggingface.co/papers/2511.08217) | ⭐ 39 | AI |
+| 🥉 [Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising](https://huggingface.co/papers/2511.08633) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-11-13 12:54 UTC</sub>
+<sub>Last updated: 2025-11-13 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
