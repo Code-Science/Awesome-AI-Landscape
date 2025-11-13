@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://huggingface.co/papers/2511.08892) | ⭐ 28 | AI |
-| 🥈 [TiDAR: Think in Diffusion, Talk in Autoregression](https://huggingface.co/papers/2511.08923) | ⭐ 13 | AI |
-| 🥉 [LoopTool: Closing the Data-Training Loop for Robust LLM Tool Calls](https://huggingface.co/papers/2511.09148) | ⭐ 5 | AI |
+| 🏆 [Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://huggingface.co/papers/2511.08892) | ⭐ 63 | AI |
+| 🥈 [Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising](https://huggingface.co/papers/2511.08633) | ⭐ 30 | AI |
+| 🥉 [TiDAR: Think in Diffusion, Talk in Autoregression](https://huggingface.co/papers/2511.08923) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-11-13 06:37 UTC</sub>
+<sub>Last updated: 2025-11-13 12:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
