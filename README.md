@@ -18,12 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Grounding Computer Use Agents on Human Demonstrations](https://huggingface.co/papers/2511.07332) | ⭐ 77 | AI |
-| 🥈 [Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model
-  Reasoning Ability in VibeThinker-1.5B](https://huggingface.co/papers/2511.06221) | ⭐ 61 | AI |
-| 🥉 [Adaptive Multi-Agent Response Refinement in Conversational Systems](https://huggingface.co/papers/2511.08319) | ⭐ 34 | AI |
+| 🏆 [Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://huggingface.co/papers/2511.08892) | ⭐ 28 | AI |
+| 🥈 [TiDAR: Think in Diffusion, Talk in Autoregression](https://huggingface.co/papers/2511.08923) | ⭐ 13 | AI |
+| 🥉 [LoopTool: Closing the Data-Training Loop for Robust LLM Tool Calls](https://huggingface.co/papers/2511.09148) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-11-13 01:59 UTC</sub>
+<sub>Last updated: 2025-11-13 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
