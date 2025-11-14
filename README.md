@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://huggingface.co/papers/2511.08521) | ⭐ 15 | AI |
-| 🥈 [Black-Box On-Policy Distillation of Large Language Models](https://huggingface.co/papers/2511.10643) | ⭐ 11 | AI |
-| 🥉 [Depth Anything 3: Recovering the Visual Space from Any Views](https://huggingface.co/papers/2511.10647) | ⭐ 7 | AI |
+| 🏆 [One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models](https://huggingface.co/papers/2511.10629) | ⭐ 34 | AI |
+| 🥈 [UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://huggingface.co/papers/2511.08521) | ⭐ 22 | AI |
+| 🥉 [Black-Box On-Policy Distillation of Large Language Models](https://huggingface.co/papers/2511.10643) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-11-14 12:51 UTC</sub>
+<sub>Last updated: 2025-11-14 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
