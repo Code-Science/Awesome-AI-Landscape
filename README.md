@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://huggingface.co/papers/2511.08892) | ⭐ 106 | AI |
-| 🥈 [MADD: Multi-Agent Drug Discovery Orchestra](https://huggingface.co/papers/2511.08217) | ⭐ 49 | AI |
-| 🥉 [TiDAR: Think in Diffusion, Talk in Autoregression](https://huggingface.co/papers/2511.08923) | ⭐ 43 | AI |
+| 🏆 [UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://huggingface.co/papers/2511.08521) | ⭐ 15 | AI |
+| 🥈 [Black-Box On-Policy Distillation of Large Language Models](https://huggingface.co/papers/2511.10643) | ⭐ 11 | AI |
+| 🥉 [Depth Anything 3: Recovering the Visual Space from Any Views](https://huggingface.co/papers/2511.10647) | ⭐ 7 | AI |
 
-<sub>Last updated: 2025-11-14 06:37 UTC</sub>
+<sub>Last updated: 2025-11-14 12:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
