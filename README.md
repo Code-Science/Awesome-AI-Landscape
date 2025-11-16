@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models](https://huggingface.co/papers/2511.10629) | ⭐ 71 | AI |
-| 🥈 [PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://huggingface.co/papers/2511.09057) | ⭐ 49 | AI |
-| 🥉 [UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://huggingface.co/papers/2511.08521) | ⭐ 31 | AI |
+| 🏆 [One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models](https://huggingface.co/papers/2511.10629) | ⭐ 77 | AI |
+| 🥈 [PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://huggingface.co/papers/2511.09057) | ⭐ 56 | AI |
+| 🥉 [UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://huggingface.co/papers/2511.08521) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-11-15 18:31 UTC</sub>
+<sub>Last updated: 2025-11-16 02:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
