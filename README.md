@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models](https://huggingface.co/papers/2511.10629) | ⭐ 86 | AI |
-| 🥈 [PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://huggingface.co/papers/2511.09057) | ⭐ 63 | AI |
-| 🥉 [Depth Anything 3: Recovering the Visual Space from Any Views](https://huggingface.co/papers/2511.10647) | ⭐ 40 | AI |
+| 🏆 [AIonopedia: an LLM agent orchestrating multimodal learning for ionic liquid discovery](https://huggingface.co/papers/2511.11257) | ⭐ 13 | AI |
+| 🥈 [Virtual Width Networks](https://huggingface.co/papers/2511.11238) | ⭐ 8 | AI |
+| 🥉 [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](https://huggingface.co/papers/2511.11134) | ⭐ 6 | AI |
 
-<sub>Last updated: 2025-11-17 02:00 UTC</sub>
+<sub>Last updated: 2025-11-17 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
