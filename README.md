@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DoPE: Denoising Rotary Position Embedding](https://huggingface.co/papers/2511.09146) | ⭐ 40 | AI |
-| 🥈 [WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation](https://huggingface.co/papers/2511.11434) | ⭐ 34 | AI |
-| 🥉 [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](https://huggingface.co/papers/2511.11134) | ⭐ 27 | AI |
+| 🏆 [DoPE: Denoising Rotary Position Embedding](https://huggingface.co/papers/2511.09146) | ⭐ 54 | AI |
+| 🥈 [WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation](https://huggingface.co/papers/2511.11434) | ⭐ 38 | AI |
+| 🥉 [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](https://huggingface.co/papers/2511.11134) | ⭐ 29 | AI |
 
-<sub>Last updated: 2025-11-17 12:53 UTC</sub>
+<sub>Last updated: 2025-11-17 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
