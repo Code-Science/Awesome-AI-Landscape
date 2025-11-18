@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DoPE: Denoising Rotary Position Embedding](https://huggingface.co/papers/2511.09146) | ⭐ 63 | AI |
-| 🥈 [WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation](https://huggingface.co/papers/2511.11434) | ⭐ 41 | AI |
-| 🥉 [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](https://huggingface.co/papers/2511.11134) | ⭐ 30 | AI |
+| 🏆 [P1: Mastering Physics Olympiads with Reinforcement Learning](https://huggingface.co/papers/2511.13612) | ⭐ 60 | AI |
+| 🥈 [Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data](https://huggingface.co/papers/2511.12609) | ⭐ 50 | AI |
+| 🥉 [Part-X-MLLM: Part-aware 3D Multimodal Large Language Model](https://huggingface.co/papers/2511.13647) | ⭐ 43 | AI |
 
-<sub>Last updated: 2025-11-18 01:58 UTC</sub>
+<sub>Last updated: 2025-11-18 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
