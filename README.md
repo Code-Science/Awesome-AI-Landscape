@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [P1: Mastering Physics Olympiads with Reinforcement Learning](https://huggingface.co/papers/2511.13612) | ⭐ 60 | AI |
-| 🥈 [Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data](https://huggingface.co/papers/2511.12609) | ⭐ 50 | AI |
-| 🥉 [Part-X-MLLM: Part-aware 3D Multimodal Large Language Model](https://huggingface.co/papers/2511.13647) | ⭐ 43 | AI |
+| 🏆 [P1: Mastering Physics Olympiads with Reinforcement Learning](https://huggingface.co/papers/2511.13612) | ⭐ 98 | AI |
+| 🥈 [Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data](https://huggingface.co/papers/2511.12609) | ⭐ 82 | AI |
+| 🥉 [Part-X-MLLM: Part-aware 3D Multimodal Large Language Model](https://huggingface.co/papers/2511.13647) | ⭐ 59 | AI |
 
-<sub>Last updated: 2025-11-18 06:37 UTC</sub>
+<sub>Last updated: 2025-11-18 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
