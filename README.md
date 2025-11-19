@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [P1: Mastering Physics Olympiads with Reinforcement Learning](https://huggingface.co/papers/2511.13612) | ⭐ 106 | AI |
-| 🥈 [MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793) | ⭐ 90 | AI |
-| 🥉 [Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data](https://huggingface.co/papers/2511.12609) | ⭐ 86 | AI |
+| 🏆 [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://huggingface.co/papers/2511.08577) | ⭐ 21 | AI |
+| 🥈 [A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://huggingface.co/papers/2511.10555) | ⭐ 20 | AI |
+| 🥉 [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://huggingface.co/papers/2511.14159) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-11-19 01:58 UTC</sub>
+<sub>Last updated: 2025-11-19 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
