@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://huggingface.co/papers/2511.15065) | ⭐ 54 | AI |
-| 🥈 [Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation](https://huggingface.co/papers/2511.14993) | ⭐ 25 | AI |
-| 🥉 [VisPlay: Self-Evolving Vision-Language Models from Images](https://huggingface.co/papers/2511.15661) | ⭐ 22 | AI |
+| 🏆 [Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation](https://huggingface.co/papers/2511.14993) | ⭐ 95 | AI |
+| 🥈 [Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://huggingface.co/papers/2511.15065) | ⭐ 63 | AI |
+| 🥉 [VisPlay: Self-Evolving Vision-Language Models from Images](https://huggingface.co/papers/2511.15661) | ⭐ 27 | AI |
 
-<sub>Last updated: 2025-11-20 06:36 UTC</sub>
+<sub>Last updated: 2025-11-20 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
