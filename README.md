@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AraLingBench A Human-Annotated Benchmark for Evaluating Arabic Linguistic Capabilities of Large Language Models](https://huggingface.co/papers/2511.14295) | ⭐ 52 | AI |
-| 🥈 [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://huggingface.co/papers/2511.08577) | ⭐ 43 | AI |
-| 🥉 [A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://huggingface.co/papers/2511.10555) | ⭐ 38 | AI |
+| 🏆 [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://huggingface.co/papers/2511.08577) | ⭐ 65 | AI |
+| 🥈 [AraLingBench A Human-Annotated Benchmark for Evaluating Arabic Linguistic Capabilities of Large Language Models](https://huggingface.co/papers/2511.14295) | ⭐ 58 | AI |
+| 🥉 [VIDEOP2R: Video Understanding from Perception to Reasoning](https://huggingface.co/papers/2511.11113) | ⭐ 57 | AI |
 
-<sub>Last updated: 2025-11-19 18:37 UTC</sub>
+<sub>Last updated: 2025-11-20 01:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
