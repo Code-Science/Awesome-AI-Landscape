@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://huggingface.co/papers/2511.08577) | ⭐ 65 | AI |
-| 🥈 [AraLingBench A Human-Annotated Benchmark for Evaluating Arabic Linguistic Capabilities of Large Language Models](https://huggingface.co/papers/2511.14295) | ⭐ 58 | AI |
-| 🥉 [VIDEOP2R: Video Understanding from Perception to Reasoning](https://huggingface.co/papers/2511.11113) | ⭐ 57 | AI |
+| 🏆 [Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://huggingface.co/papers/2511.15065) | ⭐ 54 | AI |
+| 🥈 [Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation](https://huggingface.co/papers/2511.14993) | ⭐ 25 | AI |
+| 🥉 [VisPlay: Self-Evolving Vision-Language Models from Images](https://huggingface.co/papers/2511.15661) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-11-20 01:56 UTC</sub>
+<sub>Last updated: 2025-11-20 06:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
