@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation](https://huggingface.co/papers/2511.14993) | ⭐ 115 | AI |
-| 🥈 [Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://huggingface.co/papers/2511.15065) | ⭐ 65 | AI |
-| 🥉 [What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity](https://huggingface.co/papers/2511.15593) | ⭐ 38 | AI |
+| 🏆 [Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation](https://huggingface.co/papers/2511.14993) | ⭐ 126 | AI |
+| 🥈 [Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://huggingface.co/papers/2511.15065) | ⭐ 66 | AI |
+| 🥉 [What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity](https://huggingface.co/papers/2511.15593) | ⭐ 46 | AI |
 
-<sub>Last updated: 2025-11-20 18:36 UTC</sub>
+<sub>Last updated: 2025-11-21 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
