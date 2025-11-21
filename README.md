@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://huggingface.co/papers/2511.16668) | ⭐ 33 | AI |
-| 🥈 [Step-Audio-R1 Technical Report](https://huggingface.co/papers/2511.15848) | ⭐ 33 | AI |
-| 🥉 [Scaling Spatial Intelligence with Multimodal Foundation Models](https://huggingface.co/papers/2511.13719) | ⭐ 29 | AI |
+| 🏆 [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://huggingface.co/papers/2511.16668) | ⭐ 38 | AI |
+| 🥈 [First Frame Is the Place to Go for Video Content Customization](https://huggingface.co/papers/2511.15700) | ⭐ 36 | AI |
+| 🥉 [Step-Audio-R1 Technical Report](https://huggingface.co/papers/2511.15848) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-11-21 12:51 UTC</sub>
+<sub>Last updated: 2025-11-21 18:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
