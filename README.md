@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://huggingface.co/papers/2511.16043) | ⭐ 55 | AI |
-| 🥈 [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://huggingface.co/papers/2511.16668) | ⭐ 45 | AI |
-| 🥉 [First Frame Is the Place to Go for Video Content Customization](https://huggingface.co/papers/2511.15700) | ⭐ 44 | AI |
+| 🏆 [Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://huggingface.co/papers/2511.16043) | ⭐ 59 | AI |
+| 🥈 [SAM 3D: 3Dfy Anything in Images](https://huggingface.co/papers/2511.16624) | ⭐ 48 | AI |
+| 🥉 [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://huggingface.co/papers/2511.16668) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-11-22 12:45 UTC</sub>
+<sub>Last updated: 2025-11-22 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
