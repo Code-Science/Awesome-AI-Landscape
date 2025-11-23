@@ -19,10 +19,10 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://huggingface.co/papers/2511.16043) | ⭐ 59 | AI |
-| 🥈 [SAM 3D: 3Dfy Anything in Images](https://huggingface.co/papers/2511.16624) | ⭐ 48 | AI |
-| 🥉 [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://huggingface.co/papers/2511.16668) | ⭐ 47 | AI |
+| 🥈 [SAM 3D: 3Dfy Anything in Images](https://huggingface.co/papers/2511.16624) | ⭐ 53 | AI |
+| 🥉 [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://huggingface.co/papers/2511.16668) | ⭐ 48 | AI |
 
-<sub>Last updated: 2025-11-22 18:33 UTC</sub>
+<sub>Last updated: 2025-11-23 02:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
