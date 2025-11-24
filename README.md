@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://huggingface.co/papers/2511.16334) | ⭐ 65 | AI |
-| 🥈 [GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://huggingface.co/papers/2511.15705) | ⭐ 45 | AI |
-| 🥉 [SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719) | ⭐ 40 | AI |
+| 🏆 [OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://huggingface.co/papers/2511.16334) | ⭐ 72 | AI |
+| 🥈 [GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://huggingface.co/papers/2511.15705) | ⭐ 59 | AI |
+| 🥉 [Unveiling Intrinsic Dimension of Texts: from Academic Abstract to Creative Story](https://huggingface.co/papers/2511.15210) | ⭐ 57 | AI |
 
-<sub>Last updated: 2025-11-24 12:54 UTC</sub>
+<sub>Last updated: 2025-11-24 18:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
