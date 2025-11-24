@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://huggingface.co/papers/2511.16043) | ⭐ 74 | AI |
-| 🥈 [SAM 3D: 3Dfy Anything in Images](https://huggingface.co/papers/2511.16624) | ⭐ 67 | AI |
-| 🥉 [V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://huggingface.co/papers/2511.16668) | ⭐ 49 | AI |
+| 🏆 [OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://huggingface.co/papers/2511.16334) | ⭐ 53 | AI |
+| 🥈 [GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://huggingface.co/papers/2511.15705) | ⭐ 29 | AI |
+| 🥉 [SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-11-24 02:06 UTC</sub>
+<sub>Last updated: 2025-11-24 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
