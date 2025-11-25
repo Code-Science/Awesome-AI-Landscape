@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://huggingface.co/papers/2511.16334) | ⭐ 76 | AI |
-| 🥈 [Unveiling Intrinsic Dimension of Texts: from Academic Abstract to Creative Story](https://huggingface.co/papers/2511.15210) | ⭐ 72 | AI |
-| 🥉 [GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://huggingface.co/papers/2511.15705) | ⭐ 60 | AI |
+| 🏆 [General Agentic Memory Via Deep Research](https://huggingface.co/papers/2511.18423) | ⭐ 96 | AI |
+| 🥈 [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://huggingface.co/papers/2511.19304) | ⭐ 62 | AI |
+| 🥉 [Computer-Use Agents as Judges for Generative User Interface](https://huggingface.co/papers/2511.15567) | ⭐ 34 | AI |
 
-<sub>Last updated: 2025-11-25 01:59 UTC</sub>
+<sub>Last updated: 2025-11-25 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
