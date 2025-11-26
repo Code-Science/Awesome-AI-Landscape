@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [General Agentic Memory Via Deep Research](https://huggingface.co/papers/2511.18423) | ⭐ 120 | AI |
-| 🥈 [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://huggingface.co/papers/2511.19304) | ⭐ 79 | AI |
-| 🥉 [Computer-Use Agents as Judges for Generative User Interface](https://huggingface.co/papers/2511.15567) | ⭐ 46 | AI |
+| 🏆 [MedSAM3: Delving into Segment Anything with Medical Concepts](https://huggingface.co/papers/2511.19046) | ⭐ 25 | AI |
+| 🥈 [Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](https://huggingface.co/papers/2511.19900) | ⭐ 20 | AI |
+| 🥉 [Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward](https://huggingface.co/papers/2511.20561) | ⭐ 17 | AI |
 
-<sub>Last updated: 2025-11-26 01:59 UTC</sub>
+<sub>Last updated: 2025-11-26 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
