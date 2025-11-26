@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [General Agentic Memory Via Deep Research](https://huggingface.co/papers/2511.18423) | ⭐ 117 | AI |
-| 🥈 [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://huggingface.co/papers/2511.19304) | ⭐ 76 | AI |
-| 🥉 [Computer-Use Agents as Judges for Generative User Interface](https://huggingface.co/papers/2511.15567) | ⭐ 44 | AI |
+| 🏆 [General Agentic Memory Via Deep Research](https://huggingface.co/papers/2511.18423) | ⭐ 120 | AI |
+| 🥈 [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://huggingface.co/papers/2511.19304) | ⭐ 79 | AI |
+| 🥉 [Computer-Use Agents as Judges for Generative User Interface](https://huggingface.co/papers/2511.15567) | ⭐ 46 | AI |
 
-<sub>Last updated: 2025-11-25 18:37 UTC</sub>
+<sub>Last updated: 2025-11-26 01:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
