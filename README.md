@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GigaEvo: An Open Source Optimization Framework Powered By LLMs And Evolution Algorithms](https://huggingface.co/papers/2511.17592) | ⭐ 77 | AI |
-| 🥈 [SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation](https://huggingface.co/papers/2511.19320) | ⭐ 37 | AI |
-| 🥉 [MedSAM3: Delving into Segment Anything with Medical Concepts](https://huggingface.co/papers/2511.19046) | ⭐ 36 | AI |
+| 🏆 [GigaEvo: An Open Source Optimization Framework Powered By LLMs And Evolution Algorithms](https://huggingface.co/papers/2511.17592) | ⭐ 87 | AI |
+| 🥈 [MedSAM3: Delving into Segment Anything with Medical Concepts](https://huggingface.co/papers/2511.19046) | ⭐ 38 | AI |
+| 🥉 [SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation](https://huggingface.co/papers/2511.19320) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-11-26 18:33 UTC</sub>
+<sub>Last updated: 2025-11-27 01:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
