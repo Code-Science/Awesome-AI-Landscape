@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GigaEvo: An Open Source Optimization Framework Powered By LLMs And Evolution Algorithms](https://huggingface.co/papers/2511.17592) | ⭐ 87 | AI |
-| 🥈 [MedSAM3: Delving into Segment Anything with Medical Concepts](https://huggingface.co/papers/2511.19046) | ⭐ 38 | AI |
-| 🥉 [SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation](https://huggingface.co/papers/2511.19320) | ⭐ 37 | AI |
+| 🏆 [Latent Collaboration in Multi-Agent Systems](https://huggingface.co/papers/2511.20639) | ⭐ 26 | AI |
+| 🥈 [Monet: Reasoning in Latent Visual Space Beyond Images and Language](https://huggingface.co/papers/2511.21395) | ⭐ 5 | AI |
+| 🥉 [Revisiting Generalization Across Difficulty Levels: It's Not So Easy](https://huggingface.co/papers/2511.21692) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-11-27 01:57 UTC</sub>
+<sub>Last updated: 2025-11-27 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
