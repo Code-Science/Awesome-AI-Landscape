@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Latent Collaboration in Multi-Agent Systems](https://huggingface.co/papers/2511.20639) | ⭐ 26 | AI |
-| 🥈 [Monet: Reasoning in Latent Visual Space Beyond Images and Language](https://huggingface.co/papers/2511.21395) | ⭐ 5 | AI |
-| 🥉 [Revisiting Generalization Across Difficulty Levels: It's Not So Easy](https://huggingface.co/papers/2511.21692) | ⭐ 4 | AI |
+| 🏆 [Latent Collaboration in Multi-Agent Systems](https://huggingface.co/papers/2511.20639) | ⭐ 36 | AI |
+| 🥈 [Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation](https://huggingface.co/papers/2511.20714) | ⭐ 30 | AI |
+| 🥉 [Multimodal Evaluation of Russian-language Architectures](https://huggingface.co/papers/2511.15552) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-11-27 06:39 UTC</sub>
+<sub>Last updated: 2025-11-27 12:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
