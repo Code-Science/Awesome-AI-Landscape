@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Multimodal Evaluation of Russian-language Architectures](https://huggingface.co/papers/2511.15552) | ⭐ 70 | AI |
-| 🥈 [Latent Collaboration in Multi-Agent Systems](https://huggingface.co/papers/2511.20639) | ⭐ 43 | AI |
-| 🥉 [Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation](https://huggingface.co/papers/2511.20714) | ⭐ 34 | AI |
+| 🏆 [Multimodal Evaluation of Russian-language Architectures](https://huggingface.co/papers/2511.15552) | ⭐ 71 | AI |
+| 🥈 [Latent Collaboration in Multi-Agent Systems](https://huggingface.co/papers/2511.20639) | ⭐ 55 | AI |
+| 🥉 [Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation](https://huggingface.co/papers/2511.20714) | ⭐ 37 | AI |
 
-<sub>Last updated: 2025-11-27 18:34 UTC</sub>
+<sub>Last updated: 2025-11-28 01:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
