@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MIRA: Multimodal Iterative Reasoning Agent for Image Editing](https://huggingface.co/papers/2511.21087) | ⭐ 4 | AI |
-| 🥈 [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://huggingface.co/papers/2511.21691) | ⭐ 2 | AI |
-| 🥉 [Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following](https://huggingface.co/papers/2511.21662) | ⭐ 2 | AI |
+| 🏆 [Video Generation Models Are Good Latent Reward Models](https://huggingface.co/papers/2511.21541) | ⭐ 15 | AI |
+| 🥈 [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://huggingface.co/papers/2511.21691) | ⭐ 6 | AI |
+| 🥉 [MIRA: Multimodal Iterative Reasoning Agent for Image Editing](https://huggingface.co/papers/2511.21087) | ⭐ 5 | AI |
 
-<sub>Last updated: 2025-11-28 06:38 UTC</sub>
+<sub>Last updated: 2025-11-28 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
