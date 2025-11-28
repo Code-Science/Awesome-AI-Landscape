@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Multimodal Evaluation of Russian-language Architectures](https://huggingface.co/papers/2511.15552) | ⭐ 71 | AI |
-| 🥈 [Latent Collaboration in Multi-Agent Systems](https://huggingface.co/papers/2511.20639) | ⭐ 55 | AI |
-| 🥉 [Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation](https://huggingface.co/papers/2511.20714) | ⭐ 37 | AI |
+| 🏆 [MIRA: Multimodal Iterative Reasoning Agent for Image Editing](https://huggingface.co/papers/2511.21087) | ⭐ 4 | AI |
+| 🥈 [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://huggingface.co/papers/2511.21691) | ⭐ 2 | AI |
+| 🥉 [Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following](https://huggingface.co/papers/2511.21662) | ⭐ 2 | AI |
 
-<sub>Last updated: 2025-11-28 01:56 UTC</sub>
+<sub>Last updated: 2025-11-28 06:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
