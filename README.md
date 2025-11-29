@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video Generation Models Are Good Latent Reward Models](https://huggingface.co/papers/2511.21541) | ⭐ 22 | AI |
-| 🥈 [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://huggingface.co/papers/2511.21691) | ⭐ 12 | AI |
-| 🥉 [ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction](https://huggingface.co/papers/2511.20937) | ⭐ 9 | AI |
+| 🏆 [Video Generation Models Are Good Latent Reward Models](https://huggingface.co/papers/2511.21541) | ⭐ 24 | AI |
+| 🥈 [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://huggingface.co/papers/2511.21691) | ⭐ 13 | AI |
+| 🥉 [ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction](https://huggingface.co/papers/2511.20937) | ⭐ 10 | AI |
 
-<sub>Last updated: 2025-11-29 06:35 UTC</sub>
+<sub>Last updated: 2025-11-29 12:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
