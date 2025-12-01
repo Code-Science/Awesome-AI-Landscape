@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video Generation Models Are Good Latent Reward Models](https://huggingface.co/papers/2511.21541) | ⭐ 33 | AI |
-| 🥈 [Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://huggingface.co/papers/2511.21691) | ⭐ 22 | AI |
-| 🥉 [ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction](https://huggingface.co/papers/2511.20937) | ⭐ 11 | AI |
+| 🏆 [Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699) | ⭐ 38 | AI |
+| 🥈 [REASONEDIT: Towards Reasoning-Enhanced Image Editing Models](https://huggingface.co/papers/2511.22625) | ⭐ 27 | AI |
+| 🥉 [AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement](https://huggingface.co/papers/2511.23475) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-12-01 02:25 UTC</sub>
+<sub>Last updated: 2025-12-01 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
