@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699) | ⭐ 75 | AI |
-| 🥈 [REASONEDIT: Towards Reasoning-Enhanced Image Editing Models](https://huggingface.co/papers/2511.22625) | ⭐ 40 | AI |
-| 🥉 [AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement](https://huggingface.co/papers/2511.23475) | ⭐ 32 | AI |
+| 🏆 [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://huggingface.co/papers/2511.20785) | ⭐ 70 | AI |
+| 🥈 [Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights](https://huggingface.co/papers/2512.01816) | ⭐ 53 | AI |
+| 🥉 [From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence](https://huggingface.co/papers/2511.18538) | ⭐ 52 | AI |
 
-<sub>Last updated: 2025-12-02 02:01 UTC</sub>
+<sub>Last updated: 2025-12-02 06:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
