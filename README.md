@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699) | ⭐ 69 | AI |
-| 🥈 [REASONEDIT: Towards Reasoning-Enhanced Image Editing Models](https://huggingface.co/papers/2511.22625) | ⭐ 38 | AI |
+| 🏆 [Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699) | ⭐ 75 | AI |
+| 🥈 [REASONEDIT: Towards Reasoning-Enhanced Image Editing Models](https://huggingface.co/papers/2511.22625) | ⭐ 40 | AI |
 | 🥉 [AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement](https://huggingface.co/papers/2511.23475) | ⭐ 32 | AI |
 
-<sub>Last updated: 2025-12-01 18:41 UTC</sub>
+<sub>Last updated: 2025-12-02 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
