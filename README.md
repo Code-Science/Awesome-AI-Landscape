@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence](https://huggingface.co/papers/2511.18538) | ⭐ 179 | AI |
-| 🥈 [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://huggingface.co/papers/2511.20785) | ⭐ 140 | AI |
-| 🥉 [Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights](https://huggingface.co/papers/2512.01816) | ⭐ 82 | AI |
+| 🏆 [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://huggingface.co/papers/2512.02556) | ⭐ 38 | AI |
+| 🥈 [SimScale: Learning to Drive via Real-World Simulation at Scale](https://huggingface.co/papers/2511.23369) | ⭐ 26 | AI |
+| 🥉 [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://huggingface.co/papers/2511.22609) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-12-03 02:01 UTC</sub>
+<sub>Last updated: 2025-12-03 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
