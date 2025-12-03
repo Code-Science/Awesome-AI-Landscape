@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://huggingface.co/papers/2512.02556) | ⭐ 38 | AI |
-| 🥈 [SimScale: Learning to Drive via Real-World Simulation at Scale](https://huggingface.co/papers/2511.23369) | ⭐ 26 | AI |
-| 🥉 [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://huggingface.co/papers/2511.22609) | ⭐ 25 | AI |
+| 🏆 [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://huggingface.co/papers/2512.02556) | ⭐ 72 | AI |
+| 🥈 [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://huggingface.co/papers/2511.22609) | ⭐ 41 | AI |
+| 🥉 [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://huggingface.co/papers/2512.03041) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-12-03 06:39 UTC</sub>
+<sub>Last updated: 2025-12-03 12:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
