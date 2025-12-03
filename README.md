@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence](https://huggingface.co/papers/2511.18538) | ⭐ 171 | AI |
-| 🥈 [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://huggingface.co/papers/2511.20785) | ⭐ 138 | AI |
-| 🥉 [Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights](https://huggingface.co/papers/2512.01816) | ⭐ 80 | AI |
+| 🏆 [From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence](https://huggingface.co/papers/2511.18538) | ⭐ 179 | AI |
+| 🥈 [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](https://huggingface.co/papers/2511.20785) | ⭐ 140 | AI |
+| 🥉 [Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights](https://huggingface.co/papers/2512.01816) | ⭐ 82 | AI |
 
-<sub>Last updated: 2025-12-02 18:40 UTC</sub>
+<sub>Last updated: 2025-12-03 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
