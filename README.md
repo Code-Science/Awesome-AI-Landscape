@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://huggingface.co/papers/2512.02556) | ⭐ 72 | AI |
-| 🥈 [MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory](https://huggingface.co/papers/2511.22609) | ⭐ 41 | AI |
-| 🥉 [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://huggingface.co/papers/2512.03041) | ⭐ 38 | AI |
+| 🏆 [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://huggingface.co/papers/2512.02556) | ⭐ 87 | AI |
+| 🥈 [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://huggingface.co/papers/2512.03041) | ⭐ 48 | AI |
+| 🥉 [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://huggingface.co/papers/2511.21689) | ⭐ 48 | AI |
 
-<sub>Last updated: 2025-12-03 12:57 UTC</sub>
+<sub>Last updated: 2025-12-03 18:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
