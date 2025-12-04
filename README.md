@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://huggingface.co/papers/2512.02556) | ⭐ 110 | AI |
-| 🥈 [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://huggingface.co/papers/2511.21689) | ⭐ 61 | AI |
-| 🥉 [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://huggingface.co/papers/2512.03041) | ⭐ 50 | AI |
+| 🏆 [Qwen3-VL Technical Report](https://huggingface.co/papers/2511.21631) | ⭐ 45 | AI |
+| 🥈 [ViDiC: Video Difference Captioning](https://huggingface.co/papers/2512.03405) | ⭐ 19 | AI |
+| 🥉 [PretrainZero: Reinforcement Active Pretraining](https://huggingface.co/papers/2512.03442) | ⭐ 14 | AI |
 
-<sub>Last updated: 2025-12-04 02:02 UTC</sub>
+<sub>Last updated: 2025-12-04 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
