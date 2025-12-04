@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen3-VL Technical Report](https://huggingface.co/papers/2511.21631) | ⭐ 45 | AI |
-| 🥈 [ViDiC: Video Difference Captioning](https://huggingface.co/papers/2512.03405) | ⭐ 19 | AI |
-| 🥉 [PretrainZero: Reinforcement Active Pretraining](https://huggingface.co/papers/2512.03442) | ⭐ 14 | AI |
+| 🏆 [Qwen3-VL Technical Report](https://huggingface.co/papers/2511.21631) | ⭐ 71 | AI |
+| 🥈 [PretrainZero: Reinforcement Active Pretraining](https://huggingface.co/papers/2512.03442) | ⭐ 24 | AI |
+| 🥉 [ViDiC: Video Difference Captioning](https://huggingface.co/papers/2512.03405) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-12-04 06:39 UTC</sub>
+<sub>Last updated: 2025-12-04 12:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
