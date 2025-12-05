@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://huggingface.co/papers/2512.04987) | ⭐ 45 | AI |
-| 🥈 [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](https://huggingface.co/papers/2512.04324) | ⭐ 33 | AI |
-| 🥉 [Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677) | ⭐ 30 | AI |
+| 🏆 [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](https://huggingface.co/papers/2512.04324) | ⭐ 107 | AI |
+| 🥈 [Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677) | ⭐ 77 | AI |
+| 🥉 [Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://huggingface.co/papers/2512.04987) | ⭐ 55 | AI |
 
-<sub>Last updated: 2025-12-05 06:39 UTC</sub>
+<sub>Last updated: 2025-12-05 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
