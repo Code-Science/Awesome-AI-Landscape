@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen3-VL Technical Report](https://huggingface.co/papers/2511.21631) | ⭐ 80 | AI |
-| 🥈 [Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach](https://huggingface.co/papers/2512.02834) | ⭐ 29 | AI |
-| 🥉 [PretrainZero: Reinforcement Active Pretraining](https://huggingface.co/papers/2512.03442) | ⭐ 24 | AI |
+| 🏆 [Qwen3-VL Technical Report](https://huggingface.co/papers/2511.21631) | ⭐ 87 | AI |
+| 🥈 [Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach](https://huggingface.co/papers/2512.02834) | ⭐ 31 | AI |
+| 🥉 [PretrainZero: Reinforcement Active Pretraining](https://huggingface.co/papers/2512.03442) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-12-04 18:40 UTC</sub>
+<sub>Last updated: 2025-12-05 02:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
