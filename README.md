@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677) | ⭐ 129 | AI |
-| 🥈 [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](https://huggingface.co/papers/2512.04324) | ⭐ 124 | AI |
+| 🏆 [Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677) | ⭐ 133 | AI |
+| 🥈 [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](https://huggingface.co/papers/2512.04324) | ⭐ 125 | AI |
 | 🥉 [Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://huggingface.co/papers/2512.04987) | ⭐ 60 | AI |
 
-<sub>Last updated: 2025-12-06 12:49 UTC</sub>
+<sub>Last updated: 2025-12-06 18:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
