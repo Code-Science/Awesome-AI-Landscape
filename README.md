@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://huggingface.co/papers/2512.05965) | ⭐ 20 | AI |
-| 🥈 [TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150) | ⭐ 12 | AI |
-| 🥉 [Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning](https://huggingface.co/papers/2512.05591) | ⭐ 11 | AI |
+| 🏆 [TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150) | ⭐ 32 | AI |
+| 🥈 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://huggingface.co/papers/2512.05965) | ⭐ 28 | AI |
+| 🥉 [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](https://huggingface.co/papers/2512.04784) | ⭐ 16 | AI |
 
-<sub>Last updated: 2025-12-08 06:42 UTC</sub>
+<sub>Last updated: 2025-12-08 12:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
