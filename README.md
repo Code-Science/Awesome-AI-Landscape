@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677) | ⭐ 139 | AI |
-| 🥈 [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](https://huggingface.co/papers/2512.04324) | ⭐ 128 | AI |
-| 🥉 [Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://huggingface.co/papers/2512.04987) | ⭐ 64 | AI |
+| 🏆 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://huggingface.co/papers/2512.05965) | ⭐ 20 | AI |
+| 🥈 [TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150) | ⭐ 12 | AI |
+| 🥉 [Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning](https://huggingface.co/papers/2512.05591) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-12-08 02:03 UTC</sub>
+<sub>Last updated: 2025-12-08 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
