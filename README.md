@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150) | ⭐ 32 | AI |
-| 🥈 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://huggingface.co/papers/2512.05965) | ⭐ 28 | AI |
-| 🥉 [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](https://huggingface.co/papers/2512.04784) | ⭐ 16 | AI |
+| 🏆 [TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150) | ⭐ 42 | AI |
+| 🥈 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://huggingface.co/papers/2512.05965) | ⭐ 30 | AI |
+| 🥉 [From Imitation to Discrimination: Toward A Generalized Curriculum Advantage Mechanism Enhancing Cross-Domain Reasoning Tasks](https://huggingface.co/papers/2512.02580) | ⭐ 23 | AI |
 
-<sub>Last updated: 2025-12-08 12:55 UTC</sub>
+<sub>Last updated: 2025-12-08 18:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
