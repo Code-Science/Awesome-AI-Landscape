@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150) | ⭐ 46 | AI |
-| 🥈 [EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://huggingface.co/papers/2512.05965) | ⭐ 32 | AI |
-| 🥉 [From Imitation to Discrimination: Toward A Generalized Curriculum Advantage Mechanism Enhancing Cross-Domain Reasoning Tasks](https://huggingface.co/papers/2512.02580) | ⭐ 25 | AI |
+| 🏆 [Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs](https://huggingface.co/papers/2512.07525) | ⭐ 26 | AI |
+| 🥈 [Unified Video Editing with Temporal Reasoner](https://huggingface.co/papers/2512.07469) | ⭐ 22 | AI |
+| 🥉 [DoVer: Intervention-Driven Auto Debugging for LLM Multi-Agent Systems](https://huggingface.co/papers/2512.06749) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-12-09 02:02 UTC</sub>
+<sub>Last updated: 2025-12-09 06:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
