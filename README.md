@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://huggingface.co/papers/2512.07461) | ⭐ 38 | AI |
-| 🥈 [Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs](https://huggingface.co/papers/2512.07525) | ⭐ 35 | AI |
-| 🥉 [Unified Video Editing with Temporal Reasoner](https://huggingface.co/papers/2512.07469) | ⭐ 25 | AI |
+| 🏆 [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://huggingface.co/papers/2512.07461) | ⭐ 44 | AI |
+| 🥈 [Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs](https://huggingface.co/papers/2512.07525) | ⭐ 39 | AI |
+| 🥉 [Unified Video Editing with Temporal Reasoner](https://huggingface.co/papers/2512.07469) | ⭐ 28 | AI |
 
-<sub>Last updated: 2025-12-09 12:56 UTC</sub>
+<sub>Last updated: 2025-12-09 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
