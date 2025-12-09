@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs](https://huggingface.co/papers/2512.07525) | ⭐ 26 | AI |
-| 🥈 [Unified Video Editing with Temporal Reasoner](https://huggingface.co/papers/2512.07469) | ⭐ 22 | AI |
-| 🥉 [DoVer: Intervention-Driven Auto Debugging for LLM Multi-Agent Systems](https://huggingface.co/papers/2512.06749) | ⭐ 20 | AI |
+| 🏆 [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://huggingface.co/papers/2512.07461) | ⭐ 38 | AI |
+| 🥈 [Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs](https://huggingface.co/papers/2512.07525) | ⭐ 35 | AI |
+| 🥉 [Unified Video Editing with Temporal Reasoner](https://huggingface.co/papers/2512.07469) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-12-09 06:40 UTC</sub>
+<sub>Last updated: 2025-12-09 12:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
