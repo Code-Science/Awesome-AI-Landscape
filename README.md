@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765) | ⭐ 72 | AI |
-| 🥈 [Preserving Source Video Realism: High-Fidelity Face Swapping for Cinematic Quality](https://huggingface.co/papers/2512.07951) | ⭐ 21 | AI |
-| 🥉 [ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](https://huggingface.co/papers/2512.07843) | ⭐ 11 | AI |
+| 🏆 [Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765) | ⭐ 87 | AI |
+| 🥈 [Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478) | ⭐ 58 | AI |
+| 🥉 [Preserving Source Video Realism: High-Fidelity Face Swapping for Cinematic Quality](https://huggingface.co/papers/2512.07951) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-12-10 06:40 UTC</sub>
+<sub>Last updated: 2025-12-10 12:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
