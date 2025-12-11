@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://huggingface.co/papers/2512.08765) | ⭐ 94 | AI |
-| 🥈 [Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://huggingface.co/papers/2512.08478) | ⭐ 65 | AI |
-| 🥉 [Preserving Source Video Realism: High-Fidelity Face Swapping for Cinematic Quality](https://huggingface.co/papers/2512.07951) | ⭐ 40 | AI |
+| 🏆 [StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://huggingface.co/papers/2512.09363) | ⭐ 15 | AI |
+| 🥈 [InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://huggingface.co/papers/2512.08829) | ⭐ 5 | AI |
+| 🥉 [UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving](https://huggingface.co/papers/2512.09864) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-12-11 02:06 UTC</sub>
+<sub>Last updated: 2025-12-11 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
