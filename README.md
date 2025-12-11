@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://huggingface.co/papers/2512.09363) | ⭐ 15 | AI |
-| 🥈 [InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://huggingface.co/papers/2512.08829) | ⭐ 5 | AI |
-| 🥉 [UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving](https://huggingface.co/papers/2512.09864) | ⭐ 4 | AI |
+| 🏆 [StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://huggingface.co/papers/2512.09363) | ⭐ 37 | AI |
+| 🥈 [BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain](https://huggingface.co/papers/2512.08560) | ⭐ 26 | AI |
+| 🥉 [Composing Concepts from Images and Videos via Concept-prompt Binding](https://huggingface.co/papers/2512.09824) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-12-11 06:41 UTC</sub>
+<sub>Last updated: 2025-12-11 12:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
