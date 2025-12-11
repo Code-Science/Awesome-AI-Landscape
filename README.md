@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://huggingface.co/papers/2512.09363) | ⭐ 37 | AI |
-| 🥈 [BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain](https://huggingface.co/papers/2512.08560) | ⭐ 26 | AI |
-| 🥉 [Composing Concepts from Images and Videos via Concept-prompt Binding](https://huggingface.co/papers/2512.09824) | ⭐ 21 | AI |
+| 🏆 [StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://huggingface.co/papers/2512.09363) | ⭐ 42 | AI |
+| 🥈 [BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain](https://huggingface.co/papers/2512.08560) | ⭐ 30 | AI |
+| 🥉 [Composing Concepts from Images and Videos via Concept-prompt Binding](https://huggingface.co/papers/2512.09824) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-12-11 12:58 UTC</sub>
+<sub>Last updated: 2025-12-11 18:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
