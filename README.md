@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://huggingface.co/papers/2512.09363) | ⭐ 47 | AI |
-| 🥈 [BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain](https://huggingface.co/papers/2512.08560) | ⭐ 32 | AI |
-| 🥉 [OmniPSD: Layered PSD Generation with Diffusion Transformer](https://huggingface.co/papers/2512.09247) | ⭐ 26 | AI |
+| 🏆 [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://huggingface.co/papers/2512.10739) | ⭐ 28 | AI |
+| 🥈 [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://huggingface.co/papers/2512.10949) | ⭐ 27 | AI |
+| 🥉 [OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification](https://huggingface.co/papers/2512.10756) | ⭐ 25 | AI |
 
-<sub>Last updated: 2025-12-12 02:05 UTC</sub>
+<sub>Last updated: 2025-12-12 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
