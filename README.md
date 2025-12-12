@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://huggingface.co/papers/2512.10739) | ⭐ 28 | AI |
-| 🥈 [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://huggingface.co/papers/2512.10949) | ⭐ 27 | AI |
-| 🥉 [OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification](https://huggingface.co/papers/2512.10756) | ⭐ 25 | AI |
+| 🏆 [T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground](https://huggingface.co/papers/2512.10430) | ⭐ 41 | AI |
+| 🥈 [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://huggingface.co/papers/2512.10739) | ⭐ 34 | AI |
+| 🥉 [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://huggingface.co/papers/2512.10949) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-12-12 06:41 UTC</sub>
+<sub>Last updated: 2025-12-12 12:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
