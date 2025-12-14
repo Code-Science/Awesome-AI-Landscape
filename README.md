@@ -22,7 +22,7 @@
 | 🥈 [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://huggingface.co/papers/2512.10949) | ⭐ 40 | AI |
 | 🥉 [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://huggingface.co/papers/2512.10739) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-12-14 12:50 UTC</sub>
+<sub>Last updated: 2025-12-14 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
