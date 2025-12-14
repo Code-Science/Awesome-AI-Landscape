@@ -19,10 +19,10 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground](https://huggingface.co/papers/2512.10430) | ⭐ 67 | AI |
-| 🥈 [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://huggingface.co/papers/2512.10739) | ⭐ 39 | AI |
-| 🥉 [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://huggingface.co/papers/2512.10949) | ⭐ 38 | AI |
+| 🥈 [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://huggingface.co/papers/2512.10739) | ⭐ 40 | AI |
+| 🥉 [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://huggingface.co/papers/2512.10949) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-12-14 02:12 UTC</sub>
+<sub>Last updated: 2025-12-14 06:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
