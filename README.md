@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground](https://huggingface.co/papers/2512.10430) | ⭐ 75 | AI |
-| 🥈 [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://huggingface.co/papers/2512.10739) | ⭐ 42 | AI |
-| 🥉 [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://huggingface.co/papers/2512.10949) | ⭐ 40 | AI |
+| 🏆 [DentalGPT: Incentivizing Multimodal Complex Reasoning in Dentistry](https://huggingface.co/papers/2512.11558) | ⭐ 31 | AI |
+| 🥈 [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://huggingface.co/papers/2512.08269) | ⭐ 20 | AI |
+| 🥉 [SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder](https://huggingface.co/papers/2512.11749) | ⭐ 19 | AI |
 
-<sub>Last updated: 2025-12-15 02:09 UTC</sub>
+<sub>Last updated: 2025-12-15 06:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
