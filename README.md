@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://huggingface.co/papers/2512.08269) | ⭐ 44 | AI |
-| 🥈 [DentalGPT: Incentivizing Multimodal Complex Reasoning in Dentistry](https://huggingface.co/papers/2512.11558) | ⭐ 37 | AI |
-| 🥉 [SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder](https://huggingface.co/papers/2512.11749) | ⭐ 33 | AI |
+| 🏆 [LongVie 2: Multimodal Controllable Ultra-Long Video World Model](https://huggingface.co/papers/2512.13604) | ⭐ 34 | AI |
+| 🥈 [Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564) | ⭐ 33 | AI |
+| 🥉 [ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://huggingface.co/papers/2512.13586) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-12-16 02:06 UTC</sub>
+<sub>Last updated: 2025-12-16 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
