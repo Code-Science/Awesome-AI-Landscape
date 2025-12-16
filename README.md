@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://huggingface.co/papers/2512.13687) | ⭐ 55 | AI |
-| 🥈 [Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564) | ⭐ 53 | AI |
-| 🥉 [LongVie 2: Multimodal Controllable Ultra-Long Video World Model](https://huggingface.co/papers/2512.13604) | ⭐ 45 | AI |
+| 🏆 [ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://huggingface.co/papers/2512.13586) | ⭐ 70 | AI |
+| 🥈 [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://huggingface.co/papers/2512.13687) | ⭐ 62 | AI |
+| 🥉 [Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564) | ⭐ 58 | AI |
 
-<sub>Last updated: 2025-12-16 12:57 UTC</sub>
+<sub>Last updated: 2025-12-16 18:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
