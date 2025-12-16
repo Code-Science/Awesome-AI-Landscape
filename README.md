@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DentalGPT: Incentivizing Multimodal Complex Reasoning in Dentistry](https://huggingface.co/papers/2512.11558) | ⭐ 37 | AI |
-| 🥈 [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://huggingface.co/papers/2512.08269) | ⭐ 35 | AI |
-| 🥉 [SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder](https://huggingface.co/papers/2512.11749) | ⭐ 31 | AI |
+| 🏆 [EgoX: Egocentric Video Generation from a Single Exocentric Video](https://huggingface.co/papers/2512.08269) | ⭐ 44 | AI |
+| 🥈 [DentalGPT: Incentivizing Multimodal Complex Reasoning in Dentistry](https://huggingface.co/papers/2512.11558) | ⭐ 37 | AI |
+| 🥉 [SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder](https://huggingface.co/papers/2512.11749) | ⭐ 33 | AI |
 
-<sub>Last updated: 2025-12-15 18:40 UTC</sub>
+<sub>Last updated: 2025-12-16 02:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
