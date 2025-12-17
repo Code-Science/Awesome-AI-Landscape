@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://huggingface.co/papers/2512.13586) | ⭐ 70 | AI |
-| 🥈 [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://huggingface.co/papers/2512.13687) | ⭐ 62 | AI |
-| 🥉 [Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564) | ⭐ 58 | AI |
+| 🏆 [ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://huggingface.co/papers/2512.13586) | ⭐ 75 | AI |
+| 🥈 [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://huggingface.co/papers/2512.13687) | ⭐ 69 | AI |
+| 🥉 [Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564) | ⭐ 64 | AI |
 
-<sub>Last updated: 2025-12-16 18:39 UTC</sub>
+<sub>Last updated: 2025-12-17 02:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
