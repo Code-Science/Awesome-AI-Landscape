@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MMGR: Multi-Modal Generative Reasoning](https://huggingface.co/papers/2512.14691) | ⭐ 35 | AI |
-| 🥈 [Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling](https://huggingface.co/papers/2512.12675) | ⭐ 29 | AI |
-| 🥉 [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://huggingface.co/papers/2512.13660) | ⭐ 26 | AI |
+| 🏆 [MMGR: Multi-Modal Generative Reasoning](https://huggingface.co/papers/2512.14691) | ⭐ 52 | AI |
+| 🥈 [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614) | ⭐ 42 | AI |
+| 🥉 [Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://huggingface.co/papers/2512.13281) | ⭐ 35 | AI |
 
-<sub>Last updated: 2025-12-17 06:41 UTC</sub>
+<sub>Last updated: 2025-12-17 12:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
