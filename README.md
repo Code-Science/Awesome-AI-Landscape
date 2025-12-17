@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MMGR: Multi-Modal Generative Reasoning](https://huggingface.co/papers/2512.14691) | ⭐ 52 | AI |
-| 🥈 [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614) | ⭐ 42 | AI |
-| 🥉 [Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://huggingface.co/papers/2512.13281) | ⭐ 35 | AI |
+| 🏆 [MMGR: Multi-Modal Generative Reasoning](https://huggingface.co/papers/2512.14691) | ⭐ 68 | AI |
+| 🥈 [Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://huggingface.co/papers/2512.13281) | ⭐ 48 | AI |
+| 🥉 [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614) | ⭐ 47 | AI |
 
-<sub>Last updated: 2025-12-17 12:57 UTC</sub>
+<sub>Last updated: 2025-12-17 18:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
