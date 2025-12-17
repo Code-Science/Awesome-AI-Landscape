@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://huggingface.co/papers/2512.13586) | ⭐ 75 | AI |
-| 🥈 [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://huggingface.co/papers/2512.13687) | ⭐ 69 | AI |
-| 🥉 [Memory in the Age of AI Agents](https://huggingface.co/papers/2512.13564) | ⭐ 64 | AI |
+| 🏆 [MMGR: Multi-Modal Generative Reasoning](https://huggingface.co/papers/2512.14691) | ⭐ 35 | AI |
+| 🥈 [Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling](https://huggingface.co/papers/2512.12675) | ⭐ 29 | AI |
+| 🥉 [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://huggingface.co/papers/2512.13660) | ⭐ 26 | AI |
 
-<sub>Last updated: 2025-12-17 02:01 UTC</sub>
+<sub>Last updated: 2025-12-17 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
