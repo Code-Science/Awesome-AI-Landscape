@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MMGR: Multi-Modal Generative Reasoning](https://huggingface.co/papers/2512.14691) | ⭐ 82 | AI |
-| 🥈 [Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://huggingface.co/papers/2512.13281) | ⭐ 53 | AI |
-| 🥉 [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614) | ⭐ 49 | AI |
+| 🏆 [DEER: Draft with Diffusion, Verify with Autoregressive Models](https://huggingface.co/papers/2512.15176) | ⭐ 23 | AI |
+| 🥈 [Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](https://huggingface.co/papers/2512.14681) | ⭐ 23 | AI |
+| 🥉 [Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](https://huggingface.co/papers/2512.15693) | ⭐ 13 | AI |
 
-<sub>Last updated: 2025-12-18 02:02 UTC</sub>
+<sub>Last updated: 2025-12-18 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
