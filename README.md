@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Step-GUI Technical Report](https://huggingface.co/papers/2512.15431) | ⭐ 75 | AI |
+| 🏆 [Step-GUI Technical Report](https://huggingface.co/papers/2512.15431) | ⭐ 80 | AI |
 | 🥈 [DEER: Draft with Diffusion, Verify with Autoregressive Models](https://huggingface.co/papers/2512.15176) | ⭐ 37 | AI |
 | 🥉 [Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](https://huggingface.co/papers/2512.14681) | ⭐ 36 | AI |
 
-<sub>Last updated: 2025-12-18 18:39 UTC</sub>
+<sub>Last updated: 2025-12-19 02:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
