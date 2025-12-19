@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Step-GUI Technical Report](https://huggingface.co/papers/2512.15431) | ⭐ 80 | AI |
-| 🥈 [DEER: Draft with Diffusion, Verify with Autoregressive Models](https://huggingface.co/papers/2512.15176) | ⭐ 37 | AI |
-| 🥉 [Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](https://huggingface.co/papers/2512.14681) | ⭐ 36 | AI |
+| 🏆 [Kling-Omni Technical Report](https://huggingface.co/papers/2512.16776) | ⭐ 62 | AI |
+| 🥈 [LLaDA2.0: Scaling Up Diffusion Language Models to 100B](https://huggingface.co/papers/2512.15745) | ⭐ 34 | AI |
+| 🥉 [Next-Embedding Prediction Makes Strong Vision Learners](https://huggingface.co/papers/2512.16922) | ⭐ 30 | AI |
 
-<sub>Last updated: 2025-12-19 02:05 UTC</sub>
+<sub>Last updated: 2025-12-19 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
