@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kling-Omni Technical Report](https://huggingface.co/papers/2512.16776) | ⭐ 106 | AI |
-| 🥈 [LLaDA2.0: Scaling Up Diffusion Language Models to 100B](https://huggingface.co/papers/2512.15745) | ⭐ 52 | AI |
-| 🥉 [Next-Embedding Prediction Makes Strong Vision Learners](https://huggingface.co/papers/2512.16922) | ⭐ 43 | AI |
+| 🏆 [Kling-Omni Technical Report](https://huggingface.co/papers/2512.16776) | ⭐ 112 | AI |
+| 🥈 [Adaptation of Agentic AI](https://huggingface.co/papers/2512.16301) | ⭐ 58 | AI |
+| 🥉 [LLaDA2.0: Scaling Up Diffusion Language Models to 100B](https://huggingface.co/papers/2512.15745) | ⭐ 53 | AI |
 
-<sub>Last updated: 2025-12-19 18:37 UTC</sub>
+<sub>Last updated: 2025-12-20 01:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
