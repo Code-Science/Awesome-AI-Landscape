@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kling-Omni Technical Report](https://huggingface.co/papers/2512.16776) | ⭐ 135 | AI |
-| 🥈 [Adaptation of Agentic AI](https://huggingface.co/papers/2512.16301) | ⭐ 79 | AI |
-| 🥉 [Next-Embedding Prediction Makes Strong Vision Learners](https://huggingface.co/papers/2512.16922) | ⭐ 58 | AI |
+| 🏆 [Kling-Omni Technical Report](https://huggingface.co/papers/2512.16776) | ⭐ 138 | AI |
+| 🥈 [Adaptation of Agentic AI](https://huggingface.co/papers/2512.16301) | ⭐ 82 | AI |
+| 🥉 [Next-Embedding Prediction Makes Strong Vision Learners](https://huggingface.co/papers/2512.16922) | ⭐ 60 | AI |
 
-<sub>Last updated: 2025-12-21 18:35 UTC</sub>
+<sub>Last updated: 2025-12-22 02:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
