@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [When Reasoning Meets Its Laws](https://huggingface.co/papers/2512.17901) | ⭐ 34 | AI |
-| 🥈 [PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence](https://huggingface.co/papers/2512.16793) | ⭐ 28 | AI |
-| 🥉 [Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience](https://huggingface.co/papers/2512.17260) | ⭐ 27 | AI |
+| 🏆 [Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://huggingface.co/papers/2512.16969) | ⭐ 66 | AI |
+| 🥈 [PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence](https://huggingface.co/papers/2512.16793) | ⭐ 60 | AI |
+| 🥉 [When Reasoning Meets Its Laws](https://huggingface.co/papers/2512.17901) | ⭐ 39 | AI |
 
-<sub>Last updated: 2025-12-22 06:42 UTC</sub>
+<sub>Last updated: 2025-12-22 12:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
