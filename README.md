@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://huggingface.co/papers/2512.16969) | ⭐ 78 | AI |
-| 🥈 [PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence](https://huggingface.co/papers/2512.16793) | ⭐ 64 | AI |
-| 🥉 [When Reasoning Meets Its Laws](https://huggingface.co/papers/2512.17901) | ⭐ 48 | AI |
+| 🏆 [DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676) | ⭐ 66 | AI |
+| 🥈 [The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693) | ⭐ 28 | AI |
+| 🥉 [Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation](https://huggingface.co/papers/2512.17040) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-12-23 02:06 UTC</sub>
+<sub>Last updated: 2025-12-23 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
