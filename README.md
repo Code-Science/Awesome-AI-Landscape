@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676) | ⭐ 155 | AI |
-| 🥈 [The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693) | ⭐ 51 | AI |
-| 🥉 [Region-Constraint In-Context Generation for Instructional Video Editing](https://huggingface.co/papers/2512.17650) | ⭐ 38 | AI |
+| 🏆 [DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676) | ⭐ 158 | AI |
+| 🥈 [The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693) | ⭐ 53 | AI |
+| 🥉 [Region-Constraint In-Context Generation for Instructional Video Editing](https://huggingface.co/papers/2512.17650) | ⭐ 40 | AI |
 
-<sub>Last updated: 2025-12-23 18:38 UTC</sub>
+<sub>Last updated: 2025-12-24 02:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
