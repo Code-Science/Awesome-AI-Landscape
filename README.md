@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SemanticGen: Video Generation in Semantic Space](https://huggingface.co/papers/2512.20619) | ⭐ 78 | AI |
-| 🥈 [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://huggingface.co/papers/2512.19673) | ⭐ 49 | AI |
-| 🥉 [LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://huggingface.co/papers/2512.20618) | ⭐ 38 | AI |
+| 🏆 [Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://huggingface.co/papers/2512.20557) | ⭐ 32 | AI |
+| 🥈 [TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093) | ⭐ 29 | AI |
+| 🥉 [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://huggingface.co/papers/2512.21094) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-12-25 02:06 UTC</sub>
+<sub>Last updated: 2025-12-25 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
