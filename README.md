@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SemanticGen: Video Generation in Semantic Space](https://huggingface.co/papers/2512.20619) | ⭐ 75 | AI |
-| 🥈 [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://huggingface.co/papers/2512.19673) | ⭐ 48 | AI |
+| 🏆 [SemanticGen: Video Generation in Semantic Space](https://huggingface.co/papers/2512.20619) | ⭐ 78 | AI |
+| 🥈 [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://huggingface.co/papers/2512.19673) | ⭐ 49 | AI |
 | 🥉 [LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://huggingface.co/papers/2512.20618) | ⭐ 38 | AI |
 
-<sub>Last updated: 2025-12-24 18:37 UTC</sub>
+<sub>Last updated: 2025-12-25 02:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
