@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://huggingface.co/papers/2512.20557) | ⭐ 32 | AI |
-| 🥈 [TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093) | ⭐ 29 | AI |
-| 🥉 [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://huggingface.co/papers/2512.21094) | ⭐ 20 | AI |
+| 🏆 [Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://huggingface.co/papers/2512.20557) | ⭐ 40 | AI |
+| 🥈 [TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093) | ⭐ 36 | AI |
+| 🥉 [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://huggingface.co/papers/2512.21094) | ⭐ 22 | AI |
 
-<sub>Last updated: 2025-12-25 06:41 UTC</sub>
+<sub>Last updated: 2025-12-25 12:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
