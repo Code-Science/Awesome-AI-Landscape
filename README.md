@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093) | ⭐ 49 | AI |
-| 🥈 [Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://huggingface.co/papers/2512.20557) | ⭐ 42 | AI |
-| 🥉 [DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation](https://huggingface.co/papers/2512.21252) | ⭐ 24 | AI |
+| 🏆 [Latent Implicit Visual Reasoning](https://huggingface.co/papers/2512.21218) | ⭐ 19 | AI |
+| 🥈 [Spatia: Video Generation with Updatable Spatial Memory](https://huggingface.co/papers/2512.15716) | ⭐ 6 | AI |
+| 🥉 [Schoenfeld's Anatomy of Mathematical Reasoning by Language Models](https://huggingface.co/papers/2512.19995) | ⭐ 4 | AI |
 
-<sub>Last updated: 2025-12-26 02:05 UTC</sub>
+<sub>Last updated: 2025-12-26 06:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
