@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Latent Implicit Visual Reasoning](https://huggingface.co/papers/2512.21218) | ⭐ 45 | AI |
-| 🥈 [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://huggingface.co/papers/2512.20605) | ⭐ 43 | AI |
+| 🏆 [Latent Implicit Visual Reasoning](https://huggingface.co/papers/2512.21218) | ⭐ 46 | AI |
+| 🥈 [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://huggingface.co/papers/2512.20605) | ⭐ 44 | AI |
 | 🥉 [Spatia: Video Generation with Updatable Spatial Memory](https://huggingface.co/papers/2512.15716) | ⭐ 20 | AI |
 
-<sub>Last updated: 2025-12-28 02:24 UTC</sub>
+<sub>Last updated: 2025-12-28 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
