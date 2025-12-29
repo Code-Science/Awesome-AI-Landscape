@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Latent Implicit Visual Reasoning](https://huggingface.co/papers/2512.21218) | ⭐ 54 | AI |
-| 🥈 [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://huggingface.co/papers/2512.20605) | ⭐ 50 | AI |
-| 🥉 [Spatia: Video Generation with Updatable Spatial Memory](https://huggingface.co/papers/2512.15716) | ⭐ 22 | AI |
+| 🏆 [InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion](https://huggingface.co/papers/2512.17504) | ⭐ 25 | AI |
+| 🥈 [Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding](https://huggingface.co/papers/2512.17220) | ⭐ 24 | AI |
+| 🥉 [MAI-UI Technical Report: Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2512.22047) | ⭐ 11 | AI |
 
-<sub>Last updated: 2025-12-29 02:22 UTC</sub>
+<sub>Last updated: 2025-12-29 06:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
