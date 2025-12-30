@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss](https://huggingface.co/papers/2512.23447) | ⭐ 60 | AI |
-| 🥈 [LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576) | ⭐ 46 | AI |
-| 🥉 [Yume-1.5: A Text-Controlled Interactive World Generation Model](https://huggingface.co/papers/2512.22096) | ⭐ 45 | AI |
+| 🏆 [Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss](https://huggingface.co/papers/2512.23447) | ⭐ 69 | AI |
+| 🥈 [LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576) | ⭐ 49 | AI |
+| 🥉 [Yume-1.5: A Text-Controlled Interactive World Generation Model](https://huggingface.co/papers/2512.22096) | ⭐ 48 | AI |
 
-<sub>Last updated: 2025-12-30 12:56 UTC</sub>
+<sub>Last updated: 2025-12-30 18:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
