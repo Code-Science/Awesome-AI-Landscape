@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding](https://huggingface.co/papers/2512.17220) | ⭐ 68 | AI |
-| 🥈 [InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion](https://huggingface.co/papers/2512.17504) | ⭐ 66 | AI |
-| 🥉 [MAI-UI Technical Report: Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2512.22047) | ⭐ 19 | AI |
+| 🏆 [InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion](https://huggingface.co/papers/2512.17504) | ⭐ 70 | AI |
+| 🥈 [Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding](https://huggingface.co/papers/2512.17220) | ⭐ 69 | AI |
+| 🥉 [MAI-UI Technical Report: Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2512.22047) | ⭐ 21 | AI |
 
-<sub>Last updated: 2025-12-29 18:38 UTC</sub>
+<sub>Last updated: 2025-12-30 02:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
