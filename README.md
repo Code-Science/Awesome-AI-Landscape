@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DreamOmni3: Scribble-based Editing and Generation](https://huggingface.co/papers/2512.22525) | ⭐ 4 | AI |
+| 🏆 [UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://huggingface.co/papers/2512.21185) | ⭐ 12 | AI |
+| 🥈 [DreamOmni3: Scribble-based Editing and Generation](https://huggingface.co/papers/2512.22525) | ⭐ 8 | AI |
+| 🥉 [End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675) | ⭐ 3 | AI |
 
-<sub>Last updated: 2025-12-31 06:41 UTC</sub>
+<sub>Last updated: 2025-12-31 12:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
