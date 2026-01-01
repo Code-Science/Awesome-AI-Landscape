@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://huggingface.co/papers/2512.24618) | ⭐ 34 | AI |
-| 🥈 [Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem](https://huggingface.co/papers/2512.24873) | ⭐ 23 | AI |
-| 🥉 [GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://huggingface.co/papers/2512.25073) | ⭐ 13 | AI |
+| 🏆 [Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://huggingface.co/papers/2512.24618) | ⭐ 41 | AI |
+| 🥈 [mHC: Manifold-Constrained Hyper-Connections](https://huggingface.co/papers/2512.24880) | ⭐ 37 | AI |
+| 🥉 [Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem](https://huggingface.co/papers/2512.24873) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-01-01 12:55 UTC</sub>
+<sub>Last updated: 2026-01-01 18:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
