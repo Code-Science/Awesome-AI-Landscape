@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://huggingface.co/papers/2512.21185) | ⭐ 15 | AI |
-| 🥈 [DreamOmni3: Scribble-based Editing and Generation](https://huggingface.co/papers/2512.22525) | ⭐ 10 | AI |
-| 🥉 [End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675) | ⭐ 6 | AI |
+| 🏆 [Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://huggingface.co/papers/2512.24618) | ⭐ 26 | AI |
+| 🥈 [GR-Dexter Technical Report](https://huggingface.co/papers/2512.24210) | ⭐ 7 | AI |
+| 🥉 [Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem](https://huggingface.co/papers/2512.24873) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-01-01 02:24 UTC</sub>
+<sub>Last updated: 2026-01-01 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
