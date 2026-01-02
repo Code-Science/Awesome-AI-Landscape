@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [mHC: Manifold-Constrained Hyper-Connections](https://huggingface.co/papers/2512.24880) | ⭐ 66 | AI |
-| 🥈 [Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://huggingface.co/papers/2512.24618) | ⭐ 44 | AI |
-| 🥉 [Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem](https://huggingface.co/papers/2512.24873) | ⭐ 33 | AI |
+| 🏆 [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://huggingface.co/papers/2512.24617) | ⭐ 11 | AI |
+| 🥈 [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://huggingface.co/papers/2512.24165) | ⭐ 4 | AI |
+| 🥉 [On the Role of Discreteness in Diffusion LLMs](https://huggingface.co/papers/2512.22630) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-01-02 02:09 UTC</sub>
+<sub>Last updated: 2026-01-02 06:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
