@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://huggingface.co/papers/2512.24617) | ⭐ 17 | AI |
-| 🥈 [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://huggingface.co/papers/2512.24165) | ⭐ 9 | AI |
-| 🥉 [On the Role of Discreteness in Diffusion LLMs](https://huggingface.co/papers/2512.22630) | ⭐ 5 | AI |
+| 🏆 [Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](https://huggingface.co/papers/2512.23959) | ⭐ 36 | AI |
+| 🥈 [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://huggingface.co/papers/2512.24617) | ⭐ 23 | AI |
+| 🥉 [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://huggingface.co/papers/2512.24165) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-01-02 12:54 UTC</sub>
+<sub>Last updated: 2026-01-02 18:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
