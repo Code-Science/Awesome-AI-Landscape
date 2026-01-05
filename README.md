@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](https://huggingface.co/papers/2512.23959) | ⭐ 85 | AI |
-| 🥈 [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://huggingface.co/papers/2512.24617) | ⭐ 47 | AI |
-| 🥉 [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://huggingface.co/papers/2512.24165) | ⭐ 41 | AI |
+| 🏆 [Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization](https://huggingface.co/papers/2512.24615) | ⭐ 63 | AI |
+| 🥈 [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://huggingface.co/papers/2601.00393) | ⭐ 39 | AI |
+| 🥉 [Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation](https://huggingface.co/papers/2601.00664) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-01-05 02:25 UTC</sub>
+<sub>Last updated: 2026-01-05 06:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
