@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](https://huggingface.co/papers/2512.23959) | ⭐ 81 | AI |
-| 🥈 [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://huggingface.co/papers/2512.24617) | ⭐ 42 | AI |
+| 🏆 [Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](https://huggingface.co/papers/2512.23959) | ⭐ 85 | AI |
+| 🥈 [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://huggingface.co/papers/2512.24617) | ⭐ 47 | AI |
 | 🥉 [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://huggingface.co/papers/2512.24165) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-01-04 18:36 UTC</sub>
+<sub>Last updated: 2026-01-05 02:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
