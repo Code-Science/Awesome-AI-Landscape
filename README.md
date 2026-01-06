@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [K-EXAONE Technical Report](https://huggingface.co/papers/2601.01739) | ⭐ 29 | AI |
-| 🥈 [NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://huggingface.co/papers/2601.02204) | ⭐ 25 | AI |
-| 🥉 [DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425) | ⭐ 25 | AI |
+| 🏆 [K-EXAONE Technical Report](https://huggingface.co/papers/2601.01739) | ⭐ 40 | AI |
+| 🥈 [NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://huggingface.co/papers/2601.02204) | ⭐ 35 | AI |
+| 🥉 [DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-01-06 06:43 UTC</sub>
+<sub>Last updated: 2026-01-06 12:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
