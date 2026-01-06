@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://huggingface.co/papers/2601.00393) | ⭐ 81 | AI |
-| 🥈 [Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization](https://huggingface.co/papers/2512.24615) | ⭐ 79 | AI |
-| 🥉 [Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation](https://huggingface.co/papers/2601.00664) | ⭐ 43 | AI |
+| 🏆 [Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization](https://huggingface.co/papers/2512.24615) | ⭐ 86 | AI |
+| 🥈 [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://huggingface.co/papers/2601.00393) | ⭐ 84 | AI |
+| 🥉 [Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation](https://huggingface.co/papers/2601.00664) | ⭐ 44 | AI |
 
-<sub>Last updated: 2026-01-05 18:40 UTC</sub>
+<sub>Last updated: 2026-01-06 02:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
