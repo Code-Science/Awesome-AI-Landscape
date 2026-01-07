@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](https://huggingface.co/papers/2601.03252) | ⭐ 52 | AI |
-| 🥈 [MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization](https://huggingface.co/papers/2601.01554) | ⭐ 33 | AI |
-| 🥉 [UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision](https://huggingface.co/papers/2601.03193) | ⭐ 15 | AI |
+| 🏆 [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](https://huggingface.co/papers/2601.03252) | ⭐ 66 | AI |
+| 🥈 [MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization](https://huggingface.co/papers/2601.01554) | ⭐ 43 | AI |
+| 🥉 [SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence](https://huggingface.co/papers/2512.22334) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-01-07 06:42 UTC</sub>
+<sub>Last updated: 2026-01-07 12:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
