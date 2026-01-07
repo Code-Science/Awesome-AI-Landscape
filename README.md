@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits](https://huggingface.co/papers/2512.20578) | ⭐ 47 | AI |
-| 🥈 [NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://huggingface.co/papers/2601.02204) | ⭐ 45 | AI |
-| 🥉 [K-EXAONE Technical Report](https://huggingface.co/papers/2601.01739) | ⭐ 44 | AI |
+| 🏆 [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](https://huggingface.co/papers/2601.03252) | ⭐ 52 | AI |
+| 🥈 [MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization](https://huggingface.co/papers/2601.01554) | ⭐ 33 | AI |
+| 🥉 [UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision](https://huggingface.co/papers/2601.03193) | ⭐ 15 | AI |
 
-<sub>Last updated: 2026-01-07 02:08 UTC</sub>
+<sub>Last updated: 2026-01-07 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
