@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://huggingface.co/papers/2601.02204) | ⭐ 42 | AI |
-| 🥈 [K-EXAONE Technical Report](https://huggingface.co/papers/2601.01739) | ⭐ 42 | AI |
-| 🥉 [DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425) | ⭐ 33 | AI |
+| 🏆 [Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits](https://huggingface.co/papers/2512.20578) | ⭐ 47 | AI |
+| 🥈 [NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://huggingface.co/papers/2601.02204) | ⭐ 45 | AI |
+| 🥉 [K-EXAONE Technical Report](https://huggingface.co/papers/2601.01739) | ⭐ 44 | AI |
 
-<sub>Last updated: 2026-01-06 18:40 UTC</sub>
+<sub>Last updated: 2026-01-07 02:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
