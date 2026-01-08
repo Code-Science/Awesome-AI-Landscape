@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](https://huggingface.co/papers/2601.03252) | ⭐ 73 | AI |
-| 🥈 [MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization](https://huggingface.co/papers/2601.01554) | ⭐ 45 | AI |
-| 🥉 [LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233) | ⭐ 43 | AI |
+| 🏆 [Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting](https://huggingface.co/papers/2601.02151) | ⭐ 31 | AI |
+| 🥈 [Benchmark^2: Systematic Evaluation of LLM Benchmarks](https://huggingface.co/papers/2601.03986) | ⭐ 19 | AI |
+| 🥉 [Choreographing a World of Dynamic Objects](https://huggingface.co/papers/2601.04194) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-01-08 02:08 UTC</sub>
+<sub>Last updated: 2026-01-08 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
