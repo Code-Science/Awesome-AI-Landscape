@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting](https://huggingface.co/papers/2601.02151) | ⭐ 54 | AI |
-| 🥈 [Benchmark^2: Systematic Evaluation of LLM Benchmarks](https://huggingface.co/papers/2601.03986) | ⭐ 26 | AI |
-| 🥉 [Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://huggingface.co/papers/2601.03872) | ⭐ 20 | AI |
+| 🏆 [Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting](https://huggingface.co/papers/2601.02151) | ⭐ 63 | AI |
+| 🥈 [Evolving Programmatic Skill Networks](https://huggingface.co/papers/2601.03509) | ⭐ 47 | AI |
+| 🥉 [Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://huggingface.co/papers/2601.03872) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-01-08 12:58 UTC</sub>
+<sub>Last updated: 2026-01-08 18:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
