@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242) | ⭐ 56 | AI |
-| 🥈 [RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation](https://huggingface.co/papers/2601.05241) | ⭐ 15 | AI |
-| 🥉 [RelayLLM: Efficient Reasoning via Collaborative Decoding](https://huggingface.co/papers/2601.05167) | ⭐ 14 | AI |
+| 🏆 [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242) | ⭐ 76 | AI |
+| 🥈 [Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers](https://huggingface.co/papers/2601.04890) | ⭐ 27 | AI |
+| 🥉 [RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://huggingface.co/papers/2601.05249) | ⭐ 21 | AI |
 
-<sub>Last updated: 2026-01-09 06:42 UTC</sub>
+<sub>Last updated: 2026-01-09 12:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
