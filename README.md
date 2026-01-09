@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting](https://huggingface.co/papers/2601.02151) | ⭐ 65 | AI |
-| 🥈 [Evolving Programmatic Skill Networks](https://huggingface.co/papers/2601.03509) | ⭐ 54 | AI |
-| 🥉 [Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://huggingface.co/papers/2601.03872) | ⭐ 31 | AI |
+| 🏆 [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242) | ⭐ 56 | AI |
+| 🥈 [RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation](https://huggingface.co/papers/2601.05241) | ⭐ 15 | AI |
+| 🥉 [RelayLLM: Efficient Reasoning via Collaborative Decoding](https://huggingface.co/papers/2601.05167) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-01-09 02:10 UTC</sub>
+<sub>Last updated: 2026-01-09 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
