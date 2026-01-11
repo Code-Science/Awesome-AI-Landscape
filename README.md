@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242) | ⭐ 125 | AI |
-| 🥈 [Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers](https://huggingface.co/papers/2601.04890) | ⭐ 35 | AI |
-| 🥉 [RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://huggingface.co/papers/2601.05249) | ⭐ 31 | AI |
+| 🏆 [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242) | ⭐ 130 | AI |
+| 🥈 [Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers](https://huggingface.co/papers/2601.04890) | ⭐ 36 | AI |
+| 🥉 [RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://huggingface.co/papers/2601.05249) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-01-11 06:40 UTC</sub>
+<sub>Last updated: 2026-01-11 12:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
