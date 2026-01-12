@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242) | ⭐ 141 | AI |
-| 🥈 [Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers](https://huggingface.co/papers/2601.04890) | ⭐ 37 | AI |
-| 🥉 [RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://huggingface.co/papers/2601.05249) | ⭐ 35 | AI |
+| 🏆 [Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432) | ⭐ 52 | AI |
+| 🥈 [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://huggingface.co/papers/2601.06021) | ⭐ 26 | AI |
+| 🥉 [The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://huggingface.co/papers/2601.06002) | ⭐ 25 | AI |
 
-<sub>Last updated: 2026-01-12 02:22 UTC</sub>
+<sub>Last updated: 2026-01-12 06:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
