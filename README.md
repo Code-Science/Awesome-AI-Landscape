@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432) | ⭐ 52 | AI |
-| 🥈 [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://huggingface.co/papers/2601.06021) | ⭐ 26 | AI |
-| 🥉 [The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://huggingface.co/papers/2601.06002) | ⭐ 25 | AI |
+| 🏆 [Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432) | ⭐ 121 | AI |
+| 🥈 [MMFormalizer: Multimodal Autoformalization in the Wild](https://huggingface.co/papers/2601.03017) | ⭐ 88 | AI |
+| 🥉 [The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://huggingface.co/papers/2601.06002) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-01-12 06:46 UTC</sub>
+<sub>Last updated: 2026-01-12 13:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
