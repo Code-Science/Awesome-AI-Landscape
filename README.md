@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432) | ⭐ 130 | AI |
-| 🥈 [MMFormalizer: Multimodal Autoformalization in the Wild](https://huggingface.co/papers/2601.03017) | ⭐ 94 | AI |
-| 🥉 [CaricatureGS: Exaggerating 3D Gaussian Splatting Faces With Gaussian Curvature](https://huggingface.co/papers/2601.03319) | ⭐ 45 | AI |
+| 🏆 [BabyVision: Visual Reasoning Beyond Language](https://huggingface.co/papers/2601.06521) | ⭐ 63 | AI |
+| 🥈 [Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://huggingface.co/papers/2601.06943) | ⭐ 60 | AI |
+| 🥉 [PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://huggingface.co/papers/2601.05593) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-01-13 02:06 UTC</sub>
+<sub>Last updated: 2026-01-13 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
