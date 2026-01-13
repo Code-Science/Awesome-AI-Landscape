@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [BabyVision: Visual Reasoning Beyond Language](https://huggingface.co/papers/2601.06521) | ⭐ 63 | AI |
-| 🥈 [Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://huggingface.co/papers/2601.06943) | ⭐ 60 | AI |
-| 🥉 [PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://huggingface.co/papers/2601.05593) | ⭐ 47 | AI |
+| 🏆 [Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://huggingface.co/papers/2601.06943) | ⭐ 147 | AI |
+| 🥈 [BabyVision: Visual Reasoning Beyond Language](https://huggingface.co/papers/2601.06521) | ⭐ 130 | AI |
+| 🥉 [PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://huggingface.co/papers/2601.05593) | ⭐ 60 | AI |
 
-<sub>Last updated: 2026-01-13 06:42 UTC</sub>
+<sub>Last updated: 2026-01-13 13:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
