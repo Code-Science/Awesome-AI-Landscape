@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Solar Open Technical Report](https://huggingface.co/papers/2601.07022) | ⭐ 31 | AI |
-| 🥈 [User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale](https://huggingface.co/papers/2601.08225) | ⭐ 28 | AI |
-| 🥉 [ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands](https://huggingface.co/papers/2512.24965) | ⭐ 20 | AI |
+| 🏆 [Solar Open Technical Report](https://huggingface.co/papers/2601.07022) | ⭐ 45 | AI |
+| 🥈 [MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences](https://huggingface.co/papers/2601.06789) | ⭐ 43 | AI |
+| 🥉 [User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale](https://huggingface.co/papers/2601.08225) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-01-14 06:43 UTC</sub>
+<sub>Last updated: 2026-01-14 13:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
