@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Solar Open Technical Report](https://huggingface.co/papers/2601.07022) | ⭐ 45 | AI |
-| 🥈 [MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences](https://huggingface.co/papers/2601.06789) | ⭐ 43 | AI |
-| 🥉 [User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale](https://huggingface.co/papers/2601.08225) | ⭐ 38 | AI |
+| 🏆 [MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences](https://huggingface.co/papers/2601.06789) | ⭐ 55 | AI |
+| 🥈 [Solar Open Technical Report](https://huggingface.co/papers/2601.07022) | ⭐ 47 | AI |
+| 🥉 [KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions](https://huggingface.co/papers/2601.04745) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-01-14 13:00 UTC</sub>
+<sub>Last updated: 2026-01-14 18:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
