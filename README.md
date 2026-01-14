@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://huggingface.co/papers/2601.06943) | ⭐ 175 | AI |
-| 🥈 [BabyVision: Visual Reasoning Beyond Language](https://huggingface.co/papers/2601.06521) | ⭐ 153 | AI |
-| 🥉 [PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://huggingface.co/papers/2601.05593) | ⭐ 64 | AI |
+| 🏆 [Solar Open Technical Report](https://huggingface.co/papers/2601.07022) | ⭐ 31 | AI |
+| 🥈 [User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale](https://huggingface.co/papers/2601.08225) | ⭐ 28 | AI |
+| 🥉 [ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands](https://huggingface.co/papers/2512.24965) | ⭐ 20 | AI |
 
-<sub>Last updated: 2026-01-14 02:20 UTC</sub>
+<sub>Last updated: 2026-01-14 06:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
