@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences](https://huggingface.co/papers/2601.06789) | ⭐ 61 | AI |
-| 🥈 [Solar Open Technical Report](https://huggingface.co/papers/2601.07022) | ⭐ 52 | AI |
-| 🥉 [KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions](https://huggingface.co/papers/2601.04745) | ⭐ 47 | AI |
+| 🏆 [Controlled Self-Evolution for Algorithmic Code Optimization](https://huggingface.co/papers/2601.07348) | ⭐ 46 | AI |
+| 🥈 [DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://huggingface.co/papers/2601.09688) | ⭐ 45 | AI |
+| 🥉 [Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](https://huggingface.co/papers/2601.09708) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-01-15 02:08 UTC</sub>
+<sub>Last updated: 2026-01-15 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
