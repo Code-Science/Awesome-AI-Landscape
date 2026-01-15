@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Controlled Self-Evolution for Algorithmic Code Optimization](https://huggingface.co/papers/2601.07348) | ⭐ 74 | AI |
-| 🥈 [MAXS: Meta-Adaptive Exploration with LLM Agents](https://huggingface.co/papers/2601.09259) | ⭐ 68 | AI |
-| 🥉 [A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation](https://huggingface.co/papers/2601.09274) | ⭐ 66 | AI |
+| 🏆 [Controlled Self-Evolution for Algorithmic Code Optimization](https://huggingface.co/papers/2601.07348) | ⭐ 92 | AI |
+| 🥈 [DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://huggingface.co/papers/2601.09688) | ⭐ 85 | AI |
+| 🥉 [MAXS: Meta-Adaptive Exploration with LLM Agents](https://huggingface.co/papers/2601.09259) | ⭐ 79 | AI |
 
-<sub>Last updated: 2026-01-15 12:58 UTC</sub>
+<sub>Last updated: 2026-01-15 18:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
