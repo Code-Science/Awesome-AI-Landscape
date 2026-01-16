@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Controlled Self-Evolution for Algorithmic Code Optimization](https://huggingface.co/papers/2601.07348) | ⭐ 95 | AI |
-| 🥈 [DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://huggingface.co/papers/2601.09688) | ⭐ 92 | AI |
-| 🥉 [MAXS: Meta-Adaptive Exploration with LLM Agents](https://huggingface.co/papers/2601.09259) | ⭐ 81 | AI |
+| 🏆 [STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668) | ⭐ 81 | AI |
+| 🥈 [Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://huggingface.co/papers/2601.10477) | ⭐ 56 | AI |
+| 🥉 [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://huggingface.co/papers/2601.08763) | ⭐ 50 | AI |
 
-<sub>Last updated: 2026-01-16 02:10 UTC</sub>
+<sub>Last updated: 2026-01-16 06:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
