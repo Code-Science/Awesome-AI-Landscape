@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Controlled Self-Evolution for Algorithmic Code Optimization](https://huggingface.co/papers/2601.07348) | ⭐ 92 | AI |
-| 🥈 [DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://huggingface.co/papers/2601.09688) | ⭐ 85 | AI |
-| 🥉 [MAXS: Meta-Adaptive Exploration with LLM Agents](https://huggingface.co/papers/2601.09259) | ⭐ 79 | AI |
+| 🏆 [Controlled Self-Evolution for Algorithmic Code Optimization](https://huggingface.co/papers/2601.07348) | ⭐ 95 | AI |
+| 🥈 [DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://huggingface.co/papers/2601.09688) | ⭐ 92 | AI |
+| 🥉 [MAXS: Meta-Adaptive Exploration with LLM Agents](https://huggingface.co/papers/2601.09259) | ⭐ 81 | AI |
 
-<sub>Last updated: 2026-01-15 18:45 UTC</sub>
+<sub>Last updated: 2026-01-16 02:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
