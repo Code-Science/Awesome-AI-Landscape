@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668) | ⭐ 149 | AI |
+| 🏆 [STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668) | ⭐ 152 | AI |
 | 🥈 [Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://huggingface.co/papers/2601.10477) | ⭐ 143 | AI |
 | 🥉 [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://huggingface.co/papers/2601.08763) | ⭐ 121 | AI |
 
-<sub>Last updated: 2026-01-18 02:24 UTC</sub>
+<sub>Last updated: 2026-01-18 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
