@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Your Group-Relative Advantage Is Biased](https://huggingface.co/papers/2601.08521) | ⭐ 78 | AI |
-| 🥈 [RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation](https://huggingface.co/papers/2601.08430) | ⭐ 21 | AI |
-| 🥉 [Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text](https://huggingface.co/papers/2601.10355) | ⭐ 18 | AI |
+| 🏆 [Your Group-Relative Advantage Is Biased](https://huggingface.co/papers/2601.08521) | ⭐ 87 | AI |
+| 🥈 [The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents](https://huggingface.co/papers/2601.11496) | ⭐ 36 | AI |
+| 🥉 [Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text](https://huggingface.co/papers/2601.10355) | ⭐ 26 | AI |
 
-<sub>Last updated: 2026-01-19 06:49 UTC</sub>
+<sub>Last updated: 2026-01-19 13:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
