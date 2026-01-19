@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668) | ⭐ 162 | AI |
-| 🥈 [Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://huggingface.co/papers/2601.10477) | ⭐ 149 | AI |
-| 🥉 [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://huggingface.co/papers/2601.08763) | ⭐ 127 | AI |
+| 🏆 [Your Group-Relative Advantage Is Biased](https://huggingface.co/papers/2601.08521) | ⭐ 78 | AI |
+| 🥈 [RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation](https://huggingface.co/papers/2601.08430) | ⭐ 21 | AI |
+| 🥉 [Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text](https://huggingface.co/papers/2601.10355) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-01-19 02:22 UTC</sub>
+<sub>Last updated: 2026-01-19 06:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
