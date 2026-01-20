@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://huggingface.co/papers/2601.08808) | ⭐ 13 | AI |
-| 🥈 [ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development](https://huggingface.co/papers/2601.11077) | ⭐ 8 | AI |
-| 🥉 [CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation](https://huggingface.co/papers/2601.11096) | ⭐ 2 | AI |
+| 🏆 [ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development](https://huggingface.co/papers/2601.11077) | ⭐ 40 | AI |
+| 🥈 [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://huggingface.co/papers/2601.08808) | ⭐ 18 | AI |
+| 🥉 [CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation](https://huggingface.co/papers/2601.11096) | ⭐ 4 | AI |
 
-<sub>Last updated: 2026-01-20 06:46 UTC</sub>
+<sub>Last updated: 2026-01-20 13:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
