@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Your Group-Relative Advantage Is Biased](https://huggingface.co/papers/2601.08521) | ⭐ 92 | AI |
-| 🥈 [The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents](https://huggingface.co/papers/2601.11496) | ⭐ 36 | AI |
-| 🥉 [Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text](https://huggingface.co/papers/2601.10355) | ⭐ 30 | AI |
+| 🏆 [Your Group-Relative Advantage Is Biased](https://huggingface.co/papers/2601.08521) | ⭐ 95 | AI |
+| 🥈 [The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents](https://huggingface.co/papers/2601.11496) | ⭐ 39 | AI |
+| 🥉 [Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text](https://huggingface.co/papers/2601.10355) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-01-19 18:40 UTC</sub>
+<sub>Last updated: 2026-01-20 02:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
