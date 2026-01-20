@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Your Group-Relative Advantage Is Biased](https://huggingface.co/papers/2601.08521) | ⭐ 95 | AI |
-| 🥈 [The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents](https://huggingface.co/papers/2601.11496) | ⭐ 39 | AI |
-| 🥉 [Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text](https://huggingface.co/papers/2601.10355) | ⭐ 31 | AI |
+| 🏆 [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://huggingface.co/papers/2601.08808) | ⭐ 13 | AI |
+| 🥈 [ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development](https://huggingface.co/papers/2601.11077) | ⭐ 8 | AI |
+| 🥉 [CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation](https://huggingface.co/papers/2601.11096) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-01-20 02:10 UTC</sub>
+<sub>Last updated: 2026-01-20 06:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
