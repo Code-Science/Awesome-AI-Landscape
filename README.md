@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development](https://huggingface.co/papers/2601.11077) | ⭐ 50 | AI |
-| 🥈 [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://huggingface.co/papers/2601.08808) | ⭐ 26 | AI |
-| 🥉 [NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems](https://huggingface.co/papers/2601.11004) | ⭐ 10 | AI |
+| 🏆 [UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation](https://huggingface.co/papers/2601.11522) | ⭐ 14 | AI |
+| 🥈 [Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey](https://huggingface.co/papers/2601.11655) | ⭐ 14 | AI |
+| 🥉 [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://huggingface.co/papers/2601.12993) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-01-21 02:19 UTC</sub>
+<sub>Last updated: 2026-01-21 06:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
