@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development](https://huggingface.co/papers/2601.11077) | ⭐ 47 | AI |
-| 🥈 [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://huggingface.co/papers/2601.08808) | ⭐ 25 | AI |
-| 🥉 [Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation](https://huggingface.co/papers/2601.10880) | ⭐ 9 | AI |
+| 🏆 [ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development](https://huggingface.co/papers/2601.11077) | ⭐ 50 | AI |
+| 🥈 [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://huggingface.co/papers/2601.08808) | ⭐ 26 | AI |
+| 🥉 [NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems](https://huggingface.co/papers/2601.11004) | ⭐ 10 | AI |
 
-<sub>Last updated: 2026-01-20 18:52 UTC</sub>
+<sub>Last updated: 2026-01-21 02:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
