@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey](https://huggingface.co/papers/2601.11655) | ⭐ 38 | AI |
-| 🥈 [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://huggingface.co/papers/2601.12993) | ⭐ 34 | AI |
-| 🥉 [Toward Efficient Agents: Memory, Tool learning, and Planning](https://huggingface.co/papers/2601.14192) | ⭐ 26 | AI |
+| 🏆 [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://huggingface.co/papers/2601.12993) | ⭐ 59 | AI |
+| 🥈 [Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey](https://huggingface.co/papers/2601.11655) | ⭐ 48 | AI |
+| 🥉 [Toward Efficient Agents: Memory, Tool learning, and Planning](https://huggingface.co/papers/2601.14192) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-01-21 13:03 UTC</sub>
+<sub>Last updated: 2026-01-21 18:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
