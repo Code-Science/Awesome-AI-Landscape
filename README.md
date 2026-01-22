@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://huggingface.co/papers/2601.12993) | ⭐ 62 | AI |
-| 🥈 [Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey](https://huggingface.co/papers/2601.11655) | ⭐ 50 | AI |
-| 🥉 [Think3D: Thinking with Space for Spatial Reasoning](https://huggingface.co/papers/2601.13029) | ⭐ 31 | AI |
+| 🏆 [Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538) | ⭐ 77 | AI |
+| 🥈 [Rethinking Video Generation Model for the Embodied World](https://huggingface.co/papers/2601.15282) | ⭐ 20 | AI |
+| 🥉 [Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-01-22 02:21 UTC</sub>
+<sub>Last updated: 2026-01-22 06:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
