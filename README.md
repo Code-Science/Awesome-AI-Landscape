@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538) | ⭐ 77 | AI |
-| 🥈 [Rethinking Video Generation Model for the Embodied World](https://huggingface.co/papers/2601.15282) | ⭐ 20 | AI |
-| 🥉 [Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171) | ⭐ 19 | AI |
+| 🏆 [Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538) | ⭐ 102 | AI |
+| 🥈 [Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance](https://huggingface.co/papers/2601.14171) | ⭐ 30 | AI |
+| 🥉 [Rethinking Video Generation Model for the Embodied World](https://huggingface.co/papers/2601.15282) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-01-22 06:44 UTC</sub>
+<sub>Last updated: 2026-01-22 13:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
