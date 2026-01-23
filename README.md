@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538) | ⭐ 128 | AI |
-| 🥈 [MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents](https://huggingface.co/papers/2601.12346) | ⭐ 41 | AI |
-| 🥉 [Rethinking Video Generation Model for the Embodied World](https://huggingface.co/papers/2601.15282) | ⭐ 36 | AI |
+| 🏆 [The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://huggingface.co/papers/2601.15165) | ⭐ 39 | AI |
+| 🥈 [LLM-in-Sandbox Elicits General Agentic Intelligence](https://huggingface.co/papers/2601.16206) | ⭐ 27 | AI |
+| 🥉 [BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](https://huggingface.co/papers/2601.15197) | ⭐ 25 | AI |
 
-<sub>Last updated: 2026-01-23 02:10 UTC</sub>
+<sub>Last updated: 2026-01-23 06:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
