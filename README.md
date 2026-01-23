@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://huggingface.co/papers/2601.15165) | ⭐ 39 | AI |
-| 🥈 [LLM-in-Sandbox Elicits General Agentic Intelligence](https://huggingface.co/papers/2601.16206) | ⭐ 27 | AI |
-| 🥉 [BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](https://huggingface.co/papers/2601.15197) | ⭐ 25 | AI |
+| 🏆 [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://huggingface.co/papers/2601.15876) | ⭐ 50 | AI |
+| 🥈 [BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](https://huggingface.co/papers/2601.15197) | ⭐ 48 | AI |
+| 🥉 [The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://huggingface.co/papers/2601.15165) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-01-23 06:44 UTC</sub>
+<sub>Last updated: 2026-01-23 13:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
