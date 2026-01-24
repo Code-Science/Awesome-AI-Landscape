@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://huggingface.co/papers/2601.15876) | ⭐ 62 | AI |
+| 🏆 [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://huggingface.co/papers/2601.15876) | ⭐ 63 | AI |
 | 🥈 [The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://huggingface.co/papers/2601.15165) | ⭐ 55 | AI |
-| 🥉 [HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://huggingface.co/papers/2601.14724) | ⭐ 53 | AI |
+| 🥉 [HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://huggingface.co/papers/2601.14724) | ⭐ 54 | AI |
 
-<sub>Last updated: 2026-01-24 02:06 UTC</sub>
+<sub>Last updated: 2026-01-24 06:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
