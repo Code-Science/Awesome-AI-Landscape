@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://huggingface.co/papers/2601.14133) | ⭐ 30 | AI |
-| 🥈 [VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://huggingface.co/papers/2601.16973) | ⭐ 17 | AI |
-| 🥉 [LongCat-Flash-Thinking-2601 Technical Report](https://huggingface.co/papers/2601.16725) | ⭐ 15 | AI |
+| 🏆 [LongCat-Flash-Thinking-2601 Technical Report](https://huggingface.co/papers/2601.16725) | ⭐ 131 | AI |
+| 🥈 [SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746) | ⭐ 59 | AI |
+| 🥉 [TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://huggingface.co/papers/2601.14133) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-01-26 06:48 UTC</sub>
+<sub>Last updated: 2026-01-26 13:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
