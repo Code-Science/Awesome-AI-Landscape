@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://huggingface.co/papers/2601.15876) | ⭐ 75 | AI |
-| 🥈 [HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://huggingface.co/papers/2601.14724) | ⭐ 65 | AI |
-| 🥉 [LLM-in-Sandbox Elicits General Agentic Intelligence](https://huggingface.co/papers/2601.16206) | ⭐ 63 | AI |
+| 🏆 [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://huggingface.co/papers/2601.15876) | ⭐ 78 | AI |
+| 🥈 [HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://huggingface.co/papers/2601.14724) | ⭐ 68 | AI |
+| 🥉 [LLM-in-Sandbox Elicits General Agentic Intelligence](https://huggingface.co/papers/2601.16206) | ⭐ 65 | AI |
 
-<sub>Last updated: 2026-01-25 18:37 UTC</sub>
+<sub>Last updated: 2026-01-26 02:27 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
