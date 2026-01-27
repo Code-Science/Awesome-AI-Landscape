@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongCat-Flash-Thinking-2601 Technical Report](https://huggingface.co/papers/2601.16725) | ⭐ 135 | AI |
-| 🥈 [SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746) | ⭐ 62 | AI |
-| 🥉 [TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://huggingface.co/papers/2601.14133) | ⭐ 51 | AI |
+| 🏆 [LongCat-Flash-Thinking-2601 Technical Report](https://huggingface.co/papers/2601.16725) | ⭐ 139 | AI |
+| 🥈 [SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746) | ⭐ 64 | AI |
+| 🥉 [TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://huggingface.co/papers/2601.14133) | ⭐ 52 | AI |
 
-<sub>Last updated: 2026-01-26 18:46 UTC</sub>
+<sub>Last updated: 2026-01-27 02:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
