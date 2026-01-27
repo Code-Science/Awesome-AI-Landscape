@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongCat-Flash-Thinking-2601 Technical Report](https://huggingface.co/papers/2601.16725) | ⭐ 139 | AI |
-| 🥈 [SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746) | ⭐ 64 | AI |
-| 🥉 [TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers](https://huggingface.co/papers/2601.14133) | ⭐ 52 | AI |
+| 🏆 [Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs](https://huggingface.co/papers/2601.17058) | ⭐ 36 | AI |
+| 🥈 [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](https://huggingface.co/papers/2601.17737) | ⭐ 28 | AI |
+| 🥉 [daVinci-Dev: Agent-native Mid-training for Software Engineering](https://huggingface.co/papers/2601.18418) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-01-27 02:23 UTC</sub>
+<sub>Last updated: 2026-01-27 06:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
