@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [daVinci-Dev: Agent-native Mid-training for Software Engineering](https://huggingface.co/papers/2601.18418) | ⭐ 96 | AI |
-| 🥈 [Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs](https://huggingface.co/papers/2601.17058) | ⭐ 81 | AI |
-| 🥉 [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](https://huggingface.co/papers/2601.17737) | ⭐ 38 | AI |
+| 🏆 [Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs](https://huggingface.co/papers/2601.17058) | ⭐ 125 | AI |
+| 🥈 [daVinci-Dev: Agent-native Mid-training for Software Engineering](https://huggingface.co/papers/2601.18418) | ⭐ 103 | AI |
+| 🥉 [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](https://huggingface.co/papers/2601.17737) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-01-27 13:04 UTC</sub>
+<sub>Last updated: 2026-01-27 18:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
