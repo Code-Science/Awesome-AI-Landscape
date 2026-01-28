@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security](https://huggingface.co/papers/2601.18491) | ⭐ 35 | AI |
-| 🥈 [AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning](https://huggingface.co/papers/2601.18631) | ⭐ 30 | AI |
-| 🥉 [Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models](https://huggingface.co/papers/2601.19834) | ⭐ 12 | AI |
+| 🏆 [AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security](https://huggingface.co/papers/2601.18491) | ⭐ 54 | AI |
+| 🥈 [AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning](https://huggingface.co/papers/2601.18631) | ⭐ 36 | AI |
+| 🥉 [A Pragmatic VLA Foundation Model](https://huggingface.co/papers/2601.18692) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-01-28 06:46 UTC</sub>
+<sub>Last updated: 2026-01-28 13:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
