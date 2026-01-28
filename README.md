@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs](https://huggingface.co/papers/2601.17058) | ⭐ 127 | AI |
-| 🥈 [daVinci-Dev: Agent-native Mid-training for Software Engineering](https://huggingface.co/papers/2601.18418) | ⭐ 105 | AI |
-| 🥉 [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](https://huggingface.co/papers/2601.17737) | ⭐ 46 | AI |
+| 🏆 [AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security](https://huggingface.co/papers/2601.18491) | ⭐ 35 | AI |
+| 🥈 [AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning](https://huggingface.co/papers/2601.18631) | ⭐ 30 | AI |
+| 🥉 [Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models](https://huggingface.co/papers/2601.19834) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-01-28 02:19 UTC</sub>
+<sub>Last updated: 2026-01-28 06:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
