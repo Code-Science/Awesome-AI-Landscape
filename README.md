@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://huggingface.co/papers/2601.20614) | ⭐ 75 | AI |
-| 🥈 [Advancing Open-source World Models](https://huggingface.co/papers/2601.20540) | ⭐ 45 | AI |
-| 🥉 [DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552) | ⭐ 9 | AI |
+| 🏆 [Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://huggingface.co/papers/2601.20614) | ⭐ 90 | AI |
+| 🥈 [Advancing Open-source World Models](https://huggingface.co/papers/2601.20540) | ⭐ 55 | AI |
+| 🥉 [Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://huggingface.co/papers/2601.19325) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-01-29 06:57 UTC</sub>
+<sub>Last updated: 2026-01-29 13:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
