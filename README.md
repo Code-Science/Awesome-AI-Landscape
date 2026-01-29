@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security](https://huggingface.co/papers/2601.18491) | ⭐ 62 | AI |
-| 🥈 [AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning](https://huggingface.co/papers/2601.18631) | ⭐ 40 | AI |
-| 🥉 [A Pragmatic VLA Foundation Model](https://huggingface.co/papers/2601.18692) | ⭐ 30 | AI |
+| 🏆 [Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://huggingface.co/papers/2601.20614) | ⭐ 75 | AI |
+| 🥈 [Advancing Open-source World Models](https://huggingface.co/papers/2601.20540) | ⭐ 45 | AI |
+| 🥉 [DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552) | ⭐ 9 | AI |
 
-<sub>Last updated: 2026-01-29 02:35 UTC</sub>
+<sub>Last updated: 2026-01-29 06:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
