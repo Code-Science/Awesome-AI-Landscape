@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833) | ⭐ 29 | AI |
-| 🥈 [DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://huggingface.co/papers/2601.22153) | ⭐ 23 | AI |
-| 🥉 [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://huggingface.co/papers/2601.21821) | ⭐ 17 | AI |
+| 🏆 [Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models](https://huggingface.co/papers/2601.20354) | ⭐ 94 | AI |
+| 🥈 [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833) | ⭐ 67 | AI |
+| 🥉 [Scaling Embeddings Outperforms Scaling Experts in Language Models](https://huggingface.co/papers/2601.21204) | ⭐ 56 | AI |
 
-<sub>Last updated: 2026-01-30 06:58 UTC</sub>
+<sub>Last updated: 2026-01-30 13:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
