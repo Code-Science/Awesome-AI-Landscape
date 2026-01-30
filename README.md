@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report](https://huggingface.co/papers/2601.21051) | ⭐ 0 | AI |
+| 🏆 [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833) | ⭐ 29 | AI |
+| 🥈 [DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://huggingface.co/papers/2601.22153) | ⭐ 23 | AI |
+| 🥉 [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://huggingface.co/papers/2601.21821) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-01-30 02:35 UTC</sub>
+<sub>Last updated: 2026-01-30 06:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
