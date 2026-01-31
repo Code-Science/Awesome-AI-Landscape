@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models](https://huggingface.co/papers/2601.20354) | ⭐ 96 | AI |
-| 🥈 [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833) | ⭐ 94 | AI |
-| 🥉 [Scaling Embeddings Outperforms Scaling Experts in Language Models](https://huggingface.co/papers/2601.21204) | ⭐ 73 | AI |
+| 🏆 [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833) | ⭐ 113 | AI |
+| 🥈 [Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models](https://huggingface.co/papers/2601.20354) | ⭐ 97 | AI |
+| 🥉 [Scaling Embeddings Outperforms Scaling Experts in Language Models](https://huggingface.co/papers/2601.21204) | ⭐ 76 | AI |
 
-<sub>Last updated: 2026-01-30 18:53 UTC</sub>
+<sub>Last updated: 2026-01-31 02:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
