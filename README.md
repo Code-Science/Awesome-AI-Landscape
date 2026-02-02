@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833) | ⭐ 145 | AI |
-| 🥈 [Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models](https://huggingface.co/papers/2601.20354) | ⭐ 104 | AI |
-| 🥉 [Scaling Embeddings Outperforms Scaling Experts in Language Models](https://huggingface.co/papers/2601.21204) | ⭐ 91 | AI |
+| 🏆 [ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas](https://huggingface.co/papers/2601.21558) | ⭐ 11 | AI |
+| 🥈 [DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning](https://huggingface.co/papers/2601.21716) | ⭐ 4 | AI |
+| 🥉 [DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment](https://huggingface.co/papers/2601.20218) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-02-01 18:44 UTC</sub>
+<sub>Last updated: 2026-02-02 02:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
