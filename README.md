@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas](https://huggingface.co/papers/2601.21558) | ⭐ 47 | AI |
-| 🥈 [Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](https://huggingface.co/papers/2601.22975) | ⭐ 43 | AI |
-| 🥉 [Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation](https://huggingface.co/papers/2601.22813) | ⭐ 42 | AI |
+| 🏆 [UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://huggingface.co/papers/2602.02437) | ⭐ 33 | AI |
+| 🥈 [WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora](https://huggingface.co/papers/2602.02053) | ⭐ 26 | AI |
+| 🥉 [FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents](https://huggingface.co/papers/2602.01566) | ⭐ 26 | AI |
 
-<sub>Last updated: 2026-02-03 02:42 UTC</sub>
+<sub>Last updated: 2026-02-03 07:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
