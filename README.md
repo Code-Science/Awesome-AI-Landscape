@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas](https://huggingface.co/papers/2601.21558) | ⭐ 39 | AI |
-| 🥈 [THINKSAFE: Self-Generated Safety Alignment for Reasoning Models](https://huggingface.co/papers/2601.23143) | ⭐ 28 | AI |
-| 🥉 [TTCS: Test-Time Curriculum Synthesis for Self-Evolving](https://huggingface.co/papers/2601.22628) | ⭐ 22 | AI |
+| 🏆 [ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas](https://huggingface.co/papers/2601.21558) | ⭐ 47 | AI |
+| 🥈 [Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](https://huggingface.co/papers/2601.22975) | ⭐ 43 | AI |
+| 🥉 [Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation](https://huggingface.co/papers/2601.22813) | ⭐ 42 | AI |
 
-<sub>Last updated: 2026-02-02 13:14 UTC</sub>
+<sub>Last updated: 2026-02-03 02:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
