@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://huggingface.co/papers/2602.02437) | ⭐ 33 | AI |
-| 🥈 [WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora](https://huggingface.co/papers/2602.02053) | ⭐ 26 | AI |
-| 🥉 [FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents](https://huggingface.co/papers/2602.01566) | ⭐ 26 | AI |
+| 🏆 [Green-VLA: Staged Vision-Language-Action Model for Generalist Robots](https://huggingface.co/papers/2602.00919) | ⭐ 135 | AI |
+| 🥈 [Kimi K2.5: Visual Agentic Intelligence](https://huggingface.co/papers/2602.02276) | ⭐ 128 | AI |
+| 🥉 [Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://huggingface.co/papers/2601.22060) | ⭐ 113 | AI |
 
-<sub>Last updated: 2026-02-03 07:00 UTC</sub>
+<sub>Last updated: 2026-02-03 13:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
