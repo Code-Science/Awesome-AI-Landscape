@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding](https://huggingface.co/papers/2602.01785) | ⭐ 39 | AI |
-| 🥈 [MARS: Modular Agent with Reflective Search for Automated AI Research](https://huggingface.co/papers/2602.02660) | ⭐ 26 | AI |
-| 🥉 [daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently](https://huggingface.co/papers/2602.02619) | ⭐ 26 | AI |
+| 🏆 [CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding](https://huggingface.co/papers/2602.01785) | ⭐ 74 | AI |
+| 🥈 [No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://huggingface.co/papers/2602.02103) | ⭐ 54 | AI |
+| 🥉 [AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](https://huggingface.co/papers/2602.03786) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-02-04 07:01 UTC</sub>
+<sub>Last updated: 2026-02-04 13:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
