@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding](https://huggingface.co/papers/2602.01785) | ⭐ 74 | AI |
-| 🥈 [No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://huggingface.co/papers/2602.02103) | ⭐ 54 | AI |
-| 🥉 [AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](https://huggingface.co/papers/2602.03786) | ⭐ 47 | AI |
+| 🏆 [CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding](https://huggingface.co/papers/2602.01785) | ⭐ 76 | AI |
+| 🥈 [AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](https://huggingface.co/papers/2602.03786) | ⭐ 62 | AI |
+| 🥉 [No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://huggingface.co/papers/2602.02103) | ⭐ 57 | AI |
 
-<sub>Last updated: 2026-02-04 13:14 UTC</sub>
+<sub>Last updated: 2026-02-04 18:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
