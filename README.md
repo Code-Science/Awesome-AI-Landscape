@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Green-VLA: Staged Vision-Language-Action Model for Generalist Robots](https://huggingface.co/papers/2602.00919) | ⭐ 173 | AI |
-| 🥈 [Kimi K2.5: Visual Agentic Intelligence](https://huggingface.co/papers/2602.02276) | ⭐ 157 | AI |
-| 🥉 [Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://huggingface.co/papers/2601.22060) | ⭐ 129 | AI |
+| 🏆 [CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding](https://huggingface.co/papers/2602.01785) | ⭐ 39 | AI |
+| 🥈 [MARS: Modular Agent with Reflective Search for Automated AI Research](https://huggingface.co/papers/2602.02660) | ⭐ 26 | AI |
+| 🥉 [daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently](https://huggingface.co/papers/2602.02619) | ⭐ 26 | AI |
 
-<sub>Last updated: 2026-02-04 02:36 UTC</sub>
+<sub>Last updated: 2026-02-04 07:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
