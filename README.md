@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding](https://huggingface.co/papers/2602.01785) | ⭐ 82 | AI |
-| 🥈 [AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](https://huggingface.co/papers/2602.03786) | ⭐ 71 | AI |
-| 🥉 [No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://huggingface.co/papers/2602.02103) | ⭐ 58 | AI |
+| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 144 | AI |
+| 🥈 [Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization](https://huggingface.co/papers/2602.02958) | ⭐ 29 | AI |
+| 🥉 [Training Data Efficiency in Multimodal Process Reward Models](https://huggingface.co/papers/2602.04145) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-02-05 02:39 UTC</sub>
+<sub>Last updated: 2026-02-05 07:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
