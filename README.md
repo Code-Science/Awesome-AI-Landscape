@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 144 | AI |
-| 🥈 [Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization](https://huggingface.co/papers/2602.02958) | ⭐ 29 | AI |
-| 🥉 [Training Data Efficiency in Multimodal Process Reward Models](https://huggingface.co/papers/2602.04145) | ⭐ 27 | AI |
+| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 187 | AI |
+| 🥈 [FASA: Frequency-aware Sparse Attention](https://huggingface.co/papers/2602.03152) | ⭐ 93 | AI |
+| 🥉 [Training Data Efficiency in Multimodal Process Reward Models](https://huggingface.co/papers/2602.04145) | ⭐ 58 | AI |
 
-<sub>Last updated: 2026-02-05 07:07 UTC</sub>
+<sub>Last updated: 2026-02-05 13:16 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
