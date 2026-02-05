@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 187 | AI |
-| 🥈 [FASA: Frequency-aware Sparse Attention](https://huggingface.co/papers/2602.03152) | ⭐ 93 | AI |
-| 🥉 [Training Data Efficiency in Multimodal Process Reward Models](https://huggingface.co/papers/2602.04145) | ⭐ 58 | AI |
+| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 193 | AI |
+| 🥈 [FASA: Frequency-aware Sparse Attention](https://huggingface.co/papers/2602.03152) | ⭐ 99 | AI |
+| 🥉 [WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning](https://huggingface.co/papers/2602.04634) | ⭐ 69 | AI |
 
-<sub>Last updated: 2026-02-05 13:16 UTC</sub>
+<sub>Last updated: 2026-02-05 18:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
