@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR](https://huggingface.co/papers/2602.05261) | ⭐ 40 | AI |
-| 🥈 [Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening](https://huggingface.co/papers/2602.05386) | ⭐ 34 | AI |
-| 🥉 [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://huggingface.co/papers/2601.22027) | ⭐ 22 | AI |
+| 🏆 [Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening](https://huggingface.co/papers/2602.05386) | ⭐ 56 | AI |
+| 🥈 [Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR](https://huggingface.co/papers/2602.05261) | ⭐ 44 | AI |
+| 🥉 [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://huggingface.co/papers/2601.22027) | ⭐ 37 | AI |
 
-<sub>Last updated: 2026-02-06 13:14 UTC</sub>
+<sub>Last updated: 2026-02-06 18:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
