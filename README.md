@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ProAct: Agentic Lookahead in Interactive Environments](https://huggingface.co/papers/2602.05327) | ⭐ 16 | AI |
-| 🥈 [Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://huggingface.co/papers/2602.06028) | ⭐ 15 | AI |
-| 🥉 [RISE-Video: Can Video Generators Decode Implicit World Rules?](https://huggingface.co/papers/2602.05986) | ⭐ 15 | AI |
+| 🏆 [Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR](https://huggingface.co/papers/2602.05261) | ⭐ 40 | AI |
+| 🥈 [Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening](https://huggingface.co/papers/2602.05386) | ⭐ 34 | AI |
+| 🥉 [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://huggingface.co/papers/2601.22027) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-02-06 07:02 UTC</sub>
+<sub>Last updated: 2026-02-06 13:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
