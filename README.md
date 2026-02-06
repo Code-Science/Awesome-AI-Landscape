@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 193 | AI |
-| 🥈 [FASA: Frequency-aware Sparse Attention](https://huggingface.co/papers/2602.03152) | ⭐ 99 | AI |
-| 🥉 [WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning](https://huggingface.co/papers/2602.04634) | ⭐ 69 | AI |
+| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 203 | AI |
+| 🥈 [FASA: Frequency-aware Sparse Attention](https://huggingface.co/papers/2602.03152) | ⭐ 106 | AI |
+| 🥉 [WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning](https://huggingface.co/papers/2602.04634) | ⭐ 75 | AI |
 
-<sub>Last updated: 2026-02-05 18:58 UTC</sub>
+<sub>Last updated: 2026-02-06 02:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
