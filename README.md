@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ERNIE 5.0 Technical Report](https://huggingface.co/papers/2602.04705) | ⭐ 203 | AI |
-| 🥈 [FASA: Frequency-aware Sparse Attention](https://huggingface.co/papers/2602.03152) | ⭐ 106 | AI |
-| 🥉 [WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning](https://huggingface.co/papers/2602.04634) | ⭐ 75 | AI |
+| 🏆 [ProAct: Agentic Lookahead in Interactive Environments](https://huggingface.co/papers/2602.05327) | ⭐ 16 | AI |
+| 🥈 [Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://huggingface.co/papers/2602.06028) | ⭐ 15 | AI |
+| 🥉 [RISE-Video: Can Video Generators Decode Implicit World Rules?](https://huggingface.co/papers/2602.05986) | ⭐ 15 | AI |
 
-<sub>Last updated: 2026-02-06 02:39 UTC</sub>
+<sub>Last updated: 2026-02-06 07:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
