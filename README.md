@@ -22,7 +22,7 @@
 | 🥈 [Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening](https://huggingface.co/papers/2602.05386) | ⭐ 63 | AI |
 | 🥉 [Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR](https://huggingface.co/papers/2602.05261) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-02-08 03:18 UTC</sub>
+<sub>Last updated: 2026-02-08 06:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
