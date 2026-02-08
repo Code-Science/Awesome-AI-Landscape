@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://huggingface.co/papers/2601.22027) | ⭐ 71 | AI |
+| 🏆 [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://huggingface.co/papers/2601.22027) | ⭐ 72 | AI |
 | 🥈 [Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening](https://huggingface.co/papers/2602.05386) | ⭐ 64 | AI |
-| 🥉 [Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR](https://huggingface.co/papers/2602.05261) | ⭐ 45 | AI |
+| 🥉 [MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://huggingface.co/papers/2602.02474) | ⭐ 46 | AI |
 
-<sub>Last updated: 2026-02-08 13:03 UTC</sub>
+<sub>Last updated: 2026-02-08 18:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
