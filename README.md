@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://huggingface.co/papers/2601.22027) | ⭐ 72 | AI |
-| 🥈 [Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening](https://huggingface.co/papers/2602.05386) | ⭐ 64 | AI |
-| 🥉 [MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://huggingface.co/papers/2602.02474) | ⭐ 46 | AI |
+| 🏆 [Revisiting the Shape Convention of Transformer Language Models](https://huggingface.co/papers/2602.06471) | ⭐ 1 | AI |
+| 🥈 [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://huggingface.co/papers/2602.06075) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-02-08 18:47 UTC</sub>
+<sub>Last updated: 2026-02-09 02:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
