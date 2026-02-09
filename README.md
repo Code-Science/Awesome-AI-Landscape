@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://huggingface.co/papers/2602.05843) | ⭐ 34 | AI |
-| 🥈 [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://huggingface.co/papers/2602.03392) | ⭐ 34 | AI |
-| 🥉 [MSign: An Optimizer Preventing Training Instability in Large Language Models via Stable Rank Restoration](https://huggingface.co/papers/2602.01734) | ⭐ 18 | AI |
+| 🏆 [Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making](https://huggingface.co/papers/2602.06570) | ⭐ 53 | AI |
+| 🥈 [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://huggingface.co/papers/2602.05843) | ⭐ 49 | AI |
+| 🥉 [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://huggingface.co/papers/2602.03392) | ⭐ 42 | AI |
 
-<sub>Last updated: 2026-02-09 07:13 UTC</sub>
+<sub>Last updated: 2026-02-09 13:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
