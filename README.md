@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making](https://huggingface.co/papers/2602.06570) | ⭐ 53 | AI |
-| 🥈 [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://huggingface.co/papers/2602.05843) | ⭐ 49 | AI |
-| 🥉 [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://huggingface.co/papers/2602.03392) | ⭐ 42 | AI |
+| 🏆 [Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making](https://huggingface.co/papers/2602.06570) | ⭐ 54 | AI |
+| 🥈 [F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare](https://huggingface.co/papers/2602.06717) | ⭐ 53 | AI |
+| 🥉 [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://huggingface.co/papers/2602.05843) | ⭐ 51 | AI |
 
-<sub>Last updated: 2026-02-09 13:23 UTC</sub>
+<sub>Last updated: 2026-02-09 19:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
