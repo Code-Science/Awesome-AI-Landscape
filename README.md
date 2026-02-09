@@ -18,10 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Revisiting the Shape Convention of Transformer Language Models](https://huggingface.co/papers/2602.06471) | ⭐ 1 | AI |
-| 🥈 [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://huggingface.co/papers/2602.06075) | ⭐ 1 | AI |
+| 🏆 [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://huggingface.co/papers/2602.05843) | ⭐ 34 | AI |
+| 🥈 [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://huggingface.co/papers/2602.03392) | ⭐ 34 | AI |
+| 🥉 [MSign: An Optimizer Preventing Training Instability in Large Language Models via Stable Rank Restoration](https://huggingface.co/papers/2602.01734) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-02-09 02:47 UTC</sub>
+<sub>Last updated: 2026-02-09 07:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
