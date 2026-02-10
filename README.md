@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making](https://huggingface.co/papers/2602.06570) | ⭐ 54 | AI |
-| 🥈 [F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare](https://huggingface.co/papers/2602.06717) | ⭐ 53 | AI |
-| 🥉 [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://huggingface.co/papers/2602.05843) | ⭐ 51 | AI |
+| 🏆 [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](https://huggingface.co/papers/2602.06694) | ⭐ 2 | AI |
+| 🥈 [Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](https://huggingface.co/papers/2602.06422) | ⭐ 2 | AI |
+| 🥉 [Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models](https://huggingface.co/papers/2602.07026) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-02-09 19:24 UTC</sub>
+<sub>Last updated: 2026-02-10 02:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
