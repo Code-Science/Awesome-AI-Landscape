@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794) | ⭐ 113 | AI |
-| 🥈 [Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models](https://huggingface.co/papers/2602.07026) | ⭐ 109 | AI |
-| 🥉 [QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085) | ⭐ 77 | AI |
+| 🏆 [QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085) | ⭐ 139 | AI |
+| 🥈 [MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794) | ⭐ 129 | AI |
+| 🥉 [Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models](https://huggingface.co/papers/2602.07026) | ⭐ 120 | AI |
 
-<sub>Last updated: 2026-02-10 13:39 UTC</sub>
+<sub>Last updated: 2026-02-10 19:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
