@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](https://huggingface.co/papers/2602.06694) | ⭐ 2 | AI |
-| 🥈 [Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](https://huggingface.co/papers/2602.06422) | ⭐ 2 | AI |
-| 🥉 [Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models](https://huggingface.co/papers/2602.07026) | ⭐ 1 | AI |
+| 🏆 [Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models](https://huggingface.co/papers/2602.07026) | ⭐ 69 | AI |
+| 🥈 [MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794) | ⭐ 47 | AI |
+| 🥉 [Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](https://huggingface.co/papers/2602.06422) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-02-10 02:55 UTC</sub>
+<sub>Last updated: 2026-02-10 07:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
