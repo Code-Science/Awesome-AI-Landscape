@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration](https://huggingface.co/papers/2602.05400) | ⭐ 245 | AI |
-| 🥈 [Code2World: A GUI World Model via Renderable Code Generation](https://huggingface.co/papers/2602.09856) | ⭐ 137 | AI |
-| 🥉 [UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082) | ⭐ 128 | AI |
+| 🏆 [OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration](https://huggingface.co/papers/2602.05400) | ⭐ 274 | AI |
+| 🥈 [Code2World: A GUI World Model via Renderable Code Generation](https://huggingface.co/papers/2602.09856) | ⭐ 166 | AI |
+| 🥉 [UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082) | ⭐ 143 | AI |
 
-<sub>Last updated: 2026-02-11 13:24 UTC</sub>
+<sub>Last updated: 2026-02-11 19:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
