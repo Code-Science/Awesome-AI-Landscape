@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085) | ⭐ 139 | AI |
-| 🥈 [MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794) | ⭐ 129 | AI |
-| 🥉 [Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models](https://huggingface.co/papers/2602.07026) | ⭐ 120 | AI |
+| 🏆 [UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082) | ⭐ 22 | AI |
+| 🥈 [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://huggingface.co/papers/2602.08234) | ⭐ 13 | AI |
+| 🥉 [Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling](https://huggingface.co/papers/2602.09084) | ⭐ 8 | AI |
 
-<sub>Last updated: 2026-02-10 19:15 UTC</sub>
+<sub>Last updated: 2026-02-11 02:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
