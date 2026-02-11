@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082) | ⭐ 22 | AI |
-| 🥈 [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://huggingface.co/papers/2602.08234) | ⭐ 13 | AI |
-| 🥉 [Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling](https://huggingface.co/papers/2602.09084) | ⭐ 8 | AI |
+| 🏆 [OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration](https://huggingface.co/papers/2602.05400) | ⭐ 112 | AI |
+| 🥈 [Code2World: A GUI World Model via Renderable Code Generation](https://huggingface.co/papers/2602.09856) | ⭐ 79 | AI |
+| 🥉 [UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082) | ⭐ 77 | AI |
 
-<sub>Last updated: 2026-02-11 02:53 UTC</sub>
+<sub>Last updated: 2026-02-11 07:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
