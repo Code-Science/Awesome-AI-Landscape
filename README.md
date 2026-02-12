@@ -18,10 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models](https://huggingface.co/papers/2602.09713) | ⭐ 6 | AI |
-| 🥈 [G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design](https://huggingface.co/papers/2602.08253) | ⭐ 3 | AI |
+| 🏆 [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604) | ⭐ 121 | AI |
+| 🥈 [PhyCritic: Multimodal Critic Models for Physical AI](https://huggingface.co/papers/2602.11124) | ⭐ 24 | AI |
+| 🥉 [Towards Autonomous Mathematics Research](https://huggingface.co/papers/2602.10177) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-02-12 02:49 UTC</sub>
+<sub>Last updated: 2026-02-12 07:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
