@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604) | ⭐ 140 | AI |
-| 🥈 [GENIUS: Generative Fluid Intelligence Evaluation Suite](https://huggingface.co/papers/2602.11144) | ⭐ 37 | AI |
-| 🥉 [PhyCritic: Multimodal Critic Models for Physical AI](https://huggingface.co/papers/2602.11124) | ⭐ 29 | AI |
+| 🏆 [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604) | ⭐ 146 | AI |
+| 🥈 [GENIUS: Generative Fluid Intelligence Evaluation Suite](https://huggingface.co/papers/2602.11144) | ⭐ 39 | AI |
+| 🥉 [PhyCritic: Multimodal Critic Models for Physical AI](https://huggingface.co/papers/2602.11124) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-02-12 13:23 UTC</sub>
+<sub>Last updated: 2026-02-12 19:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
