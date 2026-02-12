@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration](https://huggingface.co/papers/2602.05400) | ⭐ 274 | AI |
-| 🥈 [Code2World: A GUI World Model via Renderable Code Generation](https://huggingface.co/papers/2602.09856) | ⭐ 166 | AI |
-| 🥉 [UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082) | ⭐ 143 | AI |
+| 🏆 [Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models](https://huggingface.co/papers/2602.09713) | ⭐ 6 | AI |
+| 🥈 [G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design](https://huggingface.co/papers/2602.08253) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-02-11 19:11 UTC</sub>
+<sub>Last updated: 2026-02-12 02:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
