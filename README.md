@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604) | ⭐ 146 | AI |
-| 🥈 [GENIUS: Generative Fluid Intelligence Evaluation Suite](https://huggingface.co/papers/2602.11144) | ⭐ 39 | AI |
-| 🥉 [PhyCritic: Multimodal Critic Models for Physical AI](https://huggingface.co/papers/2602.11124) | ⭐ 38 | AI |
+| 🏆 [Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation](https://huggingface.co/papers/2602.05548) | ⭐ 5 | AI |
+| 🥈 [Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use](https://huggingface.co/papers/2602.11541) | ⭐ 1 | AI |
+| 🥉 [Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity](https://huggingface.co/papers/2602.10585) | ⭐ 0 | AI |
 
-<sub>Last updated: 2026-02-12 19:11 UTC</sub>
+<sub>Last updated: 2026-02-13 02:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
