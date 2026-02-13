@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation](https://huggingface.co/papers/2602.05548) | ⭐ 5 | AI |
-| 🥈 [Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use](https://huggingface.co/papers/2602.11541) | ⭐ 1 | AI |
-| 🥉 [Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity](https://huggingface.co/papers/2602.10585) | ⭐ 0 | AI |
+| 🏆 [The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies](https://huggingface.co/papers/2602.09877) | ⭐ 84 | AI |
+| 🥈 [Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](https://huggingface.co/papers/2602.12125) | ⭐ 33 | AI |
+| 🥉 [MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models](https://huggingface.co/papers/2602.10934) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-02-13 02:49 UTC</sub>
+<sub>Last updated: 2026-02-13 07:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
