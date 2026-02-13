@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies](https://huggingface.co/papers/2602.09877) | ⭐ 84 | AI |
-| 🥈 [Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](https://huggingface.co/papers/2602.12125) | ⭐ 33 | AI |
-| 🥉 [MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models](https://huggingface.co/papers/2602.10934) | ⭐ 27 | AI |
+| 🏆 [The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies](https://huggingface.co/papers/2602.09877) | ⭐ 165 | AI |
+| 🥈 [DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://huggingface.co/papers/2602.12205) | ⭐ 40 | AI |
+| 🥉 [MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models](https://huggingface.co/papers/2602.10934) | ⭐ 40 | AI |
 
-<sub>Last updated: 2026-02-13 07:07 UTC</sub>
+<sub>Last updated: 2026-02-13 13:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
