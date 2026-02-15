@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies](https://huggingface.co/papers/2602.09877) | ⭐ 182 | AI |
-| 🥈 [Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models](https://huggingface.co/papers/2602.12036) | ⭐ 86 | AI |
-| 🥉 [DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://huggingface.co/papers/2602.12205) | ⭐ 72 | AI |
+| 🏆 [The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies](https://huggingface.co/papers/2602.09877) | ⭐ 184 | AI |
+| 🥈 [Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models](https://huggingface.co/papers/2602.12036) | ⭐ 88 | AI |
+| 🥉 [DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://huggingface.co/papers/2602.12205) | ⭐ 73 | AI |
 
-<sub>Last updated: 2026-02-15 13:04 UTC</sub>
+<sub>Last updated: 2026-02-15 18:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
