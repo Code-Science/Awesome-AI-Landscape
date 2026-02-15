@@ -22,7 +22,7 @@
 | 🥈 [Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models](https://huggingface.co/papers/2602.12036) | ⭐ 86 | AI |
 | 🥉 [DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://huggingface.co/papers/2602.12205) | ⭐ 72 | AI |
 
-<sub>Last updated: 2026-02-15 06:58 UTC</sub>
+<sub>Last updated: 2026-02-15 13:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
