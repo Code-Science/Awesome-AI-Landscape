@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs](https://huggingface.co/papers/2602.10388) | ⭐ 181 | AI |
-| 🥈 [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://huggingface.co/papers/2602.11858) | ⭐ 46 | AI |
-| 🥉 [MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://huggingface.co/papers/2602.12705) | ⭐ 38 | AI |
+| 🏆 [Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs](https://huggingface.co/papers/2602.10388) | ⭐ 185 | AI |
+| 🥈 [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://huggingface.co/papers/2602.11858) | ⭐ 50 | AI |
+| 🥉 [MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://huggingface.co/papers/2602.12705) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-02-16 07:12 UTC</sub>
+<sub>Last updated: 2026-02-16 13:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
