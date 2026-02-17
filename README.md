@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs](https://huggingface.co/papers/2602.10388) | ⭐ 202 | AI |
-| 🥈 [SQuTR: A Robustness Benchmark for Spoken Query to Text Retrieval under Acoustic Noise](https://huggingface.co/papers/2602.12783) | ⭐ 133 | AI |
-| 🥉 [MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://huggingface.co/papers/2602.12705) | ⭐ 56 | AI |
+| 🏆 [Qute: Towards Quantum-Native Database](https://huggingface.co/papers/2602.14699) | ⭐ 9 | AI |
+| 🥈 [Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://huggingface.co/papers/2602.14492) | ⭐ 8 | AI |
+| 🥉 [REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents](https://huggingface.co/papers/2602.14234) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-02-17 02:42 UTC</sub>
+<sub>Last updated: 2026-02-17 07:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
