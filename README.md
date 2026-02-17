@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qute: Towards Quantum-Native Database](https://huggingface.co/papers/2602.14699) | ⭐ 9 | AI |
-| 🥈 [Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://huggingface.co/papers/2602.14492) | ⭐ 8 | AI |
-| 🥉 [REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents](https://huggingface.co/papers/2602.14234) | ⭐ 6 | AI |
+| 🏆 [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://huggingface.co/papers/2602.10809) | ⭐ 14 | AI |
+| 🥈 [Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://huggingface.co/papers/2602.14492) | ⭐ 12 | AI |
+| 🥉 [Qute: Towards Quantum-Native Database](https://huggingface.co/papers/2602.14699) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-02-17 07:07 UTC</sub>
+<sub>Last updated: 2026-02-17 13:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
