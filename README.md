@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://huggingface.co/papers/2602.10809) | ⭐ 14 | AI |
-| 🥈 [Query as Anchor: Scenario-Adaptive User Representation via Large Language Model](https://huggingface.co/papers/2602.14492) | ⭐ 12 | AI |
-| 🥉 [Qute: Towards Quantum-Native Database](https://huggingface.co/papers/2602.14699) | ⭐ 11 | AI |
+| 🏆 [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://huggingface.co/papers/2602.10809) | ⭐ 25 | AI |
+| 🥈 [Experiential Reinforcement Learning](https://huggingface.co/papers/2602.13949) | ⭐ 21 | AI |
+| 🥉 [REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents](https://huggingface.co/papers/2602.14234) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-02-17 13:18 UTC</sub>
+<sub>Last updated: 2026-02-17 19:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
