@@ -18,11 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://huggingface.co/papers/2602.10809) | ⭐ 25 | AI |
-| 🥈 [Experiential Reinforcement Learning](https://huggingface.co/papers/2602.13949) | ⭐ 21 | AI |
-| 🥉 [REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents](https://huggingface.co/papers/2602.14234) | ⭐ 17 | AI |
+| 🏆 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-02-17 19:05 UTC</sub>
+<sub>Last updated: 2026-02-18 02:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
