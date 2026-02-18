@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 22 | AI |
-| 🥈 [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://huggingface.co/papers/2602.14111) | ⭐ 17 | AI |
-| 🥉 [Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://huggingface.co/papers/2602.14299) | ⭐ 16 | AI |
+| 🏆 [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://huggingface.co/papers/2602.14111) | ⭐ 49 | AI |
+| 🥈 [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://huggingface.co/papers/2602.12670) | ⭐ 33 | AI |
+| 🥉 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-02-18 13:19 UTC</sub>
+<sub>Last updated: 2026-02-18 19:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
