@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://huggingface.co/papers/2602.14299) | ⭐ 13 | AI |
-| 🥈 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 12 | AI |
-| 🥉 [ResearchGym: Evaluating Language Model Agents on Real-World AI Research](https://huggingface.co/papers/2602.15112) | ⭐ 7 | AI |
+| 🏆 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 22 | AI |
+| 🥈 [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://huggingface.co/papers/2602.14111) | ⭐ 17 | AI |
+| 🥉 [Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://huggingface.co/papers/2602.14299) | ⭐ 16 | AI |
 
-<sub>Last updated: 2026-02-18 07:09 UTC</sub>
+<sub>Last updated: 2026-02-18 13:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
