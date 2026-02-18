@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 1 | AI |
+| 🏆 [Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://huggingface.co/papers/2602.14299) | ⭐ 13 | AI |
+| 🥈 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 12 | AI |
+| 🥉 [ResearchGym: Evaluating Language Model Agents on Real-World AI Research](https://huggingface.co/papers/2602.15112) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-02-18 02:45 UTC</sub>
+<sub>Last updated: 2026-02-18 07:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
