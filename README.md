@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SAM 3D Body: Robust Full-Body Human Mesh Recovery](https://huggingface.co/papers/2602.15989) | ⭐ 0 | AI |
+| 🏆 [SLA2: Sparse-Linear Attention with Learnable Routing and QAT](https://huggingface.co/papers/2602.12675) | ⭐ 25 | AI |
+| 🥈 [Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](https://huggingface.co/papers/2602.16705) | ⭐ 24 | AI |
+| 🥉 [RynnBrain: Open Embodied Foundation Models](https://huggingface.co/papers/2602.14979) | ⭐ 10 | AI |
 
-<sub>Last updated: 2026-02-19 02:44 UTC</sub>
+<sub>Last updated: 2026-02-19 07:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
