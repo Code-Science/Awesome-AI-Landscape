@@ -18,11 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://huggingface.co/papers/2602.14111) | ⭐ 49 | AI |
-| 🥈 [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://huggingface.co/papers/2602.12670) | ⭐ 33 | AI |
-| 🥉 [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | ⭐ 29 | AI |
+| 🏆 [SAM 3D Body: Robust Full-Body Human Mesh Recovery](https://huggingface.co/papers/2602.15989) | ⭐ 0 | AI |
 
-<sub>Last updated: 2026-02-18 19:04 UTC</sub>
+<sub>Last updated: 2026-02-19 02:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
