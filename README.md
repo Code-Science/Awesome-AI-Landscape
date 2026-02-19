@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SLA2: Sparse-Linear Attention with Learnable Routing and QAT](https://huggingface.co/papers/2602.12675) | ⭐ 25 | AI |
-| 🥈 [Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](https://huggingface.co/papers/2602.16705) | ⭐ 24 | AI |
-| 🥉 [RynnBrain: Open Embodied Foundation Models](https://huggingface.co/papers/2602.14979) | ⭐ 10 | AI |
+| 🏆 [SLA2: Sparse-Linear Attention with Learnable Routing and QAT](https://huggingface.co/papers/2602.12675) | ⭐ 33 | AI |
+| 🥈 [Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](https://huggingface.co/papers/2602.16705) | ⭐ 25 | AI |
+| 🥉 [RynnBrain: Open Embodied Foundation Models](https://huggingface.co/papers/2602.14979) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-02-19 07:08 UTC</sub>
+<sub>Last updated: 2026-02-19 13:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
