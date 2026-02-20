@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment](https://huggingface.co/papers/2602.13579) | ⭐ 0 | AI |
+| 🏆 [SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://huggingface.co/papers/2602.13515) | ⭐ 10 | AI |
+| 🥈 [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://huggingface.co/papers/2602.16855) | ⭐ 9 | AI |
+| 🥉 [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5](https://huggingface.co/papers/2602.14457) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-02-20 02:39 UTC</sub>
+<sub>Last updated: 2026-02-20 07:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
