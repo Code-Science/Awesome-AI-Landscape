@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://huggingface.co/papers/2602.13515) | ⭐ 21 | AI |
-| 🥈 [Unified Latents (UL): How to train your latents](https://huggingface.co/papers/2602.17270) | ⭐ 19 | AI |
-| 🥉 [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://huggingface.co/papers/2602.16855) | ⭐ 18 | AI |
+| 🏆 [SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://huggingface.co/papers/2602.13515) | ⭐ 26 | AI |
+| 🥈 [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://huggingface.co/papers/2602.16855) | ⭐ 22 | AI |
+| 🥉 [Unified Latents (UL): How to train your latents](https://huggingface.co/papers/2602.17270) | ⭐ 21 | AI |
 
-<sub>Last updated: 2026-02-20 18:57 UTC</sub>
+<sub>Last updated: 2026-02-21 02:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
