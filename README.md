@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://huggingface.co/papers/2602.13515) | ⭐ 39 | AI |
-| 🥈 [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://huggingface.co/papers/2602.16855) | ⭐ 34 | AI |
-| 🥉 [Unified Latents (UL): How to train your latents](https://huggingface.co/papers/2602.17270) | ⭐ 31 | AI |
+| 🏆 [Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty](https://huggingface.co/papers/2602.18312) | ⭐ 0 | AI |
+| 🥈 [EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots](https://huggingface.co/papers/2602.18071) | ⭐ 0 | AI |
 
-<sub>Last updated: 2026-02-22 18:44 UTC</sub>
+<sub>Last updated: 2026-02-23 02:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
