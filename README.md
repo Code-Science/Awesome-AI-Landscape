@@ -18,10 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty](https://huggingface.co/papers/2602.18312) | ⭐ 0 | AI |
-| 🥈 [EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots](https://huggingface.co/papers/2602.18071) | ⭐ 0 | AI |
+| 🏆 [VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training](https://huggingface.co/papers/2602.10693) | ⭐ 107 | AI |
+| 🥈 [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://huggingface.co/papers/2602.08354) | ⭐ 47 | AI |
+| 🥉 [Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control](https://huggingface.co/papers/2602.18422) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-02-23 02:45 UTC</sub>
+<sub>Last updated: 2026-02-23 07:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
