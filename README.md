@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training](https://huggingface.co/papers/2602.10693) | ⭐ 159 | AI |
-| 🥈 [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://huggingface.co/papers/2602.08354) | ⭐ 99 | AI |
-| 🥉 [Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control](https://huggingface.co/papers/2602.18422) | ⭐ 19 | AI |
+| 🏆 [A Very Big Video Reasoning Suite](https://huggingface.co/papers/2602.20159) | ⭐ 48 | AI |
+| 🥈 [TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://huggingface.co/papers/2602.19313) | ⭐ 14 | AI |
+| 🥉 [Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://huggingface.co/papers/2602.20161) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-02-24 02:43 UTC</sub>
+<sub>Last updated: 2026-02-24 07:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
