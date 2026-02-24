@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Very Big Video Reasoning Suite](https://huggingface.co/papers/2602.20159) | ⭐ 48 | AI |
-| 🥈 [TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://huggingface.co/papers/2602.19313) | ⭐ 14 | AI |
-| 🥉 [Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://huggingface.co/papers/2602.20161) | ⭐ 12 | AI |
+| 🏆 [A Very Big Video Reasoning Suite](https://huggingface.co/papers/2602.20159) | ⭐ 276 | AI |
+| 🥈 [VLANeXt: Recipes for Building Strong VLA Models](https://huggingface.co/papers/2602.18532) | ⭐ 30 | AI |
+| 🥉 [ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation](https://huggingface.co/papers/2602.20093) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-02-24 07:08 UTC</sub>
+<sub>Last updated: 2026-02-24 13:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
