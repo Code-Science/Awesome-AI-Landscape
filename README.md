@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [On Data Engineering for Scaling LLM Terminal Capabilities](https://huggingface.co/papers/2602.21193) | ⭐ 30 | AI |
-| 🥈 [Query-focused and Memory-aware Reranker for Long Context Processing](https://huggingface.co/papers/2602.12192) | ⭐ 30 | AI |
-| 🥉 [PyVision-RL: Forging Open Agentic Vision Models via RL](https://huggingface.co/papers/2602.20739) | ⭐ 20 | AI |
+| 🏆 [On Data Engineering for Scaling LLM Terminal Capabilities](https://huggingface.co/papers/2602.21193) | ⭐ 37 | AI |
+| 🥈 [Query-focused and Memory-aware Reranker for Long Context Processing](https://huggingface.co/papers/2602.12192) | ⭐ 33 | AI |
+| 🥉 [PyVision-RL: Forging Open Agentic Vision Models via RL](https://huggingface.co/papers/2602.20739) | ⭐ 21 | AI |
 
-<sub>Last updated: 2026-02-25 13:20 UTC</sub>
+<sub>Last updated: 2026-02-25 19:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
