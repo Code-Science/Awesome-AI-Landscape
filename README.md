@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Very Big Video Reasoning Suite](https://huggingface.co/papers/2602.20159) | ⭐ 293 | AI |
-| 🥈 [VLANeXt: Recipes for Building Strong VLA Models](https://huggingface.co/papers/2602.18532) | ⭐ 38 | AI |
-| 🥉 [TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics](https://huggingface.co/papers/2602.19313) | ⭐ 20 | AI |
+| 🏆 [A Very Big Video Reasoning Suite](https://huggingface.co/papers/2602.20159) | ⭐ 307 | AI |
+| 🥈 [VLANeXt: Recipes for Building Strong VLA Models](https://huggingface.co/papers/2602.18532) | ⭐ 39 | AI |
+| 🥉 [SkillOrchestra: Learning to Route Agents via Skill Transfer](https://huggingface.co/papers/2602.19672) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-02-24 19:10 UTC</sub>
+<sub>Last updated: 2026-02-25 02:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
