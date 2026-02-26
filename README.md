@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [On Data Engineering for Scaling LLM Terminal Capabilities](https://huggingface.co/papers/2602.21193) | ⭐ 68 | AI |
-| 🥈 [Query-focused and Memory-aware Reranker for Long Context Processing](https://huggingface.co/papers/2602.12192) | ⭐ 37 | AI |
-| 🥉 [PyVision-RL: Forging Open Agentic Vision Models via RL](https://huggingface.co/papers/2602.20739) | ⭐ 22 | AI |
+| 🏆 [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://huggingface.co/papers/2602.12160) | ⭐ 18 | AI |
+| 🥈 [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](https://huggingface.co/papers/2602.21534) | ⭐ 11 | AI |
+| 🥉 [HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation](https://huggingface.co/papers/2602.18283) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-02-26 02:39 UTC</sub>
+<sub>Last updated: 2026-02-26 07:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
