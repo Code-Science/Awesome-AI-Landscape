@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://huggingface.co/papers/2602.12160) | ⭐ 18 | AI |
-| 🥈 [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](https://huggingface.co/papers/2602.21534) | ⭐ 11 | AI |
-| 🥉 [HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation](https://huggingface.co/papers/2602.18283) | ⭐ 7 | AI |
+| 🏆 [MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models](https://huggingface.co/papers/2602.17602) | ⭐ 34 | AI |
+| 🥈 [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://huggingface.co/papers/2602.12160) | ⭐ 26 | AI |
+| 🥉 [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](https://huggingface.co/papers/2602.21534) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-02-26 07:08 UTC</sub>
+<sub>Last updated: 2026-02-26 13:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
