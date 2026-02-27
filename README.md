@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation](https://huggingface.co/papers/2602.18283) | ⭐ 43 | AI |
-| 🥈 [MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models](https://huggingface.co/papers/2602.17602) | ⭐ 39 | AI |
-| 🥉 [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://huggingface.co/papers/2602.12160) | ⭐ 28 | AI |
+| 🏆 [HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation](https://huggingface.co/papers/2602.18283) | ⭐ 47 | AI |
+| 🥈 [MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models](https://huggingface.co/papers/2602.17602) | ⭐ 44 | AI |
+| 🥉 [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://huggingface.co/papers/2602.12160) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-02-26 19:00 UTC</sub>
+<sub>Last updated: 2026-02-27 02:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
