@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Trinity of Consistency as a Defining Principle for General World Models](https://huggingface.co/papers/2602.23152) | ⭐ 55 | AI |
-| 🥈 [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://huggingface.co/papers/2602.22859) | ⭐ 38 | AI |
-| 🥉 [OmniGAIA: Towards Native Omni-Modal AI Agents](https://huggingface.co/papers/2602.22897) | ⭐ 31 | AI |
+| 🏆 [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://huggingface.co/papers/2602.22859) | ⭐ 95 | AI |
+| 🥈 [The Trinity of Consistency as a Defining Principle for General World Models](https://huggingface.co/papers/2602.23152) | ⭐ 83 | AI |
+| 🥉 [MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios](https://huggingface.co/papers/2602.22638) | ⭐ 75 | AI |
 
-<sub>Last updated: 2026-02-27 07:02 UTC</sub>
+<sub>Last updated: 2026-02-27 13:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
