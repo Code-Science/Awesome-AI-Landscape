@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation](https://huggingface.co/papers/2602.18283) | ⭐ 47 | AI |
-| 🥈 [MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models](https://huggingface.co/papers/2602.17602) | ⭐ 44 | AI |
-| 🥉 [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://huggingface.co/papers/2602.12160) | ⭐ 31 | AI |
+| 🏆 [The Trinity of Consistency as a Defining Principle for General World Models](https://huggingface.co/papers/2602.23152) | ⭐ 55 | AI |
+| 🥈 [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://huggingface.co/papers/2602.22859) | ⭐ 38 | AI |
+| 🥉 [OmniGAIA: Towards Native Omni-Modal AI Agents](https://huggingface.co/papers/2602.22897) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-02-27 02:37 UTC</sub>
+<sub>Last updated: 2026-02-27 07:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
