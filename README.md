@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Trinity of Consistency as a Defining Principle for General World Models](https://huggingface.co/papers/2602.23152) | ⭐ 156 | AI |
-| 🥈 [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://huggingface.co/papers/2602.22859) | ⭐ 141 | AI |
-| 🥉 [MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios](https://huggingface.co/papers/2602.22638) | ⭐ 85 | AI |
+| 🏆 [The Trinity of Consistency as a Defining Principle for General World Models](https://huggingface.co/papers/2602.23152) | ⭐ 171 | AI |
+| 🥈 [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://huggingface.co/papers/2602.22859) | ⭐ 142 | AI |
+| 🥉 [MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios](https://huggingface.co/papers/2602.22638) | ⭐ 88 | AI |
 
-<sub>Last updated: 2026-02-27 18:54 UTC</sub>
+<sub>Last updated: 2026-02-28 02:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
