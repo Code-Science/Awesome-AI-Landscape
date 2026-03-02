@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://huggingface.co/papers/2602.22647) | ⭐ 0 | AI |
+| 🏆 [dLLM: Simple Diffusion Language Modeling](https://huggingface.co/papers/2602.22661) | ⭐ 33 | AI |
+| 🥈 [Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](https://huggingface.co/papers/2602.22207) | ⭐ 28 | AI |
+| 🥉 [Enhancing Spatial Understanding in Image Generation via Reward Modeling](https://huggingface.co/papers/2602.24233) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-03-02 02:40 UTC</sub>
+<sub>Last updated: 2026-03-02 07:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
