@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [dLLM: Simple Diffusion Language Modeling](https://huggingface.co/papers/2602.22661) | ⭐ 57 | AI |
-| 🥈 [Enhancing Spatial Understanding in Image Generation via Reward Modeling](https://huggingface.co/papers/2602.24233) | ⭐ 40 | AI |
-| 🥉 [Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](https://huggingface.co/papers/2602.22207) | ⭐ 35 | AI |
+| 🏆 [dLLM: Simple Diffusion Language Modeling](https://huggingface.co/papers/2602.22661) | ⭐ 75 | AI |
+| 🥈 [Enhancing Spatial Understanding in Image Generation via Reward Modeling](https://huggingface.co/papers/2602.24233) | ⭐ 42 | AI |
+| 🥉 [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://huggingface.co/papers/2602.24286) | ⭐ 37 | AI |
 
-<sub>Last updated: 2026-03-02 18:57 UTC</sub>
+<sub>Last updated: 2026-03-03 02:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
