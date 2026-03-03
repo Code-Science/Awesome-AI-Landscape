@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [dLLM: Simple Diffusion Language Modeling](https://huggingface.co/papers/2602.22661) | ⭐ 75 | AI |
-| 🥈 [Enhancing Spatial Understanding in Image Generation via Reward Modeling](https://huggingface.co/papers/2602.24233) | ⭐ 42 | AI |
-| 🥉 [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://huggingface.co/papers/2602.24286) | ⭐ 37 | AI |
+| 🏆 [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138) | ⭐ 65 | AI |
+| 🥈 [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](https://huggingface.co/papers/2603.00141) | ⭐ 54 | AI |
+| 🥉 [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://huggingface.co/papers/2603.01562) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-03-03 02:43 UTC</sub>
+<sub>Last updated: 2026-03-03 07:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
