@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138) | ⭐ 65 | AI |
-| 🥈 [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](https://huggingface.co/papers/2603.00141) | ⭐ 54 | AI |
-| 🥉 [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://huggingface.co/papers/2603.01562) | ⭐ 29 | AI |
+| 🏆 [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138) | ⭐ 96 | AI |
+| 🥈 [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](https://huggingface.co/papers/2603.00141) | ⭐ 95 | AI |
+| 🥉 [OpenAutoNLU: Open Source AutoML Library for NLU](https://huggingface.co/papers/2603.01824) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-03-03 07:01 UTC</sub>
+<sub>Last updated: 2026-03-03 13:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
