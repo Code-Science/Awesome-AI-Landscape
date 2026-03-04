@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?](https://huggingface.co/papers/2603.03241) | ⭐ 70 | AI |
-| 🥈 [Utonia: Toward One Encoder for All Point Clouds](https://huggingface.co/papers/2603.03283) | ⭐ 63 | AI |
-| 🥉 [BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://huggingface.co/papers/2603.03194) | ⭐ 40 | AI |
+| 🏆 [Utonia: Toward One Encoder for All Point Clouds](https://huggingface.co/papers/2603.03283) | ⭐ 107 | AI |
+| 🥈 [UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?](https://huggingface.co/papers/2603.03241) | ⭐ 71 | AI |
+| 🥉 [BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://huggingface.co/papers/2603.03194) | ⭐ 44 | AI |
 
-<sub>Last updated: 2026-03-04 13:10 UTC</sub>
+<sub>Last updated: 2026-03-04 18:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
