@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](https://huggingface.co/papers/2603.00141) | ⭐ 117 | AI |
-| 🥈 [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://huggingface.co/papers/2603.02138) | ⭐ 109 | AI |
-| 🥉 [SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale](https://huggingface.co/papers/2602.23866) | ⭐ 47 | AI |
+| 🏆 [UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?](https://huggingface.co/papers/2603.03241) | ⭐ 37 | AI |
+| 🥈 [Beyond Language Modeling: An Exploration of Multimodal Pretraining](https://huggingface.co/papers/2603.03276) | ⭐ 26 | AI |
+| 🥉 [BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://huggingface.co/papers/2603.03194) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-03-04 02:35 UTC</sub>
+<sub>Last updated: 2026-03-04 06:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
