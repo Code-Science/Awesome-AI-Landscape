@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379) | ⭐ 39 | AI |
-| 🥈 [Heterogeneous Agent Collaborative Reinforcement Learning](https://huggingface.co/papers/2603.02604) | ⭐ 24 | AI |
-| 🥉 [T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning](https://huggingface.co/papers/2603.03790) | ⭐ 22 | AI |
+| 🏆 [Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379) | ⭐ 94 | AI |
+| 🥈 [Heterogeneous Agent Collaborative Reinforcement Learning](https://huggingface.co/papers/2603.02604) | ⭐ 83 | AI |
+| 🥉 [T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning](https://huggingface.co/papers/2603.03790) | ⭐ 40 | AI |
 
-<sub>Last updated: 2026-03-05 07:01 UTC</sub>
+<sub>Last updated: 2026-03-05 13:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
