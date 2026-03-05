@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Utonia: Toward One Encoder for All Point Clouds](https://huggingface.co/papers/2603.03283) | ⭐ 118 | AI |
-| 🥈 [UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?](https://huggingface.co/papers/2603.03241) | ⭐ 73 | AI |
-| 🥉 [Beyond Language Modeling: An Exploration of Multimodal Pretraining](https://huggingface.co/papers/2603.03276) | ⭐ 52 | AI |
+| 🏆 [Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379) | ⭐ 39 | AI |
+| 🥈 [Heterogeneous Agent Collaborative Reinforcement Learning](https://huggingface.co/papers/2603.02604) | ⭐ 24 | AI |
+| 🥉 [T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning](https://huggingface.co/papers/2603.03790) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-03-05 02:38 UTC</sub>
+<sub>Last updated: 2026-03-05 07:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
