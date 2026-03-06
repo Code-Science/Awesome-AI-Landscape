@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379) | ⭐ 108 | AI |
-| 🥈 [T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning](https://huggingface.co/papers/2603.03790) | ⭐ 101 | AI |
-| 🥉 [Heterogeneous Agent Collaborative Reinforcement Learning](https://huggingface.co/papers/2603.02604) | ⭐ 94 | AI |
+| 🏆 [MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier](https://huggingface.co/papers/2603.03756) | ⭐ 62 | AI |
+| 🥈 [DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval](https://huggingface.co/papers/2603.04743) | ⭐ 37 | AI |
+| 🥉 [AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://huggingface.co/papers/2602.23166) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-03-06 02:36 UTC</sub>
+<sub>Last updated: 2026-03-06 06:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
