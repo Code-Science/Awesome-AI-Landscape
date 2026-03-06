@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier](https://huggingface.co/papers/2603.03756) | ⭐ 62 | AI |
-| 🥈 [DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval](https://huggingface.co/papers/2603.04743) | ⭐ 37 | AI |
-| 🥉 [AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://huggingface.co/papers/2602.23166) | ⭐ 17 | AI |
+| 🏆 [MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier](https://huggingface.co/papers/2603.03756) | ⭐ 70 | AI |
+| 🥈 [DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval](https://huggingface.co/papers/2603.04743) | ⭐ 40 | AI |
+| 🥉 [SkillNet: Create, Evaluate, and Connect AI Skills](https://huggingface.co/papers/2603.04448) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-03-06 06:59 UTC</sub>
+<sub>Last updated: 2026-03-06 13:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
