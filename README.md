@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://huggingface.co/papers/2603.06569) | ⭐ 58 | AI |
-| 🥈 [BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](https://huggingface.co/papers/2603.04918) | ⭐ 47 | AI |
-| 🥉 [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](https://huggingface.co/papers/2603.05438) | ⭐ 20 | AI |
+| 🏆 [Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://huggingface.co/papers/2603.06569) | ⭐ 67 | AI |
+| 🥈 [BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](https://huggingface.co/papers/2603.04918) | ⭐ 49 | AI |
+| 🥉 [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](https://huggingface.co/papers/2603.05438) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-03-09 13:18 UTC</sub>
+<sub>Last updated: 2026-03-09 19:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
