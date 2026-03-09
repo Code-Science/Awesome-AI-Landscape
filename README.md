@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://huggingface.co/papers/2603.04639) | ⭐ 4 | AI |
-| 🥈 [Reasoning Models Struggle to Control their Chains of Thought](https://huggingface.co/papers/2603.05706) | ⭐ 1 | AI |
-| 🥉 [Physical Simulator In-the-Loop Video Generation](https://huggingface.co/papers/2603.06408) | ⭐ 0 | AI |
+| 🏆 [BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](https://huggingface.co/papers/2603.04918) | ⭐ 44 | AI |
+| 🥈 [Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://huggingface.co/papers/2603.06569) | ⭐ 24 | AI |
+| 🥉 [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://huggingface.co/papers/2603.04639) | ⭐ 10 | AI |
 
-<sub>Last updated: 2026-03-09 02:44 UTC</sub>
+<sub>Last updated: 2026-03-09 07:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
