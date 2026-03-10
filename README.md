@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents](https://huggingface.co/papers/2603.08013) | ⭐ 4 | AI |
-| 🥈 [PureCC: Pure Learning for Text-to-Image Concept Customization](https://huggingface.co/papers/2603.07561) | ⭐ 3 | AI |
-| 🥉 [From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning](https://huggingface.co/papers/2603.03825) | ⭐ 1 | AI |
+| 🏆 [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://huggingface.co/papers/2603.07660) | ⭐ 39 | AI |
+| 🥈 [Believe Your Model: Distribution-Guided Confidence Calibration](https://huggingface.co/papers/2603.03872) | ⭐ 32 | AI |
+| 🥉 [How Far Can Unsupervised RLVR Scale LLM Training?](https://huggingface.co/papers/2603.08660) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-03-10 02:34 UTC</sub>
+<sub>Last updated: 2026-03-10 06:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
