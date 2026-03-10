@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://huggingface.co/papers/2603.06569) | ⭐ 67 | AI |
-| 🥈 [BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](https://huggingface.co/papers/2603.04918) | ⭐ 49 | AI |
-| 🥉 [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](https://huggingface.co/papers/2603.05438) | ⭐ 22 | AI |
+| 🏆 [PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents](https://huggingface.co/papers/2603.08013) | ⭐ 4 | AI |
+| 🥈 [PureCC: Pure Learning for Text-to-Image Concept Customization](https://huggingface.co/papers/2603.07561) | ⭐ 3 | AI |
+| 🥉 [From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning](https://huggingface.co/papers/2603.03825) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-03-09 19:01 UTC</sub>
+<sub>Last updated: 2026-03-10 02:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
