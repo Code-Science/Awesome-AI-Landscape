@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Lost in Stories: Consistency Bugs in Long Story Generation by LLMs](https://huggingface.co/papers/2603.05890) | ⭐ 63 | AI |
-| 🥈 [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://huggingface.co/papers/2603.07660) | ⭐ 59 | AI |
-| 🥉 [How Far Can Unsupervised RLVR Scale LLM Training?](https://huggingface.co/papers/2603.08660) | ⭐ 36 | AI |
+| 🏆 [Lost in Stories: Consistency Bugs in Long Story Generation by LLMs](https://huggingface.co/papers/2603.05890) | ⭐ 71 | AI |
+| 🥈 [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://huggingface.co/papers/2603.07660) | ⭐ 65 | AI |
+| 🥉 [LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://huggingface.co/papers/2603.03269) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-03-10 13:15 UTC</sub>
+<sub>Last updated: 2026-03-10 18:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
