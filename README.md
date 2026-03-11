@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143) | ⭐ 68 | AI |
-| 🥈 [Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](https://huggingface.co/papers/2603.06577) | ⭐ 34 | AI |
-| 🥉 [MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data](https://huggingface.co/papers/2603.09206) | ⭐ 23 | AI |
+| 🏆 [Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143) | ⭐ 113 | AI |
+| 🥈 [Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](https://huggingface.co/papers/2603.06577) | ⭐ 35 | AI |
+| 🥉 [Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs](https://huggingface.co/papers/2603.09906) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-03-11 07:03 UTC</sub>
+<sub>Last updated: 2026-03-11 13:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
