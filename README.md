@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Lost in Stories: Consistency Bugs in Long Story Generation by LLMs](https://huggingface.co/papers/2603.05890) | ⭐ 71 | AI |
-| 🥈 [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://huggingface.co/papers/2603.07660) | ⭐ 65 | AI |
-| 🥉 [LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://huggingface.co/papers/2603.03269) | ⭐ 41 | AI |
+| 🏆 [Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](https://huggingface.co/papers/2603.06577) | ⭐ 20 | AI |
+| 🥈 [Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs](https://huggingface.co/papers/2603.09095) | ⭐ 11 | AI |
+| 🥉 [Fish Audio S2 Technical Report](https://huggingface.co/papers/2603.08823) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-03-10 18:58 UTC</sub>
+<sub>Last updated: 2026-03-11 02:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
