@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165) | ⭐ 16 | AI |
-| 🥈 [RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://huggingface.co/papers/2603.08561) | ⭐ 6 | AI |
-| 🥉 [EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation](https://huggingface.co/papers/2603.05757) | ⭐ 1 | AI |
+| 🏆 [OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165) | ⭐ 38 | AI |
+| 🥈 [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://huggingface.co/papers/2603.09229) | ⭐ 26 | AI |
+| 🥉 [MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents](https://huggingface.co/papers/2603.09827) | ⭐ 20 | AI |
 
-<sub>Last updated: 2026-03-12 02:40 UTC</sub>
+<sub>Last updated: 2026-03-12 07:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
