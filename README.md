@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165) | ⭐ 51 | AI |
-| 🥈 [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://huggingface.co/papers/2603.09229) | ⭐ 31 | AI |
+| 🏆 [OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165) | ⭐ 57 | AI |
+| 🥈 [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://huggingface.co/papers/2603.09229) | ⭐ 39 | AI |
 | 🥉 [MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents](https://huggingface.co/papers/2603.09827) | ⭐ 21 | AI |
 
-<sub>Last updated: 2026-03-12 13:16 UTC</sub>
+<sub>Last updated: 2026-03-12 19:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
