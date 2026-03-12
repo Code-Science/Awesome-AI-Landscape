@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://huggingface.co/papers/2603.03143) | ⭐ 117 | AI |
-| 🥈 [Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](https://huggingface.co/papers/2603.06577) | ⭐ 37 | AI |
-| 🥉 [Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs](https://huggingface.co/papers/2603.09906) | ⭐ 35 | AI |
+| 🏆 [OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165) | ⭐ 16 | AI |
+| 🥈 [RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://huggingface.co/papers/2603.08561) | ⭐ 6 | AI |
+| 🥉 [EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation](https://huggingface.co/papers/2603.05757) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-03-11 19:01 UTC</sub>
+<sub>Last updated: 2026-03-12 02:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
