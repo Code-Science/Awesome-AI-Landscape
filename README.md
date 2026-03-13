@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165) | ⭐ 57 | AI |
-| 🥈 [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://huggingface.co/papers/2603.09229) | ⭐ 39 | AI |
-| 🥉 [MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents](https://huggingface.co/papers/2603.09827) | ⭐ 21 | AI |
+| 🏆 [ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation](https://huggingface.co/papers/2603.11421) | ⭐ 6 | AI |
+| 🥈 [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://huggingface.co/papers/2603.12180) | ⭐ 4 | AI |
+| 🥉 [OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://huggingface.co/papers/2603.12265) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-03-12 19:02 UTC</sub>
+<sub>Last updated: 2026-03-13 02:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
