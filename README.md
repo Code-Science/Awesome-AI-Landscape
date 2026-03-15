@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training](https://huggingface.co/papers/2603.12255) | ⭐ 69 | AI |
-| 🥈 [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://huggingface.co/papers/2603.12180) | ⭐ 49 | AI |
-| 🥉 [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://huggingface.co/papers/2603.12201) | ⭐ 36 | AI |
+| 🏆 [Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training](https://huggingface.co/papers/2603.12255) | ⭐ 71 | AI |
+| 🥈 [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://huggingface.co/papers/2603.12180) | ⭐ 50 | AI |
+| 🥉 [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://huggingface.co/papers/2603.12201) | ⭐ 37 | AI |
 
-<sub>Last updated: 2026-03-15 07:06 UTC</sub>
+<sub>Last updated: 2026-03-15 13:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
