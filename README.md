@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training](https://huggingface.co/papers/2603.12255) | ⭐ 72 | AI |
-| 🥈 [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://huggingface.co/papers/2603.12180) | ⭐ 51 | AI |
-| 🥉 [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://huggingface.co/papers/2603.12201) | ⭐ 38 | AI |
+| 🏆 [LMEB: Long-horizon Memory Embedding Benchmark](https://huggingface.co/papers/2603.12572) | ⭐ 15 | AI |
+| 🥈 [Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation](https://huggingface.co/papers/2603.12793) | ⭐ 5 | AI |
+| 🥉 [Visual-ERM: Reward Modeling for Visual Equivalence](https://huggingface.co/papers/2603.13224) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-03-15 18:50 UTC</sub>
+<sub>Last updated: 2026-03-16 03:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
