@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LMEB: Long-horizon Memory Embedding Benchmark](https://huggingface.co/papers/2603.12572) | ⭐ 15 | AI |
-| 🥈 [Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation](https://huggingface.co/papers/2603.12793) | ⭐ 5 | AI |
-| 🥉 [Visual-ERM: Reward Modeling for Visual Equivalence](https://huggingface.co/papers/2603.13224) | ⭐ 3 | AI |
+| 🏆 [LMEB: Long-horizon Memory Embedding Benchmark](https://huggingface.co/papers/2603.12572) | ⭐ 32 | AI |
+| 🥈 [Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation](https://huggingface.co/papers/2603.12793) | ⭐ 16 | AI |
+| 🥉 [daVinci-Env: Open SWE Environment Synthesis at Scale](https://huggingface.co/papers/2603.13023) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-03-16 03:17 UTC</sub>
+<sub>Last updated: 2026-03-16 07:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
