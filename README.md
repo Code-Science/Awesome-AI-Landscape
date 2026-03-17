@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LMEB: Long-horizon Memory Embedding Benchmark](https://huggingface.co/papers/2603.12572) | ⭐ 49 | AI |
-| 🥈 [Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation](https://huggingface.co/papers/2603.12793) | ⭐ 26 | AI |
-| 🥉 [Can Vision-Language Models Solve the Shell Game?](https://huggingface.co/papers/2603.08436) | ⭐ 24 | AI |
+| 🏆 [FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance](https://huggingface.co/papers/2603.12146) | ⭐ 2 | AI |
+| 🥈 [Safe and Scalable Web Agent Learning via Recreated Websites](https://huggingface.co/papers/2603.10505) | ⭐ 1 | AI |
+| 🥉 [FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach](https://huggingface.co/papers/2603.13364) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-03-16 19:12 UTC</sub>
+<sub>Last updated: 2026-03-17 02:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
