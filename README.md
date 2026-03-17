@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://huggingface.co/papers/2603.15594) | ⭐ 84 | AI |
-| 🥈 [Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583) | ⭐ 66 | AI |
-| 🥉 [AI Can Learn Scientific Taste](https://huggingface.co/papers/2603.14473) | ⭐ 59 | AI |
+| 🏆 [AI Can Learn Scientific Taste](https://huggingface.co/papers/2603.14473) | ⭐ 200 | AI |
+| 🥈 [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://huggingface.co/papers/2603.15594) | ⭐ 108 | AI |
+| 🥉 [Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583) | ⭐ 79 | AI |
 
-<sub>Last updated: 2026-03-17 07:12 UTC</sub>
+<sub>Last updated: 2026-03-17 13:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
