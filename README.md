@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance](https://huggingface.co/papers/2603.12146) | ⭐ 2 | AI |
-| 🥈 [Safe and Scalable Web Agent Learning via Recreated Websites](https://huggingface.co/papers/2603.10505) | ⭐ 1 | AI |
-| 🥉 [FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach](https://huggingface.co/papers/2603.13364) | ⭐ 1 | AI |
+| 🏆 [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://huggingface.co/papers/2603.15594) | ⭐ 84 | AI |
+| 🥈 [Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583) | ⭐ 66 | AI |
+| 🥉 [AI Can Learn Scientific Taste](https://huggingface.co/papers/2603.14473) | ⭐ 59 | AI |
 
-<sub>Last updated: 2026-03-17 02:40 UTC</sub>
+<sub>Last updated: 2026-03-17 07:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
