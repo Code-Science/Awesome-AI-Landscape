@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AI Can Learn Scientific Taste](https://huggingface.co/papers/2603.14473) | ⭐ 212 | AI |
-| 🥈 [OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://huggingface.co/papers/2603.15594) | ⭐ 119 | AI |
-| 🥉 [EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings](https://huggingface.co/papers/2603.13594) | ⭐ 107 | AI |
+| 🏆 [AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents](https://huggingface.co/papers/2603.14465) | ⭐ 9 | AI |
+| 🥈 [SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models](https://huggingface.co/papers/2603.16859) | ⭐ 5 | AI |
+| 🥉 [Online Experiential Learning for Language Models](https://huggingface.co/papers/2603.16856) | ⭐ 4 | AI |
 
-<sub>Last updated: 2026-03-17 19:11 UTC</sub>
+<sub>Last updated: 2026-03-18 02:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
