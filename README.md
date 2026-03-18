@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents](https://huggingface.co/papers/2603.14465) | ⭐ 9 | AI |
-| 🥈 [SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models](https://huggingface.co/papers/2603.16859) | ⭐ 5 | AI |
-| 🥉 [Online Experiential Learning for Language Models](https://huggingface.co/papers/2603.16856) | ⭐ 4 | AI |
+| 🏆 [InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790) | ⭐ 82 | AI |
+| 🥈 [MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification](https://huggingface.co/papers/2603.15726) | ⭐ 55 | AI |
+| 🥉 [Demystifing Video Reasoning](https://huggingface.co/papers/2603.16870) | ⭐ 48 | AI |
 
-<sub>Last updated: 2026-03-18 02:46 UTC</sub>
+<sub>Last updated: 2026-03-18 07:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
