@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification](https://huggingface.co/papers/2603.15726) | ⭐ 119 | AI |
-| 🥈 [InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790) | ⭐ 103 | AI |
-| 🥉 [Qianfan-OCR: A Unified End-to-End Model for Document Intelligence](https://huggingface.co/papers/2603.13398) | ⭐ 69 | AI |
+| 🏆 [InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790) | ⭐ 130 | AI |
+| 🥈 [MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification](https://huggingface.co/papers/2603.15726) | ⭐ 125 | AI |
+| 🥉 [Qianfan-OCR: A Unified End-to-End Model for Document Intelligence](https://huggingface.co/papers/2603.13398) | ⭐ 78 | AI |
 
-<sub>Last updated: 2026-03-18 13:27 UTC</sub>
+<sub>Last updated: 2026-03-18 19:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
