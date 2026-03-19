@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification](https://huggingface.co/papers/2603.15726) | ⭐ 147 | AI |
-| 🥈 [InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790) | ⭐ 141 | AI |
-| 🥉 [Qianfan-OCR: A Unified End-to-End Model for Document Intelligence](https://huggingface.co/papers/2603.13398) | ⭐ 90 | AI |
+| 🏆 [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187) | ⭐ 53 | AI |
+| 🥈 [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://huggingface.co/papers/2603.17117) | ⭐ 51 | AI |
+| 🥉 [Complementary Reinforcement Learning](https://huggingface.co/papers/2603.17621) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-03-19 02:48 UTC</sub>
+<sub>Last updated: 2026-03-19 07:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
