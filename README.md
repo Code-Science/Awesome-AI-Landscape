@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187) | ⭐ 53 | AI |
-| 🥈 [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://huggingface.co/papers/2603.17117) | ⭐ 51 | AI |
-| 🥉 [Complementary Reinforcement Learning](https://huggingface.co/papers/2603.17621) | ⭐ 19 | AI |
+| 🏆 [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](https://huggingface.co/papers/2603.14935) | ⭐ 78 | AI |
+| 🥈 [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187) | ⭐ 75 | AI |
+| 🥉 [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://huggingface.co/papers/2603.17117) | ⭐ 60 | AI |
 
-<sub>Last updated: 2026-03-19 07:05 UTC</sub>
+<sub>Last updated: 2026-03-19 13:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
