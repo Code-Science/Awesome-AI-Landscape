@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://huggingface.co/papers/2603.19235) | ⭐ 11 | AI |
-| 🥈 [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://huggingface.co/papers/2603.19232) | ⭐ 6 | AI |
-| 🥉 [SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://huggingface.co/papers/2603.19228) | ⭐ 6 | AI |
+| 🏆 [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://huggingface.co/papers/2603.19235) | ⭐ 55 | AI |
+| 🥈 [FASTER: Rethinking Real-Time Flow VLAs](https://huggingface.co/papers/2603.19199) | ⭐ 35 | AI |
+| 🥉 [SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://huggingface.co/papers/2603.19228) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-03-20 02:39 UTC</sub>
+<sub>Last updated: 2026-03-20 07:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
