@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187) | ⭐ 83 | AI |
-| 🥈 [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](https://huggingface.co/papers/2603.14935) | ⭐ 80 | AI |
-| 🥉 [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](https://huggingface.co/papers/2603.17117) | ⭐ 63 | AI |
+| 🏆 [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://huggingface.co/papers/2603.19235) | ⭐ 11 | AI |
+| 🥈 [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://huggingface.co/papers/2603.19232) | ⭐ 6 | AI |
+| 🥉 [SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://huggingface.co/papers/2603.19228) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-03-19 19:07 UTC</sub>
+<sub>Last updated: 2026-03-20 02:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
