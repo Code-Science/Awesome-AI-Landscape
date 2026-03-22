@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://huggingface.co/papers/2603.19235) | ⭐ 77 | AI |
+| 🏆 [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://huggingface.co/papers/2603.19235) | ⭐ 78 | AI |
 | 🥈 [SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://huggingface.co/papers/2603.19228) | ⭐ 59 | AI |
-| 🥉 [3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model](https://huggingface.co/papers/2603.18524) | ⭐ 46 | AI |
+| 🥉 [3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model](https://huggingface.co/papers/2603.18524) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-03-21 18:45 UTC</sub>
+<sub>Last updated: 2026-03-22 02:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
