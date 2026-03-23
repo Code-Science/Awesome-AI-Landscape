@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](https://huggingface.co/papers/2603.17024) | ⭐ 60 | AI |
-| 🥈 [Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models](https://huggingface.co/papers/2603.17051) | ⭐ 23 | AI |
-| 🥉 [LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://huggingface.co/papers/2603.20192) | ⭐ 14 | AI |
+| 🏆 [Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models](https://huggingface.co/papers/2603.17051) | ⭐ 99 | AI |
+| 🥈 [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](https://huggingface.co/papers/2603.17024) | ⭐ 82 | AI |
+| 🥉 [TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation](https://huggingface.co/papers/2603.19039) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-03-23 07:20 UTC</sub>
+<sub>Last updated: 2026-03-23 13:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
