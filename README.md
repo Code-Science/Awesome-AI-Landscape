@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://huggingface.co/papers/2603.19235) | ⭐ 84 | AI |
-| 🥈 [SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://huggingface.co/papers/2603.19228) | ⭐ 61 | AI |
-| 🥉 [3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model](https://huggingface.co/papers/2603.18524) | ⭐ 49 | AI |
+| 🏆 [A Subgoal-driven Framework for Improving Long-Horizon LLM Agents](https://huggingface.co/papers/2603.19685) | ⭐ 3 | AI |
+| 🥈 [WorldAgents: Can Foundation Image Models be Agents for 3D World Models?](https://huggingface.co/papers/2603.19708) | ⭐ 2 | AI |
+| 🥉 [LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://huggingface.co/papers/2603.20192) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-03-22 18:47 UTC</sub>
+<sub>Last updated: 2026-03-23 02:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
