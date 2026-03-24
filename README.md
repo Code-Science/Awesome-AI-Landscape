@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [mSFT: Addressing Dataset Mixtures Overfiting Heterogeneously in Multi-task SFT](https://huggingface.co/papers/2603.21606) | ⭐ 6 | AI |
-| 🥈 [LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning](https://huggingface.co/papers/2603.21065) | ⭐ 2 | AI |
-| 🥉 [ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization](https://huggingface.co/papers/2603.09290) | ⭐ 0 | AI |
+| 🏆 [Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models](https://huggingface.co/papers/2603.22212) | ⭐ 69 | AI |
+| 🥈 [LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning](https://huggingface.co/papers/2603.21065) | ⭐ 52 | AI |
+| 🥉 [VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding](https://huggingface.co/papers/2603.22285) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-03-24 02:40 UTC</sub>
+<sub>Last updated: 2026-03-24 07:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
