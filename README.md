@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](https://huggingface.co/papers/2603.17024) | ⭐ 93 | AI |
-| 🥈 [Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models](https://huggingface.co/papers/2603.17051) | ⭐ 82 | AI |
-| 🥉 [TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation](https://huggingface.co/papers/2603.19039) | ⭐ 42 | AI |
+| 🏆 [mSFT: Addressing Dataset Mixtures Overfiting Heterogeneously in Multi-task SFT](https://huggingface.co/papers/2603.21606) | ⭐ 6 | AI |
+| 🥈 [LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning](https://huggingface.co/papers/2603.21065) | ⭐ 2 | AI |
+| 🥉 [ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization](https://huggingface.co/papers/2603.09290) | ⭐ 0 | AI |
 
-<sub>Last updated: 2026-03-23 19:02 UTC</sub>
+<sub>Last updated: 2026-03-24 02:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
