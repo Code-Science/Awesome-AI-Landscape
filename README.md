@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models](https://huggingface.co/papers/2603.22212) | ⭐ 99 | AI |
-| 🥈 [Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model](https://huggingface.co/papers/2603.21986) | ⭐ 76 | AI |
-| 🥉 [LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning](https://huggingface.co/papers/2603.21065) | ⭐ 59 | AI |
+| 🏆 [Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models](https://huggingface.co/papers/2603.22212) | ⭐ 107 | AI |
+| 🥈 [Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model](https://huggingface.co/papers/2603.21986) | ⭐ 85 | AI |
+| 🥉 [LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning](https://huggingface.co/papers/2603.21065) | ⭐ 62 | AI |
 
-<sub>Last updated: 2026-03-24 13:26 UTC</sub>
+<sub>Last updated: 2026-03-24 19:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
