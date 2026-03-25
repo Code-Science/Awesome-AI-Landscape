@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding](https://huggingface.co/papers/2603.22458) | ⭐ 40 | AI |
-| 🥈 [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://huggingface.co/papers/2603.23497) | ⭐ 38 | AI |
-| 🥉 [PEARL: Personalized Streaming Video Understanding Model](https://huggingface.co/papers/2603.20422) | ⭐ 30 | AI |
+| 🏆 [MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding](https://huggingface.co/papers/2603.22458) | ⭐ 104 | AI |
+| 🥈 [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://huggingface.co/papers/2603.23497) | ⭐ 60 | AI |
+| 🥉 [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://huggingface.co/papers/2603.23483) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-03-25 07:10 UTC</sub>
+<sub>Last updated: 2026-03-25 13:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
