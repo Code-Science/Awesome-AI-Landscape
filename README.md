@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PEARL: Personalized Streaming Video Understanding Model](https://huggingface.co/papers/2603.20422) | ⭐ 26 | AI |
-| 🥈 [From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents](https://huggingface.co/papers/2603.22386) | ⭐ 15 | AI |
-| 🥉 [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://huggingface.co/papers/2603.23497) | ⭐ 12 | AI |
+| 🏆 [MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding](https://huggingface.co/papers/2603.22458) | ⭐ 40 | AI |
+| 🥈 [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://huggingface.co/papers/2603.23497) | ⭐ 38 | AI |
+| 🥉 [PEARL: Personalized Streaming Video Understanding Model](https://huggingface.co/papers/2603.20422) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-03-25 02:45 UTC</sub>
+<sub>Last updated: 2026-03-25 07:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
