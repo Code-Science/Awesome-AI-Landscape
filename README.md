@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models](https://huggingface.co/papers/2603.22212) | ⭐ 107 | AI |
-| 🥈 [Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model](https://huggingface.co/papers/2603.21986) | ⭐ 85 | AI |
-| 🥉 [LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning](https://huggingface.co/papers/2603.21065) | ⭐ 62 | AI |
+| 🏆 [PEARL: Personalized Streaming Video Understanding Model](https://huggingface.co/papers/2603.20422) | ⭐ 26 | AI |
+| 🥈 [From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents](https://huggingface.co/papers/2603.22386) | ⭐ 15 | AI |
+| 🥉 [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://huggingface.co/papers/2603.23497) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-03-24 19:12 UTC</sub>
+<sub>Last updated: 2026-03-25 02:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
