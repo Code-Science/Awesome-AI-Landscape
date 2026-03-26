@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://huggingface.co/papers/2603.22341) | ⭐ 23 | AI |
-| 🥈 [Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?](https://huggingface.co/papers/2603.24472) | ⭐ 13 | AI |
-| 🥉 [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://huggingface.co/papers/2603.24329) | ⭐ 12 | AI |
+| 🏆 [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://huggingface.co/papers/2603.22918) | ⭐ 31 | AI |
+| 🥈 [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://huggingface.co/papers/2603.22341) | ⭐ 28 | AI |
+| 🥉 [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://huggingface.co/papers/2603.24440) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-03-26 07:18 UTC</sub>
+<sub>Last updated: 2026-03-26 13:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
