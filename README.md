@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://huggingface.co/papers/2603.24329) | ⭐ 7 | AI |
-| 🥈 [Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments](https://huggingface.co/papers/2603.23638) | ⭐ 2 | AI |
-| 🥉 [When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning](https://huggingface.co/papers/2603.21289) | ⭐ 2 | AI |
+| 🏆 [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://huggingface.co/papers/2603.22341) | ⭐ 23 | AI |
+| 🥈 [Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?](https://huggingface.co/papers/2603.24472) | ⭐ 13 | AI |
+| 🥉 [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://huggingface.co/papers/2603.24329) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-03-26 02:52 UTC</sub>
+<sub>Last updated: 2026-03-26 07:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
