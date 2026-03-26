@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://huggingface.co/papers/2603.22918) | ⭐ 31 | AI |
-| 🥈 [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://huggingface.co/papers/2603.22341) | ⭐ 28 | AI |
-| 🥉 [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://huggingface.co/papers/2603.24440) | ⭐ 27 | AI |
+| 🏆 [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://huggingface.co/papers/2603.24440) | ⭐ 60 | AI |
+| 🥈 [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://huggingface.co/papers/2603.22918) | ⭐ 33 | AI |
+| 🥉 [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://huggingface.co/papers/2603.22341) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-03-26 13:42 UTC</sub>
+<sub>Last updated: 2026-03-26 19:16 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
