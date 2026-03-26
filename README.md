@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding](https://huggingface.co/papers/2603.22458) | ⭐ 110 | AI |
-| 🥈 [WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://huggingface.co/papers/2603.23497) | ⭐ 64 | AI |
-| 🥉 [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://huggingface.co/papers/2603.23483) | ⭐ 41 | AI |
+| 🏆 [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://huggingface.co/papers/2603.24329) | ⭐ 7 | AI |
+| 🥈 [Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments](https://huggingface.co/papers/2603.23638) | ⭐ 2 | AI |
+| 🥉 [When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning](https://huggingface.co/papers/2603.21289) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-03-25 19:04 UTC</sub>
+<sub>Last updated: 2026-03-26 02:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
