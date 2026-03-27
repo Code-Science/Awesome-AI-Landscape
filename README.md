@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data](https://huggingface.co/papers/2603.25319) | ⭐ 5 | AI |
-| 🥈 [SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks](https://huggingface.co/papers/2603.24755) | ⭐ 4 | AI |
-| 🥉 [MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens](https://huggingface.co/papers/2603.23516) | ⭐ 3 | AI |
+| 🏆 [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://huggingface.co/papers/2603.25040) | ⭐ 43 | AI |
+| 🥈 [PixelSmile: Toward Fine-Grained Facial Expression Editing](https://huggingface.co/papers/2603.25728) | ⭐ 35 | AI |
+| 🥉 [RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models](https://huggingface.co/papers/2603.25502) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-03-27 02:55 UTC</sub>
+<sub>Last updated: 2026-03-27 07:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
