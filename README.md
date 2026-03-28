@@ -19,10 +19,10 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [PixelSmile: Toward Fine-Grained Facial Expression Editing](https://huggingface.co/papers/2603.25728) | ⭐ 105 | AI |
-| 🥈 [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://huggingface.co/papers/2603.25040) | ⭐ 99 | AI |
-| 🥉 [Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration](https://huggingface.co/papers/2603.24800) | ⭐ 46 | AI |
+| 🥈 [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://huggingface.co/papers/2603.25040) | ⭐ 100 | AI |
+| 🥉 [Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration](https://huggingface.co/papers/2603.24800) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-03-28 13:08 UTC</sub>
+<sub>Last updated: 2026-03-28 18:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
