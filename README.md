@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PixelSmile: Toward Fine-Grained Facial Expression Editing](https://huggingface.co/papers/2603.25728) | ⭐ 111 | AI |
-| 🥈 [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://huggingface.co/papers/2603.25040) | ⭐ 107 | AI |
-| 🥉 [Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration](https://huggingface.co/papers/2603.24800) | ⭐ 51 | AI |
+| 🏆 [ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling](https://huggingface.co/papers/2603.25746) | ⭐ 42 | AI |
+| 🥈 [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](https://huggingface.co/papers/2603.25716) | ⭐ 28 | AI |
+| 🥉 [Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models](https://huggingface.co/papers/2603.22782) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-03-29 18:53 UTC</sub>
+<sub>Last updated: 2026-03-30 03:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
