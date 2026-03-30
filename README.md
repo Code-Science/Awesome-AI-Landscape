@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](https://huggingface.co/papers/2603.25716) | ⭐ 121 | AI |
-| 🥈 [ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling](https://huggingface.co/papers/2603.25746) | ⭐ 99 | AI |
-| 🥉 [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://huggingface.co/papers/2603.25158) | ⭐ 14 | AI |
+| 🏆 [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](https://huggingface.co/papers/2603.25716) | ⭐ 127 | AI |
+| 🥈 [ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling](https://huggingface.co/papers/2603.25746) | ⭐ 104 | AI |
+| 🥉 [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](https://huggingface.co/papers/2603.25730) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-03-30 07:52 UTC</sub>
+<sub>Last updated: 2026-03-30 13:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
