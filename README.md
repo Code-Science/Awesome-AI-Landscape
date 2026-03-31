@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 39 | AI |
-| 🥈 [Emergent Social Intelligence Risks in Generative Multi-Agent Systems](https://huggingface.co/papers/2603.27771) | ⭐ 33 | AI |
-| 🥉 [Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://huggingface.co/papers/2603.28767) | ⭐ 31 | AI |
+| 🏆 [TAPS: Task Aware Proposal Distributions for Speculative Sampling](https://huggingface.co/papers/2603.27027) | ⭐ 97 | AI |
+| 🥈 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 58 | AI |
+| 🥉 [Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://huggingface.co/papers/2603.28767) | ⭐ 40 | AI |
 
-<sub>Last updated: 2026-03-31 07:25 UTC</sub>
+<sub>Last updated: 2026-03-31 13:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
