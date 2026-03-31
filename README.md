@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks](https://huggingface.co/papers/2603.27862) | ⭐ 4 | AI |
-| 🥈 [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](https://huggingface.co/papers/2603.27481) | ⭐ 4 | AI |
-| 🥉 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 2 | AI |
+| 🏆 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 39 | AI |
+| 🥈 [Emergent Social Intelligence Risks in Generative Multi-Agent Systems](https://huggingface.co/papers/2603.27771) | ⭐ 33 | AI |
+| 🥉 [Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://huggingface.co/papers/2603.28767) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-03-31 02:54 UTC</sub>
+<sub>Last updated: 2026-03-31 07:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
