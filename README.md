@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](https://huggingface.co/papers/2603.25716) | ⭐ 133 | AI |
-| 🥈 [ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling](https://huggingface.co/papers/2603.25746) | ⭐ 110 | AI |
-| 🥉 [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](https://huggingface.co/papers/2603.25730) | ⭐ 38 | AI |
+| 🏆 [ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks](https://huggingface.co/papers/2603.27862) | ⭐ 4 | AI |
+| 🥈 [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](https://huggingface.co/papers/2603.27481) | ⭐ 4 | AI |
+| 🥉 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-03-30 19:08 UTC</sub>
+<sub>Last updated: 2026-03-31 02:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
