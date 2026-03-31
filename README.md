@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TAPS: Task Aware Proposal Distributions for Speculative Sampling](https://huggingface.co/papers/2603.27027) | ⭐ 97 | AI |
-| 🥈 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 58 | AI |
-| 🥉 [Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://huggingface.co/papers/2603.28767) | ⭐ 40 | AI |
+| 🏆 [TAPS: Task Aware Proposal Distributions for Speculative Sampling](https://huggingface.co/papers/2603.27027) | ⭐ 111 | AI |
+| 🥈 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 61 | AI |
+| 🥉 [Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://huggingface.co/papers/2603.28767) | ⭐ 43 | AI |
 
-<sub>Last updated: 2026-03-31 13:47 UTC</sub>
+<sub>Last updated: 2026-03-31 19:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
