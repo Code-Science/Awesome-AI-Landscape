@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](https://huggingface.co/papers/2603.19835) | ⭐ 231 | AI |
-| 🥈 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://huggingface.co/papers/2603.27538) | ⭐ 93 | AI |
-| 🥉 [Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells](https://huggingface.co/papers/2603.25240) | ⭐ 63 | AI |
+| 🏆 [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](https://huggingface.co/papers/2603.19835) | ⭐ 283 | AI |
+| 🥈 [CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence](https://huggingface.co/papers/2603.28032) | ⭐ 136 | AI |
+| 🥉 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://huggingface.co/papers/2603.27538) | ⭐ 109 | AI |
 
-<sub>Last updated: 2026-04-01 07:43 UTC</sub>
+<sub>Last updated: 2026-04-01 13:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
