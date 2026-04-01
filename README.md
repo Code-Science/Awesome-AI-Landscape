@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://huggingface.co/papers/2603.27538) | ⭐ 47 | AI |
-| 🥈 [Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells](https://huggingface.co/papers/2603.25240) | ⭐ 23 | AI |
-| 🥉 [GEMS: Agent-Native Multimodal Generation with Memory and Skills](https://huggingface.co/papers/2603.28088) | ⭐ 14 | AI |
+| 🏆 [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](https://huggingface.co/papers/2603.19835) | ⭐ 231 | AI |
+| 🥈 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://huggingface.co/papers/2603.27538) | ⭐ 93 | AI |
+| 🥉 [Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells](https://huggingface.co/papers/2603.25240) | ⭐ 63 | AI |
 
-<sub>Last updated: 2026-04-01 03:25 UTC</sub>
+<sub>Last updated: 2026-04-01 07:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
