@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TAPS: Task Aware Proposal Distributions for Speculative Sampling](https://huggingface.co/papers/2603.27027) | ⭐ 111 | AI |
-| 🥈 [Towards a Medical AI Scientist](https://huggingface.co/papers/2603.28589) | ⭐ 61 | AI |
-| 🥉 [Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://huggingface.co/papers/2603.28767) | ⭐ 43 | AI |
+| 🏆 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://huggingface.co/papers/2603.27538) | ⭐ 47 | AI |
+| 🥈 [Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells](https://huggingface.co/papers/2603.25240) | ⭐ 23 | AI |
+| 🥉 [GEMS: Agent-Native Multimodal Generation with Memory and Skills](https://huggingface.co/papers/2603.28088) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-03-31 19:10 UTC</sub>
+<sub>Last updated: 2026-04-01 03:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
