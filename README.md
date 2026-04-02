@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](https://huggingface.co/papers/2603.19835) | ⭐ 286 | AI |
-| 🥈 [CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence](https://huggingface.co/papers/2603.28032) | ⭐ 200 | AI |
-| 🥉 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://huggingface.co/papers/2603.27538) | ⭐ 116 | AI |
+| 🏆 [Terminal Agents Suffice for Enterprise Automation](https://huggingface.co/papers/2604.00073) | ⭐ 21 | AI |
+| 🥈 [Universal YOCO for Efficient Depth Scaling](https://huggingface.co/papers/2604.01220) | ⭐ 5 | AI |
+| 🥉 [GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation](https://huggingface.co/papers/2603.26661) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-04-01 19:12 UTC</sub>
+<sub>Last updated: 2026-04-02 02:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
