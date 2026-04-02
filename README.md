@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://huggingface.co/papers/2603.24414) | ⭐ 160 | AI |
-| 🥈 [MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome](https://huggingface.co/papers/2603.28407) | ⭐ 41 | AI |
-| 🥉 [Terminal Agents Suffice for Enterprise Automation](https://huggingface.co/papers/2604.00073) | ⭐ 34 | AI |
+| 🏆 [ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://huggingface.co/papers/2603.24414) | ⭐ 162 | AI |
+| 🥈 [Terminal Agents Suffice for Enterprise Automation](https://huggingface.co/papers/2604.00073) | ⭐ 50 | AI |
+| 🥉 [MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome](https://huggingface.co/papers/2603.28407) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-04-02 07:22 UTC</sub>
+<sub>Last updated: 2026-04-02 13:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
