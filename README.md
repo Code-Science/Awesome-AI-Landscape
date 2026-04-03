@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://huggingface.co/papers/2603.24414) | ⭐ 165 | AI |
-| 🥈 [Terminal Agents Suffice for Enterprise Automation](https://huggingface.co/papers/2604.00073) | ⭐ 65 | AI |
-| 🥉 [MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome](https://huggingface.co/papers/2603.28407) | ⭐ 52 | AI |
+| 🏆 [SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://huggingface.co/papers/2604.02268) | ⭐ 29 | AI |
+| 🥈 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 17 | AI |
+| 🥉 [Generative World Renderer](https://huggingface.co/papers/2604.02329) | ⭐ 8 | AI |
 
-<sub>Last updated: 2026-04-02 19:04 UTC</sub>
+<sub>Last updated: 2026-04-03 02:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
