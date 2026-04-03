@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://huggingface.co/papers/2604.02268) | ⭐ 29 | AI |
-| 🥈 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 17 | AI |
-| 🥉 [Generative World Renderer](https://huggingface.co/papers/2604.02329) | ⭐ 8 | AI |
+| 🏆 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 108 | AI |
+| 🥈 [SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://huggingface.co/papers/2604.02268) | ⭐ 57 | AI |
+| 🥉 [Generative World Renderer](https://huggingface.co/papers/2604.02329) | ⭐ 40 | AI |
 
-<sub>Last updated: 2026-04-03 02:53 UTC</sub>
+<sub>Last updated: 2026-04-03 07:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
