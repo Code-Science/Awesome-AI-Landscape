@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 134 | AI |
-| 🥈 [The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook](https://huggingface.co/papers/2604.02029) | ⭐ 78 | AI |
-| 🥉 [SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://huggingface.co/papers/2604.02268) | ⭐ 67 | AI |
+| 🏆 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 138 | AI |
+| 🥈 [The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook](https://huggingface.co/papers/2604.02029) | ⭐ 95 | AI |
+| 🥉 [Generative World Renderer](https://huggingface.co/papers/2604.02329) | ⭐ 73 | AI |
 
-<sub>Last updated: 2026-04-03 13:17 UTC</sub>
+<sub>Last updated: 2026-04-03 18:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
