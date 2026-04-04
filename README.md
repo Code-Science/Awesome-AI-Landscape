@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 144 | AI |
-| 🥈 [The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook](https://huggingface.co/papers/2604.02029) | ⭐ 102 | AI |
+| 🏆 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 146 | AI |
+| 🥈 [The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook](https://huggingface.co/papers/2604.02029) | ⭐ 106 | AI |
 | 🥉 [Generative World Renderer](https://huggingface.co/papers/2604.02329) | ⭐ 76 | AI |
 
-<sub>Last updated: 2026-04-04 02:43 UTC</sub>
+<sub>Last updated: 2026-04-04 07:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
