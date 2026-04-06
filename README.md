@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models](https://huggingface.co/papers/2603.26164) | ⭐ 160 | AI |
-| 🥈 [The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook](https://huggingface.co/papers/2604.02029) | ⭐ 123 | AI |
-| 🥉 [Generative World Renderer](https://huggingface.co/papers/2604.02329) | ⭐ 87 | AI |
+| 🏆 [Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?](https://huggingface.co/papers/2604.03016) | ⭐ 9 | AI |
+| 🥈 [AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents](https://huggingface.co/papers/2604.02947) | ⭐ 0 | AI |
+| 🥉 [CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://huggingface.co/papers/2604.03231) | ⭐ 0 | AI |
 
-<sub>Last updated: 2026-04-05 18:54 UTC</sub>
+<sub>Last updated: 2026-04-06 03:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
