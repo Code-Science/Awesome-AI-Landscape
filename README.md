@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A Simple Baseline for Streaming Video Understanding](https://huggingface.co/papers/2604.02317) | ⭐ 48 | AI |
-| 🥈 [Self-Distilled RLVR](https://huggingface.co/papers/2604.03128) | ⭐ 21 | AI |
-| 🥉 [Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?](https://huggingface.co/papers/2604.03016) | ⭐ 18 | AI |
+| 🏆 [Self-Distilled RLVR](https://huggingface.co/papers/2604.03128) | ⭐ 60 | AI |
+| 🥈 [A Simple Baseline for Streaming Video Understanding](https://huggingface.co/papers/2604.02317) | ⭐ 52 | AI |
+| 🥉 [Token Warping Helps MLLMs Look from Nearby Viewpoints](https://huggingface.co/papers/2604.02870) | ⭐ 20 | AI |
 
-<sub>Last updated: 2026-04-06 13:23 UTC</sub>
+<sub>Last updated: 2026-04-06 19:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
