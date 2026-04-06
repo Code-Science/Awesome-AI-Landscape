@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?](https://huggingface.co/papers/2604.03016) | ⭐ 9 | AI |
-| 🥈 [AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents](https://huggingface.co/papers/2604.02947) | ⭐ 0 | AI |
-| 🥉 [CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://huggingface.co/papers/2604.03231) | ⭐ 0 | AI |
+| 🏆 [A Simple Baseline for Streaming Video Understanding](https://huggingface.co/papers/2604.02317) | ⭐ 30 | AI |
+| 🥈 [Token Warping Helps MLLMs Look from Nearby Viewpoints](https://huggingface.co/papers/2604.02870) | ⭐ 15 | AI |
+| 🥉 [Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?](https://huggingface.co/papers/2604.03016) | ⭐ 15 | AI |
 
-<sub>Last updated: 2026-04-06 03:22 UTC</sub>
+<sub>Last updated: 2026-04-06 07:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
