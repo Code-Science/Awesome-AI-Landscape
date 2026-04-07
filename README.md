@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](https://huggingface.co/papers/2604.04911) | ⭐ 7 | AI |
-| 🥈 [AURA: Always-On Understanding and Real-Time Assistance via Video Streams](https://huggingface.co/papers/2604.04184) | ⭐ 5 | AI |
-| 🥉 [ClawArena: Benchmarking AI Agents in Evolving Information Environments](https://huggingface.co/papers/2604.04202) | ⭐ 4 | AI |
+| 🏆 [OpenWorldLib: A Unified Codebase and Definition of Advanced World Models](https://huggingface.co/papers/2604.04707) | ⭐ 80 | AI |
+| 🥈 [MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale](https://huggingface.co/papers/2604.04771) | ⭐ 66 | AI |
+| 🥉 [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://huggingface.co/papers/2604.04921) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-04-07 02:55 UTC</sub>
+<sub>Last updated: 2026-04-07 07:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
