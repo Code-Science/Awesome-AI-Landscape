@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenWorldLib: A Unified Codebase and Definition of Advanced World Models](https://huggingface.co/papers/2604.04707) | ⭐ 80 | AI |
-| 🥈 [MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale](https://huggingface.co/papers/2604.04771) | ⭐ 66 | AI |
-| 🥉 [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://huggingface.co/papers/2604.04921) | ⭐ 33 | AI |
+| 🏆 [OpenWorldLib: A Unified Codebase and Definition of Advanced World Models](https://huggingface.co/papers/2604.04707) | ⭐ 141 | AI |
+| 🥈 [MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale](https://huggingface.co/papers/2604.04771) | ⭐ 88 | AI |
+| 🥉 [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://huggingface.co/papers/2604.04921) | ⭐ 58 | AI |
 
-<sub>Last updated: 2026-04-07 07:40 UTC</sub>
+<sub>Last updated: 2026-04-07 13:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
