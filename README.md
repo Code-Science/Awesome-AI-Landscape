@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Self-Distilled RLVR](https://huggingface.co/papers/2604.03128) | ⭐ 60 | AI |
-| 🥈 [A Simple Baseline for Streaming Video Understanding](https://huggingface.co/papers/2604.02317) | ⭐ 52 | AI |
-| 🥉 [Token Warping Helps MLLMs Look from Nearby Viewpoints](https://huggingface.co/papers/2604.02870) | ⭐ 20 | AI |
+| 🏆 [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](https://huggingface.co/papers/2604.04911) | ⭐ 7 | AI |
+| 🥈 [AURA: Always-On Understanding and Real-Time Assistance via Video Streams](https://huggingface.co/papers/2604.04184) | ⭐ 5 | AI |
+| 🥉 [ClawArena: Benchmarking AI Agents in Evolving Information Environments](https://huggingface.co/papers/2604.04202) | ⭐ 4 | AI |
 
-<sub>Last updated: 2026-04-06 19:10 UTC</sub>
+<sub>Last updated: 2026-04-07 02:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
