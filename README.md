@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenWorldLib: A Unified Codebase and Definition of Advanced World Models](https://huggingface.co/papers/2604.04707) | ⭐ 146 | AI |
-| 🥈 [MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale](https://huggingface.co/papers/2604.04771) | ⭐ 89 | AI |
-| 🥉 [LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models](https://huggingface.co/papers/2603.28301) | ⭐ 70 | AI |
+| 🏆 [Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015) | ⭐ 52 | AI |
+| 🥈 [Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning](https://huggingface.co/papers/2604.05404) | ⭐ 16 | AI |
+| 🥉 [Learning to Retrieve from Agent Trajectories](https://huggingface.co/papers/2604.04949) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-04-07 19:13 UTC</sub>
+<sub>Last updated: 2026-04-08 02:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
