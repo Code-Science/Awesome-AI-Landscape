@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015) | ⭐ 52 | AI |
-| 🥈 [Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning](https://huggingface.co/papers/2604.05404) | ⭐ 16 | AI |
-| 🥉 [Learning to Retrieve from Agent Trajectories](https://huggingface.co/papers/2604.04949) | ⭐ 13 | AI |
+| 🏆 [Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015) | ⭐ 114 | AI |
+| 🥈 [Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents](https://huggingface.co/papers/2604.06132) | ⭐ 62 | AI |
+| 🥉 [Learning to Retrieve from Agent Trajectories](https://huggingface.co/papers/2604.04949) | ⭐ 39 | AI |
 
-<sub>Last updated: 2026-04-08 02:57 UTC</sub>
+<sub>Last updated: 2026-04-08 07:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
