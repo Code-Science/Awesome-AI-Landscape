@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RAGEN-2: Reasoning Collapse in Agentic RL](https://huggingface.co/papers/2604.06268) | ⭐ 31 | AI |
-| 🥈 [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](https://huggingface.co/papers/2604.04746) | ⭐ 28 | AI |
-| 🥉 [MARS: Enabling Autoregressive Models Multi-Token Generation](https://huggingface.co/papers/2604.07023) | ⭐ 13 | AI |
+| 🏆 [RAGEN-2: Reasoning Collapse in Agentic RL](https://huggingface.co/papers/2604.06268) | ⭐ 38 | AI |
+| 🥈 [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](https://huggingface.co/papers/2604.04746) | ⭐ 36 | AI |
+| 🥉 [MARS: Enabling Autoregressive Models Multi-Token Generation](https://huggingface.co/papers/2604.07023) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-04-09 07:47 UTC</sub>
+<sub>Last updated: 2026-04-09 13:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
