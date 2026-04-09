@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015) | ⭐ 193 | AI |
-| 🥈 [Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents](https://huggingface.co/papers/2604.06132) | ⭐ 92 | AI |
-| 🥉 [Learning to Retrieve from Agent Trajectories](https://huggingface.co/papers/2604.04949) | ⭐ 52 | AI |
+| 🏆 [RAGEN-2: Reasoning Collapse in Agentic RL](https://huggingface.co/papers/2604.06268) | ⭐ 6 | AI |
+| 🥈 [MARS: Enabling Autoregressive Models Multi-Token Generation](https://huggingface.co/papers/2604.07023) | ⭐ 2 | AI |
+| 🥉 [Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](https://huggingface.co/papers/2604.07343) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-04-08 19:26 UTC</sub>
+<sub>Last updated: 2026-04-09 02:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
