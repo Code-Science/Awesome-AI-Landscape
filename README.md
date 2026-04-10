@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://huggingface.co/papers/2604.08224) | ⭐ 18 | AI |
-| 🥈 [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://huggingface.co/papers/2604.08455) | ⭐ 17 | AI |
-| 🥉 [LPM 1.0: Video-based Character Performance Model](https://huggingface.co/papers/2604.07823) | ⭐ 16 | AI |
+| 🏆 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 87 | AI |
+| 🥈 [When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](https://huggingface.co/papers/2604.08546) | ⭐ 72 | AI |
+| 🥉 [HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents](https://huggingface.co/papers/2604.07430) | ⭐ 51 | AI |
 
-<sub>Last updated: 2026-04-10 03:23 UTC</sub>
+<sub>Last updated: 2026-04-10 07:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
