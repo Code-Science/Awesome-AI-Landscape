@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](https://huggingface.co/papers/2604.04746) | ⭐ 44 | AI |
-| 🥈 [RAGEN-2: Reasoning Collapse in Agentic RL](https://huggingface.co/papers/2604.06268) | ⭐ 41 | AI |
-| 🥉 [MARS: Enabling Autoregressive Models Multi-Token Generation](https://huggingface.co/papers/2604.07023) | ⭐ 21 | AI |
+| 🏆 [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://huggingface.co/papers/2604.08224) | ⭐ 18 | AI |
+| 🥈 [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://huggingface.co/papers/2604.08455) | ⭐ 17 | AI |
+| 🥉 [LPM 1.0: Video-based Character Performance Model](https://huggingface.co/papers/2604.07823) | ⭐ 16 | AI |
 
-<sub>Last updated: 2026-04-09 19:17 UTC</sub>
+<sub>Last updated: 2026-04-10 03:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
