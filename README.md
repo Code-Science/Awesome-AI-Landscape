@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 87 | AI |
-| 🥈 [When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](https://huggingface.co/papers/2604.08546) | ⭐ 72 | AI |
-| 🥉 [HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents](https://huggingface.co/papers/2604.07430) | ⭐ 51 | AI |
+| 🏆 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 133 | AI |
+| 🥈 [When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](https://huggingface.co/papers/2604.08546) | ⭐ 100 | AI |
+| 🥉 [MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping](https://huggingface.co/papers/2604.08364) | ⭐ 79 | AI |
 
-<sub>Last updated: 2026-04-10 07:51 UTC</sub>
+<sub>Last updated: 2026-04-10 13:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
