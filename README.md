@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://huggingface.co/papers/2604.06628) | ⭐ 160 | AI |
-| 🥈 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 156 | AI |
-| 🥉 [HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents](https://huggingface.co/papers/2604.07430) | ⭐ 131 | AI |
+| 🏆 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 202 | AI |
+| 🥈 [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://huggingface.co/papers/2604.06628) | ⭐ 169 | AI |
+| 🥉 [HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents](https://huggingface.co/papers/2604.07430) | ⭐ 138 | AI |
 
-<sub>Last updated: 2026-04-11 07:08 UTC</sub>
+<sub>Last updated: 2026-04-11 13:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
