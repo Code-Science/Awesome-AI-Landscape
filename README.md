@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 232 | AI |
-| 🥈 [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://huggingface.co/papers/2604.06628) | ⭐ 228 | AI |
-| 🥉 [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://huggingface.co/papers/2604.08523) | ⭐ 195 | AI |
+| 🏆 [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://huggingface.co/papers/2604.06628) | ⭐ 261 | AI |
+| 🥈 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 256 | AI |
+| 🥉 [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://huggingface.co/papers/2604.08523) | ⭐ 240 | AI |
 
-<sub>Last updated: 2026-04-12 13:14 UTC</sub>
+<sub>Last updated: 2026-04-12 18:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
