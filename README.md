@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://huggingface.co/papers/2604.06628) | ⭐ 261 | AI |
-| 🥈 [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://huggingface.co/papers/2604.08377) | ⭐ 256 | AI |
-| 🥉 [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://huggingface.co/papers/2604.08523) | ⭐ 240 | AI |
+| 🏆 [FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://huggingface.co/papers/2604.07413) | ⭐ 22 | AI |
+| 🥈 [RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details](https://huggingface.co/papers/2604.06870) | ⭐ 17 | AI |
+| 🥉 [Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory](https://huggingface.co/papers/2604.08995) | ⭐ 15 | AI |
 
-<sub>Last updated: 2026-04-12 18:59 UTC</sub>
+<sub>Last updated: 2026-04-13 03:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
