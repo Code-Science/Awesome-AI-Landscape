@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://huggingface.co/papers/2604.07413) | ⭐ 22 | AI |
-| 🥈 [RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details](https://huggingface.co/papers/2604.06870) | ⭐ 17 | AI |
-| 🥉 [Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory](https://huggingface.co/papers/2604.08995) | ⭐ 15 | AI |
+| 🏆 [FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://huggingface.co/papers/2604.07413) | ⭐ 51 | AI |
+| 🥈 [WildDet3D: Scaling Promptable 3D Detection in the Wild](https://huggingface.co/papers/2604.08626) | ⭐ 36 | AI |
+| 🥉 [RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details](https://huggingface.co/papers/2604.06870) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-04-13 03:33 UTC</sub>
+<sub>Last updated: 2026-04-13 08:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
