@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784) | ⭐ 41 | AI |
-| 🥈 [Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation](https://huggingface.co/papers/2604.10098) | ⭐ 38 | AI |
-| 🥉 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 35 | AI |
+| 🏆 [QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://huggingface.co/papers/2604.08570) | ⭐ 89 | AI |
+| 🥈 [The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping](https://huggingface.co/papers/2604.11297) | ⭐ 72 | AI |
+| 🥉 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 49 | AI |
 
-<sub>Last updated: 2026-04-14 07:56 UTC</sub>
+<sub>Last updated: 2026-04-14 13:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
