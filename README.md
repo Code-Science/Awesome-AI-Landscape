@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WildDet3D: Scaling Promptable 3D Detection in the Wild](https://huggingface.co/papers/2604.08626) | ⭐ 165 | AI |
-| 🥈 [FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://huggingface.co/papers/2604.07413) | ⭐ 79 | AI |
-| 🥉 [RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details](https://huggingface.co/papers/2604.06870) | ⭐ 34 | AI |
+| 🏆 [Strips as Tokens: Artist Mesh Generation with Native UV Segmentation](https://huggingface.co/papers/2604.09132) | ⭐ 13 | AI |
+| 🥈 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 12 | AI |
+| 🥉 [CodeTracer: Towards Traceable Agent States](https://huggingface.co/papers/2604.11641) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-04-13 19:21 UTC</sub>
+<sub>Last updated: 2026-04-14 03:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
