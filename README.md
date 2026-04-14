@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Strips as Tokens: Artist Mesh Generation with Native UV Segmentation](https://huggingface.co/papers/2604.09132) | ⭐ 13 | AI |
-| 🥈 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 12 | AI |
-| 🥉 [CodeTracer: Towards Traceable Agent States](https://huggingface.co/papers/2604.11641) | ⭐ 11 | AI |
+| 🏆 [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784) | ⭐ 41 | AI |
+| 🥈 [Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation](https://huggingface.co/papers/2604.10098) | ⭐ 38 | AI |
+| 🥉 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-04-14 03:23 UTC</sub>
+<sub>Last updated: 2026-04-14 07:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
