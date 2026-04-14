@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://huggingface.co/papers/2604.08570) | ⭐ 89 | AI |
-| 🥈 [The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping](https://huggingface.co/papers/2604.11297) | ⭐ 72 | AI |
-| 🥉 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 49 | AI |
+| 🏆 [QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://huggingface.co/papers/2604.08570) | ⭐ 105 | AI |
+| 🥈 [The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping](https://huggingface.co/papers/2604.11297) | ⭐ 80 | AI |
+| 🥉 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 55 | AI |
 
-<sub>Last updated: 2026-04-14 13:59 UTC</sub>
+<sub>Last updated: 2026-04-14 19:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
