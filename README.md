@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784) | ⭐ 117 | AI |
-| 🥈 [KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance](https://huggingface.co/papers/2604.12627) | ⭐ 74 | AI |
-| 🥉 [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://huggingface.co/papers/2604.13016) | ⭐ 51 | AI |
+| 🏆 [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784) | ⭐ 118 | AI |
+| 🥈 [KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance](https://huggingface.co/papers/2604.12627) | ⭐ 79 | AI |
+| 🥉 [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://huggingface.co/papers/2604.13016) | ⭐ 56 | AI |
 
-<sub>Last updated: 2026-04-15 13:53 UTC</sub>
+<sub>Last updated: 2026-04-15 19:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
