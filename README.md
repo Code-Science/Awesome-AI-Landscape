@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://huggingface.co/papers/2604.08570) | ⭐ 105 | AI |
-| 🥈 [The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping](https://huggingface.co/papers/2604.11297) | ⭐ 80 | AI |
-| 🥉 [OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://huggingface.co/papers/2604.11804) | ⭐ 55 | AI |
+| 🏆 [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784) | ⭐ 107 | AI |
+| 🥈 [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://huggingface.co/papers/2604.13016) | ⭐ 13 | AI |
+| 🥉 [Toward Autonomous Long-Horizon Engineering for ML Research](https://huggingface.co/papers/2604.13018) | ⭐ 9 | AI |
 
-<sub>Last updated: 2026-04-14 19:24 UTC</sub>
+<sub>Last updated: 2026-04-15 03:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
