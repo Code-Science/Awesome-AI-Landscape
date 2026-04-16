@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seedance 2.0: Advancing Video Generation for World Complexity](https://huggingface.co/papers/2604.14148) | ⭐ 68 | AI |
-| 🥈 [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](https://huggingface.co/papers/2604.11626) | ⭐ 63 | AI |
-| 🥉 [SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments](https://huggingface.co/papers/2604.14144) | ⭐ 50 | AI |
+| 🏆 [GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://huggingface.co/papers/2604.07429) | ⭐ 104 | AI |
+| 🥈 [Seedance 2.0: Advancing Video Generation for World Complexity](https://huggingface.co/papers/2604.14148) | ⭐ 97 | AI |
+| 🥉 [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](https://huggingface.co/papers/2604.11626) | ⭐ 90 | AI |
 
-<sub>Last updated: 2026-04-16 07:57 UTC</sub>
+<sub>Last updated: 2026-04-16 14:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
