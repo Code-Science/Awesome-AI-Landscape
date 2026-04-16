@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784) | ⭐ 118 | AI |
-| 🥈 [KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance](https://huggingface.co/papers/2604.12627) | ⭐ 79 | AI |
-| 🥉 [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://huggingface.co/papers/2604.13016) | ⭐ 56 | AI |
+| 🏆 [GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://huggingface.co/papers/2604.07429) | ⭐ 33 | AI |
+| 🥈 [OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models](https://huggingface.co/papers/2604.10866) | ⭐ 27 | AI |
+| 🥉 [SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments](https://huggingface.co/papers/2604.14144) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-04-15 19:26 UTC</sub>
+<sub>Last updated: 2026-04-16 03:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
