@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268) | ⭐ 13 | AI |
-| 🥈 [ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack](https://huggingface.co/papers/2509.25843) | ⭐ 12 | AI |
-| 🥉 [RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://huggingface.co/papers/2604.15308) | ⭐ 11 | AI |
+| 🏆 [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268) | ⭐ 45 | AI |
+| 🥈 [DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation](https://huggingface.co/papers/2604.14683) | ⭐ 19 | AI |
+| 🥉 [RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://huggingface.co/papers/2604.15308) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-04-17 03:25 UTC</sub>
+<sub>Last updated: 2026-04-17 07:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
