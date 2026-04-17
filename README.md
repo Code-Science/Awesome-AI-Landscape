@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Seedance 2.0: Advancing Video Generation for World Complexity](https://huggingface.co/papers/2604.14148) | ⭐ 106 | AI |
-| 🥈 [GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://huggingface.co/papers/2604.07429) | ⭐ 105 | AI |
-| 🥉 [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](https://huggingface.co/papers/2604.11626) | ⭐ 95 | AI |
+| 🏆 [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268) | ⭐ 13 | AI |
+| 🥈 [ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack](https://huggingface.co/papers/2509.25843) | ⭐ 12 | AI |
+| 🥉 [RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://huggingface.co/papers/2604.15308) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-04-16 19:24 UTC</sub>
+<sub>Last updated: 2026-04-17 03:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
