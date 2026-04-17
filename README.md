@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268) | ⭐ 59 | AI |
+| 🏆 [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268) | ⭐ 65 | AI |
 | 🥈 [RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://huggingface.co/papers/2604.15308) | ⭐ 20 | AI |
 | 🥉 [DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation](https://huggingface.co/papers/2604.14683) | ⭐ 20 | AI |
 
-<sub>Last updated: 2026-04-17 13:44 UTC</sub>
+<sub>Last updated: 2026-04-17 19:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
