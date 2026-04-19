@@ -22,7 +22,7 @@
 | 🥈 [DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation](https://huggingface.co/papers/2604.14683) | ⭐ 27 | AI |
 | 🥉 [RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://huggingface.co/papers/2604.15308) | ⭐ 25 | AI |
 
-<sub>Last updated: 2026-04-19 03:32 UTC</sub>
+<sub>Last updated: 2026-04-19 07:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
