@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](https://huggingface.co/papers/2604.16044) | ⭐ 61 | AI |
-| 🥈 [Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://huggingface.co/papers/2502.07408) | ⭐ 29 | AI |
-| 🥉 [PersonaVLM: Long-Term Personalized Multimodal LLMs](https://huggingface.co/papers/2604.13074) | ⭐ 28 | AI |
+| 🏆 [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](https://huggingface.co/papers/2604.16044) | ⭐ 64 | AI |
+| 🥈 [Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://huggingface.co/papers/2502.07408) | ⭐ 35 | AI |
+| 🥉 [PersonaVLM: Long-Term Personalized Multimodal LLMs](https://huggingface.co/papers/2604.13074) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-04-20 13:58 UTC</sub>
+<sub>Last updated: 2026-04-20 19:16 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
