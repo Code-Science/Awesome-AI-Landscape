@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PersonaVLM: Long-Term Personalized Multimodal LLMs](https://huggingface.co/papers/2604.13074) | ⭐ 16 | AI |
-| 🥈 [GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows](https://huggingface.co/papers/2604.15715) | ⭐ 1 | AI |
-| 🥉 [Qwen3.5-Omni Technical Report](https://huggingface.co/papers/2604.15804) | ⭐ 1 | AI |
+| 🏆 [PersonaVLM: Long-Term Personalized Multimodal LLMs](https://huggingface.co/papers/2604.13074) | ⭐ 19 | AI |
+| 🥈 [Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://huggingface.co/papers/2502.07408) | ⭐ 17 | AI |
+| 🥉 [Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning](https://huggingface.co/papers/2604.16029) | ⭐ 16 | AI |
 
-<sub>Last updated: 2026-04-20 03:34 UTC</sub>
+<sub>Last updated: 2026-04-20 08:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
