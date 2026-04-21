@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](https://huggingface.co/papers/2604.16044) | ⭐ 64 | AI |
-| 🥈 [Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://huggingface.co/papers/2502.07408) | ⭐ 35 | AI |
-| 🥉 [PersonaVLM: Long-Term Personalized Multimodal LLMs](https://huggingface.co/papers/2604.13074) | ⭐ 30 | AI |
+| 🏆 [OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation](https://huggingface.co/papers/2604.18486) | ⭐ 20 | AI |
+| 🥈 [MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://huggingface.co/papers/2604.18564) | ⭐ 7 | AI |
+| 🥉 [Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models](https://huggingface.co/papers/2604.16593) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-04-20 19:16 UTC</sub>
+<sub>Last updated: 2026-04-21 03:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
