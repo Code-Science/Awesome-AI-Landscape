@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation](https://huggingface.co/papers/2604.18486) | ⭐ 48 | AI |
-| 🥈 [Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence](https://huggingface.co/papers/2604.18292) | ⭐ 42 | AI |
-| 🥉 [OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394) | ⭐ 34 | AI |
+| 🏆 [Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation](https://huggingface.co/papers/2604.18168) | ⭐ 84 | AI |
+| 🥈 [OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation](https://huggingface.co/papers/2604.18486) | ⭐ 64 | AI |
+| 🥉 [Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence](https://huggingface.co/papers/2604.18292) | ⭐ 55 | AI |
 
-<sub>Last updated: 2026-04-21 08:02 UTC</sub>
+<sub>Last updated: 2026-04-21 13:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
