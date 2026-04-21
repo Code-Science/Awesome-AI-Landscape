@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation](https://huggingface.co/papers/2604.18486) | ⭐ 20 | AI |
-| 🥈 [MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://huggingface.co/papers/2604.18564) | ⭐ 7 | AI |
-| 🥉 [Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models](https://huggingface.co/papers/2604.16593) | ⭐ 3 | AI |
+| 🏆 [OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation](https://huggingface.co/papers/2604.18486) | ⭐ 48 | AI |
+| 🥈 [Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence](https://huggingface.co/papers/2604.18292) | ⭐ 42 | AI |
+| 🥉 [OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-04-21 03:26 UTC</sub>
+<sub>Last updated: 2026-04-21 08:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
