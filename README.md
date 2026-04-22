@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://huggingface.co/papers/2604.19748) | ⭐ 47 | AI |
-| 🥈 [AgentSPEX: An Agent SPecification and EXecution Language](https://huggingface.co/papers/2604.13346) | ⭐ 44 | AI |
-| 🥉 [AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model](https://huggingface.co/papers/2604.19747) | ⭐ 27 | AI |
+| 🏆 [Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://huggingface.co/papers/2604.19748) | ⭐ 76 | AI |
+| 🥈 [CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation](https://huggingface.co/papers/2604.19636) | ⭐ 54 | AI |
+| 🥉 [AgentSPEX: An Agent SPecification and EXecution Language](https://huggingface.co/papers/2604.13346) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-04-22 07:58 UTC</sub>
+<sub>Last updated: 2026-04-22 13:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
