@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation](https://huggingface.co/papers/2604.18168) | ⭐ 86 | AI |
-| 🥈 [OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation](https://huggingface.co/papers/2604.18486) | ⭐ 65 | AI |
-| 🥉 [Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence](https://huggingface.co/papers/2604.18292) | ⭐ 59 | AI |
+| 🏆 [AgentSPEX: An Agent SPecification and EXecution Language](https://huggingface.co/papers/2604.13346) | ⭐ 28 | AI |
+| 🥈 [Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://huggingface.co/papers/2604.19748) | ⭐ 10 | AI |
+| 🥉 [CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation](https://huggingface.co/papers/2604.19636) | ⭐ 8 | AI |
 
-<sub>Last updated: 2026-04-21 19:21 UTC</sub>
+<sub>Last updated: 2026-04-22 03:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
