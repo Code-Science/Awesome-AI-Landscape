@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796) | ⭐ 106 | AI |
-| 🥈 [DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data](https://huggingface.co/papers/2604.19859) | ⭐ 28 | AI |
-| 🥉 [Near-Future Policy Optimization](https://huggingface.co/papers/2604.20733) | ⭐ 23 | AI |
+| 🏆 [LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796) | ⭐ 200 | AI |
+| 🥈 [Near-Future Policy Optimization](https://huggingface.co/papers/2604.20733) | ⭐ 41 | AI |
+| 🥉 [DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data](https://huggingface.co/papers/2604.19859) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-04-23 08:04 UTC</sub>
+<sub>Last updated: 2026-04-23 13:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
