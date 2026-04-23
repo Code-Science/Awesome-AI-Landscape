@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://huggingface.co/papers/2604.19748) | ⭐ 78 | AI |
-| 🥈 [CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation](https://huggingface.co/papers/2604.19636) | ⭐ 58 | AI |
-| 🥉 [AgentSPEX: An Agent SPecification and EXecution Language](https://huggingface.co/papers/2604.13346) | ⭐ 49 | AI |
+| 🏆 [LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796) | ⭐ 21 | AI |
+| 🥈 [WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training](https://huggingface.co/papers/2604.14932) | ⭐ 8 | AI |
+| 🥉 [DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data](https://huggingface.co/papers/2604.19859) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-04-22 19:23 UTC</sub>
+<sub>Last updated: 2026-04-23 03:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
