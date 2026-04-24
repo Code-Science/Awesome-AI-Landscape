@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://huggingface.co/papers/2604.19734) | ⭐ 18 | AI |
-| 🥈 [UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection](https://huggingface.co/papers/2604.21904) | ⭐ 3 | AI |
-| 🥉 [StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition](https://huggingface.co/papers/2604.21689) | ⭐ 3 | AI |
+| 🏆 [WorldMark: A Unified Benchmark Suite for Interactive Video World Models](https://huggingface.co/papers/2604.21686) | ⭐ 25 | AI |
+| 🥈 [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://huggingface.co/papers/2604.19734) | ⭐ 25 | AI |
+| 🥉 [StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition](https://huggingface.co/papers/2604.21689) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-04-24 03:30 UTC</sub>
+<sub>Last updated: 2026-04-24 08:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
