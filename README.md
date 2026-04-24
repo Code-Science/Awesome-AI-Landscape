@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796) | ⭐ 207 | AI |
-| 🥈 [Near-Future Policy Optimization](https://huggingface.co/papers/2604.20733) | ⭐ 43 | AI |
-| 🥉 [DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data](https://huggingface.co/papers/2604.19859) | ⭐ 37 | AI |
+| 🏆 [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://huggingface.co/papers/2604.19734) | ⭐ 18 | AI |
+| 🥈 [UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection](https://huggingface.co/papers/2604.21904) | ⭐ 3 | AI |
+| 🥉 [StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition](https://huggingface.co/papers/2604.21689) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-04-23 19:21 UTC</sub>
+<sub>Last updated: 2026-04-24 03:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
