@@ -22,7 +22,7 @@
 | 🥈 [WorldMark: A Unified Benchmark Suite for Interactive Video World Models](https://huggingface.co/papers/2604.21686) | ⭐ 29 | AI |
 | 🥉 [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://huggingface.co/papers/2604.19734) | ⭐ 25 | AI |
 
-<sub>Last updated: 2026-04-24 13:52 UTC</sub>
+<sub>Last updated: 2026-04-24 19:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
