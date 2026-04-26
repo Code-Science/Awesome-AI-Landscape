@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](https://huggingface.co/papers/2604.17295) | ⭐ 80 | AI |
+| 🏆 [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](https://huggingface.co/papers/2604.17295) | ⭐ 81 | AI |
 | 🥈 [WorldMark: A Unified Benchmark Suite for Interactive Video World Models](https://huggingface.co/papers/2604.21686) | ⭐ 34 | AI |
 | 🥉 [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://huggingface.co/papers/2604.19734) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-04-26 13:19 UTC</sub>
+<sub>Last updated: 2026-04-26 19:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
