@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](https://huggingface.co/papers/2604.17295) | ⭐ 81 | AI |
-| 🥈 [WorldMark: A Unified Benchmark Suite for Interactive Video World Models](https://huggingface.co/papers/2604.21686) | ⭐ 34 | AI |
-| 🥉 [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://huggingface.co/papers/2604.19734) | ⭐ 27 | AI |
+| 🏆 [LLM Safety From Within: Detecting Harmful Content with Internal Representations](https://huggingface.co/papers/2604.18519) | ⭐ 15 | AI |
+| 🥈 [DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction](https://huggingface.co/papers/2604.21518) | ⭐ 13 | AI |
+| 🥉 [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://huggingface.co/papers/2604.22748) | ⭐ 8 | AI |
 
-<sub>Last updated: 2026-04-26 19:04 UTC</sub>
+<sub>Last updated: 2026-04-27 03:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
