@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://huggingface.co/papers/2604.22748) | ⭐ 132 | AI |
-| 🥈 [DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction](https://huggingface.co/papers/2604.21518) | ⭐ 26 | AI |
-| 🥉 [LLM Safety From Within: Detecting Harmful Content with Internal Representations](https://huggingface.co/papers/2604.18519) | ⭐ 21 | AI |
+| 🏆 [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://huggingface.co/papers/2604.22748) | ⭐ 150 | AI |
+| 🥈 [Video Analysis and Generation via a Semantic Progress Function](https://huggingface.co/papers/2604.22554) | ⭐ 35 | AI |
+| 🥉 [DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction](https://huggingface.co/papers/2604.21518) | ⭐ 26 | AI |
 
-<sub>Last updated: 2026-04-27 14:09 UTC</sub>
+<sub>Last updated: 2026-04-27 19:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
