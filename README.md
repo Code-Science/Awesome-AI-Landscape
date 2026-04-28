@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764) | ⭐ 17 | AI |
-| 🥈 [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://huggingface.co/papers/2604.24198) | ⭐ 9 | AI |
-| 🥉 [SketchVLM: Vision language models can annotate images to explain thoughts and guide users](https://huggingface.co/papers/2604.22875) | ⭐ 4 | AI |
+| 🏆 [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764) | ⭐ 40 | AI |
+| 🥈 [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](https://huggingface.co/papers/2604.24300) | ⭐ 35 | AI |
+| 🥉 [Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://huggingface.co/papers/2604.23775) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-04-28 03:47 UTC</sub>
+<sub>Last updated: 2026-04-28 08:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
