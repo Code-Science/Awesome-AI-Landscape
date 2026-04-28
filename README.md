@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://huggingface.co/papers/2604.22748) | ⭐ 150 | AI |
-| 🥈 [Video Analysis and Generation via a Semantic Progress Function](https://huggingface.co/papers/2604.22554) | ⭐ 35 | AI |
-| 🥉 [DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction](https://huggingface.co/papers/2604.21518) | ⭐ 26 | AI |
+| 🏆 [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764) | ⭐ 17 | AI |
+| 🥈 [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://huggingface.co/papers/2604.24198) | ⭐ 9 | AI |
+| 🥉 [SketchVLM: Vision language models can annotate images to explain thoughts and guide users](https://huggingface.co/papers/2604.22875) | ⭐ 4 | AI |
 
-<sub>Last updated: 2026-04-27 19:41 UTC</sub>
+<sub>Last updated: 2026-04-28 03:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
