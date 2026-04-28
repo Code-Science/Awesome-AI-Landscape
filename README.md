@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764) | ⭐ 40 | AI |
-| 🥈 [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](https://huggingface.co/papers/2604.24300) | ⭐ 35 | AI |
-| 🥉 [Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://huggingface.co/papers/2604.23775) | ⭐ 34 | AI |
+| 🏆 [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764) | ⭐ 81 | AI |
+| 🥈 [From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](https://huggingface.co/papers/2604.22446) | ⭐ 73 | AI |
+| 🥉 [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](https://huggingface.co/papers/2604.24300) | ⭐ 51 | AI |
 
-<sub>Last updated: 2026-04-28 08:33 UTC</sub>
+<sub>Last updated: 2026-04-28 14:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
