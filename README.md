@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917) | ⭐ 54 | AI |
-| 🥈 [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](https://huggingface.co/papers/2604.25914) | ⭐ 33 | AI |
-| 🥉 [Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora](https://huggingface.co/papers/2604.24819) | ⭐ 31 | AI |
+| 🏆 [Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917) | ⭐ 62 | AI |
+| 🥈 [Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora](https://huggingface.co/papers/2604.24819) | ⭐ 60 | AI |
+| 🥉 [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](https://huggingface.co/papers/2604.25914) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-04-29 08:27 UTC</sub>
+<sub>Last updated: 2026-04-29 14:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
