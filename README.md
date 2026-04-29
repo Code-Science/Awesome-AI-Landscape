@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](https://huggingface.co/papers/2604.22446) | ⭐ 95 | AI |
-| 🥈 [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764) | ⭐ 94 | AI |
-| 🥉 [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](https://huggingface.co/papers/2604.24300) | ⭐ 53 | AI |
+| 🏆 [Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917) | ⭐ 32 | AI |
+| 🥈 [Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora](https://huggingface.co/papers/2604.24819) | ⭐ 21 | AI |
+| 🥉 [Meta-CoT: Enhancing Granularity and Generalization in Image Editing](https://huggingface.co/papers/2604.24625) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-04-28 19:48 UTC</sub>
+<sub>Last updated: 2026-04-29 03:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
