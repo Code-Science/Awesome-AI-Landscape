@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | ⭐ 64 | AI |
-| 🥈 [Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](https://huggingface.co/papers/2604.26951) | ⭐ 29 | AI |
-| 🥉 [ClawGym: A Scalable Framework for Building Effective Claw Agents](https://huggingface.co/papers/2604.26904) | ⭐ 25 | AI |
+| 🏆 [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | ⭐ 70 | AI |
+| 🥈 [Large Language Models Explore by Latent Distilling](https://huggingface.co/papers/2604.24927) | ⭐ 47 | AI |
+| 🥉 [Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](https://huggingface.co/papers/2604.26951) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-04-30 08:30 UTC</sub>
+<sub>Last updated: 2026-04-30 14:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
