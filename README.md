@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917) | ⭐ 120 | AI |
-| 🥈 [Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora](https://huggingface.co/papers/2604.24819) | ⭐ 69 | AI |
-| 🥉 [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](https://huggingface.co/papers/2604.25914) | ⭐ 36 | AI |
+| 🏆 [ClawGym: A Scalable Framework for Building Effective Claw Agents](https://huggingface.co/papers/2604.26904) | ⭐ 16 | AI |
+| 🥈 [Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](https://huggingface.co/papers/2604.26951) | ⭐ 6 | AI |
+| 🥉 [Accelerating RL Post-Training Rollouts via System-Integrated Speculative Decoding](https://huggingface.co/papers/2604.26779) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-04-29 19:44 UTC</sub>
+<sub>Last updated: 2026-04-30 03:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
