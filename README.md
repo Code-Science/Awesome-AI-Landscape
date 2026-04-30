@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | ⭐ 70 | AI |
-| 🥈 [Large Language Models Explore by Latent Distilling](https://huggingface.co/papers/2604.24927) | ⭐ 47 | AI |
-| 🥉 [Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](https://huggingface.co/papers/2604.26951) | ⭐ 35 | AI |
+| 🏆 [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | ⭐ 71 | AI |
+| 🥈 [Large Language Models Explore by Latent Distilling](https://huggingface.co/papers/2604.24927) | ⭐ 51 | AI |
+| 🥉 [RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments](https://huggingface.co/papers/2604.26067) | ⭐ 46 | AI |
 
-<sub>Last updated: 2026-04-30 14:11 UTC</sub>
+<sub>Last updated: 2026-04-30 19:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
