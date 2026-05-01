@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | ⭐ 71 | AI |
-| 🥈 [Large Language Models Explore by Latent Distilling](https://huggingface.co/papers/2604.24927) | ⭐ 51 | AI |
-| 🥉 [RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments](https://huggingface.co/papers/2604.26067) | ⭐ 46 | AI |
+| 🏆 [Heterogeneous Scientific Foundation Model Collaboration](https://huggingface.co/papers/2604.27351) | ⭐ 45 | AI |
+| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 20 | AI |
+| 🥉 [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](https://huggingface.co/papers/2604.28158) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-04-30 19:41 UTC</sub>
+<sub>Last updated: 2026-05-01 03:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
