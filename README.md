@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Heterogeneous Scientific Foundation Model Collaboration](https://huggingface.co/papers/2604.27351) | ⭐ 45 | AI |
-| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 20 | AI |
-| 🥉 [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](https://huggingface.co/papers/2604.28158) | ⭐ 6 | AI |
+| 🏆 [Heterogeneous Scientific Foundation Model Collaboration](https://huggingface.co/papers/2604.27351) | ⭐ 111 | AI |
+| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 54 | AI |
+| 🥉 [ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control](https://huggingface.co/papers/2604.27711) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-05-01 03:57 UTC</sub>
+<sub>Last updated: 2026-05-01 08:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
