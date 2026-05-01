@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Heterogeneous Scientific Foundation Model Collaboration](https://huggingface.co/papers/2604.27351) | ⭐ 111 | AI |
-| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 54 | AI |
-| 🥉 [ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control](https://huggingface.co/papers/2604.27711) | ⭐ 23 | AI |
+| 🏆 [Heterogeneous Scientific Foundation Model Collaboration](https://huggingface.co/papers/2604.27351) | ⭐ 145 | AI |
+| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 62 | AI |
+| 🥉 [ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control](https://huggingface.co/papers/2604.27711) | ⭐ 28 | AI |
 
-<sub>Last updated: 2026-05-01 08:20 UTC</sub>
+<sub>Last updated: 2026-05-01 13:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
