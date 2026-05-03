@@ -19,10 +19,10 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [Heterogeneous Scientific Foundation Model Collaboration](https://huggingface.co/papers/2604.27351) | ⭐ 192 | AI |
-| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 78 | AI |
-| 🥉 [Co-Evolving Policy Distillation](https://huggingface.co/papers/2604.27083) | ⭐ 44 | AI |
+| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 80 | AI |
+| 🥉 [Co-Evolving Policy Distillation](https://huggingface.co/papers/2604.27083) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-05-03 13:24 UTC</sub>
+<sub>Last updated: 2026-05-03 19:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
