@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://huggingface.co/papers/2605.00658) | ⭐ 58 | AI |
-| 🥈 [Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://huggingface.co/papers/2605.00416) | ⭐ 6 | AI |
-| 🥉 [From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills](https://huggingface.co/papers/2604.24026) | ⭐ 5 | AI |
+| 🏆 [UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://huggingface.co/papers/2605.00658) | ⭐ 65 | AI |
+| 🥈 [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](https://huggingface.co/papers/2604.27221) | ⭐ 23 | AI |
+| 🥉 [Map2World: Segment Map Conditioned Text to 3D World Generation](https://huggingface.co/papers/2605.00781) | ⭐ 10 | AI |
 
-<sub>Last updated: 2026-05-04 08:37 UTC</sub>
+<sub>Last updated: 2026-05-04 14:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
