@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Heterogeneous Scientific Foundation Model Collaboration](https://huggingface.co/papers/2604.27351) | ⭐ 192 | AI |
-| 🥈 [Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://huggingface.co/papers/2604.28185) | ⭐ 80 | AI |
-| 🥉 [Co-Evolving Policy Distillation](https://huggingface.co/papers/2604.27083) | ⭐ 45 | AI |
+| 🏆 [UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://huggingface.co/papers/2605.00658) | ⭐ 32 | AI |
+| 🥈 [Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://huggingface.co/papers/2605.00416) | ⭐ 6 | AI |
+| 🥉 [From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills](https://huggingface.co/papers/2604.24026) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-05-03 19:08 UTC</sub>
+<sub>Last updated: 2026-05-04 03:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
