@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From Context to Skills: Can Language Models Learn from Context Skillfully?](https://huggingface.co/papers/2604.27660) | ⭐ 51 | AI |
-| 🥈 [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://huggingface.co/papers/2605.02881) | ⭐ 35 | AI |
-| 🥉 [OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models](https://huggingface.co/papers/2605.00877) | ⭐ 8 | AI |
+| 🏆 [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://huggingface.co/papers/2605.02881) | ⭐ 158 | AI |
+| 🥈 [From Context to Skills: Can Language Models Learn from Context Skillfully?](https://huggingface.co/papers/2604.27660) | ⭐ 119 | AI |
+| 🥉 [Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling](https://huggingface.co/papers/2604.28075) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-05-05 08:19 UTC</sub>
+<sub>Last updated: 2026-05-05 19:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
