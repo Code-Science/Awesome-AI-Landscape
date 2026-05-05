@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://huggingface.co/papers/2605.00658) | ⭐ 66 | AI |
-| 🥈 [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](https://huggingface.co/papers/2604.27221) | ⭐ 25 | AI |
-| 🥉 [Map2World: Segment Map Conditioned Text to 3D World Generation](https://huggingface.co/papers/2605.00781) | ⭐ 11 | AI |
+| 🏆 [OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models](https://huggingface.co/papers/2605.00877) | ⭐ 6 | AI |
+| 🥈 [From Context to Skills: Can Language Models Learn from Context Skillfully?](https://huggingface.co/papers/2604.27660) | ⭐ 4 | AI |
+| 🥉 [ComboStoc: Combinatorial Stochasticity for Diffusion Generative Models](https://huggingface.co/papers/2405.13729) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-05-04 19:48 UTC</sub>
+<sub>Last updated: 2026-05-05 03:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
