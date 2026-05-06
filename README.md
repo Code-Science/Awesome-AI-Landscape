@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 30 | AI |
-| 🥈 [X2SAM: Any Segmentation in Images and Videos](https://huggingface.co/papers/2605.00891) | ⭐ 14 | AI |
-| 🥉 [HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness](https://huggingface.co/papers/2605.02396) | ⭐ 6 | AI |
+| 🏆 [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042) | ⭐ 62 | AI |
+| 🥈 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 34 | AI |
+| 🥉 [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://huggingface.co/papers/2605.04036) | ⭐ 24 | AI |
 
-<sub>Last updated: 2026-05-06 08:34 UTC</sub>
+<sub>Last updated: 2026-05-06 14:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
