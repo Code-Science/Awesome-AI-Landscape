@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042) | ⭐ 62 | AI |
-| 🥈 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 34 | AI |
-| 🥉 [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://huggingface.co/papers/2605.04036) | ⭐ 24 | AI |
+| 🏆 [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042) | ⭐ 68 | AI |
+| 🥈 [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://huggingface.co/papers/2605.04036) | ⭐ 38 | AI |
+| 🥉 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-05-06 14:29 UTC</sub>
+<sub>Last updated: 2026-05-06 19:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
