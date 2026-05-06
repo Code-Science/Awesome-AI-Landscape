@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://huggingface.co/papers/2605.02881) | ⭐ 158 | AI |
-| 🥈 [From Context to Skills: Can Language Models Learn from Context Skillfully?](https://huggingface.co/papers/2604.27660) | ⭐ 119 | AI |
-| 🥉 [Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling](https://huggingface.co/papers/2604.28075) | ⭐ 12 | AI |
+| 🏆 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 12 | AI |
+| 🥈 [HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness](https://huggingface.co/papers/2605.02396) | ⭐ 4 | AI |
+| 🥉 [SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment](https://huggingface.co/papers/2605.04012) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-05-05 19:42 UTC</sub>
+<sub>Last updated: 2026-05-06 03:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
