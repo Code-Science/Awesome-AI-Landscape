@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 12 | AI |
-| 🥈 [HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness](https://huggingface.co/papers/2605.02396) | ⭐ 4 | AI |
-| 🥉 [SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment](https://huggingface.co/papers/2605.04012) | ⭐ 3 | AI |
+| 🏆 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 30 | AI |
+| 🥈 [X2SAM: Any Segmentation in Images and Videos](https://huggingface.co/papers/2605.00891) | ⭐ 14 | AI |
+| 🥉 [HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness](https://huggingface.co/papers/2605.02396) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-05-06 03:45 UTC</sub>
+<sub>Last updated: 2026-05-06 08:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
