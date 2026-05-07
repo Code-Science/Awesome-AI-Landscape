@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042) | ⭐ 68 | AI |
-| 🥈 [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://huggingface.co/papers/2605.04036) | ⭐ 38 | AI |
-| 🥉 [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://huggingface.co/papers/2604.28123) | ⭐ 35 | AI |
+| 🏆 [HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation](https://huggingface.co/papers/2604.28196) | ⭐ 21 | AI |
+| 🥈 [D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](https://huggingface.co/papers/2605.05204) | ⭐ 7 | AI |
+| 🥉 [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://huggingface.co/papers/2605.04018) | ⭐ 5 | AI |
 
-<sub>Last updated: 2026-05-06 19:53 UTC</sub>
+<sub>Last updated: 2026-05-07 03:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
