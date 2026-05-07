@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation](https://huggingface.co/papers/2605.03849) | ⭐ 105 | AI |
-| 🥈 [Stream-T1: Test-Time Scaling for Streaming Video Generation](https://huggingface.co/papers/2605.04461) | ⭐ 91 | AI |
-| 🥉 [RLDX-1 Technical Report](https://huggingface.co/papers/2605.03269) | ⭐ 80 | AI |
+| 🏆 [Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation](https://huggingface.co/papers/2605.03849) | ⭐ 108 | AI |
+| 🥈 [Stream-T1: Test-Time Scaling for Streaming Video Generation](https://huggingface.co/papers/2605.04461) | ⭐ 93 | AI |
+| 🥉 [RLDX-1 Technical Report](https://huggingface.co/papers/2605.03269) | ⭐ 84 | AI |
 
-<sub>Last updated: 2026-05-07 14:31 UTC</sub>
+<sub>Last updated: 2026-05-07 19:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
