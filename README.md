@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation](https://huggingface.co/papers/2604.28196) | ⭐ 21 | AI |
-| 🥈 [D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](https://huggingface.co/papers/2605.05204) | ⭐ 7 | AI |
-| 🥉 [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://huggingface.co/papers/2605.04018) | ⭐ 5 | AI |
+| 🏆 [Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation](https://huggingface.co/papers/2605.03849) | ⭐ 93 | AI |
+| 🥈 [Stream-T1: Test-Time Scaling for Streaming Video Generation](https://huggingface.co/papers/2605.04461) | ⭐ 83 | AI |
+| 🥉 [RLDX-1 Technical Report](https://huggingface.co/papers/2605.03269) | ⭐ 66 | AI |
 
-<sub>Last updated: 2026-05-07 03:44 UTC</sub>
+<sub>Last updated: 2026-05-07 08:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
