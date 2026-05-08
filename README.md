@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation](https://huggingface.co/papers/2605.03849) | ⭐ 108 | AI |
-| 🥈 [Stream-T1: Test-Time Scaling for Streaming Video Generation](https://huggingface.co/papers/2605.04461) | ⭐ 93 | AI |
-| 🥉 [RLDX-1 Technical Report](https://huggingface.co/papers/2605.03269) | ⭐ 84 | AI |
+| 🏆 [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | ⭐ 27 | AI |
+| 🥈 [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](https://huggingface.co/papers/2605.06507) | ⭐ 25 | AI |
+| 🥉 [Continuous Latent Diffusion Language Model](https://huggingface.co/papers/2605.06548) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-05-07 19:47 UTC</sub>
+<sub>Last updated: 2026-05-08 03:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
