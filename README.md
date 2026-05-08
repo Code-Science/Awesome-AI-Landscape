@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | ⭐ 32 | AI |
-| 🥈 [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](https://huggingface.co/papers/2605.06507) | ⭐ 29 | AI |
-| 🥉 [When to Trust Imagination: Adaptive Action Execution for World Action Models](https://huggingface.co/papers/2605.06222) | ⭐ 26 | AI |
+| 🏆 [Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://huggingface.co/papers/2605.06130) | ⭐ 39 | AI |
+| 🥈 [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | ⭐ 36 | AI |
+| 🥉 [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](https://huggingface.co/papers/2605.06507) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-05-08 07:49 UTC</sub>
+<sub>Last updated: 2026-05-08 14:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
