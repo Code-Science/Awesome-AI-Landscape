@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://huggingface.co/papers/2605.06130) | ⭐ 39 | AI |
-| 🥈 [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | ⭐ 36 | AI |
-| 🥉 [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](https://huggingface.co/papers/2605.06507) | ⭐ 32 | AI |
+| 🏆 [Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://huggingface.co/papers/2605.06130) | ⭐ 52 | AI |
+| 🥈 [Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction](https://huggingface.co/papers/2605.05242) | ⭐ 40 | AI |
+| 🥉 [Continuous Latent Diffusion Language Model](https://huggingface.co/papers/2605.06548) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-05-08 14:03 UTC</sub>
+<sub>Last updated: 2026-05-08 19:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
