@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction](https://huggingface.co/papers/2605.05242) | ⭐ 70 | AI |
-| 🥈 [Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://huggingface.co/papers/2605.06130) | ⭐ 62 | AI |
-| 🥉 [Continuous Latent Diffusion Language Model](https://huggingface.co/papers/2605.06548) | ⭐ 55 | AI |
+| 🏆 [Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction](https://huggingface.co/papers/2605.05242) | ⭐ 72 | AI |
+| 🥈 [Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://huggingface.co/papers/2605.06130) | ⭐ 63 | AI |
+| 🥉 [Continuous Latent Diffusion Language Model](https://huggingface.co/papers/2605.06548) | ⭐ 58 | AI |
 
-<sub>Last updated: 2026-05-10 08:16 UTC</sub>
+<sub>Last updated: 2026-05-10 13:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
