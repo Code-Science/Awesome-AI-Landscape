@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction](https://huggingface.co/papers/2605.05242) | ⭐ 76 | AI |
-| 🥈 [Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://huggingface.co/papers/2605.06130) | ⭐ 64 | AI |
-| 🥉 [Continuous Latent Diffusion Language Model](https://huggingface.co/papers/2605.06548) | ⭐ 59 | AI |
+| 🏆 [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://huggingface.co/papers/2605.08083) | ⭐ 35 | AI |
+| 🥈 [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | ⭐ 26 | AI |
+| 🥉 [HumanNet: Scaling Human-centric Video Learning to One Million Hours](https://huggingface.co/papers/2605.06747) | ⭐ 20 | AI |
 
-<sub>Last updated: 2026-05-10 19:13 UTC</sub>
+<sub>Last updated: 2026-05-11 04:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
