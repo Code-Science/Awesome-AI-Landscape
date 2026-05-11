@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://huggingface.co/papers/2605.08083) | ⭐ 35 | AI |
-| 🥈 [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | ⭐ 26 | AI |
-| 🥉 [HumanNet: Scaling Human-centric Video Learning to One Million Hours](https://huggingface.co/papers/2605.06747) | ⭐ 20 | AI |
+| 🏆 [MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](https://huggingface.co/papers/2512.18181) | ⭐ 68 | AI |
+| 🥈 [Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063) | ⭐ 62 | AI |
+| 🥉 [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | ⭐ 51 | AI |
 
-<sub>Last updated: 2026-05-11 04:04 UTC</sub>
+<sub>Last updated: 2026-05-11 09:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
