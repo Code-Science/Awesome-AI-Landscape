@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](https://huggingface.co/papers/2512.18181) | ⭐ 68 | AI |
-| 🥈 [Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063) | ⭐ 62 | AI |
-| 🥉 [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | ⭐ 51 | AI |
+| 🏆 [MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](https://huggingface.co/papers/2512.18181) | ⭐ 80 | AI |
+| 🥈 [Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063) | ⭐ 71 | AI |
+| 🥉 [Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers](https://huggingface.co/papers/2605.06169) | ⭐ 65 | AI |
 
-<sub>Last updated: 2026-05-11 09:52 UTC</sub>
+<sub>Last updated: 2026-05-11 15:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
