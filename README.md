@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](https://huggingface.co/papers/2512.18181) | ⭐ 80 | AI |
-| 🥈 [Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063) | ⭐ 71 | AI |
-| 🥉 [Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers](https://huggingface.co/papers/2605.06169) | ⭐ 65 | AI |
+| 🏆 [Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers](https://huggingface.co/papers/2605.06169) | ⭐ 91 | AI |
+| 🥈 [MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](https://huggingface.co/papers/2512.18181) | ⭐ 80 | AI |
+| 🥉 [Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063) | ⭐ 73 | AI |
 
-<sub>Last updated: 2026-05-11 15:25 UTC</sub>
+<sub>Last updated: 2026-05-11 19:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
