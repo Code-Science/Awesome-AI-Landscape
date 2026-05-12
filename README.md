@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers](https://huggingface.co/papers/2605.06169) | ⭐ 91 | AI |
-| 🥈 [MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](https://huggingface.co/papers/2512.18181) | ⭐ 80 | AI |
-| 🥉 [Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063) | ⭐ 73 | AI |
+| 🏆 [Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs](https://huggingface.co/papers/2605.09063) | ⭐ 23 | AI |
+| 🥈 [Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria](https://huggingface.co/papers/2605.08354) | ⭐ 15 | AI |
+| 🥉 [X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://huggingface.co/papers/2605.05765) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-05-11 19:56 UTC</sub>
+<sub>Last updated: 2026-05-12 03:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
