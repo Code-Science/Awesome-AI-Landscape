@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs](https://huggingface.co/papers/2605.09063) | ⭐ 54 | AI |
-| 🥈 [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | ⭐ 52 | AI |
-| 🥉 [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](https://huggingface.co/papers/2605.10344) | ⭐ 42 | AI |
+| 🏆 [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | ⭐ 63 | AI |
+| 🥈 [Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs](https://huggingface.co/papers/2605.09063) | ⭐ 60 | AI |
+| 🥉 [CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models](https://huggingface.co/papers/2605.08735) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-05-12 14:37 UTC</sub>
+<sub>Last updated: 2026-05-12 20:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
