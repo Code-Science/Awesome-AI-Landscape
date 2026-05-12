@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs](https://huggingface.co/papers/2605.09063) | ⭐ 23 | AI |
-| 🥈 [Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria](https://huggingface.co/papers/2605.08354) | ⭐ 15 | AI |
-| 🥉 [X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://huggingface.co/papers/2605.05765) | ⭐ 14 | AI |
+| 🏆 [Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs](https://huggingface.co/papers/2605.09063) | ⭐ 49 | AI |
+| 🥈 [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | ⭐ 35 | AI |
+| 🥉 [CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models](https://huggingface.co/papers/2605.08735) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-05-12 03:48 UTC</sub>
+<sub>Last updated: 2026-05-12 08:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
