@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [δ-mem: Efficient Online Memory for Large Language Models](https://huggingface.co/papers/2605.12357) | ⭐ 46 | AI |
-| 🥈 [MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://huggingface.co/papers/2605.09530) | ⭐ 40 | AI |
-| 🥉 [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://huggingface.co/papers/2605.12500) | ⭐ 38 | AI |
+| 🏆 [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://huggingface.co/papers/2605.12500) | ⭐ 89 | AI |
+| 🥈 [MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://huggingface.co/papers/2605.09530) | ⭐ 85 | AI |
+| 🥉 [δ-mem: Efficient Online Memory for Large Language Models](https://huggingface.co/papers/2605.12357) | ⭐ 65 | AI |
 
-<sub>Last updated: 2026-05-13 03:57 UTC</sub>
+<sub>Last updated: 2026-05-13 08:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
