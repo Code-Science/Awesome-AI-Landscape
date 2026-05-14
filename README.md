@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image](https://huggingface.co/papers/2605.10616) | ⭐ 99 | AI |
-| 🥈 [MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://huggingface.co/papers/2605.13779) | ⭐ 94 | AI |
-| 🥉 [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724) | ⭐ 72 | AI |
+| 🏆 [MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://huggingface.co/papers/2605.13779) | ⭐ 140 | AI |
+| 🥈 [MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image](https://huggingface.co/papers/2605.10616) | ⭐ 116 | AI |
+| 🥉 [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724) | ⭐ 75 | AI |
 
-<sub>Last updated: 2026-05-14 14:28 UTC</sub>
+<sub>Last updated: 2026-05-14 19:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
