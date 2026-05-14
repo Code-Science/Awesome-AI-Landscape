@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://huggingface.co/papers/2605.12500) | ⭐ 117 | AI |
-| 🥈 [MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://huggingface.co/papers/2605.09530) | ⭐ 103 | AI |
-| 🥉 [δ-mem: Efficient Online Memory for Large Language Models](https://huggingface.co/papers/2605.12357) | ⭐ 87 | AI |
+| 🏆 [MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://huggingface.co/papers/2605.13779) | ⭐ 32 | AI |
+| 🥈 [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724) | ⭐ 23 | AI |
+| 🥉 [Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://huggingface.co/papers/2605.13062) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-05-13 20:02 UTC</sub>
+<sub>Last updated: 2026-05-14 03:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
