@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://huggingface.co/papers/2605.13301) | ⭐ 116 | AI |
-| 🥈 [Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155) | ⭐ 62 | AI |
-| 🥉 [MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models](https://huggingface.co/papers/2605.14906) | ⭐ 56 | AI |
+| 🏆 [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://huggingface.co/papers/2605.13301) | ⭐ 122 | AI |
+| 🥈 [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://huggingface.co/papers/2605.15141) | ⭐ 72 | AI |
+| 🥉 [Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155) | ⭐ 65 | AI |
 
-<sub>Last updated: 2026-05-15 14:21 UTC</sub>
+<sub>Last updated: 2026-05-15 19:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
