@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://huggingface.co/papers/2605.13779) | ⭐ 140 | AI |
-| 🥈 [MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image](https://huggingface.co/papers/2605.10616) | ⭐ 116 | AI |
-| 🥉 [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724) | ⭐ 75 | AI |
+| 🏆 [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://huggingface.co/papers/2605.13301) | ⭐ 56 | AI |
+| 🥈 [MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory](https://huggingface.co/papers/2605.15128) | ⭐ 30 | AI |
+| 🥉 [Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-05-14 19:53 UTC</sub>
+<sub>Last updated: 2026-05-15 04:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
