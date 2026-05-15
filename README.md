@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://huggingface.co/papers/2605.13301) | ⭐ 56 | AI |
-| 🥈 [MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory](https://huggingface.co/papers/2605.15128) | ⭐ 30 | AI |
-| 🥉 [Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155) | ⭐ 29 | AI |
+| 🏆 [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://huggingface.co/papers/2605.13301) | ⭐ 104 | AI |
+| 🥈 [Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155) | ⭐ 47 | AI |
+| 🥉 [MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory](https://huggingface.co/papers/2605.15128) | ⭐ 46 | AI |
 
-<sub>Last updated: 2026-05-15 04:00 UTC</sub>
+<sub>Last updated: 2026-05-15 08:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
