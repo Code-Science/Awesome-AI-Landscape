@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PhysBrain 1.0 Technical Report](https://huggingface.co/papers/2605.15298) | ⭐ 126 | AI |
-| 🥈 [CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence](https://huggingface.co/papers/2605.12882) | ⭐ 108 | AI |
+| 🏆 [CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence](https://huggingface.co/papers/2605.12882) | ⭐ 148 | AI |
+| 🥈 [PhysBrain 1.0 Technical Report](https://huggingface.co/papers/2605.15298) | ⭐ 129 | AI |
 | 🥉 [MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527) | ⭐ 99 | AI |
 
-<sub>Last updated: 2026-05-18 15:45 UTC</sub>
+<sub>Last updated: 2026-05-18 19:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
