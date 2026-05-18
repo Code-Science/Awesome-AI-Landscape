@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527) | ⭐ 45 | AI |
-| 🥈 [DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://huggingface.co/papers/2605.16257) | ⭐ 21 | AI |
-| 🥉 [Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR](https://huggingface.co/papers/2605.15726) | ⭐ 19 | AI |
+| 🏆 [MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527) | ⭐ 86 | AI |
+| 🥈 [CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence](https://huggingface.co/papers/2605.12882) | ⭐ 77 | AI |
+| 🥉 [PhysBrain 1.0 Technical Report](https://huggingface.co/papers/2605.15298) | ⭐ 70 | AI |
 
-<sub>Last updated: 2026-05-18 04:13 UTC</sub>
+<sub>Last updated: 2026-05-18 10:16 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
