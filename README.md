@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://huggingface.co/papers/2605.13301) | ⭐ 140 | AI |
-| 🥈 [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://huggingface.co/papers/2605.15141) | ⭐ 84 | AI |
-| 🥉 [Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155) | ⭐ 82 | AI |
+| 🏆 [MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527) | ⭐ 45 | AI |
+| 🥈 [DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://huggingface.co/papers/2605.16257) | ⭐ 21 | AI |
+| 🥉 [Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR](https://huggingface.co/papers/2605.15726) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-05-17 19:17 UTC</sub>
+<sub>Last updated: 2026-05-18 04:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
