@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence](https://huggingface.co/papers/2605.12882) | ⭐ 148 | AI |
-| 🥈 [PhysBrain 1.0 Technical Report](https://huggingface.co/papers/2605.15298) | ⭐ 129 | AI |
-| 🥉 [MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527) | ⭐ 99 | AI |
+| 🏆 [AI for Auto-Research: Roadmap & User Guide](https://huggingface.co/papers/2605.18661) | ⭐ 21 | AI |
+| 🥈 [KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration](https://huggingface.co/papers/2605.14278) | ⭐ 20 | AI |
+| 🥉 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-05-18 19:51 UTC</sub>
+<sub>Last updated: 2026-05-19 04:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
