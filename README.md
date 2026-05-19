@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AI for Auto-Research: Roadmap & User Guide](https://huggingface.co/papers/2605.18661) | ⭐ 21 | AI |
-| 🥈 [KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration](https://huggingface.co/papers/2605.14278) | ⭐ 20 | AI |
-| 🥉 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 19 | AI |
+| 🏆 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 79 | AI |
+| 🥈 [Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678) | ⭐ 52 | AI |
+| 🥉 [AI for Auto-Research: Roadmap & User Guide](https://huggingface.co/papers/2605.18661) | ⭐ 40 | AI |
 
-<sub>Last updated: 2026-05-19 04:08 UTC</sub>
+<sub>Last updated: 2026-05-19 09:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
