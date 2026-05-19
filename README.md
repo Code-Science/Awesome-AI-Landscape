@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 79 | AI |
-| 🥈 [Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678) | ⭐ 52 | AI |
-| 🥉 [AI for Auto-Research: Roadmap & User Guide](https://huggingface.co/papers/2605.18661) | ⭐ 40 | AI |
+| 🏆 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 85 | AI |
+| 🥈 [SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401) | ⭐ 80 | AI |
+| 🥉 [Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678) | ⭐ 59 | AI |
 
-<sub>Last updated: 2026-05-19 09:56 UTC</sub>
+<sub>Last updated: 2026-05-19 15:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
