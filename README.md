@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 85 | AI |
-| 🥈 [SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401) | ⭐ 80 | AI |
-| 🥉 [Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678) | ⭐ 59 | AI |
+| 🏆 [Code as Agent Harness](https://huggingface.co/papers/2605.18747) | ⭐ 107 | AI |
+| 🥈 [SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401) | ⭐ 102 | AI |
+| 🥉 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 87 | AI |
 
-<sub>Last updated: 2026-05-19 15:37 UTC</sub>
+<sub>Last updated: 2026-05-19 19:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
