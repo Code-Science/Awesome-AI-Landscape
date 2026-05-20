@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenComputer: Verifiable Software Worlds for Computer-Use Agents](https://huggingface.co/papers/2605.19769) | ⭐ 43 | AI |
-| 🥈 [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](https://huggingface.co/papers/2605.19577) | ⭐ 42 | AI |
-| 🥉 [When Vision Speaks for Sound](https://huggingface.co/papers/2605.16403) | ⭐ 39 | AI |
+| 🏆 [Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information](https://huggingface.co/papers/2605.11609) | ⭐ 60 | AI |
+| 🥈 [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](https://huggingface.co/papers/2605.19577) | ⭐ 50 | AI |
+| 🥉 [OpenComputer: Verifiable Software Worlds for Computer-Use Agents](https://huggingface.co/papers/2605.19769) | ⭐ 49 | AI |
 
-<sub>Last updated: 2026-05-20 09:46 UTC</sub>
+<sub>Last updated: 2026-05-20 15:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
