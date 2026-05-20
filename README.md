@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Code as Agent Harness](https://huggingface.co/papers/2605.18747) | ⭐ 107 | AI |
-| 🥈 [SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401) | ⭐ 102 | AI |
-| 🥉 [LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739) | ⭐ 87 | AI |
+| 🏆 [CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition](https://huggingface.co/papers/2605.19995) | ⭐ 23 | AI |
+| 🥈 [Process Rewards with Learned Reliability](https://huggingface.co/papers/2605.15529) | ⭐ 22 | AI |
+| 🥉 [Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos](https://huggingface.co/papers/2605.18984) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-05-19 19:58 UTC</sub>
+<sub>Last updated: 2026-05-20 04:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
