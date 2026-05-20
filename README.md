@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition](https://huggingface.co/papers/2605.19995) | ⭐ 23 | AI |
-| 🥈 [Process Rewards with Learned Reliability](https://huggingface.co/papers/2605.15529) | ⭐ 22 | AI |
-| 🥉 [Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos](https://huggingface.co/papers/2605.18984) | ⭐ 17 | AI |
+| 🏆 [OpenComputer: Verifiable Software Worlds for Computer-Use Agents](https://huggingface.co/papers/2605.19769) | ⭐ 43 | AI |
+| 🥈 [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](https://huggingface.co/papers/2605.19577) | ⭐ 42 | AI |
+| 🥉 [When Vision Speaks for Sound](https://huggingface.co/papers/2605.16403) | ⭐ 39 | AI |
 
-<sub>Last updated: 2026-05-20 04:08 UTC</sub>
+<sub>Last updated: 2026-05-20 09:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
