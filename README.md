@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [When Vision Speaks for Sound](https://huggingface.co/papers/2605.16403) | ⭐ 65 | AI |
-| 🥈 [Active Learners as Efficient PRP Rerankers](https://huggingface.co/papers/2605.14236) | ⭐ 63 | AI |
-| 🥉 [Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information](https://huggingface.co/papers/2605.11609) | ⭐ 60 | AI |
+| 🏆 [OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond](https://huggingface.co/papers/2605.19660) | ⭐ 16 | AI |
+| 🥈 [Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines](https://huggingface.co/papers/2605.20630) | ⭐ 8 | AI |
+| 🥉 [It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs](https://huggingface.co/papers/2605.20258) | ⭐ 8 | AI |
 
-<sub>Last updated: 2026-05-20 20:24 UTC</sub>
+<sub>Last updated: 2026-05-21 04:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
