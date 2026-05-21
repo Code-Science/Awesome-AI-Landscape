@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833) | ⭐ 105 | AI |
-| 🥈 [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](https://huggingface.co/papers/2605.18233) | ⭐ 74 | AI |
-| 🥉 [Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining](https://huggingface.co/papers/2605.14747) | ⭐ 73 | AI |
+| 🏆 [Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833) | ⭐ 109 | AI |
+| 🥈 [Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining](https://huggingface.co/papers/2605.14747) | ⭐ 85 | AI |
+| 🥉 [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](https://huggingface.co/papers/2605.18233) | ⭐ 79 | AI |
 
-<sub>Last updated: 2026-05-21 15:40 UTC</sub>
+<sub>Last updated: 2026-05-21 20:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
