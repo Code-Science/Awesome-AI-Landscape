@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833) | ⭐ 109 | AI |
-| 🥈 [Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining](https://huggingface.co/papers/2605.14747) | ⭐ 85 | AI |
-| 🥉 [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](https://huggingface.co/papers/2605.18233) | ⭐ 79 | AI |
+| 🏆 [π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows](https://huggingface.co/papers/2605.14678) | ⭐ 46 | AI |
+| 🥈 [ACC: Compiling Agent Trajectories for Long-Context Training](https://huggingface.co/papers/2605.21850) | ⭐ 38 | AI |
+| 🥉 [WorldKV: Efficient World Memory with World Retrieval and Compression](https://huggingface.co/papers/2605.22718) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-05-21 20:00 UTC</sub>
+<sub>Last updated: 2026-05-22 04:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
