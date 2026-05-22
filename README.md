@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows](https://huggingface.co/papers/2605.14678) | ⭐ 46 | AI |
-| 🥈 [ACC: Compiling Agent Trajectories for Long-Context Training](https://huggingface.co/papers/2605.21850) | ⭐ 38 | AI |
-| 🥉 [WorldKV: Efficient World Memory with World Retrieval and Compression](https://huggingface.co/papers/2605.22718) | ⭐ 19 | AI |
+| 🏆 [TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation](https://huggingface.co/papers/2605.22355) | ⭐ 105 | AI |
+| 🥈 [π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows](https://huggingface.co/papers/2605.14678) | ⭐ 67 | AI |
+| 🥉 [Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?](https://huggingface.co/papers/2605.22109) | ⭐ 62 | AI |
 
-<sub>Last updated: 2026-05-22 04:12 UTC</sub>
+<sub>Last updated: 2026-05-22 09:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
