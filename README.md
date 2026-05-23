@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation](https://huggingface.co/papers/2605.22355) | ⭐ 164 | AI |
-| 🥈 [Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?](https://huggingface.co/papers/2605.22109) | ⭐ 152 | AI |
-| 🥉 [DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards](https://huggingface.co/papers/2605.21467) | ⭐ 125 | AI |
+| 🏆 [TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation](https://huggingface.co/papers/2605.22355) | ⭐ 166 | AI |
+| 🥈 [Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?](https://huggingface.co/papers/2605.22109) | ⭐ 155 | AI |
+| 🥉 [DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards](https://huggingface.co/papers/2605.21467) | ⭐ 126 | AI |
 
-<sub>Last updated: 2026-05-23 03:51 UTC</sub>
+<sub>Last updated: 2026-05-23 08:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
