@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards](https://huggingface.co/papers/2605.21467) | ⭐ 192 | AI |
-| 🥈 [TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation](https://huggingface.co/papers/2605.22355) | ⭐ 167 | AI |
-| 🥉 [Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?](https://huggingface.co/papers/2605.22109) | ⭐ 162 | AI |
+| 🏆 [Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://huggingface.co/papers/2605.20708) | ⭐ 40 | AI |
+| 🥈 [Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models](https://huggingface.co/papers/2605.21573) | ⭐ 31 | AI |
+| 🥉 [See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](https://huggingface.co/papers/2605.18018) | ⭐ 24 | AI |
 
-<sub>Last updated: 2026-05-24 19:24 UTC</sub>
+<sub>Last updated: 2026-05-25 04:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
