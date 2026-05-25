@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904) | ⭐ 87 | AI |
-| 🥈 [Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models](https://huggingface.co/papers/2605.21573) | ⭐ 79 | AI |
-| 🥉 [Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://huggingface.co/papers/2605.20708) | ⭐ 61 | AI |
+| 🏆 [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904) | ⭐ 147 | AI |
+| 🥈 [Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models](https://huggingface.co/papers/2605.21573) | ⭐ 87 | AI |
+| 🥉 [Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://huggingface.co/papers/2605.20708) | ⭐ 82 | AI |
 
-<sub>Last updated: 2026-05-25 10:20 UTC</sub>
+<sub>Last updated: 2026-05-25 15:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
