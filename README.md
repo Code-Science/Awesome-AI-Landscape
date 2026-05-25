@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://huggingface.co/papers/2605.20708) | ⭐ 40 | AI |
-| 🥈 [Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models](https://huggingface.co/papers/2605.21573) | ⭐ 31 | AI |
-| 🥉 [See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](https://huggingface.co/papers/2605.18018) | ⭐ 24 | AI |
+| 🏆 [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904) | ⭐ 87 | AI |
+| 🥈 [Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models](https://huggingface.co/papers/2605.21573) | ⭐ 79 | AI |
+| 🥉 [Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://huggingface.co/papers/2605.20708) | ⭐ 61 | AI |
 
-<sub>Last updated: 2026-05-25 04:22 UTC</sub>
+<sub>Last updated: 2026-05-25 10:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
