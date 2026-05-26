@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://huggingface.co/papers/2605.25874) | ⭐ 39 | AI |
-| 🥈 [DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning](https://huggingface.co/papers/2605.25604) | ⭐ 34 | AI |
-| 🥉 [Macaron-A2UI: A Model for Generative UI in Personal Agents](https://huggingface.co/papers/2605.24830) | ⭐ 34 | AI |
+| 🏆 [DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning](https://huggingface.co/papers/2605.25604) | ⭐ 89 | AI |
+| 🥈 [Macaron-A2UI: A Model for Generative UI in Personal Agents](https://huggingface.co/papers/2605.24830) | ⭐ 56 | AI |
+| 🥉 [Foundation Protocol: A Coordination Layer for Agentic Society](https://huggingface.co/papers/2605.23218) | ⭐ 51 | AI |
 
-<sub>Last updated: 2026-05-26 04:08 UTC</sub>
+<sub>Last updated: 2026-05-26 10:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
