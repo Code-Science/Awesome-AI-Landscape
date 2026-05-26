@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904) | ⭐ 149 | AI |
-| 🥈 [Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://huggingface.co/papers/2605.20708) | ⭐ 90 | AI |
-| 🥉 [Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models](https://huggingface.co/papers/2605.21573) | ⭐ 89 | AI |
+| 🏆 [WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://huggingface.co/papers/2605.25874) | ⭐ 39 | AI |
+| 🥈 [DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning](https://huggingface.co/papers/2605.25604) | ⭐ 34 | AI |
+| 🥉 [Macaron-A2UI: A Model for Generative UI in Personal Agents](https://huggingface.co/papers/2605.24830) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-05-25 19:49 UTC</sub>
+<sub>Last updated: 2026-05-26 04:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
