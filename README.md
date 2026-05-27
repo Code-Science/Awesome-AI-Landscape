@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 89 | AI |
-| 🥈 [EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation](https://huggingface.co/papers/2605.23271) | ⭐ 54 | AI |
-| 🥉 [SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://huggingface.co/papers/2605.27367) | ⭐ 52 | AI |
+| 🏆 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 90 | AI |
+| 🥈 [EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation](https://huggingface.co/papers/2605.23271) | ⭐ 71 | AI |
+| 🥉 [SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://huggingface.co/papers/2605.27367) | ⭐ 56 | AI |
 
-<sub>Last updated: 2026-05-27 15:59 UTC</sub>
+<sub>Last updated: 2026-05-27 20:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
