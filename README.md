@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning](https://huggingface.co/papers/2605.25604) | ⭐ 116 | AI |
-| 🥈 [WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation](https://huggingface.co/papers/2605.25874) | ⭐ 88 | AI |
-| 🥉 [Macaron-A2UI: A Model for Generative UI in Personal Agents](https://huggingface.co/papers/2605.24830) | ⭐ 66 | AI |
+| 🏆 [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://huggingface.co/papers/2605.26114) | ⭐ 29 | AI |
+| 🥈 [Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction](https://huggingface.co/papers/2605.26230) | ⭐ 24 | AI |
+| 🥉 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-05-26 20:20 UTC</sub>
+<sub>Last updated: 2026-05-27 04:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
