@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://huggingface.co/papers/2605.26114) | ⭐ 29 | AI |
-| 🥈 [Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction](https://huggingface.co/papers/2605.26230) | ⭐ 24 | AI |
-| 🥉 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 22 | AI |
+| 🏆 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 62 | AI |
+| 🥈 [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://huggingface.co/papers/2605.26114) | ⭐ 42 | AI |
+| 🥉 [SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://huggingface.co/papers/2605.27367) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-05-27 04:21 UTC</sub>
+<sub>Last updated: 2026-05-27 10:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
