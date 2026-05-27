@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 62 | AI |
-| 🥈 [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://huggingface.co/papers/2605.26114) | ⭐ 42 | AI |
-| 🥉 [SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://huggingface.co/papers/2605.27367) | ⭐ 36 | AI |
+| 🏆 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 89 | AI |
+| 🥈 [EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation](https://huggingface.co/papers/2605.23271) | ⭐ 54 | AI |
+| 🥉 [SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://huggingface.co/papers/2605.27367) | ⭐ 52 | AI |
 
-<sub>Last updated: 2026-05-27 10:05 UTC</sub>
+<sub>Last updated: 2026-05-27 15:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
