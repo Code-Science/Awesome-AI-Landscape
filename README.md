@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://huggingface.co/papers/2605.28816) | ⭐ 141 | AI |
-| 🥈 [ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](https://huggingface.co/papers/2605.28293) | ⭐ 74 | AI |
-| 🥉 [Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://huggingface.co/papers/2605.28774) | ⭐ 66 | AI |
+| 🏆 [Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://huggingface.co/papers/2605.28816) | ⭐ 154 | AI |
+| 🥈 [ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](https://huggingface.co/papers/2605.28293) | ⭐ 76 | AI |
+| 🥉 [Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://huggingface.co/papers/2605.28774) | ⭐ 69 | AI |
 
-<sub>Last updated: 2026-05-28 16:13 UTC</sub>
+<sub>Last updated: 2026-05-28 20:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
