@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365) | ⭐ 90 | AI |
-| 🥈 [EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation](https://huggingface.co/papers/2605.23271) | ⭐ 71 | AI |
-| 🥉 [SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://huggingface.co/papers/2605.27367) | ⭐ 56 | AI |
+| 🏆 [From Pixels to Words -- Towards Native One-Vision Models at Scale](https://huggingface.co/papers/2605.28820) | ⭐ 38 | AI |
+| 🥈 [Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://huggingface.co/papers/2605.28816) | ⭐ 33 | AI |
+| 🥉 [Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://huggingface.co/papers/2605.28774) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-05-27 20:24 UTC</sub>
+<sub>Last updated: 2026-05-28 04:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
