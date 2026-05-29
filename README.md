@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources](https://huggingface.co/papers/2605.29250) | ⭐ 32 | AI |
-| 🥈 [AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security](https://huggingface.co/papers/2605.29801) | ⭐ 32 | AI |
-| 🥉 [GenClaw: Code-Driven Agentic Image Generation](https://huggingface.co/papers/2605.30248) | ⭐ 15 | AI |
+| 🏆 [AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security](https://huggingface.co/papers/2605.29801) | ⭐ 73 | AI |
+| 🥈 [OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources](https://huggingface.co/papers/2605.29250) | ⭐ 46 | AI |
+| 🥉 [CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2605.25378) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-05-29 04:13 UTC</sub>
+<sub>Last updated: 2026-05-29 10:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
