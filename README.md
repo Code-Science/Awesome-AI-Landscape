@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security](https://huggingface.co/papers/2605.29801) | ⭐ 79 | AI |
-| 🥈 [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://huggingface.co/papers/2605.30280) | ⭐ 60 | AI |
-| 🥉 [OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources](https://huggingface.co/papers/2605.29250) | ⭐ 50 | AI |
+| 🏆 [AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security](https://huggingface.co/papers/2605.29801) | ⭐ 80 | AI |
+| 🥈 [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://huggingface.co/papers/2605.30280) | ⭐ 71 | AI |
+| 🥉 [OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources](https://huggingface.co/papers/2605.29250) | ⭐ 52 | AI |
 
-<sub>Last updated: 2026-05-29 15:55 UTC</sub>
+<sub>Last updated: 2026-05-29 20:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
