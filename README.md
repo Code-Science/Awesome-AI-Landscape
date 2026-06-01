@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Representation Forcing for Bottleneck-Free Unified Multimodal Models](https://huggingface.co/papers/2605.31604) | ⭐ 24 | AI |
-| 🥈 [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](https://huggingface.co/papers/2605.31584) | ⭐ 23 | AI |
-| 🥉 [Function2Scene: 3D Indoor Scene Layout from Functional Specifications](https://huggingface.co/papers/2605.30819) | ⭐ 23 | AI |
+| 🏆 [COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264) | ⭐ 58 | AI |
+| 🥈 [Representation Forcing for Bottleneck-Free Unified Multimodal Models](https://huggingface.co/papers/2605.31604) | ⭐ 37 | AI |
+| 🥉 [SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue](https://huggingface.co/papers/2605.30993) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-06-01 04:54 UTC</sub>
+<sub>Last updated: 2026-06-01 11:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
