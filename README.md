@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264) | ⭐ 58 | AI |
-| 🥈 [Representation Forcing for Bottleneck-Free Unified Multimodal Models](https://huggingface.co/papers/2605.31604) | ⭐ 37 | AI |
-| 🥉 [SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue](https://huggingface.co/papers/2605.30993) | ⭐ 34 | AI |
+| 🏆 [GrepSeek: Training Search Agents for Direct Corpus Interaction](https://huggingface.co/papers/2605.29307) | ⭐ 75 | AI |
+| 🥈 [COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264) | ⭐ 68 | AI |
+| 🥉 [Trust-Region Behavior Blending for On-Policy Distillation](https://huggingface.co/papers/2605.31159) | ⭐ 44 | AI |
 
-<sub>Last updated: 2026-06-01 11:47 UTC</sub>
+<sub>Last updated: 2026-06-01 17:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
