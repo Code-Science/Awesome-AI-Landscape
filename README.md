@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security](https://huggingface.co/papers/2605.29801) | ⭐ 127 | AI |
-| 🥈 [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://huggingface.co/papers/2605.30280) | ⭐ 107 | AI |
-| 🥉 [OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources](https://huggingface.co/papers/2605.29250) | ⭐ 66 | AI |
+| 🏆 [Representation Forcing for Bottleneck-Free Unified Multimodal Models](https://huggingface.co/papers/2605.31604) | ⭐ 24 | AI |
+| 🥈 [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](https://huggingface.co/papers/2605.31584) | ⭐ 23 | AI |
+| 🥉 [Function2Scene: 3D Indoor Scene Layout from Functional Specifications](https://huggingface.co/papers/2605.30819) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-05-31 19:25 UTC</sub>
+<sub>Last updated: 2026-06-01 04:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
