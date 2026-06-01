@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GrepSeek: Training Search Agents for Direct Corpus Interaction](https://huggingface.co/papers/2605.29307) | ⭐ 75 | AI |
-| 🥈 [COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264) | ⭐ 68 | AI |
-| 🥉 [Trust-Region Behavior Blending for On-Policy Distillation](https://huggingface.co/papers/2605.31159) | ⭐ 44 | AI |
+| 🏆 [GrepSeek: Training Search Agents for Direct Corpus Interaction](https://huggingface.co/papers/2605.29307) | ⭐ 81 | AI |
+| 🥈 [COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264) | ⭐ 69 | AI |
+| 🥉 [Trust-Region Behavior Blending for On-Policy Distillation](https://huggingface.co/papers/2605.31159) | ⭐ 50 | AI |
 
-<sub>Last updated: 2026-06-01 17:52 UTC</sub>
+<sub>Last updated: 2026-06-01 21:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
