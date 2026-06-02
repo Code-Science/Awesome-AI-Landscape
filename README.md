@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters](https://huggingface.co/papers/2606.02437) | ⭐ 44 | AI |
-| 🥈 [K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts](https://huggingface.co/papers/2606.02404) | ⭐ 19 | AI |
-| 🥉 [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://huggingface.co/papers/2605.30351) | ⭐ 18 | AI |
+| 🏆 [Crafter: A Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs](https://huggingface.co/papers/2605.30611) | ⭐ 61 | AI |
+| 🥈 [On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters](https://huggingface.co/papers/2606.02437) | ⭐ 52 | AI |
+| 🥉 [A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks](https://huggingface.co/papers/2605.28556) | ⭐ 43 | AI |
 
-<sub>Last updated: 2026-06-02 04:42 UTC</sub>
+<sub>Last updated: 2026-06-02 10:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
