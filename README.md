@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GrepSeek: Training Search Agents for Direct Corpus Interaction](https://huggingface.co/papers/2605.29307) | ⭐ 81 | AI |
-| 🥈 [COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264) | ⭐ 69 | AI |
-| 🥉 [Trust-Region Behavior Blending for On-Policy Distillation](https://huggingface.co/papers/2605.31159) | ⭐ 50 | AI |
+| 🏆 [On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters](https://huggingface.co/papers/2606.02437) | ⭐ 44 | AI |
+| 🥈 [K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts](https://huggingface.co/papers/2606.02404) | ⭐ 19 | AI |
+| 🥉 [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://huggingface.co/papers/2605.30351) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-06-01 21:38 UTC</sub>
+<sub>Last updated: 2026-06-02 04:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
