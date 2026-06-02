@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Crafter: A Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs](https://huggingface.co/papers/2605.30611) | ⭐ 105 | AI |
-| 🥈 [On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters](https://huggingface.co/papers/2606.02437) | ⭐ 55 | AI |
-| 🥉 [A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks](https://huggingface.co/papers/2605.28556) | ⭐ 52 | AI |
+| 🏆 [Crafter: A Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs](https://huggingface.co/papers/2605.30611) | ⭐ 106 | AI |
+| 🥈 [On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters](https://huggingface.co/papers/2606.02437) | ⭐ 56 | AI |
+| 🥉 [A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks](https://huggingface.co/papers/2605.28556) | ⭐ 53 | AI |
 
-<sub>Last updated: 2026-06-02 16:44 UTC</sub>
+<sub>Last updated: 2026-06-02 20:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
