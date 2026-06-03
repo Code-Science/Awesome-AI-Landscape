@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Trust Region On-Policy Distillation](https://huggingface.co/papers/2606.01249) | ⭐ 18 | AI |
-| 🥈 [Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking](https://huggingface.co/papers/2606.03985) | ⭐ 10 | AI |
-| 🥉 [Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues](https://huggingface.co/papers/2606.02754) | ⭐ 8 | AI |
+| 🏆 [Trust Region On-Policy Distillation](https://huggingface.co/papers/2606.01249) | ⭐ 27 | AI |
+| 🥈 [Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking](https://huggingface.co/papers/2606.03985) | ⭐ 24 | AI |
+| 🥉 [A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi-Domain RL](https://huggingface.co/papers/2606.02398) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-06-03 04:51 UTC</sub>
+<sub>Last updated: 2026-06-03 11:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
