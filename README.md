@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OCC-RAG: Optimal Cognitive Core for Faithful Question Answering](https://huggingface.co/papers/2606.00683) | ⭐ 59 | AI |
-| 🥈 [From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://huggingface.co/papers/2605.23895) | ⭐ 36 | AI |
-| 🥉 [Trust Region On-Policy Distillation](https://huggingface.co/papers/2606.01249) | ⭐ 31 | AI |
+| 🏆 [OCC-RAG: Optimal Cognitive Core for Faithful Question Answering](https://huggingface.co/papers/2606.00683) | ⭐ 68 | AI |
+| 🥈 [From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://huggingface.co/papers/2605.23895) | ⭐ 39 | AI |
+| 🥉 [Trust Region On-Policy Distillation](https://huggingface.co/papers/2606.01249) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-06-03 17:01 UTC</sub>
+<sub>Last updated: 2026-06-03 21:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
