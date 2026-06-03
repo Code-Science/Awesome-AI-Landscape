@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Trust Region On-Policy Distillation](https://huggingface.co/papers/2606.01249) | ⭐ 27 | AI |
-| 🥈 [Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking](https://huggingface.co/papers/2606.03985) | ⭐ 24 | AI |
-| 🥉 [A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi-Domain RL](https://huggingface.co/papers/2606.02398) | ⭐ 18 | AI |
+| 🏆 [OCC-RAG: Optimal Cognitive Core for Faithful Question Answering](https://huggingface.co/papers/2606.00683) | ⭐ 59 | AI |
+| 🥈 [From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://huggingface.co/papers/2605.23895) | ⭐ 36 | AI |
+| 🥉 [Trust Region On-Policy Distillation](https://huggingface.co/papers/2606.01249) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-06-03 11:10 UTC</sub>
+<sub>Last updated: 2026-06-03 17:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
