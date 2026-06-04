@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OCC-RAG: Optimal Cognitive Core for Faithful Question Answering](https://huggingface.co/papers/2606.00683) | ⭐ 68 | AI |
-| 🥈 [From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://huggingface.co/papers/2605.23895) | ⭐ 39 | AI |
-| 🥉 [Trust Region On-Policy Distillation](https://huggingface.co/papers/2606.01249) | ⭐ 33 | AI |
+| 🏆 [Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800) | ⭐ 17 | AI |
+| 🥈 [Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories](https://huggingface.co/papers/2606.02060) | ⭐ 13 | AI |
+| 🥉 [ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](https://huggingface.co/papers/2606.03503) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-06-03 21:22 UTC</sub>
+<sub>Last updated: 2026-06-04 04:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
