@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800) | ⭐ 17 | AI |
-| 🥈 [Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories](https://huggingface.co/papers/2606.02060) | ⭐ 13 | AI |
-| 🥉 [ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](https://huggingface.co/papers/2606.03503) | ⭐ 12 | AI |
+| 🏆 [Audio Interaction Model](https://huggingface.co/papers/2606.05121) | ⭐ 83 | AI |
+| 🥈 [Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800) | ⭐ 62 | AI |
+| 🥉 [Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories](https://huggingface.co/papers/2606.02060) | ⭐ 42 | AI |
 
-<sub>Last updated: 2026-06-04 04:45 UTC</sub>
+<sub>Last updated: 2026-06-04 20:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
