@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 39 | AI |
-| 🥈 [TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://huggingface.co/papers/2606.04743) | ⭐ 33 | AI |
-| 🥉 [AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints](https://huggingface.co/papers/2606.05622) | ⭐ 27 | AI |
+| 🏆 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 40 | AI |
+| 🥈 [TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://huggingface.co/papers/2606.04743) | ⭐ 35 | AI |
+| 🥉 [AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints](https://huggingface.co/papers/2606.05622) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-06-05 15:16 UTC</sub>
+<sub>Last updated: 2026-06-05 20:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
