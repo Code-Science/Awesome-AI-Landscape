@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://huggingface.co/papers/2606.05259) | ⭐ 21 | AI |
-| 🥈 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 13 | AI |
-| 🥉 [Personal AI Agent for Camera Roll VQA](https://huggingface.co/papers/2606.05275) | ⭐ 12 | AI |
+| 🏆 [TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://huggingface.co/papers/2606.04743) | ⭐ 30 | AI |
+| 🥈 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 28 | AI |
+| 🥉 [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://huggingface.co/papers/2606.05259) | ⭐ 25 | AI |
 
-<sub>Last updated: 2026-06-05 04:20 UTC</sub>
+<sub>Last updated: 2026-06-05 10:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
