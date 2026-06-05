@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Audio Interaction Model](https://huggingface.co/papers/2606.05121) | ⭐ 83 | AI |
-| 🥈 [Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800) | ⭐ 62 | AI |
-| 🥉 [Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories](https://huggingface.co/papers/2606.02060) | ⭐ 42 | AI |
+| 🏆 [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://huggingface.co/papers/2606.05259) | ⭐ 21 | AI |
+| 🥈 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 13 | AI |
+| 🥉 [Personal AI Agent for Camera Roll VQA](https://huggingface.co/papers/2606.05275) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-06-04 20:11 UTC</sub>
+<sub>Last updated: 2026-06-05 04:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
