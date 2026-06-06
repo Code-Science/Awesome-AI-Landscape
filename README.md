@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 40 | AI |
-| 🥈 [TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://huggingface.co/papers/2606.04743) | ⭐ 35 | AI |
-| 🥉 [AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints](https://huggingface.co/papers/2606.05622) | ⭐ 30 | AI |
+| 🏆 [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](https://huggingface.co/papers/2606.06492) | ⭐ 50 | AI |
+| 🥈 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 41 | AI |
+| 🥉 [TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://huggingface.co/papers/2606.04743) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-06-05 20:01 UTC</sub>
+<sub>Last updated: 2026-06-06 04:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
