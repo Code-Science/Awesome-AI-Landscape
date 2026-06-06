@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](https://huggingface.co/papers/2606.06492) | ⭐ 59 | AI |
+| 🏆 [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](https://huggingface.co/papers/2606.06492) | ⭐ 62 | AI |
 | 🥈 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 42 | AI |
 | 🥉 [TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://huggingface.co/papers/2606.04743) | ⭐ 37 | AI |
 
-<sub>Last updated: 2026-06-06 13:57 UTC</sub>
+<sub>Last updated: 2026-06-06 19:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
