@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | ⭐ 12 | AI |
-| 🥈 [LIMMT: Less is More for Motion Tracking](https://huggingface.co/papers/2606.06953) | ⭐ 11 | AI |
-| 🥉 [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://huggingface.co/papers/2606.07502) | ⭐ 11 | AI |
+| 🏆 [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://huggingface.co/papers/2606.07502) | ⭐ 59 | AI |
+| 🥈 [MMAE: A Massive Multitask Audio Editing Benchmark](https://huggingface.co/papers/2606.07229) | ⭐ 34 | AI |
+| 🥉 [SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations](https://huggingface.co/papers/2606.05563) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-06-08 04:44 UTC</sub>
+<sub>Last updated: 2026-06-08 11:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
