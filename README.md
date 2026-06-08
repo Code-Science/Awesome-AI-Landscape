@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](https://huggingface.co/papers/2606.06492) | ⭐ 70 | AI |
-| 🥈 [ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://huggingface.co/papers/2606.05553) | ⭐ 45 | AI |
-| 🥉 [TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://huggingface.co/papers/2606.04743) | ⭐ 38 | AI |
+| 🏆 [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | ⭐ 12 | AI |
+| 🥈 [LIMMT: Less is More for Motion Tracking](https://huggingface.co/papers/2606.06953) | ⭐ 11 | AI |
+| 🥉 [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://huggingface.co/papers/2606.07502) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-06-07 19:40 UTC</sub>
+<sub>Last updated: 2026-06-08 04:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
