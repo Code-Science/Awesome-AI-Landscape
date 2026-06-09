@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SWE-Explore: Benchmarking How Coding Agents Explore Repositories](https://huggingface.co/papers/2606.07297) | ⭐ 93 | AI |
-| 🥈 [On the Geometry of On-Policy Distillation](https://huggingface.co/papers/2606.07082) | ⭐ 54 | AI |
-| 🥉 [Latent Spatial Memory for Video World Models](https://huggingface.co/papers/2606.09828) | ⭐ 47 | AI |
+| 🏆 [SWE-Explore: Benchmarking How Coding Agents Explore Repositories](https://huggingface.co/papers/2606.07297) | ⭐ 94 | AI |
+| 🥈 [On the Geometry of On-Policy Distillation](https://huggingface.co/papers/2606.07082) | ⭐ 55 | AI |
+| 🥉 [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](https://huggingface.co/papers/2606.06087) | ⭐ 49 | AI |
 
-<sub>Last updated: 2026-06-09 15:17 UTC</sub>
+<sub>Last updated: 2026-06-09 20:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
