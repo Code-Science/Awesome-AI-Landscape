@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://huggingface.co/papers/2606.07502) | ⭐ 69 | AI |
-| 🥈 [SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations](https://huggingface.co/papers/2606.05563) | ⭐ 42 | AI |
-| 🥉 [GENEB: Why Genomic Models Are Hard to Compare](https://huggingface.co/papers/2606.04525) | ⭐ 42 | AI |
+| 🏆 [SWE-Explore: Benchmarking How Coding Agents Explore Repositories](https://huggingface.co/papers/2606.07297) | ⭐ 72 | AI |
+| 🥈 [On the Geometry of On-Policy Distillation](https://huggingface.co/papers/2606.07082) | ⭐ 39 | AI |
+| 🥉 [Latent Spatial Memory for Video World Models](https://huggingface.co/papers/2606.09828) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-06-08 20:25 UTC</sub>
+<sub>Last updated: 2026-06-09 04:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
