@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABot-Earth 0.5: Generative 3D Earth Model](https://huggingface.co/papers/2606.09967) | ⭐ 177 | AI |
+| 🏆 [ABot-Earth 0.5: Generative 3D Earth Model](https://huggingface.co/papers/2606.09967) | ⭐ 193 | AI |
 | 🥈 [Kwai Keye-VL-2.0 Technical Report](https://huggingface.co/papers/2606.10651) | ⭐ 166 | AI |
 | 🥉 [Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution](https://huggingface.co/papers/2606.10917) | ⭐ 73 | AI |
 
-<sub>Last updated: 2026-06-10 15:52 UTC</sub>
+<sub>Last updated: 2026-06-10 20:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
