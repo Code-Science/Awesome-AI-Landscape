@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABot-Earth 0.5: Generative 3D Earth Model](https://huggingface.co/papers/2606.09967) | ⭐ 37 | AI |
-| 🥈 [SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://huggingface.co/papers/2606.09730) | ⭐ 15 | AI |
-| 🥉 [EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://huggingface.co/papers/2606.11182) | ⭐ 12 | AI |
+| 🏆 [Kwai Keye-VL-2.0 Technical Report](https://huggingface.co/papers/2606.10651) | ⭐ 145 | AI |
+| 🥈 [ABot-Earth 0.5: Generative 3D Earth Model](https://huggingface.co/papers/2606.09967) | ⭐ 119 | AI |
+| 🥉 [Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution](https://huggingface.co/papers/2606.10917) | ⭐ 73 | AI |
 
-<sub>Last updated: 2026-06-10 04:17 UTC</sub>
+<sub>Last updated: 2026-06-10 10:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
