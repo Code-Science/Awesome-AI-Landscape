@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SWE-Explore: Benchmarking How Coding Agents Explore Repositories](https://huggingface.co/papers/2606.07297) | ⭐ 94 | AI |
-| 🥈 [On the Geometry of On-Policy Distillation](https://huggingface.co/papers/2606.07082) | ⭐ 55 | AI |
-| 🥉 [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](https://huggingface.co/papers/2606.06087) | ⭐ 49 | AI |
+| 🏆 [ABot-Earth 0.5: Generative 3D Earth Model](https://huggingface.co/papers/2606.09967) | ⭐ 37 | AI |
+| 🥈 [SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://huggingface.co/papers/2606.09730) | ⭐ 15 | AI |
+| 🥉 [EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://huggingface.co/papers/2606.11182) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-06-09 20:13 UTC</sub>
+<sub>Last updated: 2026-06-10 04:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
