@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://huggingface.co/papers/2606.12191) | ⭐ 29 | AI |
-| 🥈 [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://huggingface.co/papers/2606.11926) | ⭐ 25 | AI |
-| 🥉 [DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch](https://huggingface.co/papers/2606.10728) | ⭐ 20 | AI |
+| 🏆 [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](https://huggingface.co/papers/2606.12397) | ⭐ 62 | AI |
+| 🥈 [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://huggingface.co/papers/2606.11926) | ⭐ 56 | AI |
+| 🥉 [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://huggingface.co/papers/2606.12191) | ⭐ 53 | AI |
 
-<sub>Last updated: 2026-06-11 04:40 UTC</sub>
+<sub>Last updated: 2026-06-11 10:47 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
