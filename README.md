@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](https://huggingface.co/papers/2606.12397) | ⭐ 62 | AI |
-| 🥈 [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://huggingface.co/papers/2606.11926) | ⭐ 56 | AI |
-| 🥉 [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://huggingface.co/papers/2606.12191) | ⭐ 53 | AI |
+| 🏆 [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](https://huggingface.co/papers/2606.12397) | ⭐ 74 | AI |
+| 🥈 [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://huggingface.co/papers/2606.11926) | ⭐ 63 | AI |
+| 🥉 [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://huggingface.co/papers/2606.12344) | ⭐ 55 | AI |
 
-<sub>Last updated: 2026-06-11 10:47 UTC</sub>
+<sub>Last updated: 2026-06-11 16:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
