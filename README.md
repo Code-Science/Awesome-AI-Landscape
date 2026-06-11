@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABot-Earth 0.5: Generative 3D Earth Model](https://huggingface.co/papers/2606.09967) | ⭐ 193 | AI |
-| 🥈 [Kwai Keye-VL-2.0 Technical Report](https://huggingface.co/papers/2606.10651) | ⭐ 166 | AI |
-| 🥉 [Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution](https://huggingface.co/papers/2606.10917) | ⭐ 73 | AI |
+| 🏆 [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://huggingface.co/papers/2606.12191) | ⭐ 29 | AI |
+| 🥈 [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://huggingface.co/papers/2606.11926) | ⭐ 25 | AI |
+| 🥉 [DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch](https://huggingface.co/papers/2606.10728) | ⭐ 20 | AI |
 
-<sub>Last updated: 2026-06-10 20:38 UTC</sub>
+<sub>Last updated: 2026-06-11 04:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
