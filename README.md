@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](https://huggingface.co/papers/2606.12397) | ⭐ 74 | AI |
-| 🥈 [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://huggingface.co/papers/2606.11926) | ⭐ 67 | AI |
-| 🥉 [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://huggingface.co/papers/2606.12344) | ⭐ 55 | AI |
+| 🏆 [InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://huggingface.co/papers/2606.13679) | ⭐ 61 | AI |
+| 🥈 [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](https://huggingface.co/papers/2606.13673) | ⭐ 46 | AI |
+| 🥉 [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://huggingface.co/papers/2606.13681) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-06-11 20:28 UTC</sub>
+<sub>Last updated: 2026-06-12 04:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
