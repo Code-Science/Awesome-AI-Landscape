@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://huggingface.co/papers/2606.13681) | ⭐ 89 | AI |
-| 🥈 [InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://huggingface.co/papers/2606.13679) | ⭐ 67 | AI |
-| 🥉 [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](https://huggingface.co/papers/2606.13673) | ⭐ 66 | AI |
+| 🏆 [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://huggingface.co/papers/2606.13681) | ⭐ 96 | AI |
+| 🥈 [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](https://huggingface.co/papers/2606.13673) | ⭐ 75 | AI |
+| 🥉 [InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://huggingface.co/papers/2606.13679) | ⭐ 70 | AI |
 
-<sub>Last updated: 2026-06-12 10:23 UTC</sub>
+<sub>Last updated: 2026-06-12 15:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
