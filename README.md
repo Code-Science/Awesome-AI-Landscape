@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://huggingface.co/papers/2606.13681) | ⭐ 106 | AI |
-| 🥈 [MiniMax Sparse Attention](https://huggingface.co/papers/2606.13392) | ⭐ 84 | AI |
-| 🥉 [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](https://huggingface.co/papers/2606.13673) | ⭐ 80 | AI |
+| 🏆 [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://huggingface.co/papers/2606.13681) | ⭐ 113 | AI |
+| 🥈 [WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces](https://huggingface.co/papers/2606.09426) | ⭐ 92 | AI |
+| 🥉 [MiniMax Sparse Attention](https://huggingface.co/papers/2606.13392) | ⭐ 91 | AI |
 
-<sub>Last updated: 2026-06-13 04:21 UTC</sub>
+<sub>Last updated: 2026-06-13 09:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
