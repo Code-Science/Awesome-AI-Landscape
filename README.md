@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://huggingface.co/papers/2606.13681) | ⭐ 125 | AI |
-| 🥈 [MiniMax Sparse Attention](https://huggingface.co/papers/2606.13392) | ⭐ 116 | AI |
-| 🥉 [WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces](https://huggingface.co/papers/2606.09426) | ⭐ 97 | AI |
+| 🏆 [OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data](https://huggingface.co/papers/2606.13432) | ⭐ 87 | AI |
+| 🥈 [APPO: Agentic Procedural Policy Optimization](https://huggingface.co/papers/2606.12384) | ⭐ 59 | AI |
+| 🥉 [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](https://huggingface.co/papers/2606.06036) | ⭐ 53 | AI |
 
-<sub>Last updated: 2026-06-14 19:44 UTC</sub>
+<sub>Last updated: 2026-06-15 12:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
