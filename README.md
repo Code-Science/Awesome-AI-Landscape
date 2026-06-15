@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data](https://huggingface.co/papers/2606.13432) | ⭐ 87 | AI |
-| 🥈 [APPO: Agentic Procedural Policy Optimization](https://huggingface.co/papers/2606.12384) | ⭐ 59 | AI |
-| 🥉 [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](https://huggingface.co/papers/2606.06036) | ⭐ 53 | AI |
+| 🏆 [OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data](https://huggingface.co/papers/2606.13432) | ⭐ 91 | AI |
+| 🥈 [APPO: Agentic Procedural Policy Optimization](https://huggingface.co/papers/2606.12384) | ⭐ 62 | AI |
+| 🥉 [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](https://huggingface.co/papers/2606.06036) | ⭐ 55 | AI |
 
-<sub>Last updated: 2026-06-15 12:29 UTC</sub>
+<sub>Last updated: 2026-06-15 21:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
