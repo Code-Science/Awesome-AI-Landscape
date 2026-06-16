@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data](https://huggingface.co/papers/2606.13432) | ⭐ 91 | AI |
-| 🥈 [APPO: Agentic Procedural Policy Optimization](https://huggingface.co/papers/2606.12384) | ⭐ 62 | AI |
-| 🥉 [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](https://huggingface.co/papers/2606.06036) | ⭐ 55 | AI |
+| 🏆 [JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://huggingface.co/papers/2606.14777) | ⭐ 149 | AI |
+| 🥈 [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://huggingface.co/papers/2606.11176) | ⭐ 82 | AI |
+| 🥉 [Geometric Action Model for Robot Policy Learning](https://huggingface.co/papers/2606.17046) | ⭐ 72 | AI |
 
-<sub>Last updated: 2026-06-15 21:11 UTC</sub>
+<sub>Last updated: 2026-06-16 11:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
