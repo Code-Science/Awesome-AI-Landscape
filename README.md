@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://huggingface.co/papers/2606.14777) | ⭐ 157 | AI |
-| 🥈 [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://huggingface.co/papers/2606.11176) | ⭐ 100 | AI |
-| 🥉 [Geometric Action Model for Robot Policy Learning](https://huggingface.co/papers/2606.17046) | ⭐ 84 | AI |
+| 🏆 [GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?](https://huggingface.co/papers/2606.17861) | ⭐ 24 | AI |
+| 🥈 [ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining](https://huggingface.co/papers/2606.17200) | ⭐ 23 | AI |
+| 🥉 [TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs](https://huggingface.co/papers/2606.09030) | ⭐ 19 | AI |
 
-<sub>Last updated: 2026-06-16 21:10 UTC</sub>
+<sub>Last updated: 2026-06-17 04:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
