@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](https://huggingface.co/papers/2606.18023) | ⭐ 113 | AI |
-| 🥈 [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](https://huggingface.co/papers/2606.18216) | ⭐ 40 | AI |
-| 🥉 [ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining](https://huggingface.co/papers/2606.17200) | ⭐ 40 | AI |
+| 🏆 [Guava: An Effective and Universal Harness for Embodied Manipulation](https://huggingface.co/papers/2606.18363) | ⭐ 16 | AI |
+| 🥈 [Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding](https://huggingface.co/papers/2606.18101) | ⭐ 10 | AI |
+| 🥉 [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](https://huggingface.co/papers/2606.18322) | ⭐ 8 | AI |
 
-<sub>Last updated: 2026-06-17 20:21 UTC</sub>
+<sub>Last updated: 2026-06-18 04:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
