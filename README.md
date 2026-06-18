@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Guava: An Effective and Universal Harness for Embodied Manipulation](https://huggingface.co/papers/2606.18363) | ⭐ 16 | AI |
-| 🥈 [Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding](https://huggingface.co/papers/2606.18101) | ⭐ 10 | AI |
-| 🥉 [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](https://huggingface.co/papers/2606.18322) | ⭐ 8 | AI |
+| 🏆 [Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games](https://huggingface.co/papers/2606.19338) | ⭐ 34 | AI |
+| 🥈 [Guava: An Effective and Universal Harness for Embodied Manipulation](https://huggingface.co/papers/2606.18363) | ⭐ 21 | AI |
+| 🥉 [Kairos: A Native World Model Stack for Physical AI](https://huggingface.co/papers/2606.16533) | ⭐ 20 | AI |
 
-<sub>Last updated: 2026-06-18 04:42 UTC</sub>
+<sub>Last updated: 2026-06-18 10:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
