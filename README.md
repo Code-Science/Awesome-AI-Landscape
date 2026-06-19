@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games](https://huggingface.co/papers/2606.19338) | ⭐ 36 | AI |
-| 🥈 [Kairos: A Native World Model Stack for Physical AI](https://huggingface.co/papers/2606.16533) | ⭐ 25 | AI |
-| 🥉 [Guava: An Effective and Universal Harness for Embodied Manipulation](https://huggingface.co/papers/2606.18363) | ⭐ 23 | AI |
+| 🏆 [S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](https://huggingface.co/papers/2606.20515) | ⭐ 15 | AI |
+| 🥈 [Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents](https://huggingface.co/papers/2606.19704) | ⭐ 15 | AI |
+| 🥉 [Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance](https://huggingface.co/papers/2606.19195) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-06-18 20:32 UTC</sub>
+<sub>Last updated: 2026-06-19 05:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
