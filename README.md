@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](https://huggingface.co/papers/2606.20515) | ⭐ 15 | AI |
-| 🥈 [Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents](https://huggingface.co/papers/2606.19704) | ⭐ 15 | AI |
-| 🥉 [Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance](https://huggingface.co/papers/2606.19195) | ⭐ 11 | AI |
+| 🏆 [Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance](https://huggingface.co/papers/2606.19195) | ⭐ 36 | AI |
+| 🥈 [Playful Agentic Robot Learning](https://huggingface.co/papers/2606.19419) | ⭐ 29 | AI |
+| 🥉 [S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](https://huggingface.co/papers/2606.20515) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-06-19 05:01 UTC</sub>
+<sub>Last updated: 2026-06-19 10:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
