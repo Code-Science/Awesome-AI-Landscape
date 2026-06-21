@@ -22,7 +22,7 @@
 | 🥈 [DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects](https://huggingface.co/papers/2606.15133) | ⭐ 68 | AI |
 | 🥉 [Playful Agentic Robot Learning](https://huggingface.co/papers/2606.19419) | ⭐ 43 | AI |
 
-<sub>Last updated: 2026-06-21 09:57 UTC</sub>
+<sub>Last updated: 2026-06-21 14:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
