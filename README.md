@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance](https://huggingface.co/papers/2606.19195) | ⭐ 105 | AI |
-| 🥈 [DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects](https://huggingface.co/papers/2606.15133) | ⭐ 65 | AI |
-| 🥉 [Playful Agentic Robot Learning](https://huggingface.co/papers/2606.19419) | ⭐ 39 | AI |
+| 🏆 [Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance](https://huggingface.co/papers/2606.19195) | ⭐ 109 | AI |
+| 🥈 [DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects](https://huggingface.co/papers/2606.15133) | ⭐ 68 | AI |
+| 🥉 [Playful Agentic Robot Learning](https://huggingface.co/papers/2606.19419) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-06-20 19:45 UTC</sub>
+<sub>Last updated: 2026-06-21 04:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
