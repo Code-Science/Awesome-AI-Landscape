@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance](https://huggingface.co/papers/2606.19195) | ⭐ 112 | AI |
-| 🥈 [DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects](https://huggingface.co/papers/2606.15133) | ⭐ 68 | AI |
-| 🥉 [Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages](https://huggingface.co/papers/2606.20517) | ⭐ 48 | AI |
+| 🏆 [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](https://huggingface.co/papers/2606.19534) | ⭐ 31 | AI |
+| 🥈 [BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation](https://huggingface.co/papers/2606.19651) | ⭐ 2 | AI |
+| 🥉 [WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents](https://huggingface.co/papers/2606.18847) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-06-21 19:51 UTC</sub>
+<sub>Last updated: 2026-06-22 05:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
