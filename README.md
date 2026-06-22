@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](https://huggingface.co/papers/2606.19534) | ⭐ 46 | AI |
-| 🥈 [GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents](https://huggingface.co/papers/2606.18829) | ⭐ 7 | AI |
-| 🥉 [BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation](https://huggingface.co/papers/2606.19651) | ⭐ 5 | AI |
+| 🏆 [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](https://huggingface.co/papers/2606.19534) | ⭐ 50 | AI |
+| 🥈 [MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision](https://huggingface.co/papers/2606.17162) | ⭐ 14 | AI |
+| 🥉 [GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents](https://huggingface.co/papers/2606.18829) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-06-22 12:15 UTC</sub>
+<sub>Last updated: 2026-06-22 20:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
