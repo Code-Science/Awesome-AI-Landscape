@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://huggingface.co/papers/2606.22388) | ⭐ 74 | AI |
-| 🥈 [DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams](https://huggingface.co/papers/2606.21337) | ⭐ 61 | AI |
-| 🥉 [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](https://huggingface.co/papers/2606.23654) | ⭐ 56 | AI |
+| 🏆 [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://huggingface.co/papers/2606.22388) | ⭐ 78 | AI |
+| 🥈 [OpenRath: Session-Centered Runtime State for Agent Systems](https://huggingface.co/papers/2606.19409) | ⭐ 68 | AI |
+| 🥉 [DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams](https://huggingface.co/papers/2606.21337) | ⭐ 65 | AI |
 
-<sub>Last updated: 2026-06-23 15:13 UTC</sub>
+<sub>Last updated: 2026-06-23 20:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
