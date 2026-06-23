@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking](https://huggingface.co/papers/2606.22807) | ⭐ 19 | AI |
-| 🥈 [World Action Models: A Survey](https://huggingface.co/papers/2606.20781) | ⭐ 15 | AI |
-| 🥉 [HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization](https://huggingface.co/papers/2606.20097) | ⭐ 13 | AI |
+| 🏆 [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](https://huggingface.co/papers/2606.23654) | ⭐ 51 | AI |
+| 🥈 [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://huggingface.co/papers/2606.22388) | ⭐ 51 | AI |
+| 🥉 [KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking](https://huggingface.co/papers/2606.22807) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-06-23 04:03 UTC</sub>
+<sub>Last updated: 2026-06-23 09:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
