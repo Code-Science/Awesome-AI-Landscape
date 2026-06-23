@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](https://huggingface.co/papers/2606.23654) | ⭐ 51 | AI |
-| 🥈 [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://huggingface.co/papers/2606.22388) | ⭐ 51 | AI |
-| 🥉 [KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking](https://huggingface.co/papers/2606.22807) | ⭐ 34 | AI |
+| 🏆 [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://huggingface.co/papers/2606.22388) | ⭐ 74 | AI |
+| 🥈 [DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams](https://huggingface.co/papers/2606.21337) | ⭐ 61 | AI |
+| 🥉 [EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions](https://huggingface.co/papers/2606.23654) | ⭐ 56 | AI |
 
-<sub>Last updated: 2026-06-23 09:54 UTC</sub>
+<sub>Last updated: 2026-06-23 15:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
