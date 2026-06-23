@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](https://huggingface.co/papers/2606.19534) | ⭐ 50 | AI |
-| 🥈 [MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision](https://huggingface.co/papers/2606.17162) | ⭐ 14 | AI |
-| 🥉 [GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents](https://huggingface.co/papers/2606.18829) | ⭐ 13 | AI |
+| 🏆 [KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking](https://huggingface.co/papers/2606.22807) | ⭐ 19 | AI |
+| 🥈 [World Action Models: A Survey](https://huggingface.co/papers/2606.20781) | ⭐ 15 | AI |
+| 🥉 [HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization](https://huggingface.co/papers/2606.20097) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-06-22 20:55 UTC</sub>
+<sub>Last updated: 2026-06-23 04:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
