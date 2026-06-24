@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | ⭐ 57 | AI |
-| 🥈 [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](https://huggingface.co/papers/2606.24530) | ⭐ 38 | AI |
-| 🥉 [AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction](https://huggingface.co/papers/2606.23449) | ⭐ 23 | AI |
+| 🏆 [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | ⭐ 70 | AI |
+| 🥈 [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](https://huggingface.co/papers/2606.24530) | ⭐ 46 | AI |
+| 🥉 [MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://huggingface.co/papers/2606.19930) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-06-24 09:40 UTC</sub>
+<sub>Last updated: 2026-06-24 14:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
