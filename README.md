@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://huggingface.co/papers/2606.22388) | ⭐ 78 | AI |
-| 🥈 [OpenRath: Session-Centered Runtime State for Agent Systems](https://huggingface.co/papers/2606.19409) | ⭐ 68 | AI |
-| 🥉 [DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams](https://huggingface.co/papers/2606.21337) | ⭐ 65 | AI |
+| 🏆 [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | ⭐ 29 | AI |
+| 🥈 [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](https://huggingface.co/papers/2606.24530) | ⭐ 25 | AI |
+| 🥉 [MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://huggingface.co/papers/2606.19930) | ⭐ 15 | AI |
 
-<sub>Last updated: 2026-06-23 20:13 UTC</sub>
+<sub>Last updated: 2026-06-24 04:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
