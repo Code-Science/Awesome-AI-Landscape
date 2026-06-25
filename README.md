@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Are We Ready For An Agent-Native Memory System?](https://huggingface.co/papers/2606.24775) | ⭐ 82 | AI |
-| 🥈 [DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation](https://huggingface.co/papers/2606.26058) | ⭐ 54 | AI |
-| 🥉 [ShutterMuse: Capture-Time Photography Guidance with MLLMs](https://huggingface.co/papers/2606.25763) | ⭐ 36 | AI |
+| 🏆 [Are We Ready For An Agent-Native Memory System?](https://huggingface.co/papers/2606.24775) | ⭐ 86 | AI |
+| 🥈 [DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation](https://huggingface.co/papers/2606.26058) | ⭐ 55 | AI |
+| 🥉 [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](https://huggingface.co/papers/2606.25041) | ⭐ 39 | AI |
 
-<sub>Last updated: 2026-06-25 14:43 UTC</sub>
+<sub>Last updated: 2026-06-25 20:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
