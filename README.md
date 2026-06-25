@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation](https://huggingface.co/papers/2606.26058) | ⭐ 29 | AI |
-| 🥈 [Are We Ready For An Agent-Native Memory System?](https://huggingface.co/papers/2606.24775) | ⭐ 22 | AI |
-| 🥉 [Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence](https://huggingface.co/papers/2606.15932) | ⭐ 19 | AI |
+| 🏆 [Are We Ready For An Agent-Native Memory System?](https://huggingface.co/papers/2606.24775) | ⭐ 59 | AI |
+| 🥈 [DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation](https://huggingface.co/papers/2606.26058) | ⭐ 46 | AI |
+| 🥉 [ShutterMuse: Capture-Time Photography Guidance with MLLMs](https://huggingface.co/papers/2606.25763) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-06-25 04:07 UTC</sub>
+<sub>Last updated: 2026-06-25 09:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
