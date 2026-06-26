@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Are We Ready For An Agent-Native Memory System?](https://huggingface.co/papers/2606.24775) | ⭐ 86 | AI |
-| 🥈 [DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation](https://huggingface.co/papers/2606.26058) | ⭐ 55 | AI |
-| 🥉 [Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models](https://huggingface.co/papers/2606.25041) | ⭐ 39 | AI |
+| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 22 | AI |
+| 🥈 [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2606.26790) | ⭐ 14 | AI |
+| 🥉 [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-06-25 20:09 UTC</sub>
+<sub>Last updated: 2026-06-26 04:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
