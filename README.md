@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 51 | AI |
+| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 52 | AI |
 | 🥈 [ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://huggingface.co/papers/2606.27313) | ⭐ 34 | AI |
-| 🥉 [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2606.26790) | ⭐ 31 | AI |
+| 🥉 [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2606.26790) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-06-26 14:36 UTC</sub>
+<sub>Last updated: 2026-06-26 19:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
