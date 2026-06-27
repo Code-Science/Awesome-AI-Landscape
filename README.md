@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 63 | AI |
+| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 64 | AI |
 | 🥈 [In-Context World Modeling for Robotic Control](https://huggingface.co/papers/2606.26025) | ⭐ 42 | AI |
 | 🥉 [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2606.26790) | ⭐ 40 | AI |
 
-<sub>Last updated: 2026-06-27 13:55 UTC</sub>
+<sub>Last updated: 2026-06-27 19:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
