@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 66 | AI |
-| 🥈 [In-Context World Modeling for Robotic Control](https://huggingface.co/papers/2606.26025) | ⭐ 45 | AI |
-| 🥉 [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | ⭐ 41 | AI |
+| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 68 | AI |
+| 🥈 [In-Context World Modeling for Robotic Control](https://huggingface.co/papers/2606.26025) | ⭐ 47 | AI |
+| 🥉 [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2606.26790) | ⭐ 44 | AI |
 
-<sub>Last updated: 2026-06-28 09:19 UTC</sub>
+<sub>Last updated: 2026-06-28 14:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
