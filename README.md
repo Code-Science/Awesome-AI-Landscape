@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DanceOPD: On-Policy Generative Field Distillation](https://huggingface.co/papers/2606.27377) | ⭐ 69 | AI |
-| 🥈 [In-Context World Modeling for Robotic Control](https://huggingface.co/papers/2606.26025) | ⭐ 49 | AI |
-| 🥉 [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2606.26790) | ⭐ 45 | AI |
+| 🏆 [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](https://huggingface.co/papers/2606.28128) | ⭐ 14 | AI |
+| 🥈 [Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots](https://huggingface.co/papers/2606.28133) | ⭐ 11 | AI |
+| 🥉 [SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://huggingface.co/papers/2606.22873) | ⭐ 9 | AI |
 
-<sub>Last updated: 2026-06-28 19:38 UTC</sub>
+<sub>Last updated: 2026-06-29 04:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
