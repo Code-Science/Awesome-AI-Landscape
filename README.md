@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](https://huggingface.co/papers/2606.28128) | ⭐ 28 | AI |
-| 🥈 [Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots](https://huggingface.co/papers/2606.28133) | ⭐ 25 | AI |
-| 🥉 [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | ⭐ 18 | AI |
+| 🏆 [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](https://huggingface.co/papers/2606.28128) | ⭐ 31 | AI |
+| 🥈 [Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots](https://huggingface.co/papers/2606.28133) | ⭐ 28 | AI |
+| 🥉 [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-06-29 11:11 UTC</sub>
+<sub>Last updated: 2026-06-29 15:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
