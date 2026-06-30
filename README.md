@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](https://huggingface.co/papers/2606.28128) | ⭐ 39 | AI |
-| 🥈 [Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots](https://huggingface.co/papers/2606.28133) | ⭐ 32 | AI |
-| 🥉 [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | ⭐ 26 | AI |
+| 🏆 [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://huggingface.co/papers/2606.30616) | ⭐ 28 | AI |
+| 🥈 [ReFreeKV: Towards Threshold-Free KV Cache Compression](https://huggingface.co/papers/2502.16886) | ⭐ 18 | AI |
+| 🥉 [AsyncOPD: How Stale Can On-Policy Distillation Be?](https://huggingface.co/papers/2606.24143) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-06-29 20:07 UTC</sub>
+<sub>Last updated: 2026-06-30 04:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
