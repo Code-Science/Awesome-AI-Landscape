@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Abstention: Do Agents Know When to Stop Instead of Act?](https://huggingface.co/papers/2606.28733) | ⭐ 109 | AI |
-| 🥈 [LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing](https://huggingface.co/papers/2606.26740) | ⭐ 64 | AI |
-| 🥉 [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://huggingface.co/papers/2606.30616) | ⭐ 60 | AI |
+| 🏆 [Agentic Abstention: Do Agents Know When to Stop Instead of Act?](https://huggingface.co/papers/2606.28733) | ⭐ 117 | AI |
+| 🥈 [LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing](https://huggingface.co/papers/2606.26740) | ⭐ 70 | AI |
+| 🥉 [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://huggingface.co/papers/2606.30616) | ⭐ 66 | AI |
 
-<sub>Last updated: 2026-06-30 14:31 UTC</sub>
+<sub>Last updated: 2026-06-30 20:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
