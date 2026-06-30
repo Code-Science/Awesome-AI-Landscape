@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://huggingface.co/papers/2606.30616) | ⭐ 28 | AI |
-| 🥈 [ReFreeKV: Towards Threshold-Free KV Cache Compression](https://huggingface.co/papers/2502.16886) | ⭐ 18 | AI |
-| 🥉 [AsyncOPD: How Stale Can On-Policy Distillation Be?](https://huggingface.co/papers/2606.24143) | ⭐ 14 | AI |
+| 🏆 [LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing](https://huggingface.co/papers/2606.26740) | ⭐ 55 | AI |
+| 🥈 [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://huggingface.co/papers/2606.30616) | ⭐ 54 | AI |
+| 🥉 [TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents](https://huggingface.co/papers/2606.28480) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-06-30 04:08 UTC</sub>
+<sub>Last updated: 2026-06-30 09:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
