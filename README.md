@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Abstention: Do Agents Know When to Stop Instead of Act?](https://huggingface.co/papers/2606.28733) | ⭐ 117 | AI |
-| 🥈 [LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing](https://huggingface.co/papers/2606.26740) | ⭐ 70 | AI |
-| 🥉 [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://huggingface.co/papers/2606.30616) | ⭐ 66 | AI |
+| 🏆 [Orca: The World is in Your Mind](https://huggingface.co/papers/2606.30534) | ⭐ 80 | AI |
+| 🥈 [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](https://huggingface.co/papers/2606.31315) | ⭐ 42 | AI |
+| 🥉 [Dockerless: Environment-Free Program Verifier for Coding Agents](https://huggingface.co/papers/2606.28436) | ⭐ 42 | AI |
 
-<sub>Last updated: 2026-06-30 20:05 UTC</sub>
+<sub>Last updated: 2026-07-01 04:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
