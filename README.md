@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Orca: The World is in Your Mind](https://huggingface.co/papers/2606.30534) | ⭐ 172 | AI |
-| 🥈 [Dockerless: Environment-Free Program Verifier for Coding Agents](https://huggingface.co/papers/2606.28436) | ⭐ 80 | AI |
-| 🥉 [DOPD: Dual On-policy Distillation](https://huggingface.co/papers/2606.30626) | ⭐ 70 | AI |
+| 🏆 [Orca: The World is in Your Mind](https://huggingface.co/papers/2606.30534) | ⭐ 176 | AI |
+| 🥈 [Dockerless: Environment-Free Program Verifier for Coding Agents](https://huggingface.co/papers/2606.28436) | ⭐ 83 | AI |
+| 🥉 [DOPD: Dual On-policy Distillation](https://huggingface.co/papers/2606.30626) | ⭐ 75 | AI |
 
-<sub>Last updated: 2026-07-01 14:48 UTC</sub>
+<sub>Last updated: 2026-07-01 20:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
