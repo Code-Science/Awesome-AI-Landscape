@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Orca: The World is in Your Mind](https://huggingface.co/papers/2606.30534) | ⭐ 80 | AI |
-| 🥈 [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](https://huggingface.co/papers/2606.31315) | ⭐ 42 | AI |
-| 🥉 [Dockerless: Environment-Free Program Verifier for Coding Agents](https://huggingface.co/papers/2606.28436) | ⭐ 42 | AI |
+| 🏆 [Orca: The World is in Your Mind](https://huggingface.co/papers/2606.30534) | ⭐ 161 | AI |
+| 🥈 [Dockerless: Environment-Free Program Verifier for Coding Agents](https://huggingface.co/papers/2606.28436) | ⭐ 76 | AI |
+| 🥉 [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](https://huggingface.co/papers/2606.31315) | ⭐ 64 | AI |
 
-<sub>Last updated: 2026-07-01 04:25 UTC</sub>
+<sub>Last updated: 2026-07-01 10:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
