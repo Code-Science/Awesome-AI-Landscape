@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Orca: The World is in Your Mind](https://huggingface.co/papers/2606.30534) | ⭐ 176 | AI |
-| 🥈 [Dockerless: Environment-Free Program Verifier for Coding Agents](https://huggingface.co/papers/2606.28436) | ⭐ 83 | AI |
-| 🥉 [DOPD: Dual On-policy Distillation](https://huggingface.co/papers/2606.30626) | ⭐ 75 | AI |
+| 🏆 [TurboServe: Serving Streaming Video Generation Efficiently and Economically](https://huggingface.co/papers/2606.19271) | ⭐ 11 | AI |
+| 🥈 [Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts](https://huggingface.co/papers/2607.00666) | ⭐ 9 | AI |
+| 🥉 [CausalMix: Data Mixture as Causal Inference for Language Model Training](https://huggingface.co/papers/2607.01104) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-07-01 20:03 UTC</sub>
+<sub>Last updated: 2026-07-02 04:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
