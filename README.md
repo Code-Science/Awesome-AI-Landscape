@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TurboServe: Serving Streaming Video Generation Efficiently and Economically](https://huggingface.co/papers/2606.19271) | ⭐ 11 | AI |
-| 🥈 [Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts](https://huggingface.co/papers/2607.00666) | ⭐ 9 | AI |
-| 🥉 [CausalMix: Data Mixture as Causal Inference for Language Model Training](https://huggingface.co/papers/2607.01104) | ⭐ 6 | AI |
+| 🏆 [PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception](https://huggingface.co/papers/2606.28322) | ⭐ 22 | AI |
+| 🥈 [TurboServe: Serving Streaming Video Generation Efficiently and Economically](https://huggingface.co/papers/2606.19271) | ⭐ 18 | AI |
+| 🥉 [MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://huggingface.co/papers/2607.01071) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-07-02 04:04 UTC</sub>
+<sub>Last updated: 2026-07-02 09:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
