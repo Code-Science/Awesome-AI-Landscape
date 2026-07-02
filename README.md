@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception](https://huggingface.co/papers/2606.28322) | ⭐ 22 | AI |
+| 🏆 [PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception](https://huggingface.co/papers/2606.28322) | ⭐ 26 | AI |
 | 🥈 [TurboServe: Serving Streaming Video Generation Efficiently and Economically](https://huggingface.co/papers/2606.19271) | ⭐ 18 | AI |
 | 🥉 [MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://huggingface.co/papers/2607.01071) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-07-02 09:23 UTC</sub>
+<sub>Last updated: 2026-07-02 14:16 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
