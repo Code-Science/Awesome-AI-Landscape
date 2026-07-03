@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception](https://huggingface.co/papers/2606.28322) | ⭐ 32 | AI |
-| 🥈 [ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving](https://huggingface.co/papers/2607.00466) | ⭐ 19 | AI |
-| 🥉 [MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://huggingface.co/papers/2607.01071) | ⭐ 18 | AI |
+| 🏆 [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://huggingface.co/papers/2607.02512) | ⭐ 21 | AI |
+| 🥈 [Morphing into Hybrid Attention Models](https://huggingface.co/papers/2606.30562) | ⭐ 12 | AI |
+| 🥉 [Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling](https://huggingface.co/papers/2607.01642) | ⭐ 10 | AI |
 
-<sub>Last updated: 2026-07-02 19:40 UTC</sub>
+<sub>Last updated: 2026-07-03 03:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
