@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://huggingface.co/papers/2607.02512) | ⭐ 68 | AI |
-| 🥈 [AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents](https://huggingface.co/papers/2607.02255) | ⭐ 43 | AI |
-| 🥉 [EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments](https://huggingface.co/papers/2607.02440) | ⭐ 41 | AI |
+| 🏆 [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://huggingface.co/papers/2607.02512) | ⭐ 74 | AI |
+| 🥈 [AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents](https://huggingface.co/papers/2607.02255) | ⭐ 44 | AI |
+| 🥉 [EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments](https://huggingface.co/papers/2607.02440) | ⭐ 42 | AI |
 
-<sub>Last updated: 2026-07-04 19:22 UTC</sub>
+<sub>Last updated: 2026-07-05 04:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
