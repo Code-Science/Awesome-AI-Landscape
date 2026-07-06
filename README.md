@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://huggingface.co/papers/2607.02512) | ⭐ 82 | AI |
-| 🥈 [AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents](https://huggingface.co/papers/2607.02255) | ⭐ 46 | AI |
-| 🥉 [EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments](https://huggingface.co/papers/2607.02440) | ⭐ 43 | AI |
+| 🏆 [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](https://huggingface.co/papers/2606.29526) | ⭐ 4 | AI |
+| 🥈 [Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots](https://huggingface.co/papers/2607.02501) | ⭐ 1 | AI |
+| 🥉 [AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation](https://huggingface.co/papers/2607.00052) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-07-05 19:26 UTC</sub>
+<sub>Last updated: 2026-07-06 04:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
