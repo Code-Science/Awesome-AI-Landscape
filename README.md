@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](https://huggingface.co/papers/2606.29526) | ⭐ 87 | AI |
-| 🥈 [Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots](https://huggingface.co/papers/2607.02501) | ⭐ 33 | AI |
-| 🥉 [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](https://huggingface.co/papers/2607.01804) | ⭐ 22 | AI |
+| 🏆 [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](https://huggingface.co/papers/2606.29526) | ⭐ 128 | AI |
+| 🥈 [Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots](https://huggingface.co/papers/2607.02501) | ⭐ 34 | AI |
+| 🥉 [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](https://huggingface.co/papers/2607.02461) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-07-06 15:46 UTC</sub>
+<sub>Last updated: 2026-07-06 20:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
