@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://huggingface.co/papers/2607.04425) | ⭐ 55 | AI |
-| 🥈 [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](https://huggingface.co/papers/2607.05373) | ⭐ 42 | AI |
-| 🥉 [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](https://huggingface.co/papers/2607.04438) | ⭐ 36 | AI |
+| 🏆 [OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers](https://huggingface.co/papers/2607.04033) | ⭐ 64 | AI |
+| 🥈 [UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://huggingface.co/papers/2607.04425) | ⭐ 62 | AI |
+| 🥉 [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](https://huggingface.co/papers/2607.05373) | ⭐ 46 | AI |
 
-<sub>Last updated: 2026-07-07 14:50 UTC</sub>
+<sub>Last updated: 2026-07-07 20:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
