@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](https://huggingface.co/papers/2606.29526) | ⭐ 128 | AI |
-| 🥈 [Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots](https://huggingface.co/papers/2607.02501) | ⭐ 34 | AI |
-| 🥉 [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](https://huggingface.co/papers/2607.02461) | ⭐ 23 | AI |
+| 🏆 [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](https://huggingface.co/papers/2607.04438) | ⭐ 18 | AI |
+| 🥈 [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | ⭐ 16 | AI |
+| 🥉 [GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation](https://huggingface.co/papers/2607.02642) | ⭐ 16 | AI |
 
-<sub>Last updated: 2026-07-06 20:05 UTC</sub>
+<sub>Last updated: 2026-07-07 03:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
