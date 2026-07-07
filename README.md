@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](https://huggingface.co/papers/2607.04438) | ⭐ 18 | AI |
-| 🥈 [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | ⭐ 16 | AI |
-| 🥉 [GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation](https://huggingface.co/papers/2607.02642) | ⭐ 16 | AI |
+| 🏆 [UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://huggingface.co/papers/2607.04425) | ⭐ 41 | AI |
+| 🥈 [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](https://huggingface.co/papers/2607.04438) | ⭐ 36 | AI |
+| 🥉 [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-07-07 03:58 UTC</sub>
+<sub>Last updated: 2026-07-07 09:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
