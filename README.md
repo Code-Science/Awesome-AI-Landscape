@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://huggingface.co/papers/2607.04425) | ⭐ 41 | AI |
-| 🥈 [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](https://huggingface.co/papers/2607.04438) | ⭐ 36 | AI |
-| 🥉 [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | ⭐ 33 | AI |
+| 🏆 [UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://huggingface.co/papers/2607.04425) | ⭐ 55 | AI |
+| 🥈 [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](https://huggingface.co/papers/2607.05373) | ⭐ 42 | AI |
+| 🥉 [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](https://huggingface.co/papers/2607.04438) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-07-07 09:52 UTC</sub>
+<sub>Last updated: 2026-07-07 14:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
