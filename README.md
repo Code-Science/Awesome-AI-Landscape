@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://huggingface.co/papers/2607.06559) | ⭐ 70 | AI |
-| 🥈 [RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://huggingface.co/papers/2607.06558) | ⭐ 65 | AI |
-| 🥉 [AlayaWorld: Long-Horizon and Playable Video World Generation](https://huggingface.co/papers/2607.06291) | ⭐ 64 | AI |
+| 🏆 [RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://huggingface.co/papers/2607.06559) | ⭐ 72 | AI |
+| 🥈 [AlayaWorld: Long-Horizon and Playable Video World Generation](https://huggingface.co/papers/2607.06291) | ⭐ 69 | AI |
+| 🥉 [RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://huggingface.co/papers/2607.06558) | ⭐ 67 | AI |
 
-<sub>Last updated: 2026-07-08 14:28 UTC</sub>
+<sub>Last updated: 2026-07-08 19:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
