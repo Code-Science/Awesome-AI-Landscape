@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AlayaWorld: Long-Horizon and Playable Video World Generation](https://huggingface.co/papers/2607.06291) | ⭐ 49 | AI |
-| 🥈 [Vision as Unified Multimodal Generation](https://huggingface.co/papers/2607.06560) | ⭐ 21 | AI |
-| 🥉 [Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](https://huggingface.co/papers/2607.02980) | ⭐ 21 | AI |
+| 🏆 [RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://huggingface.co/papers/2607.06559) | ⭐ 70 | AI |
+| 🥈 [RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://huggingface.co/papers/2607.06558) | ⭐ 65 | AI |
+| 🥉 [AlayaWorld: Long-Horizon and Playable Video World Generation](https://huggingface.co/papers/2607.06291) | ⭐ 64 | AI |
 
-<sub>Last updated: 2026-07-08 08:37 UTC</sub>
+<sub>Last updated: 2026-07-08 14:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
