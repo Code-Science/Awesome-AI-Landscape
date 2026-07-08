@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers](https://huggingface.co/papers/2607.04033) | ⭐ 64 | AI |
-| 🥈 [UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://huggingface.co/papers/2607.04425) | ⭐ 62 | AI |
-| 🥉 [PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](https://huggingface.co/papers/2607.05373) | ⭐ 46 | AI |
+| 🏆 [AlayaWorld: Long-Horizon and Playable Video World Generation](https://huggingface.co/papers/2607.06291) | ⭐ 32 | AI |
+| 🥈 [Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory](https://huggingface.co/papers/2607.05511) | ⭐ 12 | AI |
+| 🥉 [TREK: Distill to Explore, Reinforce to Refine](https://huggingface.co/papers/2607.05339) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-07-07 20:04 UTC</sub>
+<sub>Last updated: 2026-07-08 03:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
