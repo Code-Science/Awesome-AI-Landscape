@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](https://huggingface.co/papers/2607.07708) | ⭐ 69 | AI |
-| 🥈 [Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://huggingface.co/papers/2607.07608) | ⭐ 43 | AI |
-| 🥉 [Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675) | ⭐ 37 | AI |
+| 🏆 [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](https://huggingface.co/papers/2607.07708) | ⭐ 71 | AI |
+| 🥈 [Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://huggingface.co/papers/2607.07608) | ⭐ 44 | AI |
+| 🥉 [Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://huggingface.co/papers/2607.07675) | ⭐ 39 | AI |
 
-<sub>Last updated: 2026-07-09 15:23 UTC</sub>
+<sub>Last updated: 2026-07-09 19:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
