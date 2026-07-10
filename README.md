@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vidu S1: A Real-Time Interactive Video Generation Model](https://huggingface.co/papers/2607.03118) | ⭐ 49 | AI |
-| 🥈 [Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://huggingface.co/papers/2607.08758) | ⭐ 10 | AI |
-| 🥉 [Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE](https://huggingface.co/papers/2607.07740) | ⭐ 4 | AI |
+| 🏆 [Vidu S1: A Real-Time Interactive Video Generation Model](https://huggingface.co/papers/2607.03118) | ⭐ 94 | AI |
+| 🥈 [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://huggingface.co/papers/2601.16211) | ⭐ 39 | AI |
+| 🥉 [Video-Oasis: Rethinking Evaluation of Video Understanding](https://huggingface.co/papers/2603.29616) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-07-10 03:53 UTC</sub>
+<sub>Last updated: 2026-07-10 09:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
