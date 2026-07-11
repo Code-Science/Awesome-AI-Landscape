@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vidu S1: A Real-Time Interactive Video Generation Model](https://huggingface.co/papers/2607.03118) | ⭐ 112 | AI |
-| 🥈 [Video-Oasis: Rethinking Evaluation of Video Understanding](https://huggingface.co/papers/2603.29616) | ⭐ 47 | AI |
-| 🥉 [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://huggingface.co/papers/2601.16211) | ⭐ 45 | AI |
+| 🏆 [Vidu S1: A Real-Time Interactive Video Generation Model](https://huggingface.co/papers/2607.03118) | ⭐ 115 | AI |
+| 🥈 [Video-Oasis: Rethinking Evaluation of Video Understanding](https://huggingface.co/papers/2603.29616) | ⭐ 48 | AI |
+| 🥉 [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://huggingface.co/papers/2601.16211) | ⭐ 46 | AI |
 
-<sub>Last updated: 2026-07-11 13:39 UTC</sub>
+<sub>Last updated: 2026-07-11 19:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
