@@ -22,7 +22,7 @@
 | 🥈 [Video-Oasis: Rethinking Evaluation of Video Understanding](https://huggingface.co/papers/2603.29616) | ⭐ 45 | AI |
 | 🥉 [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://huggingface.co/papers/2601.16211) | ⭐ 42 | AI |
 
-<sub>Last updated: 2026-07-11 03:19 UTC</sub>
+<sub>Last updated: 2026-07-11 08:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
