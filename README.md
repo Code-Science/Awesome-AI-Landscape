@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vidu S1: A Real-Time Interactive Video Generation Model](https://huggingface.co/papers/2607.03118) | ⭐ 121 | AI |
-| 🥈 [Video-Oasis: Rethinking Evaluation of Video Understanding](https://huggingface.co/papers/2603.29616) | ⭐ 51 | AI |
-| 🥉 [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://huggingface.co/papers/2601.16211) | ⭐ 48 | AI |
+| 🏆 [Scalable Visual Pretraining for Language Intelligence](https://huggingface.co/papers/2607.09657) | ⭐ 9 | AI |
+| 🥈 [Video Generation Models are General-Purpose Vision Learners](https://huggingface.co/papers/2607.09024) | ⭐ 6 | AI |
+| 🥉 [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](https://huggingface.co/papers/2607.08964) | ⭐ 5 | AI |
 
-<sub>Last updated: 2026-07-12 19:13 UTC</sub>
+<sub>Last updated: 2026-07-13 03:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
