@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](https://huggingface.co/papers/2607.08964) | ⭐ 43 | AI |
-| 🥈 [Scalable Visual Pretraining for Language Intelligence](https://huggingface.co/papers/2607.09657) | ⭐ 40 | AI |
-| 🥉 [Video Generation Models are General-Purpose Vision Learners](https://huggingface.co/papers/2607.09024) | ⭐ 37 | AI |
+| 🏆 [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](https://huggingface.co/papers/2607.08964) | ⭐ 49 | AI |
+| 🥈 [Video Generation Models are General-Purpose Vision Learners](https://huggingface.co/papers/2607.09024) | ⭐ 43 | AI |
+| 🥉 [Scalable Visual Pretraining for Language Intelligence](https://huggingface.co/papers/2607.09657) | ⭐ 43 | AI |
 
-<sub>Last updated: 2026-07-13 19:36 UTC</sub>
+<sub>Last updated: 2026-07-14 02:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
