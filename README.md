@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://huggingface.co/papers/2607.10383) | ⭐ 66 | AI |
-| 🥈 [ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://huggingface.co/papers/2607.10350) | ⭐ 60 | AI |
-| 🥉 [Weak-to-Strong Generalization via Direct On-Policy Distillation](https://huggingface.co/papers/2607.05394) | ⭐ 39 | AI |
+| 🏆 [Weak-to-Strong Generalization via Direct On-Policy Distillation](https://huggingface.co/papers/2607.05394) | ⭐ 84 | AI |
+| 🥈 [ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://huggingface.co/papers/2607.10383) | ⭐ 76 | AI |
+| 🥉 [ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://huggingface.co/papers/2607.10350) | ⭐ 66 | AI |
 
-<sub>Last updated: 2026-07-14 08:18 UTC</sub>
+<sub>Last updated: 2026-07-14 13:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
