@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Weak-to-Strong Generalization via Direct On-Policy Distillation](https://huggingface.co/papers/2607.05394) | ⭐ 91 | AI |
-| 🥈 [ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://huggingface.co/papers/2607.10383) | ⭐ 80 | AI |
-| 🥉 [ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://huggingface.co/papers/2607.10350) | ⭐ 67 | AI |
+| 🏆 [Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://huggingface.co/papers/2607.11886) | ⭐ 5 | AI |
+| 🥈 [Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution](https://huggingface.co/papers/2607.11111) | ⭐ 0 | AI |
 
-<sub>Last updated: 2026-07-14 19:34 UTC</sub>
+<sub>Last updated: 2026-07-15 02:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
