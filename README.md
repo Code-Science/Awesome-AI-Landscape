@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://huggingface.co/papers/2607.11886) | ⭐ 26 | AI |
-| 🥈 [Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models](https://huggingface.co/papers/2607.08317) | ⭐ 11 | AI |
-| 🥉 [Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution](https://huggingface.co/papers/2607.11111) | ⭐ 4 | AI |
+| 🏆 [SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding](https://huggingface.co/papers/2607.10400) | ⭐ 48 | AI |
+| 🥈 [Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://huggingface.co/papers/2607.11886) | ⭐ 40 | AI |
+| 🥉 [Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models](https://huggingface.co/papers/2607.08317) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-07-15 13:55 UTC</sub>
+<sub>Last updated: 2026-07-15 19:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
