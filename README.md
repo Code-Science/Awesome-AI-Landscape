@@ -18,10 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://huggingface.co/papers/2607.11886) | ⭐ 5 | AI |
-| 🥈 [Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution](https://huggingface.co/papers/2607.11111) | ⭐ 0 | AI |
+| 🏆 [Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://huggingface.co/papers/2607.11886) | ⭐ 24 | AI |
+| 🥈 [Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution](https://huggingface.co/papers/2607.11111) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-07-15 02:53 UTC</sub>
+<sub>Last updated: 2026-07-15 08:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
