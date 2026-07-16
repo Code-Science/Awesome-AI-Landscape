@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding](https://huggingface.co/papers/2607.10400) | ⭐ 48 | AI |
-| 🥈 [Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://huggingface.co/papers/2607.11886) | ⭐ 40 | AI |
-| 🥉 [Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models](https://huggingface.co/papers/2607.08317) | ⭐ 18 | AI |
+| 🏆 [PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://huggingface.co/papers/2607.05910) | ⭐ 26 | AI |
+| 🥈 [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://huggingface.co/papers/2607.12395) | ⭐ 19 | AI |
+| 🥉 [KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill](https://huggingface.co/papers/2607.12625) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-07-15 19:20 UTC</sub>
+<sub>Last updated: 2026-07-16 03:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
