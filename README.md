@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://huggingface.co/papers/2607.05910) | ⭐ 26 | AI |
-| 🥈 [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://huggingface.co/papers/2607.12395) | ⭐ 19 | AI |
-| 🥉 [KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill](https://huggingface.co/papers/2607.12625) | ⭐ 18 | AI |
+| 🏆 [Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://huggingface.co/papers/2607.13285) | ⭐ 154 | AI |
+| 🥈 [Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation](https://huggingface.co/papers/2607.13125) | ⭐ 103 | AI |
+| 🥉 [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://huggingface.co/papers/2607.12395) | ⭐ 75 | AI |
 
-<sub>Last updated: 2026-07-16 03:15 UTC</sub>
+<sub>Last updated: 2026-07-16 14:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
