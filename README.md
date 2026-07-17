@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 16 | AI |
-| 🥈 [Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes](https://huggingface.co/papers/2607.13188) | ⭐ 10 | AI |
-| 🥉 [BadWAM: When World-Action Models Dream Right but Act Wrong](https://huggingface.co/papers/2607.15207) | ⭐ 9 | AI |
+| 🏆 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 50 | AI |
+| 🥈 [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](https://huggingface.co/papers/2607.15257) | ⭐ 41 | AI |
+| 🥉 [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://huggingface.co/papers/2607.14935) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-07-17 03:18 UTC</sub>
+<sub>Last updated: 2026-07-17 08:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
