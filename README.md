@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://huggingface.co/papers/2607.13285) | ⭐ 160 | AI |
-| 🥈 [Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation](https://huggingface.co/papers/2607.13125) | ⭐ 107 | AI |
-| 🥉 [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://huggingface.co/papers/2607.12395) | ⭐ 78 | AI |
+| 🏆 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 16 | AI |
+| 🥈 [Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes](https://huggingface.co/papers/2607.13188) | ⭐ 10 | AI |
+| 🥉 [BadWAM: When World-Action Models Dream Right but Act Wrong](https://huggingface.co/papers/2607.15207) | ⭐ 9 | AI |
 
-<sub>Last updated: 2026-07-16 19:20 UTC</sub>
+<sub>Last updated: 2026-07-17 03:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
