@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://huggingface.co/papers/2607.14952) | ⭐ 116 | AI |
-| 🥈 [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://huggingface.co/papers/2607.14935) | ⭐ 112 | AI |
-| 🥉 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 75 | AI |
+| 🏆 [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://huggingface.co/papers/2607.14952) | ⭐ 146 | AI |
+| 🥈 [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://huggingface.co/papers/2607.14935) | ⭐ 114 | AI |
+| 🥉 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 77 | AI |
 
-<sub>Last updated: 2026-07-18 08:00 UTC</sub>
+<sub>Last updated: 2026-07-18 13:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
