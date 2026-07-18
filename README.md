@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://huggingface.co/papers/2607.14935) | ⭐ 107 | AI |
-| 🥈 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 65 | AI |
-| 🥉 [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](https://huggingface.co/papers/2607.15257) | ⭐ 48 | AI |
+| 🏆 [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://huggingface.co/papers/2607.14935) | ⭐ 108 | AI |
+| 🥈 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 69 | AI |
+| 🥉 [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://huggingface.co/papers/2607.14952) | ⭐ 59 | AI |
 
-<sub>Last updated: 2026-07-17 19:18 UTC</sub>
+<sub>Last updated: 2026-07-18 02:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
