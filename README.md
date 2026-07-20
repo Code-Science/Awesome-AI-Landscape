@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://huggingface.co/papers/2607.14952) | ⭐ 175 | AI |
-| 🥈 [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://huggingface.co/papers/2607.14935) | ⭐ 144 | AI |
-| 🥉 [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.14777) | ⭐ 85 | AI |
+| 🏆 [xHC: Expanded Hyper-Connections](https://huggingface.co/papers/2607.14530) | ⭐ 24 | AI |
+| 🥈 [RecGPT-V3 Technical Report](https://huggingface.co/papers/2607.15591) | ⭐ 18 | AI |
+| 🥉 [From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality](https://huggingface.co/papers/2607.13196) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-07-19 19:13 UTC</sub>
+<sub>Last updated: 2026-07-20 03:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
