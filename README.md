@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [xHC: Expanded Hyper-Connections](https://huggingface.co/papers/2607.14530) | ⭐ 24 | AI |
-| 🥈 [RecGPT-V3 Technical Report](https://huggingface.co/papers/2607.15591) | ⭐ 18 | AI |
-| 🥉 [From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality](https://huggingface.co/papers/2607.13196) | ⭐ 13 | AI |
+| 🏆 [xHC: Expanded Hyper-Connections](https://huggingface.co/papers/2607.14530) | ⭐ 36 | AI |
+| 🥈 [Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://huggingface.co/papers/2607.15330) | ⭐ 35 | AI |
+| 🥉 [Cura 1T: Specialized Model for Agentic Healthcare](https://huggingface.co/papers/2607.15314) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-07-20 03:41 UTC</sub>
+<sub>Last updated: 2026-07-20 09:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
