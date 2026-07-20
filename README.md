@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [xHC: Expanded Hyper-Connections](https://huggingface.co/papers/2607.14530) | ⭐ 36 | AI |
-| 🥈 [Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://huggingface.co/papers/2607.15330) | ⭐ 35 | AI |
-| 🥉 [Cura 1T: Specialized Model for Agentic Healthcare](https://huggingface.co/papers/2607.15314) | ⭐ 32 | AI |
+| 🏆 [RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM](https://huggingface.co/papers/2607.11683) | ⭐ 76 | AI |
+| 🥈 [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](https://huggingface.co/papers/2606.29538) | ⭐ 64 | AI |
+| 🥉 [Loop the Loopies!](https://huggingface.co/papers/2607.16051) | ⭐ 48 | AI |
 
-<sub>Last updated: 2026-07-20 09:25 UTC</sub>
+<sub>Last updated: 2026-07-20 14:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
