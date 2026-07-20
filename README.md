@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM](https://huggingface.co/papers/2607.11683) | ⭐ 76 | AI |
-| 🥈 [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](https://huggingface.co/papers/2606.29538) | ⭐ 64 | AI |
-| 🥉 [Loop the Loopies!](https://huggingface.co/papers/2607.16051) | ⭐ 48 | AI |
+| 🏆 [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](https://huggingface.co/papers/2606.29538) | ⭐ 111 | AI |
+| 🥈 [RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM](https://huggingface.co/papers/2607.11683) | ⭐ 108 | AI |
+| 🥉 [Loop the Loopies!](https://huggingface.co/papers/2607.16051) | ⭐ 53 | AI |
 
-<sub>Last updated: 2026-07-20 14:20 UTC</sub>
+<sub>Last updated: 2026-07-20 19:49 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
