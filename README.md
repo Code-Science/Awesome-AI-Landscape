@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](https://huggingface.co/papers/2606.29538) | ⭐ 111 | AI |
-| 🥈 [RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM](https://huggingface.co/papers/2607.11683) | ⭐ 108 | AI |
-| 🥉 [Loop the Loopies!](https://huggingface.co/papers/2607.16051) | ⭐ 53 | AI |
+| 🏆 [Group Entropy-Controlled Policy Optimization](https://huggingface.co/papers/2607.16850) | ⭐ 12 | AI |
+| 🥈 [DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation](https://huggingface.co/papers/2607.13365) | ⭐ 5 | AI |
+| 🥉 [RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model](https://huggingface.co/papers/2607.17977) | ⭐ 4 | AI |
 
-<sub>Last updated: 2026-07-20 19:49 UTC</sub>
+<sub>Last updated: 2026-07-21 03:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
