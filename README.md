@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Group Entropy-Controlled Policy Optimization](https://huggingface.co/papers/2607.16850) | ⭐ 12 | AI |
-| 🥈 [DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation](https://huggingface.co/papers/2607.13365) | ⭐ 5 | AI |
-| 🥉 [RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model](https://huggingface.co/papers/2607.17977) | ⭐ 4 | AI |
+| 🏆 [EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World](https://huggingface.co/papers/2607.17250) | ⭐ 51 | AI |
+| 🥈 [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](https://huggingface.co/papers/2607.18213) | ⭐ 49 | AI |
+| 🥉 [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://huggingface.co/papers/2607.17423) | ⭐ 37 | AI |
 
-<sub>Last updated: 2026-07-21 03:21 UTC</sub>
+<sub>Last updated: 2026-07-21 08:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
