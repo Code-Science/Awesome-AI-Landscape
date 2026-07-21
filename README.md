@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World](https://huggingface.co/papers/2607.17250) | ⭐ 51 | AI |
-| 🥈 [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](https://huggingface.co/papers/2607.18213) | ⭐ 49 | AI |
-| 🥉 [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://huggingface.co/papers/2607.17423) | ⭐ 37 | AI |
+| 🏆 [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://huggingface.co/papers/2607.17423) | ⭐ 95 | AI |
+| 🥈 [EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World](https://huggingface.co/papers/2607.17250) | ⭐ 64 | AI |
+| 🥉 [DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment](https://huggingface.co/papers/2607.07820) | ⭐ 63 | AI |
 
-<sub>Last updated: 2026-07-21 08:37 UTC</sub>
+<sub>Last updated: 2026-07-21 14:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
