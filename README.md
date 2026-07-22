@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://huggingface.co/papers/2607.16617) | ⭐ 49 | AI |
-| 🥈 [Generative World Renderer at the Speed of Play](https://huggingface.co/papers/2607.18703) | ⭐ 48 | AI |
-| 🥉 [Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers](https://huggingface.co/papers/2607.19139) | ⭐ 45 | AI |
+| 🏆 [ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191) | ⭐ 96 | AI |
+| 🥈 [Generative World Renderer at the Speed of Play](https://huggingface.co/papers/2607.18703) | ⭐ 61 | AI |
+| 🥉 [Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers](https://huggingface.co/papers/2607.19139) | ⭐ 59 | AI |
 
-<sub>Last updated: 2026-07-22 08:36 UTC</sub>
+<sub>Last updated: 2026-07-22 14:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
