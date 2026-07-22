@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://huggingface.co/papers/2607.17423) | ⭐ 139 | AI |
-| 🥈 [EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World](https://huggingface.co/papers/2607.17250) | ⭐ 72 | AI |
-| 🥉 [DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment](https://huggingface.co/papers/2607.07820) | ⭐ 69 | AI |
+| 🏆 [Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing](https://huggingface.co/papers/2607.19064) | ⭐ 5 | AI |
+| 🥈 [SciForma: Structure-Faithful Generation of Scientific Diagrams](https://huggingface.co/papers/2607.18091) | ⭐ 4 | AI |
+| 🥉 [Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning](https://huggingface.co/papers/2607.18722) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-07-21 19:39 UTC</sub>
+<sub>Last updated: 2026-07-22 03:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
