@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing](https://huggingface.co/papers/2607.19064) | ⭐ 5 | AI |
-| 🥈 [SciForma: Structure-Faithful Generation of Scientific Diagrams](https://huggingface.co/papers/2607.18091) | ⭐ 4 | AI |
-| 🥉 [Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning](https://huggingface.co/papers/2607.18722) | ⭐ 3 | AI |
+| 🏆 [DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://huggingface.co/papers/2607.16617) | ⭐ 49 | AI |
+| 🥈 [Generative World Renderer at the Speed of Play](https://huggingface.co/papers/2607.18703) | ⭐ 48 | AI |
+| 🥉 [Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers](https://huggingface.co/papers/2607.19139) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-07-22 03:19 UTC</sub>
+<sub>Last updated: 2026-07-22 08:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
