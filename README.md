@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD](https://huggingface.co/papers/2607.20145) | ⭐ 33 | AI |
-| 🥈 [Self Gradient Forcing: Native Long Video Extrapolation](https://huggingface.co/papers/2607.20368) | ⭐ 26 | AI |
-| 🥉 [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://huggingface.co/papers/2607.19747) | ⭐ 22 | AI |
+| 🏆 [SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD](https://huggingface.co/papers/2607.20145) | ⭐ 43 | AI |
+| 🥈 [Self Gradient Forcing: Native Long Video Extrapolation](https://huggingface.co/papers/2607.20368) | ⭐ 29 | AI |
+| 🥉 [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://huggingface.co/papers/2607.19747) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-07-23 14:18 UTC</sub>
+<sub>Last updated: 2026-07-23 19:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
