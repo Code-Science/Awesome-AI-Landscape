@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191) | ⭐ 153 | AI |
-| 🥈 [DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://huggingface.co/papers/2607.16617) | ⭐ 108 | AI |
-| 🥉 [Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers](https://huggingface.co/papers/2607.19139) | ⭐ 65 | AI |
+| 🏆 [SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD](https://huggingface.co/papers/2607.20145) | ⭐ 16 | AI |
+| 🥈 [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://huggingface.co/papers/2607.19747) | ⭐ 3 | AI |
+| 🥉 [Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment](https://huggingface.co/papers/2607.13429) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-07-22 19:34 UTC</sub>
+<sub>Last updated: 2026-07-23 03:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
