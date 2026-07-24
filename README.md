@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://huggingface.co/papers/2607.21461) | ⭐ 48 | AI |
-| 🥈 [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](https://huggingface.co/papers/2605.09635) | ⭐ 34 | AI |
-| 🥉 [Visual Contrastive Self-Distillation](https://huggingface.co/papers/2607.21556) | ⭐ 32 | AI |
+| 🏆 [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://huggingface.co/papers/2607.21461) | ⭐ 95 | AI |
+| 🥈 [ReferTrack: Referring Then Tracking for Embodied Visual Tracking](https://huggingface.co/papers/2607.20061) | ⭐ 39 | AI |
+| 🥉 [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](https://huggingface.co/papers/2605.09635) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-07-24 08:34 UTC</sub>
+<sub>Last updated: 2026-07-24 13:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
