@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://huggingface.co/papers/2607.21461) | ⭐ 23 | AI |
-| 🥈 [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | ⭐ 3 | AI |
-| 🥉 [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | ⭐ 2 | AI |
+| 🏆 [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://huggingface.co/papers/2607.21461) | ⭐ 48 | AI |
+| 🥈 [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](https://huggingface.co/papers/2605.09635) | ⭐ 34 | AI |
+| 🥉 [Visual Contrastive Self-Distillation](https://huggingface.co/papers/2607.21556) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-07-24 03:20 UTC</sub>
+<sub>Last updated: 2026-07-24 08:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
