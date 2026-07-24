@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD](https://huggingface.co/papers/2607.20145) | ⭐ 43 | AI |
-| 🥈 [Self Gradient Forcing: Native Long Video Extrapolation](https://huggingface.co/papers/2607.20368) | ⭐ 29 | AI |
-| 🥉 [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://huggingface.co/papers/2607.19747) | ⭐ 23 | AI |
+| 🏆 [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://huggingface.co/papers/2607.21461) | ⭐ 23 | AI |
+| 🥈 [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | ⭐ 3 | AI |
+| 🥉 [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | ⭐ 2 | AI |
 
-<sub>Last updated: 2026-07-23 19:26 UTC</sub>
+<sub>Last updated: 2026-07-24 03:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
