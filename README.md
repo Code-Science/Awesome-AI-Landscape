@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.21653) | ⭐ 8 | AI |
-| 🥈 [Scaling Native Multimodal Pre-Training From Scratch](https://huggingface.co/papers/2607.22043) | ⭐ 4 | AI |
-| 🥉 [Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](https://huggingface.co/papers/2607.22529) | ⭐ 4 | AI |
+| 🏆 [Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](https://huggingface.co/papers/2607.22529) | ⭐ 19 | AI |
+| 🥈 [DataPrep-Bench: Benchmarking LLMs as Training Data Preparators](https://huggingface.co/papers/2607.20465) | ⭐ 14 | AI |
+| 🥉 [Scaling Native Multimodal Pre-Training From Scratch](https://huggingface.co/papers/2607.22043) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-07-27 03:40 UTC</sub>
+<sub>Last updated: 2026-07-27 10:01 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
