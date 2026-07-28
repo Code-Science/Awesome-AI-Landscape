@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | ⭐ 219 | AI |
-| 🥈 [JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://huggingface.co/papers/2607.23588) | ⭐ 97 | AI |
-| 🥉 [From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search](https://huggingface.co/papers/2607.24280) | ⭐ 61 | AI |
+| 🏆 [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | ⭐ 250 | AI |
+| 🥈 [JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://huggingface.co/papers/2607.23588) | ⭐ 101 | AI |
+| 🥉 [From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search](https://huggingface.co/papers/2607.24280) | ⭐ 64 | AI |
 
-<sub>Last updated: 2026-07-28 14:23 UTC</sub>
+<sub>Last updated: 2026-07-28 19:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
