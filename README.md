@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DataPrep-Bench: Benchmarking LLMs as Training Data Preparators](https://huggingface.co/papers/2607.20465) | ⭐ 38 | AI |
-| 🥈 [Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](https://huggingface.co/papers/2607.22529) | ⭐ 29 | AI |
-| 🥉 [Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning](https://huggingface.co/papers/2607.21653) | ⭐ 21 | AI |
+| 🏆 [Progress Reward Modeling for Robotic Learning: A Comprehensive Survey](https://huggingface.co/papers/2607.21655) | ⭐ 28 | AI |
+| 🥈 [Data Pyramid for Embodied Manipulation](https://huggingface.co/papers/2607.24744) | ⭐ 24 | AI |
+| 🥉 [StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents](https://huggingface.co/papers/2607.22798) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-07-27 19:42 UTC</sub>
+<sub>Last updated: 2026-07-28 03:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
