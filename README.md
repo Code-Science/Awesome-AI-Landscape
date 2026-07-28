@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Progress Reward Modeling for Robotic Learning: A Comprehensive Survey](https://huggingface.co/papers/2607.21655) | ⭐ 28 | AI |
-| 🥈 [Data Pyramid for Embodied Manipulation](https://huggingface.co/papers/2607.24744) | ⭐ 24 | AI |
-| 🥉 [StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents](https://huggingface.co/papers/2607.22798) | ⭐ 23 | AI |
+| 🏆 [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | ⭐ 166 | AI |
+| 🥈 [JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://huggingface.co/papers/2607.23588) | ⭐ 76 | AI |
+| 🥉 [Progress Reward Modeling for Robotic Learning: A Comprehensive Survey](https://huggingface.co/papers/2607.21655) | ⭐ 53 | AI |
 
-<sub>Last updated: 2026-07-28 03:12 UTC</sub>
+<sub>Last updated: 2026-07-28 08:43 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
