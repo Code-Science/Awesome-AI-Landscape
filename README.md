@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | ⭐ 166 | AI |
-| 🥈 [JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://huggingface.co/papers/2607.23588) | ⭐ 76 | AI |
-| 🥉 [Progress Reward Modeling for Robotic Learning: A Comprehensive Survey](https://huggingface.co/papers/2607.21655) | ⭐ 53 | AI |
+| 🏆 [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | ⭐ 219 | AI |
+| 🥈 [JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://huggingface.co/papers/2607.23588) | ⭐ 97 | AI |
+| 🥉 [From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search](https://huggingface.co/papers/2607.24280) | ⭐ 61 | AI |
 
-<sub>Last updated: 2026-07-28 08:43 UTC</sub>
+<sub>Last updated: 2026-07-28 14:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
