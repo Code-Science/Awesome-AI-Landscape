@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://huggingface.co/papers/2607.24223) | ⭐ 41 | AI |
-| 🥈 [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://huggingface.co/papers/2607.25895) | ⭐ 20 | AI |
-| 🥉 [Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory](https://huggingface.co/papers/2607.24368) | ⭐ 13 | AI |
+| 🏆 [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://huggingface.co/papers/2607.25895) | ⭐ 70 | AI |
+| 🥈 [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://huggingface.co/papers/2607.24223) | ⭐ 70 | AI |
+| 🥉 [ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition](https://huggingface.co/papers/2607.25565) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-07-29 03:15 UTC</sub>
+<sub>Last updated: 2026-07-29 08:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
