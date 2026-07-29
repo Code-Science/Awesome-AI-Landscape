@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | ⭐ 250 | AI |
-| 🥈 [JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents](https://huggingface.co/papers/2607.23588) | ⭐ 101 | AI |
-| 🥉 [From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search](https://huggingface.co/papers/2607.24280) | ⭐ 64 | AI |
+| 🏆 [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://huggingface.co/papers/2607.24223) | ⭐ 41 | AI |
+| 🥈 [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://huggingface.co/papers/2607.25895) | ⭐ 20 | AI |
+| 🥉 [Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory](https://huggingface.co/papers/2607.24368) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-07-28 19:40 UTC</sub>
+<sub>Last updated: 2026-07-29 03:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
