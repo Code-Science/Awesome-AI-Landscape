@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://huggingface.co/papers/2607.25895) | ⭐ 125 | AI |
-| 🥈 [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://huggingface.co/papers/2607.24223) | ⭐ 79 | AI |
-| 🥉 [ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition](https://huggingface.co/papers/2607.25565) | ⭐ 54 | AI |
+| 🏆 [TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://huggingface.co/papers/2607.27205) | ⭐ 9 | AI |
+| 🥈 [CAST: Game Solvers as Turn-Level Teachers for LLM Agents](https://huggingface.co/papers/2607.25308) | ⭐ 6 | AI |
+| 🥉 [HumanCLAW: Can Vision-Language Models Act Through a Body?](https://huggingface.co/papers/2607.27180) | ⭐ 5 | AI |
 
-<sub>Last updated: 2026-07-29 19:25 UTC</sub>
+<sub>Last updated: 2026-07-30 02:48 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
