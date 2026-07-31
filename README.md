@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 49 | AI |
-| 🥈 [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](https://huggingface.co/papers/2607.28618) | ⭐ 24 | AI |
-| 🥉 [PhiZero: A World Model Built Around Physical Language](https://huggingface.co/papers/2607.28624) | ⭐ 23 | AI |
+| 🏆 [PhiZero: A World Model Built Around Physical Language](https://huggingface.co/papers/2607.28624) | ⭐ 133 | AI |
+| 🥈 [Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering](https://huggingface.co/papers/2607.28568) | ⭐ 110 | AI |
+| 🥉 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 93 | AI |
 
-<sub>Last updated: 2026-07-31 03:32 UTC</sub>
+<sub>Last updated: 2026-07-31 09:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
