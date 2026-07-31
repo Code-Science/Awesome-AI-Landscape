@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 183 | AI |
-| 🥈 [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2607.28227) | ⭐ 175 | AI |
-| 🥉 [PhiZero: A World Model Built Around Physical Language](https://huggingface.co/papers/2607.28624) | ⭐ 147 | AI |
+| 🏆 [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2607.28227) | ⭐ 259 | AI |
+| 🥈 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 213 | AI |
+| 🥉 [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](https://huggingface.co/papers/2607.28618) | ⭐ 199 | AI |
 
-<sub>Last updated: 2026-07-31 14:21 UTC</sub>
+<sub>Last updated: 2026-07-31 19:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
