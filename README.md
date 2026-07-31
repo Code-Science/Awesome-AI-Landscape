@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PhiZero: A World Model Built Around Physical Language](https://huggingface.co/papers/2607.28624) | ⭐ 133 | AI |
-| 🥈 [Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering](https://huggingface.co/papers/2607.28568) | ⭐ 110 | AI |
-| 🥉 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 93 | AI |
+| 🏆 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 183 | AI |
+| 🥈 [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2607.28227) | ⭐ 175 | AI |
+| 🥉 [PhiZero: A World Model Built Around Physical Language](https://huggingface.co/papers/2607.28624) | ⭐ 147 | AI |
 
-<sub>Last updated: 2026-07-31 09:09 UTC</sub>
+<sub>Last updated: 2026-07-31 14:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
