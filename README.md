@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://huggingface.co/papers/2607.27205) | ⭐ 118 | AI |
-| 🥈 [CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization](https://huggingface.co/papers/2607.25659) | ⭐ 73 | AI |
-| 🥉 [HumanCLAW: Can Vision-Language Models Act Through a Body?](https://huggingface.co/papers/2607.27180) | ⭐ 66 | AI |
+| 🏆 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 49 | AI |
+| 🥈 [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](https://huggingface.co/papers/2607.28618) | ⭐ 24 | AI |
+| 🥉 [PhiZero: A World Model Built Around Physical Language](https://huggingface.co/papers/2607.28624) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-07-30 19:41 UTC</sub>
+<sub>Last updated: 2026-07-31 03:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
