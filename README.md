@@ -19,10 +19,10 @@
 | Paper | Votes | Category |
 |-------|--------|-----------|
 | 🏆 [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](https://huggingface.co/papers/2607.28618) | ⭐ 285 | AI |
-| 🥈 [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2607.28227) | ⭐ 270 | AI |
-| 🥉 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 243 | AI |
+| 🥈 [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2607.28227) | ⭐ 275 | AI |
+| 🥉 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 248 | AI |
 
-<sub>Last updated: 2026-08-01 03:31 UTC</sub>
+<sub>Last updated: 2026-08-01 08:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
