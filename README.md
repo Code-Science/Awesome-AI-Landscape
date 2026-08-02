@@ -22,7 +22,7 @@
 | 🥈 [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2607.28227) | ⭐ 279 | AI |
 | 🥉 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 256 | AI |
 
-<sub>Last updated: 2026-08-02 08:31 UTC</sub>
+<sub>Last updated: 2026-08-02 13:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
