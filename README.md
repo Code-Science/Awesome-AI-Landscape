@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](https://huggingface.co/papers/2607.28617) | ⭐ 16 | AI |
-| 🥈 [From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement](https://huggingface.co/papers/2607.23802) | ⭐ 16 | AI |
-| 🥉 [QQWorld: Quantile-Quantile Matching for World Model Regularization](https://huggingface.co/papers/2607.28415) | ⭐ 11 | AI |
+| 🏆 [From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement](https://huggingface.co/papers/2607.23802) | ⭐ 56 | AI |
+| 🥈 [N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://huggingface.co/papers/2607.23782) | ⭐ 43 | AI |
+| 🥉 [Meshy T2: Fast Native Mesh Generation with Flow Matching](https://huggingface.co/papers/2607.28675) | ⭐ 32 | AI |
 
-<sub>Last updated: 2026-08-03 03:33 UTC</sub>
+<sub>Last updated: 2026-08-03 09:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
