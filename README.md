@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement](https://huggingface.co/papers/2607.23802) | ⭐ 56 | AI |
-| 🥈 [N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://huggingface.co/papers/2607.23782) | ⭐ 43 | AI |
-| 🥉 [Meshy T2: Fast Native Mesh Generation with Flow Matching](https://huggingface.co/papers/2607.28675) | ⭐ 32 | AI |
+| 🏆 [From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement](https://huggingface.co/papers/2607.23802) | ⭐ 64 | AI |
+| 🥈 [N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://huggingface.co/papers/2607.23782) | ⭐ 47 | AI |
+| 🥉 [Mental World Modeling](https://huggingface.co/papers/2607.27201) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-08-03 09:56 UTC</sub>
+<sub>Last updated: 2026-08-03 14:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
