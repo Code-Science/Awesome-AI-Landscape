@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](https://huggingface.co/papers/2607.28618) | ⭐ 292 | AI |
-| 🥈 [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://huggingface.co/papers/2607.28227) | ⭐ 281 | AI |
-| 🥉 [Metis: Memory Foundation Model](https://huggingface.co/papers/2607.26760) | ⭐ 256 | AI |
+| 🏆 [AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](https://huggingface.co/papers/2607.28617) | ⭐ 16 | AI |
+| 🥈 [From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement](https://huggingface.co/papers/2607.23802) | ⭐ 16 | AI |
+| 🥉 [QQWorld: Quantile-Quantile Matching for World Model Regularization](https://huggingface.co/papers/2607.28415) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-08-02 19:18 UTC</sub>
+<sub>Last updated: 2026-08-03 03:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
