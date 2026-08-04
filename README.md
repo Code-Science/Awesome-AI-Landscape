@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964) | ⭐ 74 | AI |
-| 🥈 [SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](https://huggingface.co/papers/2608.02023) | ⭐ 62 | AI |
-| 🥉 [Progressive Agent Skill Generation via Reinforcement Learning](https://huggingface.co/papers/2608.01678) | ⭐ 31 | AI |
+| 🏆 [SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](https://huggingface.co/papers/2608.02023) | ⭐ 110 | AI |
+| 🥈 [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964) | ⭐ 109 | AI |
+| 🥉 [DAPD: Dual-Anchored Policy Distillation](https://huggingface.co/papers/2608.01735) | ⭐ 44 | AI |
 
-<sub>Last updated: 2026-08-04 08:47 UTC</sub>
+<sub>Last updated: 2026-08-04 14:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
