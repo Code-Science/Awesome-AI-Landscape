@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement](https://huggingface.co/papers/2607.23802) | ⭐ 64 | AI |
-| 🥈 [N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://huggingface.co/papers/2607.23782) | ⭐ 47 | AI |
-| 🥉 [Mental World Modeling](https://huggingface.co/papers/2607.27201) | ⭐ 41 | AI |
+| 🏆 [VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation](https://huggingface.co/papers/2607.28590) | ⭐ 12 | AI |
+| 🥈 [SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](https://huggingface.co/papers/2608.02023) | ⭐ 11 | AI |
+| 🥉 [WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning](https://huggingface.co/papers/2607.29613) | ⭐ 6 | AI |
 
-<sub>Last updated: 2026-08-03 14:52 UTC</sub>
+<sub>Last updated: 2026-08-04 03:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
