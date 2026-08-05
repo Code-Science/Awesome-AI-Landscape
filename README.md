@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974) | ⭐ 29 | AI |
-| 🥈 [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://huggingface.co/papers/2608.02602) | ⭐ 13 | AI |
-| 🥉 [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://huggingface.co/papers/2608.02711) | ⭐ 7 | AI |
+| 🏆 [JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974) | ⭐ 62 | AI |
+| 🥈 [MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations](https://huggingface.co/papers/2607.28956) | ⭐ 44 | AI |
+| 🥉 [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://huggingface.co/papers/2608.02602) | ⭐ 42 | AI |
 
-<sub>Last updated: 2026-08-05 02:56 UTC</sub>
+<sub>Last updated: 2026-08-05 08:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
