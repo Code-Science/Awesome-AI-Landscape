@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations](https://huggingface.co/papers/2607.28956) | ⭐ 77 | AI |
-| 🥈 [JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974) | ⭐ 71 | AI |
-| 🥉 [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://huggingface.co/papers/2608.02602) | ⭐ 67 | AI |
+| 🏆 [MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations](https://huggingface.co/papers/2607.28956) | ⭐ 83 | AI |
+| 🥈 [JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974) | ⭐ 75 | AI |
+| 🥉 [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://huggingface.co/papers/2608.02602) | ⭐ 71 | AI |
 
-<sub>Last updated: 2026-08-05 14:22 UTC</sub>
+<sub>Last updated: 2026-08-05 19:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
