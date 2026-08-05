@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](https://huggingface.co/papers/2608.02023) | ⭐ 110 | AI |
-| 🥈 [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964) | ⭐ 109 | AI |
-| 🥉 [DAPD: Dual-Anchored Policy Distillation](https://huggingface.co/papers/2608.01735) | ⭐ 44 | AI |
+| 🏆 [JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974) | ⭐ 29 | AI |
+| 🥈 [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://huggingface.co/papers/2608.02602) | ⭐ 13 | AI |
+| 🥉 [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://huggingface.co/papers/2608.02711) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-08-04 14:28 UTC</sub>
+<sub>Last updated: 2026-08-05 02:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
