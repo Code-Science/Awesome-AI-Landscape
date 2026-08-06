@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations](https://huggingface.co/papers/2607.28956) | ⭐ 83 | AI |
-| 🥈 [JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974) | ⭐ 75 | AI |
-| 🥉 [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://huggingface.co/papers/2608.02602) | ⭐ 71 | AI |
+| 🏆 [ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://huggingface.co/papers/2608.04436) | ⭐ 23 | AI |
+| 🥈 [The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads](https://huggingface.co/papers/2608.04570) | ⭐ 21 | AI |
+| 🥉 [Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes](https://huggingface.co/papers/2608.05000) | ⭐ 14 | AI |
 
-<sub>Last updated: 2026-08-05 19:42 UTC</sub>
+<sub>Last updated: 2026-08-06 03:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
