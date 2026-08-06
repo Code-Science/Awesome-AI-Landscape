@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://huggingface.co/papers/2608.04436) | ⭐ 39 | AI |
-| 🥈 [The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads](https://huggingface.co/papers/2608.04570) | ⭐ 31 | AI |
-| 🥉 [Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes](https://huggingface.co/papers/2608.05000) | ⭐ 21 | AI |
+| 🏆 [ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment](https://huggingface.co/papers/2608.05102) | ⭐ 51 | AI |
+| 🥈 [ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://huggingface.co/papers/2608.04436) | ⭐ 45 | AI |
+| 🥉 [Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes](https://huggingface.co/papers/2608.05000) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-08-06 08:45 UTC</sub>
+<sub>Last updated: 2026-08-06 14:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
