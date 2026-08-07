@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2608.05987) | ⭐ 49 | AI |
-| 🥈 [WorldClaw: Agentic 3D Open-World Generation at Scale](https://huggingface.co/papers/2608.05248) | ⭐ 37 | AI |
-| 🥉 [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://huggingface.co/papers/2607.28609) | ⭐ 29 | AI |
+| 🏆 [AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2608.05987) | ⭐ 57 | AI |
+| 🥈 [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://huggingface.co/papers/2607.28609) | ⭐ 42 | AI |
+| 🥉 [WorldClaw: Agentic 3D Open-World Generation at Scale](https://huggingface.co/papers/2608.05248) | ⭐ 41 | AI |
 
-<sub>Last updated: 2026-08-07 07:24 UTC</sub>
+<sub>Last updated: 2026-08-07 13:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
