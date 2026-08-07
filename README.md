@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment](https://huggingface.co/papers/2608.05102) | ⭐ 54 | AI |
-| 🥈 [ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation](https://huggingface.co/papers/2608.04436) | ⭐ 45 | AI |
-| 🥉 [Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes](https://huggingface.co/papers/2608.05000) | ⭐ 41 | AI |
+| 🏆 [AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2608.05987) | ⭐ 49 | AI |
+| 🥈 [WorldClaw: Agentic 3D Open-World Generation at Scale](https://huggingface.co/papers/2608.05248) | ⭐ 37 | AI |
+| 🥉 [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://huggingface.co/papers/2607.28609) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-08-07 00:07 UTC</sub>
+<sub>Last updated: 2026-08-07 07:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
