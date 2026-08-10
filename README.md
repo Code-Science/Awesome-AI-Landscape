@@ -18,11 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](https://huggingface.co/papers/2608.05987) | ⭐ 85 | AI |
-| 🥈 [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://huggingface.co/papers/2607.28609) | ⭐ 67 | AI |
-| 🥉 [Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval](https://huggingface.co/papers/2608.01481) | ⭐ 65 | AI |
+| 🏆 [Addressable Memory for Video World Models](https://huggingface.co/papers/2608.07408) | ⭐ 0 | AI |
 
-<sub>Last updated: 2026-08-09 18:49 UTC</sub>
+<sub>Last updated: 2026-08-10 02:14 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
