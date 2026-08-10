@@ -18,9 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Addressable Memory for Video World Models](https://huggingface.co/papers/2608.07408) | ⭐ 0 | AI |
+| 🏆 [SimWAM: A Simple World Action Model for End-to-End Autonomous Driving](https://huggingface.co/papers/2608.07468) | ⭐ 20 | AI |
+| 🥈 [Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning](https://huggingface.co/papers/2608.03571) | ⭐ 18 | AI |
+| 🥉 [SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs](https://huggingface.co/papers/2608.03573) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-08-10 02:14 UTC</sub>
+<sub>Last updated: 2026-08-10 07:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
