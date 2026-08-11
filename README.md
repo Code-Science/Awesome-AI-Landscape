@@ -18,11 +18,9 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs](https://huggingface.co/papers/2608.03573) | ⭐ 30 | AI |
-| 🥈 [Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning](https://huggingface.co/papers/2608.03571) | ⭐ 28 | AI |
-| 🥉 [SimWAM: A Simple World Action Model for End-to-End Autonomous Driving](https://huggingface.co/papers/2608.07468) | ⭐ 22 | AI |
+| 🏆 [Evidence-RL: Towards Evidence-intensive Visual Reasoning](https://huggingface.co/papers/2608.08021) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-08-10 19:03 UTC</sub>
+<sub>Last updated: 2026-08-11 02:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
