@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | ⭐ 112 | AI |
-| 🥈 [Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://huggingface.co/papers/2608.09819) | ⭐ 94 | AI |
-| 🥉 [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888) | ⭐ 60 | AI |
+| 🏆 [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888) | ⭐ 231 | AI |
+| 🥈 [Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://huggingface.co/papers/2608.09819) | ⭐ 158 | AI |
+| 🥉 [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | ⭐ 115 | AI |
 
-<sub>Last updated: 2026-08-11 13:17 UTC</sub>
+<sub>Last updated: 2026-08-11 19:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
