@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | ⭐ 69 | AI |
-| 🥈 [Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://huggingface.co/papers/2608.09819) | ⭐ 38 | AI |
-| 🥉 [Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory](https://huggingface.co/papers/2608.07169) | ⭐ 23 | AI |
+| 🏆 [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | ⭐ 112 | AI |
+| 🥈 [Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://huggingface.co/papers/2608.09819) | ⭐ 94 | AI |
+| 🥉 [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888) | ⭐ 60 | AI |
 
-<sub>Last updated: 2026-08-11 07:16 UTC</sub>
+<sub>Last updated: 2026-08-11 13:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
