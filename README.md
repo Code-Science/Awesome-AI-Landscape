@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ComBodied Agents: a New Paradigm of Human-Centric Agentic AI](https://huggingface.co/papers/2608.10915) | ⭐ 116 | AI |
-| 🥈 [Beyond Pixels: From Video Priors to 4D Worlds](https://huggingface.co/papers/2608.10744) | ⭐ 98 | AI |
-| 🥉 [Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design](https://huggingface.co/papers/2608.10299) | ⭐ 94 | AI |
+| 🏆 [ComBodied Agents: a New Paradigm of Human-Centric Agentic AI](https://huggingface.co/papers/2608.10915) | ⭐ 165 | AI |
+| 🥈 [Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design](https://huggingface.co/papers/2608.10299) | ⭐ 107 | AI |
+| 🥉 [Beyond Pixels: From Video Priors to 4D Worlds](https://huggingface.co/papers/2608.10744) | ⭐ 102 | AI |
 
-<sub>Last updated: 2026-08-12 13:21 UTC</sub>
+<sub>Last updated: 2026-08-12 19:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
