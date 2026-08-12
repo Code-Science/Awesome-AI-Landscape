@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888) | ⭐ 249 | AI |
-| 🥈 [Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://huggingface.co/papers/2608.09819) | ⭐ 228 | AI |
-| 🥉 [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | ⭐ 120 | AI |
+| 🏆 [Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design](https://huggingface.co/papers/2608.10299) | ⭐ 57 | AI |
+| 🥈 [ComBodied Agents: a New Paradigm of Human-Centric Agentic AI](https://huggingface.co/papers/2608.10915) | ⭐ 47 | AI |
+| 🥉 [Beyond Pixels: From Video Priors to 4D Worlds](https://huggingface.co/papers/2608.10744) | ⭐ 28 | AI |
 
-<sub>Last updated: 2026-08-12 02:24 UTC</sub>
+<sub>Last updated: 2026-08-12 07:40 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
