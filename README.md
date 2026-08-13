@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ComBodied Agents: a New Paradigm of Human-Centric Agentic AI](https://huggingface.co/papers/2608.10915) | ⭐ 165 | AI |
-| 🥈 [Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design](https://huggingface.co/papers/2608.10299) | ⭐ 107 | AI |
-| 🥉 [Beyond Pixels: From Video Priors to 4D Worlds](https://huggingface.co/papers/2608.10744) | ⭐ 102 | AI |
+| 🏆 [StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization](https://huggingface.co/papers/2608.12314) | ⭐ 6 | AI |
+| 🥈 [Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill](https://huggingface.co/papers/2608.11924) | ⭐ 1 | AI |
+| 🥉 [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://huggingface.co/papers/2608.11878) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-08-12 19:08 UTC</sub>
+<sub>Last updated: 2026-08-13 02:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
