@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution](https://huggingface.co/papers/2608.00677) | ⭐ 118 | AI |
-| 🥈 [Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill](https://huggingface.co/papers/2608.11924) | ⭐ 114 | AI |
-| 🥉 [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://huggingface.co/papers/2608.12307) | ⭐ 74 | AI |
+| 🏆 [Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill](https://huggingface.co/papers/2608.11924) | ⭐ 176 | AI |
+| 🥈 [OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution](https://huggingface.co/papers/2608.00677) | ⭐ 159 | AI |
+| 🥉 [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://huggingface.co/papers/2608.12307) | ⭐ 90 | AI |
 
-<sub>Last updated: 2026-08-13 13:23 UTC</sub>
+<sub>Last updated: 2026-08-13 19:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
