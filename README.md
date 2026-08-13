@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization](https://huggingface.co/papers/2608.12314) | ⭐ 6 | AI |
-| 🥈 [Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill](https://huggingface.co/papers/2608.11924) | ⭐ 1 | AI |
-| 🥉 [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://huggingface.co/papers/2608.11878) | ⭐ 1 | AI |
+| 🏆 [OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution](https://huggingface.co/papers/2608.00677) | ⭐ 97 | AI |
+| 🥈 [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://huggingface.co/papers/2608.12307) | ⭐ 70 | AI |
+| 🥉 [Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill](https://huggingface.co/papers/2608.11924) | ⭐ 63 | AI |
 
-<sub>Last updated: 2026-08-13 02:26 UTC</sub>
+<sub>Last updated: 2026-08-13 07:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
