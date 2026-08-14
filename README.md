@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill](https://huggingface.co/papers/2608.11924) | ⭐ 176 | AI |
-| 🥈 [OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution](https://huggingface.co/papers/2608.00677) | ⭐ 159 | AI |
-| 🥉 [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://huggingface.co/papers/2608.12307) | ⭐ 90 | AI |
+| 🏆 [PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://huggingface.co/papers/2608.13552) | ⭐ 3 | AI |
+| 🥈 [How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review](https://huggingface.co/papers/2608.08975) | ⭐ 3 | AI |
+| 🥉 [Full-bandwidth transformer](https://huggingface.co/papers/2608.08888) | ⭐ 3 | AI |
 
-<sub>Last updated: 2026-08-13 19:09 UTC</sub>
+<sub>Last updated: 2026-08-14 02:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
