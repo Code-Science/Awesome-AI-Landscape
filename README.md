@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://huggingface.co/papers/2608.13552) | ⭐ 3 | AI |
-| 🥈 [How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review](https://huggingface.co/papers/2608.08975) | ⭐ 3 | AI |
-| 🥉 [Full-bandwidth transformer](https://huggingface.co/papers/2608.08888) | ⭐ 3 | AI |
+| 🏆 [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://huggingface.co/papers/2608.13489) | ⭐ 61 | AI |
+| 🥈 [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](https://huggingface.co/papers/2608.06867) | ⭐ 53 | AI |
+| 🥉 [Intern-S2-Preview: Scientific Agentic Foundation Model](https://huggingface.co/papers/2608.13505) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-08-14 02:24 UTC</sub>
+<sub>Last updated: 2026-08-14 07:39 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
