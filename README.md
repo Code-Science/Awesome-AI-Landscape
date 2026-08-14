@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://huggingface.co/papers/2608.13489) | ⭐ 61 | AI |
-| 🥈 [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](https://huggingface.co/papers/2608.06867) | ⭐ 53 | AI |
-| 🥉 [Intern-S2-Preview: Scientific Agentic Foundation Model](https://huggingface.co/papers/2608.13505) | ⭐ 34 | AI |
+| 🏆 [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://huggingface.co/papers/2608.13489) | ⭐ 77 | AI |
+| 🥈 [Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://huggingface.co/papers/2608.13546) | ⭐ 75 | AI |
+| 🥉 [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](https://huggingface.co/papers/2608.06867) | ⭐ 56 | AI |
 
-<sub>Last updated: 2026-08-14 07:39 UTC</sub>
+<sub>Last updated: 2026-08-14 13:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
