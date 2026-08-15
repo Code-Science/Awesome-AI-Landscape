@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](https://huggingface.co/papers/2608.06867) | ⭐ 85 | AI |
-| 🥈 [Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://huggingface.co/papers/2608.13546) | ⭐ 81 | AI |
+| 🏆 [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](https://huggingface.co/papers/2608.06867) | ⭐ 90 | AI |
+| 🥈 [Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://huggingface.co/papers/2608.13546) | ⭐ 82 | AI |
 | 🥉 [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://huggingface.co/papers/2608.13489) | ⭐ 79 | AI |
 
-<sub>Last updated: 2026-08-14 19:01 UTC</sub>
+<sub>Last updated: 2026-08-15 01:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
