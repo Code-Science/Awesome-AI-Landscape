@@ -22,7 +22,7 @@
 | 🥈 [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](https://huggingface.co/papers/2608.06867) | ⭐ 99 | AI |
 | 🥉 [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://huggingface.co/papers/2608.13489) | ⭐ 87 | AI |
 
-<sub>Last updated: 2026-08-16 12:49 UTC</sub>
+<sub>Last updated: 2026-08-16 18:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
