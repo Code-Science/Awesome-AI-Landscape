@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://huggingface.co/papers/2608.14391) | ⭐ 43 | AI |
-| 🥈 [Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development](https://huggingface.co/papers/2608.13417) | ⭐ 25 | AI |
-| 🥉 [Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning](https://huggingface.co/papers/2608.14290) | ⭐ 24 | AI |
+| 🏆 [Self-Supervised Visual On-Policy Distillation](https://huggingface.co/papers/2608.14144) | ⭐ 85 | AI |
+| 🥈 [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://huggingface.co/papers/2608.14391) | ⭐ 83 | AI |
+| 🥉 [Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development](https://huggingface.co/papers/2608.13417) | ⭐ 37 | AI |
 
-<sub>Last updated: 2026-08-17 07:05 UTC</sub>
+<sub>Last updated: 2026-08-17 12:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
