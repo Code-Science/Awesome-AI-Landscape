@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://huggingface.co/papers/2608.13546) | ⭐ 116 | AI |
-| 🥈 [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](https://huggingface.co/papers/2608.06867) | ⭐ 102 | AI |
-| 🥉 [DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://huggingface.co/papers/2608.13489) | ⭐ 91 | AI |
+| 🏆 [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://huggingface.co/papers/2608.14391) | ⭐ 43 | AI |
+| 🥈 [Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development](https://huggingface.co/papers/2608.13417) | ⭐ 25 | AI |
+| 🥉 [Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning](https://huggingface.co/papers/2608.14290) | ⭐ 24 | AI |
 
-<sub>Last updated: 2026-08-17 01:40 UTC</sub>
+<sub>Last updated: 2026-08-17 07:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
