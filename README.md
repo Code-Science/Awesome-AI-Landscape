@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 37 | AI |
-| 🥈 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 33 | AI |
-| 🥉 [ClawGym II: Exploring Black-Box RL on Agent Harness](https://huggingface.co/papers/2608.16798) | ⭐ 29 | AI |
+| 🏆 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 101 | AI |
+| 🥈 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 45 | AI |
+| 🥉 [Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization](https://huggingface.co/papers/2608.16072) | ⭐ 40 | AI |
 
-<sub>Last updated: 2026-08-18 06:52 UTC</sub>
+<sub>Last updated: 2026-08-18 12:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
