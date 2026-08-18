@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://huggingface.co/papers/2608.14391) | ⭐ 259 | AI |
-| 🥈 [Self-Supervised Visual On-Policy Distillation](https://huggingface.co/papers/2608.14144) | ⭐ 148 | AI |
-| 🥉 [Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development](https://huggingface.co/papers/2608.13417) | ⭐ 42 | AI |
+| 🏆 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 37 | AI |
+| 🥈 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 33 | AI |
+| 🥉 [ClawGym II: Exploring Black-Box RL on Agent Harness](https://huggingface.co/papers/2608.16798) | ⭐ 29 | AI |
 
-<sub>Last updated: 2026-08-18 01:36 UTC</sub>
+<sub>Last updated: 2026-08-18 06:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
