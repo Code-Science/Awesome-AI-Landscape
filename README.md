@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 101 | AI |
-| 🥈 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 45 | AI |
-| 🥉 [Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization](https://huggingface.co/papers/2608.16072) | ⭐ 40 | AI |
+| 🏆 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 108 | AI |
+| 🥈 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 50 | AI |
+| 🥉 [Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://huggingface.co/papers/2608.15669) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-08-18 12:56 UTC</sub>
+<sub>Last updated: 2026-08-18 18:45 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
