@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 108 | AI |
-| 🥈 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 50 | AI |
-| 🥉 [Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search](https://huggingface.co/papers/2608.15669) | ⭐ 47 | AI |
+| 🏆 [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](https://huggingface.co/papers/2608.15089) | ⭐ 142 | AI |
+| 🥈 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 111 | AI |
+| 🥉 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 51 | AI |
 
-<sub>Last updated: 2026-08-18 18:45 UTC</sub>
+<sub>Last updated: 2026-08-19 01:38 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
