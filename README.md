@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](https://huggingface.co/papers/2608.15089) | ⭐ 142 | AI |
-| 🥈 [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859) | ⭐ 111 | AI |
-| 🥉 [VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://huggingface.co/papers/2608.15265) | ⭐ 51 | AI |
+| 🏆 [ASI-Bench: At the Dawn of Artificial Superintelligence](https://huggingface.co/papers/2608.17271) | ⭐ 37 | AI |
+| 🥈 [FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157) | ⭐ 34 | AI |
+| 🥉 [AVA-Encoder: Towards Agent-Native Video Representation Learning](https://huggingface.co/papers/2608.12313) | ⭐ 24 | AI |
 
-<sub>Last updated: 2026-08-19 01:38 UTC</sub>
+<sub>Last updated: 2026-08-19 06:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
