@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ASI-Bench: At the Dawn of Artificial Superintelligence](https://huggingface.co/papers/2608.17271) | ⭐ 37 | AI |
-| 🥈 [FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157) | ⭐ 34 | AI |
-| 🥉 [AVA-Encoder: Towards Agent-Native Video Representation Learning](https://huggingface.co/papers/2608.12313) | ⭐ 24 | AI |
+| 🏆 [Demystifying Agent Skills: Why They Work-Until They Don't](https://huggingface.co/papers/2608.14036) | ⭐ 50 | AI |
+| 🥈 [ASI-Bench: At the Dawn of Artificial Superintelligence](https://huggingface.co/papers/2608.17271) | ⭐ 43 | AI |
+| 🥉 [FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157) | ⭐ 39 | AI |
 
-<sub>Last updated: 2026-08-19 06:52 UTC</sub>
+<sub>Last updated: 2026-08-19 12:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
