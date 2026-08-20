@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Demystifying Agent Skills: Why They Work-Until They Don't](https://huggingface.co/papers/2608.14036) | ⭐ 93 | AI |
-| 🥈 [Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://huggingface.co/papers/2608.17310) | ⭐ 89 | AI |
-| 🥉 [ASI-Bench: At the Dawn of Artificial Superintelligence](https://huggingface.co/papers/2608.17271) | ⭐ 51 | AI |
+| 🏆 [Demystifying Agent Skills: Why They Work-Until They Don't](https://huggingface.co/papers/2608.14036) | ⭐ 142 | AI |
+| 🥈 [Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://huggingface.co/papers/2608.17310) | ⭐ 91 | AI |
+| 🥉 [FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157) | ⭐ 60 | AI |
 
-<sub>Last updated: 2026-08-19 18:41 UTC</sub>
+<sub>Last updated: 2026-08-20 01:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
