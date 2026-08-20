@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Demystifying Agent Skills: Why They Work-Until They Don't](https://huggingface.co/papers/2608.14036) | ⭐ 142 | AI |
-| 🥈 [Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://huggingface.co/papers/2608.17310) | ⭐ 91 | AI |
-| 🥉 [FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157) | ⭐ 60 | AI |
+| 🏆 [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://huggingface.co/papers/2608.16590) | ⭐ 74 | AI |
+| 🥈 [Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL](https://huggingface.co/papers/2608.17253) | ⭐ 50 | AI |
+| 🥉 [SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation](https://huggingface.co/papers/2608.17426) | ⭐ 46 | AI |
 
-<sub>Last updated: 2026-08-20 01:36 UTC</sub>
+<sub>Last updated: 2026-08-20 06:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
