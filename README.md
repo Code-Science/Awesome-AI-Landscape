@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://huggingface.co/papers/2608.16590) | ⭐ 74 | AI |
-| 🥈 [Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL](https://huggingface.co/papers/2608.17253) | ⭐ 50 | AI |
-| 🥉 [SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation](https://huggingface.co/papers/2608.17426) | ⭐ 46 | AI |
+| 🏆 [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://huggingface.co/papers/2608.16590) | ⭐ 124 | AI |
+| 🥈 [SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation](https://huggingface.co/papers/2608.18565) | ⭐ 109 | AI |
+| 🥉 [SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation](https://huggingface.co/papers/2608.17426) | ⭐ 99 | AI |
 
-<sub>Last updated: 2026-08-20 06:54 UTC</sub>
+<sub>Last updated: 2026-08-20 12:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
