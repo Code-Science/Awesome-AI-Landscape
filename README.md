@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880) | ⭐ 214 | AI |
-| 🥈 [FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis](https://huggingface.co/papers/2608.18580) | ⭐ 81 | AI |
-| 🥉 [SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?](https://huggingface.co/papers/2608.19799) | ⭐ 46 | AI |
+| 🏆 [EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880) | ⭐ 227 | AI |
+| 🥈 [FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis](https://huggingface.co/papers/2608.18580) | ⭐ 102 | AI |
+| 🥉 [SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?](https://huggingface.co/papers/2608.19799) | ⭐ 51 | AI |
 
-<sub>Last updated: 2026-08-21 12:57 UTC</sub>
+<sub>Last updated: 2026-08-21 18:44 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
