@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation](https://huggingface.co/papers/2608.17426) | ⭐ 153 | AI |
-| 🥈 [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://huggingface.co/papers/2608.16590) | ⭐ 130 | AI |
-| 🥉 [SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation](https://huggingface.co/papers/2608.18565) | ⭐ 111 | AI |
+| 🏆 [EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880) | ⭐ 128 | AI |
+| 🥈 [FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis](https://huggingface.co/papers/2608.18580) | ⭐ 41 | AI |
+| 🥉 [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://huggingface.co/papers/2608.20335) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-08-21 01:41 UTC</sub>
+<sub>Last updated: 2026-08-21 06:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
