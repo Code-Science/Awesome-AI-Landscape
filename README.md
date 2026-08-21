@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation](https://huggingface.co/papers/2608.17426) | ⭐ 151 | AI |
-| 🥈 [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://huggingface.co/papers/2608.16590) | ⭐ 129 | AI |
-| 🥉 [SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation](https://huggingface.co/papers/2608.18565) | ⭐ 110 | AI |
+| 🏆 [SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation](https://huggingface.co/papers/2608.17426) | ⭐ 153 | AI |
+| 🥈 [Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://huggingface.co/papers/2608.16590) | ⭐ 130 | AI |
+| 🥉 [SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation](https://huggingface.co/papers/2608.18565) | ⭐ 111 | AI |
 
-<sub>Last updated: 2026-08-20 18:48 UTC</sub>
+<sub>Last updated: 2026-08-21 01:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
