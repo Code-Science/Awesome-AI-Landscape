@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880) | ⭐ 250 | AI |
-| 🥈 [FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis](https://huggingface.co/papers/2608.18580) | ⭐ 113 | AI |
+| 🏆 [EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880) | ⭐ 254 | AI |
+| 🥈 [FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis](https://huggingface.co/papers/2608.18580) | ⭐ 114 | AI |
 | 🥉 [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://huggingface.co/papers/2608.20335) | ⭐ 68 | AI |
 
-<sub>Last updated: 2026-08-23 12:50 UTC</sub>
+<sub>Last updated: 2026-08-23 18:36 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
