@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs](https://huggingface.co/papers/2608.21360) | ⭐ 19 | AI |
-| 🥈 [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](https://huggingface.co/papers/2608.20061) | ⭐ 18 | AI |
-| 🥉 [Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](https://huggingface.co/papers/2608.21156) | ⭐ 13 | AI |
+| 🏆 [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](https://huggingface.co/papers/2608.20061) | ⭐ 25 | AI |
+| 🥈 [Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](https://huggingface.co/papers/2608.21156) | ⭐ 24 | AI |
+| 🥉 [OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs](https://huggingface.co/papers/2608.21360) | ⭐ 21 | AI |
 
-<sub>Last updated: 2026-08-24 07:08 UTC</sub>
+<sub>Last updated: 2026-08-24 13:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
