@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](https://huggingface.co/papers/2608.20061) | ⭐ 31 | AI |
-| 🥈 [InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter](https://huggingface.co/papers/2608.20910) | ⭐ 30 | AI |
-| 🥉 [Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](https://huggingface.co/papers/2608.21156) | ⭐ 29 | AI |
+| 🏆 [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](https://huggingface.co/papers/2608.20061) | ⭐ 35 | AI |
+| 🥈 [Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](https://huggingface.co/papers/2608.21156) | ⭐ 34 | AI |
+| 🥉 [InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter](https://huggingface.co/papers/2608.20910) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-08-24 18:48 UTC</sub>
+<sub>Last updated: 2026-08-25 01:37 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
