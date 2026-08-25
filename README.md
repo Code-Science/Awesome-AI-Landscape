@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](https://huggingface.co/papers/2608.20061) | ⭐ 35 | AI |
-| 🥈 [Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](https://huggingface.co/papers/2608.21156) | ⭐ 34 | AI |
-| 🥉 [InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter](https://huggingface.co/papers/2608.20910) | ⭐ 33 | AI |
+| 🏆 [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283) | ⭐ 134 | AI |
+| 🥈 [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://huggingface.co/papers/2608.23035) | ⭐ 25 | AI |
+| 🥉 [Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision](https://huggingface.co/papers/2608.16812) | ⭐ 23 | AI |
 
-<sub>Last updated: 2026-08-25 01:37 UTC</sub>
+<sub>Last updated: 2026-08-25 06:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
