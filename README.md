@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283) | ⭐ 134 | AI |
-| 🥈 [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://huggingface.co/papers/2608.23035) | ⭐ 25 | AI |
-| 🥉 [Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision](https://huggingface.co/papers/2608.16812) | ⭐ 23 | AI |
+| 🏆 [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283) | ⭐ 151 | AI |
+| 🥈 [EchoWM: Open and Enterable Omnimodal World Models](https://huggingface.co/papers/2608.23189) | ⭐ 58 | AI |
+| 🥉 [TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming](https://huggingface.co/papers/2608.20958) | ⭐ 48 | AI |
 
-<sub>Last updated: 2026-08-25 06:56 UTC</sub>
+<sub>Last updated: 2026-08-25 12:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
