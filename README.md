@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283) | ⭐ 169 | AI |
-| 🥈 [EchoWM: Open and Enterable Omnimodal World Models](https://huggingface.co/papers/2608.23189) | ⭐ 62 | AI |
-| 🥉 [TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming](https://huggingface.co/papers/2608.20958) | ⭐ 52 | AI |
+| 🏆 [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283) | ⭐ 173 | AI |
+| 🥈 [EchoWM: Open and Enterable Omnimodal World Models](https://huggingface.co/papers/2608.23189) | ⭐ 64 | AI |
+| 🥉 [TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming](https://huggingface.co/papers/2608.20958) | ⭐ 53 | AI |
 
-<sub>Last updated: 2026-08-25 18:46 UTC</sub>
+<sub>Last updated: 2026-08-26 01:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
