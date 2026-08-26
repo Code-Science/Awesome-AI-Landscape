@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283) | ⭐ 173 | AI |
-| 🥈 [EchoWM: Open and Enterable Omnimodal World Models](https://huggingface.co/papers/2608.23189) | ⭐ 64 | AI |
-| 🥉 [TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming](https://huggingface.co/papers/2608.20958) | ⭐ 53 | AI |
+| 🏆 [Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs](https://huggingface.co/papers/2608.20492) | ⭐ 64 | AI |
+| 🥈 [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://huggingface.co/papers/2608.24053) | ⭐ 41 | AI |
+| 🥉 [AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](https://huggingface.co/papers/2608.23041) | ⭐ 39 | AI |
 
-<sub>Last updated: 2026-08-26 01:42 UTC</sub>
+<sub>Last updated: 2026-08-26 06:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
