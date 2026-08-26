@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs](https://huggingface.co/papers/2608.20492) | ⭐ 68 | AI |
-| 🥈 [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://huggingface.co/papers/2608.24053) | ⭐ 52 | AI |
-| 🥉 [AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](https://huggingface.co/papers/2608.23041) | ⭐ 47 | AI |
+| 🏆 [GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](https://huggingface.co/papers/2608.15875) | ⭐ 89 | AI |
+| 🥈 [Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs](https://huggingface.co/papers/2608.20492) | ⭐ 88 | AI |
+| 🥉 [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://huggingface.co/papers/2608.24053) | ⭐ 54 | AI |
 
-<sub>Last updated: 2026-08-26 13:02 UTC</sub>
+<sub>Last updated: 2026-08-26 19:51 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
