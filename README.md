@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](https://huggingface.co/papers/2608.15875) | ⭐ 89 | AI |
-| 🥈 [Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs](https://huggingface.co/papers/2608.20492) | ⭐ 88 | AI |
-| 🥉 [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://huggingface.co/papers/2608.24053) | ⭐ 54 | AI |
+| 🏆 [FrontierChallenge: Evaluating Scientific Workflow Completion](https://huggingface.co/papers/2608.24979) | ⭐ 96 | AI |
+| 🥈 [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](https://huggingface.co/papers/2608.24479) | ⭐ 73 | AI |
+| 🥉 [VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://huggingface.co/papers/2608.26005) | ⭐ 70 | AI |
 
-<sub>Last updated: 2026-08-26 19:51 UTC</sub>
+<sub>Last updated: 2026-08-27 08:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
