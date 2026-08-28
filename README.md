@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://huggingface.co/papers/2608.27345) | ⭐ 69 | AI |
-| 🥈 [What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents](https://huggingface.co/papers/2608.27260) | ⭐ 51 | AI |
-| 🥉 [TTPO: Test-Time Policy Optimization](https://huggingface.co/papers/2608.27448) | ⭐ 50 | AI |
+| 🏆 [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](https://huggingface.co/papers/2608.25518) | ⭐ 118 | AI |
+| 🥈 [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://huggingface.co/papers/2608.27345) | ⭐ 73 | AI |
+| 🥉 [UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://huggingface.co/papers/2608.27456) | ⭐ 69 | AI |
 
-<sub>Last updated: 2026-08-28 10:53 UTC</sub>
+<sub>Last updated: 2026-08-28 22:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
