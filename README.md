@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://huggingface.co/papers/2608.26005) | ⭐ 149 | AI |
-| 🥈 [VGI-Bench: Probing Visual Intelligence in Video Generation Models](https://huggingface.co/papers/2608.19583) | ⭐ 143 | AI |
-| 🥉 [FrontierChallenge: Evaluating Scientific Workflow Completion](https://huggingface.co/papers/2608.24979) | ⭐ 129 | AI |
+| 🏆 [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://huggingface.co/papers/2608.27345) | ⭐ 69 | AI |
+| 🥈 [What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents](https://huggingface.co/papers/2608.27260) | ⭐ 51 | AI |
+| 🥉 [TTPO: Test-Time Policy Optimization](https://huggingface.co/papers/2608.27448) | ⭐ 50 | AI |
 
-<sub>Last updated: 2026-08-27 22:06 UTC</sub>
+<sub>Last updated: 2026-08-28 10:53 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
