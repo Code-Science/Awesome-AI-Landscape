@@ -22,7 +22,7 @@
 | 🥈 [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://huggingface.co/papers/2608.27345) | ⭐ 82 | AI |
 | 🥉 [UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://huggingface.co/papers/2608.27456) | ⭐ 72 | AI |
 
-<sub>Last updated: 2026-08-29 16:33 UTC</sub>
+<sub>Last updated: 2026-08-29 20:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
