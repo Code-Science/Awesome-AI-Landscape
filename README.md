@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](https://huggingface.co/papers/2608.25518) | ⭐ 135 | AI |
-| 🥈 [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://huggingface.co/papers/2608.27345) | ⭐ 82 | AI |
-| 🥉 [UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://huggingface.co/papers/2608.27456) | ⭐ 72 | AI |
+| 🏆 [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](https://huggingface.co/papers/2608.25518) | ⭐ 136 | AI |
+| 🥈 [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](https://huggingface.co/papers/2608.27345) | ⭐ 83 | AI |
+| 🥉 [UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://huggingface.co/papers/2608.27456) | ⭐ 73 | AI |
 
-<sub>Last updated: 2026-08-30 04:53 UTC</sub>
+<sub>Last updated: 2026-08-30 11:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
