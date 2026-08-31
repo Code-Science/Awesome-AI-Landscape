@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](https://huggingface.co/papers/2608.28281) | ⭐ 77 | AI |
-| 🥈 [DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://huggingface.co/papers/2608.18524) | ⭐ 59 | AI |
-| 🥉 [Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models](https://huggingface.co/papers/2608.27550) | ⭐ 47 | AI |
+| 🏆 [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](https://huggingface.co/papers/2608.28281) | ⭐ 82 | AI |
+| 🥈 [DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://huggingface.co/papers/2608.18524) | ⭐ 60 | AI |
+| 🥉 [Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models](https://huggingface.co/papers/2608.27550) | ⭐ 59 | AI |
 
-<sub>Last updated: 2026-08-31 13:17 UTC</sub>
+<sub>Last updated: 2026-08-31 22:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
