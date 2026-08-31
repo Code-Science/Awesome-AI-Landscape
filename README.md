@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning](https://huggingface.co/papers/2608.27549) | ⭐ 20 | AI |
-| 🥈 [J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data](https://huggingface.co/papers/2608.26582) | ⭐ 18 | AI |
-| 🥉 [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://huggingface.co/papers/2608.28476) | ⭐ 16 | AI |
+| 🏆 [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](https://huggingface.co/papers/2608.28281) | ⭐ 77 | AI |
+| 🥈 [DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://huggingface.co/papers/2608.18524) | ⭐ 59 | AI |
+| 🥉 [Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models](https://huggingface.co/papers/2608.27550) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-08-31 04:57 UTC</sub>
+<sub>Last updated: 2026-08-31 13:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
