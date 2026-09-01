@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://huggingface.co/papers/2608.31119) | ⭐ 17 | AI |
-| 🥈 [Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://huggingface.co/papers/2608.31046) | ⭐ 14 | AI |
-| 🥉 [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://huggingface.co/papers/2608.30821) | ⭐ 11 | AI |
+| 🏆 [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | ⭐ 74 | AI |
+| 🥈 [Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://huggingface.co/papers/2608.31046) | ⭐ 65 | AI |
+| 🥉 [GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling](https://huggingface.co/papers/2608.29335) | ⭐ 54 | AI |
 
-<sub>Last updated: 2026-09-01 04:35 UTC</sub>
+<sub>Last updated: 2026-09-01 11:27 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
