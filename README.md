@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](https://huggingface.co/papers/2608.28281) | ⭐ 82 | AI |
-| 🥈 [DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://huggingface.co/papers/2608.18524) | ⭐ 60 | AI |
-| 🥉 [Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models](https://huggingface.co/papers/2608.27550) | ⭐ 59 | AI |
+| 🏆 [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://huggingface.co/papers/2608.31119) | ⭐ 17 | AI |
+| 🥈 [Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://huggingface.co/papers/2608.31046) | ⭐ 14 | AI |
+| 🥉 [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://huggingface.co/papers/2608.30821) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-08-31 22:41 UTC</sub>
+<sub>Last updated: 2026-09-01 04:35 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
