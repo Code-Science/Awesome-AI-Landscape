@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | ⭐ 265 | AI |
-| 🥈 [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | ⭐ 94 | AI |
-| 🥉 [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | ⭐ 58 | AI |
+| 🏆 [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | ⭐ 341 | AI |
+| 🥈 [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | ⭐ 334 | AI |
+| 🥉 [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | ⭐ 67 | AI |
 
-<sub>Last updated: 2026-09-02 11:00 UTC</sub>
+<sub>Last updated: 2026-09-02 16:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
