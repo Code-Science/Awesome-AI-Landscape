@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://huggingface.co/papers/2608.31046) | ⭐ 90 | AI |
-| 🥈 [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | ⭐ 86 | AI |
-| 🥉 [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://huggingface.co/papers/2608.30821) | ⭐ 66 | AI |
+| 🏆 [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | ⭐ 75 | AI |
+| 🥈 [UI-Venus-2 Technical Report](https://huggingface.co/papers/2609.00028) | ⭐ 33 | AI |
+| 🥉 [Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering](https://huggingface.co/papers/2608.30468) | ⭐ 16 | AI |
 
-<sub>Last updated: 2026-09-01 20:53 UTC</sub>
+<sub>Last updated: 2026-09-02 03:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
