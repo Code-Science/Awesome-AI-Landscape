@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | ⭐ 75 | AI |
-| 🥈 [UI-Venus-2 Technical Report](https://huggingface.co/papers/2609.00028) | ⭐ 33 | AI |
-| 🥉 [Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering](https://huggingface.co/papers/2608.30468) | ⭐ 16 | AI |
+| 🏆 [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | ⭐ 265 | AI |
+| 🥈 [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | ⭐ 94 | AI |
+| 🥉 [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | ⭐ 58 | AI |
 
-<sub>Last updated: 2026-09-02 03:58 UTC</sub>
+<sub>Last updated: 2026-09-02 11:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
