@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | ⭐ 417 | AI |
-| 🥈 [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | ⭐ 336 | AI |
-| 🥉 [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | ⭐ 69 | AI |
+| 🏆 [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | ⭐ 81 | AI |
+| 🥈 [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | ⭐ 40 | AI |
+| 🥉 [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-09-02 20:52 UTC</sub>
+<sub>Last updated: 2026-09-03 03:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
