@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | ⭐ 340 | AI |
-| 🥈 [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | ⭐ 110 | AI |
-| 🥉 [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | ⭐ 87 | AI |
+| 🏆 [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | ⭐ 354 | AI |
+| 🥈 [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | ⭐ 123 | AI |
+| 🥉 [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | ⭐ 108 | AI |
 
-<sub>Last updated: 2026-09-03 10:59 UTC</sub>
+<sub>Last updated: 2026-09-03 16:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
