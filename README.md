@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | ⭐ 88 | AI |
-| 🥈 [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | ⭐ 83 | AI |
-| 🥉 [LatentPress: Context Compression Beyond Text and Vision](https://huggingface.co/papers/2609.01507) | ⭐ 56 | AI |
+| 🏆 [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | ⭐ 170 | AI |
+| 🥈 [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | ⭐ 140 | AI |
+| 🥉 [Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training](https://huggingface.co/papers/2608.26730) | ⭐ 139 | AI |
 
-<sub>Last updated: 2026-09-04 10:59 UTC</sub>
+<sub>Last updated: 2026-09-04 16:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
