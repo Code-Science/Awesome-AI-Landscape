@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | ⭐ 59 | AI |
-| 🥈 [LatentPress: Context Compression Beyond Text and Vision](https://huggingface.co/papers/2609.01507) | ⭐ 48 | AI |
-| 🥉 [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](https://huggingface.co/papers/2609.04098) | ⭐ 47 | AI |
+| 🏆 [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | ⭐ 88 | AI |
+| 🥈 [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | ⭐ 83 | AI |
+| 🥉 [LatentPress: Context Compression Beyond Text and Vision](https://huggingface.co/papers/2609.01507) | ⭐ 56 | AI |
 
-<sub>Last updated: 2026-09-04 03:59 UTC</sub>
+<sub>Last updated: 2026-09-04 10:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
