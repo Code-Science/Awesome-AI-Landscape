@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | ⭐ 432 | AI |
-| 🥈 [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | ⭐ 193 | AI |
-| 🥉 [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | ⭐ 156 | AI |
+| 🏆 [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | ⭐ 59 | AI |
+| 🥈 [LatentPress: Context Compression Beyond Text and Vision](https://huggingface.co/papers/2609.01507) | ⭐ 48 | AI |
+| 🥉 [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](https://huggingface.co/papers/2609.04098) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-09-03 20:50 UTC</sub>
+<sub>Last updated: 2026-09-04 03:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
