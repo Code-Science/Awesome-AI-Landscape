@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | ⭐ 315 | AI |
-| 🥈 [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | ⭐ 271 | AI |
-| 🥉 [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | ⭐ 226 | AI |
+| 🏆 [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | ⭐ 316 | AI |
+| 🥈 [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | ⭐ 272 | AI |
+| 🥉 [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | ⭐ 227 | AI |
 
-<sub>Last updated: 2026-09-06 15:16 UTC</sub>
+<sub>Last updated: 2026-09-06 20:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
