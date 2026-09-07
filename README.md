@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | ⭐ 316 | AI |
-| 🥈 [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | ⭐ 272 | AI |
-| 🥉 [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | ⭐ 227 | AI |
+| 🏆 [Iris: Climbing to the Search Frontier](https://huggingface.co/papers/2609.04304) | ⭐ 11 | AI |
+| 🥈 [Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue](https://huggingface.co/papers/2609.04250) | ⭐ 10 | AI |
+| 🥉 [Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization](https://huggingface.co/papers/2609.05258) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-09-06 20:15 UTC</sub>
+<sub>Last updated: 2026-09-07 04:02 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
