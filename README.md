@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | ⭐ 50 | AI |
-| 🥈 [Iris: Climbing to the Search Frontier](https://huggingface.co/papers/2609.04304) | ⭐ 47 | AI |
-| 🥉 [Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue](https://huggingface.co/papers/2609.04250) | ⭐ 34 | AI |
+| 🏆 [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | ⭐ 92 | AI |
+| 🥈 [Iris: Climbing to the Search Frontier](https://huggingface.co/papers/2609.04304) | ⭐ 50 | AI |
+| 🥉 [Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue](https://huggingface.co/papers/2609.04250) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-09-07 12:07 UTC</sub>
+<sub>Last updated: 2026-09-07 21:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
