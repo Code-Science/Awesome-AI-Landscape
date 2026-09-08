@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | ⭐ 51 | AI |
-| 🥈 [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | ⭐ 35 | AI |
-| 🥉 [ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation](https://huggingface.co/papers/2609.03756) | ⭐ 16 | AI |
+| 🏆 [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | ⭐ 76 | AI |
+| 🥈 [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | ⭐ 61 | AI |
+| 🥉 [ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation](https://huggingface.co/papers/2609.03756) | ⭐ 26 | AI |
 
-<sub>Last updated: 2026-09-08 16:24 UTC</sub>
+<sub>Last updated: 2026-09-08 20:58 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
