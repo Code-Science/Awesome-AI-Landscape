@@ -18,10 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation](https://huggingface.co/papers/2609.02998) | ⭐ 4 | AI |
-| 🥈 [What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation](https://huggingface.co/papers/2609.03254) | ⭐ 1 | AI |
+| 🏆 [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | ⭐ 21 | AI |
+| 🥈 [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | ⭐ 11 | AI |
+| 🥉 [EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents](https://huggingface.co/papers/2609.01281) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-09-08 04:03 UTC</sub>
+<sub>Last updated: 2026-09-08 10:59 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
