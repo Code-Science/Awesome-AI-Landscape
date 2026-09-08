@@ -18,11 +18,10 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | ⭐ 92 | AI |
-| 🥈 [Iris: Climbing to the Search Frontier](https://huggingface.co/papers/2609.04304) | ⭐ 50 | AI |
-| 🥉 [Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue](https://huggingface.co/papers/2609.04250) | ⭐ 35 | AI |
+| 🏆 [Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation](https://huggingface.co/papers/2609.02998) | ⭐ 4 | AI |
+| 🥈 [What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation](https://huggingface.co/papers/2609.03254) | ⭐ 1 | AI |
 
-<sub>Last updated: 2026-09-07 21:22 UTC</sub>
+<sub>Last updated: 2026-09-08 04:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
