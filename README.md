@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | ⭐ 31 | AI |
-| 🥈 [DriveZero: End-to-End Driving Beyond Human Demonstrations](https://huggingface.co/papers/2609.06055) | ⭐ 22 | AI |
-| 🥉 [GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation](https://huggingface.co/papers/2609.05588) | ⭐ 7 | AI |
+| 🏆 [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | ⭐ 192 | AI |
+| 🥈 [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | ⭐ 103 | AI |
+| 🥉 [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | ⭐ 76 | AI |
 
-<sub>Last updated: 2026-09-09 04:10 UTC</sub>
+<sub>Last updated: 2026-09-09 11:04 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
