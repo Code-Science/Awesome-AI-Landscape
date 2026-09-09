@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | ⭐ 273 | AI |
-| 🥈 [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | ⭐ 145 | AI |
-| 🥉 [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | ⭐ 94 | AI |
+| 🏆 [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | ⭐ 358 | AI |
+| 🥈 [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | ⭐ 164 | AI |
+| 🥉 [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | ⭐ 108 | AI |
 
-<sub>Last updated: 2026-09-09 16:20 UTC</sub>
+<sub>Last updated: 2026-09-09 20:46 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
