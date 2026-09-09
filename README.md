@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | ⭐ 76 | AI |
-| 🥈 [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | ⭐ 61 | AI |
-| 🥉 [ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation](https://huggingface.co/papers/2609.03756) | ⭐ 26 | AI |
+| 🏆 [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | ⭐ 31 | AI |
+| 🥈 [DriveZero: End-to-End Driving Beyond Human Demonstrations](https://huggingface.co/papers/2609.06055) | ⭐ 22 | AI |
+| 🥉 [GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation](https://huggingface.co/papers/2609.05588) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-09-08 20:58 UTC</sub>
+<sub>Last updated: 2026-09-09 04:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
