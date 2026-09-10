@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | ⭐ 70 | AI |
-| 🥈 [Programmable World Model](https://huggingface.co/papers/2609.10540) | ⭐ 52 | AI |
-| 🥉 [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | ⭐ 47 | AI |
+| 🏆 [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | ⭐ 99 | AI |
+| 🥈 [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | ⭐ 69 | AI |
+| 🥉 [Programmable World Model](https://huggingface.co/papers/2609.10540) | ⭐ 65 | AI |
 
-<sub>Last updated: 2026-09-10 16:10 UTC</sub>
+<sub>Last updated: 2026-09-10 20:42 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
