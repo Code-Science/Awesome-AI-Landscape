@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | ⭐ 358 | AI |
-| 🥈 [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | ⭐ 164 | AI |
-| 🥉 [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | ⭐ 108 | AI |
+| 🏆 [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | ⭐ 25 | AI |
+| 🥈 [Programmable World Model](https://huggingface.co/papers/2609.10540) | ⭐ 16 | AI |
+| 🥉 [Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents](https://huggingface.co/papers/2609.09219) | ⭐ 7 | AI |
 
-<sub>Last updated: 2026-09-09 20:46 UTC</sub>
+<sub>Last updated: 2026-09-10 04:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
