@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | ⭐ 25 | AI |
-| 🥈 [Programmable World Model](https://huggingface.co/papers/2609.10540) | ⭐ 16 | AI |
-| 🥉 [Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents](https://huggingface.co/papers/2609.09219) | ⭐ 7 | AI |
+| 🏆 [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | ⭐ 49 | AI |
+| 🥈 [Programmable World Model](https://huggingface.co/papers/2609.10540) | ⭐ 37 | AI |
+| 🥉 [WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](https://huggingface.co/papers/2609.05405) | ⭐ 24 | AI |
 
-<sub>Last updated: 2026-09-10 04:07 UTC</sub>
+<sub>Last updated: 2026-09-10 11:00 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
