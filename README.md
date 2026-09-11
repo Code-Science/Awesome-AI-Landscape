@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | ⭐ 99 | AI |
-| 🥈 [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | ⭐ 69 | AI |
-| 🥉 [Programmable World Model](https://huggingface.co/papers/2609.10540) | ⭐ 65 | AI |
+| 🏆 [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | ⭐ 65 | AI |
+| 🥈 [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | ⭐ 46 | AI |
+| 🥉 [EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://huggingface.co/papers/2609.05903) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-09-10 20:42 UTC</sub>
+<sub>Last updated: 2026-09-11 04:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
