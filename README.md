@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | ⭐ 162 | AI |
-| 🥈 [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | ⭐ 127 | AI |
-| 🥉 [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | ⭐ 59 | AI |
+| 🏆 [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | ⭐ 177 | AI |
+| 🥈 [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | ⭐ 140 | AI |
+| 🥉 [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | ⭐ 68 | AI |
 
-<sub>Last updated: 2026-09-11 20:47 UTC</sub>
+<sub>Last updated: 2026-09-12 04:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
