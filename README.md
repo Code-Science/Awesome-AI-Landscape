@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](https://huggingface.co/papers/2609.08418) | ⭐ 73 | AI |
-| 🥈 [Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models](https://huggingface.co/papers/2609.12641) | ⭐ 51 | AI |
-| 🥉 [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | ⭐ 47 | AI |
+| 🏆 [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | ⭐ 96 | AI |
+| 🥈 [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | ⭐ 75 | AI |
+| 🥉 [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](https://huggingface.co/papers/2609.08418) | ⭐ 75 | AI |
 
-<sub>Last updated: 2026-09-14 12:24 UTC</sub>
+<sub>Last updated: 2026-09-14 21:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
