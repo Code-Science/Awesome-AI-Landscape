@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models](https://huggingface.co/papers/2609.12641) | ⭐ 23 | AI |
-| 🥈 [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | ⭐ 23 | AI |
-| 🥉 [PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization](https://huggingface.co/papers/2608.30597) | ⭐ 18 | AI |
+| 🏆 [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](https://huggingface.co/papers/2609.08418) | ⭐ 73 | AI |
+| 🥈 [Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models](https://huggingface.co/papers/2609.12641) | ⭐ 51 | AI |
+| 🥉 [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | ⭐ 47 | AI |
 
-<sub>Last updated: 2026-09-14 04:24 UTC</sub>
+<sub>Last updated: 2026-09-14 12:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
