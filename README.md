@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | ⭐ 283 | AI |
-| 🥈 [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | ⭐ 230 | AI |
-| 🥉 [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | ⭐ 124 | AI |
+| 🏆 [Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models](https://huggingface.co/papers/2609.12641) | ⭐ 23 | AI |
+| 🥈 [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | ⭐ 23 | AI |
+| 🥉 [PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization](https://huggingface.co/papers/2608.30597) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-09-13 20:35 UTC</sub>
+<sub>Last updated: 2026-09-14 04:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
