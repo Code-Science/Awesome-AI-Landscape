@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | ⭐ 57 | AI |
-| 🥈 [PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://huggingface.co/papers/2609.14973) | ⭐ 48 | AI |
-| 🥉 [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | ⭐ 43 | AI |
+| 🏆 [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | ⭐ 234 | AI |
+| 🥈 [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | ⭐ 218 | AI |
+| 🥉 [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | ⭐ 211 | AI |
 
-<sub>Last updated: 2026-09-15 04:25 UTC</sub>
+<sub>Last updated: 2026-09-15 11:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
