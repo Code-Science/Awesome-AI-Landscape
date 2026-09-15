@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | ⭐ 96 | AI |
-| 🥈 [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | ⭐ 75 | AI |
-| 🥉 [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](https://huggingface.co/papers/2609.08418) | ⭐ 75 | AI |
+| 🏆 [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | ⭐ 57 | AI |
+| 🥈 [PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://huggingface.co/papers/2609.14973) | ⭐ 48 | AI |
+| 🥉 [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | ⭐ 43 | AI |
 
-<sub>Last updated: 2026-09-14 21:41 UTC</sub>
+<sub>Last updated: 2026-09-15 04:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
