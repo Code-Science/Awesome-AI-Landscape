@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | ⭐ 374 | AI |
-| 🥈 [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | ⭐ 364 | AI |
-| 🥉 [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | ⭐ 289 | AI |
+| 🏆 [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | ⭐ 485 | AI |
+| 🥈 [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | ⭐ 368 | AI |
+| 🥉 [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | ⭐ 291 | AI |
 
-<sub>Last updated: 2026-09-15 16:42 UTC</sub>
+<sub>Last updated: 2026-09-15 21:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
