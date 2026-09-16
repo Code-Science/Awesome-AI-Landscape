@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | ⭐ 270 | AI |
-| 🥈 [The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://huggingface.co/papers/2609.11873) | ⭐ 81 | AI |
-| 🥉 [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | ⭐ 31 | AI |
+| 🏆 [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | ⭐ 278 | AI |
+| 🥈 [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | ⭐ 91 | AI |
+| 🥉 [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | ⭐ 30 | AI |
 
-<sub>Last updated: 2026-09-16 04:20 UTC</sub>
+<sub>Last updated: 2026-09-16 11:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
