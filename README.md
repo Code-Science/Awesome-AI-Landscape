@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | ⭐ 283 | AI |
-| 🥈 [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | ⭐ 104 | AI |
-| 🥉 [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | ⭐ 88 | AI |
+| 🏆 [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | ⭐ 287 | AI |
+| 🥈 [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | ⭐ 105 | AI |
+| 🥉 [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | ⭐ 89 | AI |
 
-<sub>Last updated: 2026-09-16 16:35 UTC</sub>
+<sub>Last updated: 2026-09-16 21:08 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
