@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | ⭐ 485 | AI |
-| 🥈 [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | ⭐ 368 | AI |
-| 🥉 [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | ⭐ 291 | AI |
+| 🏆 [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | ⭐ 270 | AI |
+| 🥈 [The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://huggingface.co/papers/2609.11873) | ⭐ 81 | AI |
+| 🥉 [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-09-15 21:06 UTC</sub>
+<sub>Last updated: 2026-09-16 04:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
