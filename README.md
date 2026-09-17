@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | ⭐ 85 | AI |
-| 🥈 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 68 | AI |
-| 🥉 [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | ⭐ 58 | AI |
+| 🏆 [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | ⭐ 87 | AI |
+| 🥈 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 69 | AI |
+| 🥉 [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | ⭐ 60 | AI |
 
-<sub>Last updated: 2026-09-17 16:41 UTC</sub>
+<sub>Last updated: 2026-09-17 21:10 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
