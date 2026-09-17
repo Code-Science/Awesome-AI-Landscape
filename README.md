@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 64 | AI |
-| 🥈 [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | ⭐ 46 | AI |
-| 🥉 [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://huggingface.co/papers/2609.17708) | ⭐ 45 | AI |
+| 🏆 [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | ⭐ 85 | AI |
+| 🥈 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 68 | AI |
+| 🥉 [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | ⭐ 58 | AI |
 
-<sub>Last updated: 2026-09-17 11:23 UTC</sub>
+<sub>Last updated: 2026-09-17 16:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
