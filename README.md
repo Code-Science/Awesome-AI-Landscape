@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 38 | AI |
-| 🥈 [ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks](https://huggingface.co/papers/2609.18805) | ⭐ 16 | AI |
-| 🥉 [Agora: Git as Shared Memory for Collective AutoResearch](https://huggingface.co/papers/2609.18094) | ⭐ 5 | AI |
+| 🏆 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 64 | AI |
+| 🥈 [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | ⭐ 46 | AI |
+| 🥉 [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://huggingface.co/papers/2609.17708) | ⭐ 45 | AI |
 
-<sub>Last updated: 2026-09-17 04:26 UTC</sub>
+<sub>Last updated: 2026-09-17 11:23 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
