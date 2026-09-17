@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | ⭐ 287 | AI |
-| 🥈 [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | ⭐ 105 | AI |
-| 🥉 [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | ⭐ 89 | AI |
+| 🏆 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 38 | AI |
+| 🥈 [ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks](https://huggingface.co/papers/2609.18805) | ⭐ 16 | AI |
+| 🥉 [Agora: Git as Shared Memory for Collective AutoResearch](https://huggingface.co/papers/2609.18094) | ⭐ 5 | AI |
 
-<sub>Last updated: 2026-09-16 21:08 UTC</sub>
+<sub>Last updated: 2026-09-17 04:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
