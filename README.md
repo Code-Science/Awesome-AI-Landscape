@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | ⭐ 87 | AI |
-| 🥈 [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | ⭐ 69 | AI |
-| 🥉 [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | ⭐ 60 | AI |
+| 🏆 [An Empirical Study of Harness Design for Coding Agents](https://huggingface.co/papers/2609.20804) | ⭐ 26 | AI |
+| 🥈 [JEPA-Anything: Learning Predictive Models across Different Worlds](https://huggingface.co/papers/2609.20800) | ⭐ 16 | AI |
+| 🥉 [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | ⭐ 15 | AI |
 
-<sub>Last updated: 2026-09-17 21:10 UTC</sub>
+<sub>Last updated: 2026-09-18 04:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
