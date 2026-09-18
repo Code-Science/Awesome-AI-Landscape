@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [An Empirical Study of Harness Design for Coding Agents](https://huggingface.co/papers/2609.20804) | ⭐ 26 | AI |
-| 🥈 [JEPA-Anything: Learning Predictive Models across Different Worlds](https://huggingface.co/papers/2609.20800) | ⭐ 16 | AI |
-| 🥉 [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | ⭐ 15 | AI |
+| 🏆 [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | ⭐ 41 | AI |
+| 🥈 [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | ⭐ 37 | AI |
+| 🥉 [An Empirical Study of Harness Design for Coding Agents](https://huggingface.co/papers/2609.20804) | ⭐ 31 | AI |
 
-<sub>Last updated: 2026-09-18 04:11 UTC</sub>
+<sub>Last updated: 2026-09-18 10:57 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
