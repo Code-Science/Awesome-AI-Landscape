@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | ⭐ 56 | AI |
-| 🥈 [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | ⭐ 44 | AI |
-| 🥉 [An Empirical Study of Harness Design for Coding Agents](https://huggingface.co/papers/2609.20804) | ⭐ 37 | AI |
+| 🏆 [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | ⭐ 62 | AI |
+| 🥈 [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | ⭐ 51 | AI |
+| 🥉 [An Empirical Study of Harness Design for Coding Agents](https://huggingface.co/papers/2609.20804) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-09-18 20:43 UTC</sub>
+<sub>Last updated: 2026-09-19 04:07 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
