@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | ⭐ 113 | AI |
-| 🥈 [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | ⭐ 91 | AI |
-| 🥉 [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | ⭐ 90 | AI |
+| 🏆 [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | ⭐ 126 | AI |
+| 🥈 [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | ⭐ 94 | AI |
+| 🥉 [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | ⭐ 93 | AI |
 
-<sub>Last updated: 2026-09-20 04:27 UTC</sub>
+<sub>Last updated: 2026-09-20 11:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
