@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | ⭐ 28 | AI |
-| 🥈 [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](https://huggingface.co/papers/2609.22000) | ⭐ 25 | AI |
-| 🥉 [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://huggingface.co/papers/2609.15779) | ⭐ 17 | AI |
+| 🏆 [Grounded Skill Synthesis from Code at Scale for Agentic Intelligence](https://huggingface.co/papers/2609.05571) | ⭐ 66 | AI |
+| 🥈 [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | ⭐ 65 | AI |
+| 🥉 [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://huggingface.co/papers/2609.15779) | ⭐ 61 | AI |
 
-<sub>Last updated: 2026-09-21 04:25 UTC</sub>
+<sub>Last updated: 2026-09-21 12:30 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
