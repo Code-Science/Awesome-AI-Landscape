@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | ⭐ 133 | AI |
-| 🥈 [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | ⭐ 98 | AI |
-| 🥉 [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | ⭐ 94 | AI |
+| 🏆 [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | ⭐ 28 | AI |
+| 🥈 [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](https://huggingface.co/papers/2609.22000) | ⭐ 25 | AI |
+| 🥉 [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://huggingface.co/papers/2609.15779) | ⭐ 17 | AI |
 
-<sub>Last updated: 2026-09-20 20:36 UTC</sub>
+<sub>Last updated: 2026-09-21 04:25 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
