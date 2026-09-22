@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | ⭐ 93 | AI |
-| 🥈 [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | ⭐ 86 | AI |
-| 🥉 [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | ⭐ 69 | AI |
+| 🏆 [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | ⭐ 140 | AI |
+| 🥈 [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | ⭐ 107 | AI |
+| 🥉 [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | ⭐ 106 | AI |
 
-<sub>Last updated: 2026-09-22 11:19 UTC</sub>
+<sub>Last updated: 2026-09-22 16:41 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
