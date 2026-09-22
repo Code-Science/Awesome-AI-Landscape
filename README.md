@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | ⭐ 49 | AI |
-| 🥈 [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | ⭐ 24 | AI |
-| 🥉 [One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents](https://huggingface.co/papers/2609.23377) | ⭐ 9 | AI |
+| 🏆 [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | ⭐ 93 | AI |
+| 🥈 [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | ⭐ 86 | AI |
+| 🥉 [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | ⭐ 69 | AI |
 
-<sub>Last updated: 2026-09-22 04:20 UTC</sub>
+<sub>Last updated: 2026-09-22 11:19 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
