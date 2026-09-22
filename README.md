@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | ⭐ 86 | AI |
-| 🥈 [Grounded Skill Synthesis from Code at Scale for Agentic Intelligence](https://huggingface.co/papers/2609.05571) | ⭐ 85 | AI |
-| 🥉 [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://huggingface.co/papers/2609.15779) | ⭐ 68 | AI |
+| 🏆 [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | ⭐ 49 | AI |
+| 🥈 [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | ⭐ 24 | AI |
+| 🥉 [One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents](https://huggingface.co/papers/2609.23377) | ⭐ 9 | AI |
 
-<sub>Last updated: 2026-09-21 21:52 UTC</sub>
+<sub>Last updated: 2026-09-22 04:20 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
