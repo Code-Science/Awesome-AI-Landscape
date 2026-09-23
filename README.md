@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | ⭐ 31 | AI |
-| 🥈 [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | ⭐ 16 | AI |
-| 🥉 [Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models](https://huggingface.co/papers/2609.24657) | ⭐ 15 | AI |
+| 🏆 [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | ⭐ 49 | AI |
+| 🥈 [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | ⭐ 43 | AI |
+| 🥉 [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | ⭐ 35 | AI |
 
-<sub>Last updated: 2026-09-23 04:17 UTC</sub>
+<sub>Last updated: 2026-09-23 11:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
