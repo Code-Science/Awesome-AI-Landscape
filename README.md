@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | ⭐ 110 | AI |
+| 🏆 [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | ⭐ 111 | AI |
 | 🥈 [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | ⭐ 59 | AI |
-| 🥉 [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | ⭐ 36 | AI |
+| 🥉 [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | ⭐ 38 | AI |
 
-<sub>Last updated: 2026-09-23 16:36 UTC</sub>
+<sub>Last updated: 2026-09-23 21:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
