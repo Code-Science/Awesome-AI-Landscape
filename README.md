@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | ⭐ 151 | AI |
-| 🥈 [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | ⭐ 112 | AI |
-| 🥉 [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | ⭐ 110 | AI |
+| 🏆 [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | ⭐ 31 | AI |
+| 🥈 [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | ⭐ 16 | AI |
+| 🥉 [Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models](https://huggingface.co/papers/2609.24657) | ⭐ 15 | AI |
 
-<sub>Last updated: 2026-09-22 21:07 UTC</sub>
+<sub>Last updated: 2026-09-23 04:17 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
