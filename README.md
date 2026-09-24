@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | ⭐ 111 | AI |
-| 🥈 [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | ⭐ 59 | AI |
-| 🥉 [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | ⭐ 38 | AI |
+| 🏆 [The Past Frames the Future: Memory for Autoregressive Video Generation](https://huggingface.co/papers/2609.28466) | ⭐ 24 | AI |
+| 🥈 [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | ⭐ 16 | AI |
+| 🥉 [RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling](https://huggingface.co/papers/2609.22947) | ⭐ 16 | AI |
 
-<sub>Last updated: 2026-09-23 21:21 UTC</sub>
+<sub>Last updated: 2026-09-24 04:13 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
