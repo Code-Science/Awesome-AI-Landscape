@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | ⭐ 76 | AI |
+| 🏆 [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | ⭐ 77 | AI |
 | 🥈 [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | ⭐ 41 | AI |
 | 🥉 [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | ⭐ 39 | AI |
 
-<sub>Last updated: 2026-09-24 16:55 UTC</sub>
+<sub>Last updated: 2026-09-24 21:22 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
