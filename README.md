@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Past Frames the Future: Memory for Autoregressive Video Generation](https://huggingface.co/papers/2609.28466) | ⭐ 24 | AI |
-| 🥈 [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | ⭐ 16 | AI |
-| 🥉 [RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling](https://huggingface.co/papers/2609.22947) | ⭐ 16 | AI |
+| 🏆 [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | ⭐ 36 | AI |
+| 🥈 [The Past Frames the Future: Memory for Autoregressive Video Generation](https://huggingface.co/papers/2609.28466) | ⭐ 34 | AI |
+| 🥉 [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | ⭐ 26 | AI |
 
-<sub>Last updated: 2026-09-24 04:13 UTC</sub>
+<sub>Last updated: 2026-09-24 11:28 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
