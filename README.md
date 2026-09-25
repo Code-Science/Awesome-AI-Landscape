@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | ⭐ 24 | AI |
-| 🥈 [OmniEcho: Spatial Audio Understanding for Embodied Agents](https://huggingface.co/papers/2609.23407) | ⭐ 14 | AI |
-| 🥉 [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](https://huggingface.co/papers/2609.28416) | ⭐ 10 | AI |
+| 🏆 [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | ⭐ 114 | AI |
+| 🥈 [OmniEcho: Spatial Audio Understanding for Embodied Agents](https://huggingface.co/papers/2609.23407) | ⭐ 19 | AI |
+| 🥉 [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](https://huggingface.co/papers/2609.28416) | ⭐ 13 | AI |
 
-<sub>Last updated: 2026-09-25 04:26 UTC</sub>
+<sub>Last updated: 2026-09-25 11:34 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
