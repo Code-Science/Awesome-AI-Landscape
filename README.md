@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | ⭐ 193 | AI |
-| 🥈 [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | ⭐ 63 | AI |
-| 🥉 [WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation](https://huggingface.co/papers/2609.30221) | ⭐ 31 | AI |
+| 🏆 [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | ⭐ 195 | AI |
+| 🥈 [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | ⭐ 64 | AI |
+| 🥉 [WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation](https://huggingface.co/papers/2609.30221) | ⭐ 33 | AI |
 
-<sub>Last updated: 2026-09-26 16:10 UTC</sub>
+<sub>Last updated: 2026-09-26 20:54 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
