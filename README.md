@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | ⭐ 202 | AI |
-| 🥈 [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | ⭐ 75 | AI |
-| 🥉 [WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation](https://huggingface.co/papers/2609.30221) | ⭐ 36 | AI |
+| 🏆 [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | ⭐ 45 | AI |
+| 🥈 [InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data](https://huggingface.co/papers/2609.31394) | ⭐ 12 | AI |
+| 🥉 [Block Sparse Attention with Log-Linear Complexity](https://huggingface.co/papers/2609.31093) | ⭐ 9 | AI |
 
-<sub>Last updated: 2026-09-27 21:10 UTC</sub>
+<sub>Last updated: 2026-09-28 04:50 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
