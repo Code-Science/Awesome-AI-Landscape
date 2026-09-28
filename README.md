@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | ⭐ 110 | AI |
-| 🥈 [RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://huggingface.co/papers/2609.18703) | ⭐ 42 | AI |
-| 🥉 [Block Sparse Attention with Log-Linear Complexity](https://huggingface.co/papers/2609.31093) | ⭐ 18 | AI |
+| 🏆 [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | ⭐ 115 | AI |
+| 🥈 [Disaggregated Quantization: Specializing LLM Prefill and Decode](https://huggingface.co/papers/2609.26333) | ⭐ 43 | AI |
+| 🥉 [RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://huggingface.co/papers/2609.18703) | ⭐ 43 | AI |
 
-<sub>Last updated: 2026-09-28 13:29 UTC</sub>
+<sub>Last updated: 2026-09-28 23:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
