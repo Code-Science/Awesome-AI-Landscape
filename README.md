@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | ⭐ 45 | AI |
-| 🥈 [InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data](https://huggingface.co/papers/2609.31394) | ⭐ 12 | AI |
-| 🥉 [Block Sparse Attention with Log-Linear Complexity](https://huggingface.co/papers/2609.31093) | ⭐ 9 | AI |
+| 🏆 [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | ⭐ 110 | AI |
+| 🥈 [RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://huggingface.co/papers/2609.18703) | ⭐ 42 | AI |
+| 🥉 [Block Sparse Attention with Log-Linear Complexity](https://huggingface.co/papers/2609.31093) | ⭐ 18 | AI |
 
-<sub>Last updated: 2026-09-28 04:50 UTC</sub>
+<sub>Last updated: 2026-09-28 13:29 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
