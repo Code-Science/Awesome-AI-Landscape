@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://huggingface.co/papers/2609.33295) | ⭐ 42 | AI |
-| 🥈 [YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757) | ⭐ 40 | AI |
-| 🥉 [CompoWorld: Compositional Environment Scaling for General Agents](https://huggingface.co/papers/2609.33665) | ⭐ 22 | AI |
+| 🏆 [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | ⭐ 101 | AI |
+| 🥈 [YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757) | ⭐ 81 | AI |
+| 🥉 [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | ⭐ 70 | AI |
 
-<sub>Last updated: 2026-09-29 05:16 UTC</sub>
+<sub>Last updated: 2026-09-29 12:31 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
