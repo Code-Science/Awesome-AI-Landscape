@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | ⭐ 101 | AI |
-| 🥈 [YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757) | ⭐ 81 | AI |
-| 🥉 [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | ⭐ 70 | AI |
+| 🏆 [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | ⭐ 249 | AI |
+| 🥈 [YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757) | ⭐ 197 | AI |
+| 🥉 [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | ⭐ 138 | AI |
 
-<sub>Last updated: 2026-09-29 12:31 UTC</sub>
+<sub>Last updated: 2026-09-29 22:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
