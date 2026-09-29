@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | ⭐ 115 | AI |
-| 🥈 [Disaggregated Quantization: Specializing LLM Prefill and Decode](https://huggingface.co/papers/2609.26333) | ⭐ 43 | AI |
-| 🥉 [RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://huggingface.co/papers/2609.18703) | ⭐ 43 | AI |
+| 🏆 [TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://huggingface.co/papers/2609.33295) | ⭐ 42 | AI |
+| 🥈 [YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757) | ⭐ 40 | AI |
+| 🥉 [CompoWorld: Compositional Environment Scaling for General Agents](https://huggingface.co/papers/2609.33665) | ⭐ 22 | AI |
 
-<sub>Last updated: 2026-09-28 23:06 UTC</sub>
+<sub>Last updated: 2026-09-29 05:16 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
