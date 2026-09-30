@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [MaLiang-Harness: A Programmable Path to Image and Video Generation](https://huggingface.co/papers/2609.34309) | ⭐ 68 | AI |
-| 🥈 [Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439) | ⭐ 54 | AI |
-| 🥉 [What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling](https://huggingface.co/papers/2609.34981) | ⭐ 44 | AI |
+| 🏆 [Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439) | ⭐ 278 | AI |
+| 🥈 [MaLiang-Harness: A Programmable Path to Image and Video Generation](https://huggingface.co/papers/2609.34309) | ⭐ 210 | AI |
+| 🥉 [In-Context Learning for Robots: Methods and Applications](https://huggingface.co/papers/2609.36012) | ⭐ 124 | AI |
 
-<sub>Last updated: 2026-09-30 05:04 UTC</sub>
+<sub>Last updated: 2026-09-30 12:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
