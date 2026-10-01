@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439) | ⭐ 450 | AI |
-| 🥈 [In-Context Learning for Robots: Methods and Applications](https://huggingface.co/papers/2609.36012) | ⭐ 269 | AI |
-| 🥉 [MaLiang-Harness: A Programmable Path to Image and Video Generation](https://huggingface.co/papers/2609.34309) | ⭐ 232 | AI |
+| 🏆 [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](https://huggingface.co/papers/2609.40340) | ⭐ 37 | AI |
+| 🥈 [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation](https://huggingface.co/papers/2609.36484) | ⭐ 37 | AI |
+| 🥉 [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](https://huggingface.co/papers/2609.38143) | ⭐ 34 | AI |
 
-<sub>Last updated: 2026-09-30 22:05 UTC</sub>
+<sub>Last updated: 2026-10-01 05:18 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
