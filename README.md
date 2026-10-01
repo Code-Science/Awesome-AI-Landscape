@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation](https://huggingface.co/papers/2609.36484) | ⭐ 176 | AI |
-| 🥈 [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | ⭐ 147 | AI |
-| 🥉 [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | ⭐ 107 | AI |
+| 🏆 [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation](https://huggingface.co/papers/2609.36484) | ⭐ 225 | AI |
+| 🥈 [Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence](https://huggingface.co/papers/2609.34563) | ⭐ 200 | AI |
+| 🥉 [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | ⭐ 187 | AI |
 
-<sub>Last updated: 2026-10-01 12:52 UTC</sub>
+<sub>Last updated: 2026-10-01 22:32 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
