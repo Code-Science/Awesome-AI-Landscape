@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](https://huggingface.co/papers/2609.40340) | ⭐ 37 | AI |
-| 🥈 [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation](https://huggingface.co/papers/2609.36484) | ⭐ 37 | AI |
-| 🥉 [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](https://huggingface.co/papers/2609.38143) | ⭐ 34 | AI |
+| 🏆 [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation](https://huggingface.co/papers/2609.36484) | ⭐ 176 | AI |
+| 🥈 [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | ⭐ 147 | AI |
+| 🥉 [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | ⭐ 107 | AI |
 
-<sub>Last updated: 2026-10-01 05:18 UTC</sub>
+<sub>Last updated: 2026-10-01 12:52 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
