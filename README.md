@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation](https://huggingface.co/papers/2609.36484) | ⭐ 225 | AI |
-| 🥈 [Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence](https://huggingface.co/papers/2609.34563) | ⭐ 200 | AI |
-| 🥉 [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | ⭐ 187 | AI |
+| 🏆 [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](https://huggingface.co/papers/2609.37200) | ⭐ 62 | AI |
+| 🥈 [Hierarchical Continuous Diffusion Language Models](https://huggingface.co/papers/2610.02193) | ⭐ 45 | AI |
+| 🥉 [ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization](https://huggingface.co/papers/2610.00906) | ⭐ 26 | AI |
 
-<sub>Last updated: 2026-10-01 22:32 UTC</sub>
+<sub>Last updated: 2026-10-02 05:06 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
