@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](https://huggingface.co/papers/2609.37200) | ⭐ 62 | AI |
-| 🥈 [Hierarchical Continuous Diffusion Language Models](https://huggingface.co/papers/2610.02193) | ⭐ 45 | AI |
-| 🥉 [ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization](https://huggingface.co/papers/2610.00906) | ⭐ 26 | AI |
+| 🏆 [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](https://huggingface.co/papers/2609.37200) | ⭐ 114 | AI |
+| 🥈 [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | ⭐ 62 | AI |
+| 🥉 [Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States](https://huggingface.co/papers/2610.01415) | ⭐ 61 | AI |
 
-<sub>Last updated: 2026-10-02 05:06 UTC</sub>
+<sub>Last updated: 2026-10-02 12:15 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
