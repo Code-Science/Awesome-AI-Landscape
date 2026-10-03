@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | ⭐ 149 | AI |
-| 🥈 [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | ⭐ 129 | AI |
-| 🥉 [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](https://huggingface.co/papers/2609.37200) | ⭐ 117 | AI |
+| 🏆 [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | ⭐ 153 | AI |
+| 🥈 [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | ⭐ 130 | AI |
+| 🥉 [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](https://huggingface.co/papers/2609.37200) | ⭐ 118 | AI |
 
-<sub>Last updated: 2026-10-03 04:49 UTC</sub>
+<sub>Last updated: 2026-10-03 11:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
