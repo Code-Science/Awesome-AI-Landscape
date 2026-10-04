@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | ⭐ 160 | AI |
-| 🥈 [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | ⭐ 153 | AI |
+| 🏆 [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | ⭐ 175 | AI |
+| 🥈 [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | ⭐ 165 | AI |
 | 🥉 [GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis](https://huggingface.co/papers/2609.38923) | ⭐ 144 | AI |
 
-<sub>Last updated: 2026-10-04 05:22 UTC</sub>
+<sub>Last updated: 2026-10-04 21:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
