@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | ⭐ 175 | AI |
-| 🥈 [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | ⭐ 165 | AI |
-| 🥉 [GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis](https://huggingface.co/papers/2609.38923) | ⭐ 144 | AI |
+| 🏆 [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | ⭐ 15 | AI |
+| 🥈 [World Embedding Benchmark](https://huggingface.co/papers/2610.03632) | ⭐ 14 | AI |
+| 🥉 [Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It](https://huggingface.co/papers/2610.03195) | ⭐ 12 | AI |
 
-<sub>Last updated: 2026-10-04 21:09 UTC</sub>
+<sub>Last updated: 2026-10-05 05:05 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
