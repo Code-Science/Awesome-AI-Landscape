@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | ⭐ 92 | AI |
-| 🥈 [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | ⭐ 67 | AI |
-| 🥉 [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | ⭐ 66 | AI |
+| 🏆 [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](https://huggingface.co/papers/2610.01780) | ⭐ 245 | AI |
+| 🥈 [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | ⭐ 94 | AI |
+| 🥉 [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | ⭐ 85 | AI |
 
-<sub>Last updated: 2026-10-05 14:12 UTC</sub>
+<sub>Last updated: 2026-10-05 23:55 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
