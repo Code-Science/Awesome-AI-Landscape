@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | ⭐ 15 | AI |
-| 🥈 [World Embedding Benchmark](https://huggingface.co/papers/2610.03632) | ⭐ 14 | AI |
-| 🥉 [Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It](https://huggingface.co/papers/2610.03195) | ⭐ 12 | AI |
+| 🏆 [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | ⭐ 92 | AI |
+| 🥈 [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | ⭐ 67 | AI |
+| 🥉 [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | ⭐ 66 | AI |
 
-<sub>Last updated: 2026-10-05 05:05 UTC</sub>
+<sub>Last updated: 2026-10-05 14:12 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
