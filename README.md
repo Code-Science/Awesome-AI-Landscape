@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](https://huggingface.co/papers/2610.01780) | ⭐ 245 | AI |
-| 🥈 [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | ⭐ 94 | AI |
-| 🥉 [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | ⭐ 85 | AI |
+| 🏆 [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | ⭐ 33 | AI |
+| 🥈 [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | ⭐ 21 | AI |
+| 🥉 [ASCENT: Online Test-Time Training of Long-Horizon Agents via Self-Distillation of Verified Experience](https://huggingface.co/papers/2610.05303) | ⭐ 11 | AI |
 
-<sub>Last updated: 2026-10-05 23:55 UTC</sub>
+<sub>Last updated: 2026-10-06 05:56 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
