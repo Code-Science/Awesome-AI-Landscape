@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | ⭐ 101 | AI |
-| 🥈 [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | ⭐ 39 | AI |
-| 🥉 [Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy](https://huggingface.co/papers/2610.05162) | ⭐ 21 | AI |
+| 🏆 [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | ⭐ 113 | AI |
+| 🥈 [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | ⭐ 53 | AI |
+| 🥉 [In-Distribution Forcing for Long Video Generation at Test Time](https://huggingface.co/papers/2610.03120) | ⭐ 27 | AI |
 
-<sub>Last updated: 2026-10-06 13:11 UTC</sub>
+<sub>Last updated: 2026-10-06 22:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
