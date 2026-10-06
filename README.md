@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | ⭐ 33 | AI |
-| 🥈 [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | ⭐ 21 | AI |
-| 🥉 [ASCENT: Online Test-Time Training of Long-Horizon Agents via Self-Distillation of Verified Experience](https://huggingface.co/papers/2610.05303) | ⭐ 11 | AI |
+| 🏆 [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | ⭐ 101 | AI |
+| 🥈 [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | ⭐ 39 | AI |
+| 🥉 [Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy](https://huggingface.co/papers/2610.05162) | ⭐ 21 | AI |
 
-<sub>Last updated: 2026-10-06 05:56 UTC</sub>
+<sub>Last updated: 2026-10-06 13:11 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
