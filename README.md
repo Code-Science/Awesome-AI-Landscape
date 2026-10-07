@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | ⭐ 113 | AI |
-| 🥈 [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | ⭐ 53 | AI |
-| 🥉 [In-Distribution Forcing for Long Video Generation at Test Time](https://huggingface.co/papers/2610.03120) | ⭐ 27 | AI |
+| 🏆 [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | ⭐ 24 | AI |
+| 🥈 [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | ⭐ 22 | AI |
+| 🥉 [AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents](https://huggingface.co/papers/2610.05140) | ⭐ 16 | AI |
 
-<sub>Last updated: 2026-10-06 22:33 UTC</sub>
+<sub>Last updated: 2026-10-07 05:24 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
