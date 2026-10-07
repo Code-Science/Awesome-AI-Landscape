@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | ⭐ 24 | AI |
-| 🥈 [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | ⭐ 22 | AI |
-| 🥉 [AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents](https://huggingface.co/papers/2610.05140) | ⭐ 16 | AI |
+| 🏆 [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | ⭐ 147 | AI |
+| 🥈 [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | ⭐ 57 | AI |
+| 🥉 [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://huggingface.co/papers/2610.07767) | ⭐ 36 | AI |
 
-<sub>Last updated: 2026-10-07 05:24 UTC</sub>
+<sub>Last updated: 2026-10-07 13:03 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
