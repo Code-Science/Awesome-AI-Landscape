@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | ⭐ 153 | AI |
-| 🥈 [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | ⭐ 68 | AI |
-| 🥉 [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://huggingface.co/papers/2610.07767) | ⭐ 65 | AI |
+| 🏆 [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | ⭐ 60 | AI |
+| 🥈 [Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://huggingface.co/papers/2610.04299) | ⭐ 54 | AI |
+| 🥉 [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | ⭐ 52 | AI |
 
-<sub>Last updated: 2026-10-07 22:56 UTC</sub>
+<sub>Last updated: 2026-10-08 05:33 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
