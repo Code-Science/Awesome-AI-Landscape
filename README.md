@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | ⭐ 91 | AI |
-| 🥈 [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | ⭐ 82 | AI |
-| 🥉 [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | ⭐ 71 | AI |
+| 🏆 [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | ⭐ 100 | AI |
+| 🥈 [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | ⭐ 88 | AI |
+| 🥉 [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | ⭐ 82 | AI |
 
-<sub>Last updated: 2026-10-08 13:10 UTC</sub>
+<sub>Last updated: 2026-10-08 23:09 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
