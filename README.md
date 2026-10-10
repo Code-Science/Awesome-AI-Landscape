@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | ⭐ 139 | AI |
-| 🥈 [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | ⭐ 129 | AI |
-| 🥉 [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | ⭐ 120 | AI |
+| 🏆 [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | ⭐ 145 | AI |
+| 🥈 [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | ⭐ 131 | AI |
+| 🥉 [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | ⭐ 123 | AI |
 
-<sub>Last updated: 2026-10-10 12:14 UTC</sub>
+<sub>Last updated: 2026-10-10 21:26 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
