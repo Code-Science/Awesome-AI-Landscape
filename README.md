@@ -18,11 +18,11 @@
 
 | Paper | Votes | Category |
 |-------|--------|-----------|
-| 🏆 [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | ⭐ 131 | AI |
-| 🥈 [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | ⭐ 102 | AI |
-| 🥉 [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | ⭐ 97 | AI |
+| 🏆 [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | ⭐ 134 | AI |
+| 🥈 [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | ⭐ 111 | AI |
+| 🥉 [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | ⭐ 109 | AI |
 
-<sub>Last updated: 2026-10-09 22:29 UTC</sub>
+<sub>Last updated: 2026-10-10 05:21 UTC</sub>
 
 ## 🔥 Weekly Highlights
 
